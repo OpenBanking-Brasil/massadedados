@@ -1,0 +1,8 @@
+node
+vs code
+
+-
+Abre a pasta pelo vs 
+- npm init -y
+- npm install codeceptjs puppeteer --save
+- 
