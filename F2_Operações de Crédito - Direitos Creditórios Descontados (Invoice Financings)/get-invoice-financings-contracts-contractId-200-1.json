@@ -2,18 +2,18 @@
   "data": {
     "contractNumber": "92525769252",
     "ipocCode": "42061493000110792118751740044492525769252",
-    "productName": "AD",
+    "productName": "Direitos Creditórios Descontados",
     "productType": "DIREITOS_CREDITORIOS_DESCONTADOS",
     "productSubType": "OUTROS_DIREITOS_CREDITORIOS_DESCONTADOS",
     "contractDate": "2021-01-22",
-    "disbursementDate": "2021-04-15",
-    "settlementDate": "2018-05-15",
-    "contractAmount": 2005.95,
+    "disbursementDate": "2021-01-25",
+    "settlementDate": "2028-01-15",
+    "contractAmount": 100005.95,
     "currency": "BRL",
     "dueDate": "2028-01-15",
     "instalmentPeriodicity": "SEM_PERIODICIDADE_REGULAR",
     "instalmentPeriodicityAdditionalInfo": "Adiantamento de parcelas",
-    "firstInstalmentDueDate": "2018-02-15",
+    "firstInstalmentDueDate": "2021-02-22",
     "CET": 0.29,
     "amortizationScheduled": "SAC",
     "amortizationScheduledAdditionalInfo": "NA",
@@ -25,27 +25,27 @@
         "calculation": "21/252",
         "referentialRateIndexerType": "PRE_FIXADO",
         "referentialRateIndexerSubType": "SEM_SUB_TIPO_INDEXADOR",
-        "referentialRateIndexerAdditionalInfo": "",
+        "referentialRateIndexerAdditionalInfo": "NA",
         "preFixedRate": 0.6,
         "postFixedRate": 0.55,
-        "additionalInfo": ""
+        "additionalInfo": "NA"
       }
     ],
     "contractedFees": [
       {
-        "feeName": "Anteciação de debito",
+        "feeName": "Anteciação de Debito",
         "feeCode": "ANTECIPA_DEBITO",
         "feeChargeType": "UNICA",
         "feeCharge": "MINIMO",
         "feeAmount": 50,
-        "feeRate": 50
+        "feeRate": 0.050
       }
     ],
     "contractedFinanceCharges": [
       {
         "chargeType": "SEM_ENCARGO",
-        "chargeAdditionalInfo": "string",
-        "chargeRate": 0.07
+        "chargeAdditionalInfo": "NA",
+        "chargeRate": 0.00
       }
     ]
   },
@@ -59,6 +59,6 @@
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2021-05-21T08:30:00Z"
+    "requestDateTime": "2021-05-28T15:52:00Z"
   }
 }
