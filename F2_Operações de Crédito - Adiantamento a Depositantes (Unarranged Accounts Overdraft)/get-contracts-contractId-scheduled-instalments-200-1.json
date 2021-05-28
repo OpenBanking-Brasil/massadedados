@@ -1,0 +1,30 @@
+{
+    "data": {
+        "typeNumberOfInstalments": "MES",
+        "totalNumberOfInstalments": 5,
+        "typeContractRemaining": "MES",
+        "contractRemainingNumber": 2,
+        "paidInstalments": 2,
+        "dueInstalments": 3,
+        "pastDueInstalments": 2,
+        "balloonPayments": [
+            {
+                "dueDate": "2021-07-28",
+                "currency": "BRL",
+                "amount": 424.99
+            }
+        ]
+    },
+    "links": {
+        "self": "https://api.banco.com.br/open-banking/api/v1/resource",
+        "first": "https://api.banco.com.br/open-banking/api/v1/resource",
+        "prev": "https://api.banco.com.br/open-banking/api/v1/resource",
+        "next": "https://api.banco.com.br/open-banking/api/v1/resource",
+        "last": "https://api.banco.com.br/open-banking/api/v1/resource"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-05-27T16:37:00Z"
+    }
+}
