@@ -8,11 +8,7 @@
         }
     ],
     "links": {
-        "self": "https://api.banco.com.br/open-banking/api/v1/resource",
-        "first": "https://api.banco.com.br/open-banking/api/v1/resource",
-        "prev": "https://api.banco.com.br/open-banking/api/v1/resource",
-        "next": "https://api.banco.com.br/open-banking/api/v1/resource",
-        "last": "https://api.banco.com.br/open-banking/api/v1/resource"
+        "self": "https://api.banco.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/5e57608a-9053-4613-b28c-cc5ee139b554/warranties"
     },
     "meta": {
         "totalRecords": 1,
