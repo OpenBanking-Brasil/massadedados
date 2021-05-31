@@ -30,11 +30,7 @@
     ]
   },
   "links": {
-    "self": "https://api.banco.com.br/open-banking/api/v1/resource",
-    "first": "https://api.banco.com.br/open-banking/api/v1/resource",
-    "prev": "https://api.banco.com.br/open-banking/api/v1/resource",
-    "next": "https://api.banco.com.br/open-banking/api/v1/resource",
-    "last": "https://api.banco.com.br/open-banking/api/v1/resource"
+    "self": "https://api.banco.com.br/open-banking/financings/v1/contracts/42061493000110792118751740044492525769252/payments"
   },
   "meta": {
     "totalRecords": 1,

@@ -5,16 +5,12 @@
       "brandName": "Sib Bank S.A",
       "companyCnpj": "42061493000110",
       "productType": "FINANCIAMENTOS",
-      "productSubType": "AQUISICAO_BENS_VEICULOS_AUTOMOTORES"
+      "productSubType": "AQUISICAO_BENS_VEICULOS_AUTOMOTORES",
       "ipocCode": "42061493000110792118751740044492525769252"
     }
   ],
   "links": {
-    "self": "https://api.banco.com.br/open-banking/api/v1/resource",
-    "first": "https://api.banco.com.br/open-banking/api/v1/resource",
-    "prev": "https://api.banco.com.br/open-banking/api/v1/resource",
-    "next": "https://api.banco.com.br/open-banking/api/v1/resource",
-    "last": "https://api.banco.com.br/open-banking/api/v1/resource"
+    "self": "https://api.banco.com.br/open-banking/financings/v1/contracts"
   },
   "meta": {
     "totalRecords": 1,
