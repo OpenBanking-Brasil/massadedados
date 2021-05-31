@@ -44,14 +44,10 @@
         }
     ],
     "links": {
-        "self": "https://api.banco.com.br/open-banking/api/v1/resource",
-        "first": "https://api.banco.com.br/open-banking/api/v1/resource",
-        "prev": "https://api.banco.com.br/open-banking/api/v1/resource",
-        "next": "https://api.banco.com.br/open-banking/api/v1/resource",
-        "last": "https://api.banco.com.br/open-banking/api/v1/resource"
+        "self": "https://api.banco.com.br/open-banking/credit-cards-accounts/v1/accounts/PIITR3459087/transactions"
     },
     "meta": {
-        "totalRecords": 1,
+        "totalRecords": 2,
         "totalPages": 1,
         "requestDateTime": "2021-05-25T08:50:00Z"
     }
