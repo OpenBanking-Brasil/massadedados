@@ -9,11 +9,7 @@
         "currency": "BRL"
     },
     "links": {
-        "self": "https://api.banco.com.br/open-banking/api/v1/resource",
-        "first": "https://api.banco.com.br/open-banking/api/v1/resource",
-        "prev": "https://api.banco.com.br/open-banking/api/v1/resource",
-        "next": "https://api.banco.com.br/open-banking/api/v1/resource",
-        "last": "https://api.banco.com.br/open-banking/api/v1/resource"
+        "self": "https://api.banco.com.br/open-banking/accounts/v1/accounts/291e5a29-49ed-401f-a583-193caa7ac79d"
     },
     "meta": {
         "totalRecords": 1,
