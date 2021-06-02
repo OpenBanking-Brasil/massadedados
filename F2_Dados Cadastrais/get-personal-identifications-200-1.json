@@ -30,7 +30,7 @@
           "expirationDate": "2025-05-21"	
         }
       ],
-      "hasBrazilianNationality": false,
+      "hasBrazilianNationality": true,
       "nationality": [
         {
           "otherNationalitiesInfo": "",
@@ -61,7 +61,7 @@
             "additionalInfo": "Fundos",
             "districtName": "Centro",
             "townName": "Alto Paraíso",
-            "ibgeTownCode": "355	4128625",
+            "ibgeTownCode": "3554128625",
             "countrySubDivision": "RO",
             "postCode": "76862970",
             "country": "Brasil",
