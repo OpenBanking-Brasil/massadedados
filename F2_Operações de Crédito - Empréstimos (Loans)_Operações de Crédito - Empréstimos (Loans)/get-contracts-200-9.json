@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "contractId": "d07b6b27-9aba-39d3-92b5-cb7135567022",
+            "brandName": "Sib Bank S.A",
+            "companyCnpj": "40156018000100",
+            "productType": "EMPRESTIMOS",
+            "productSubType": "CAPITAL_GIRO_PRAZO_VENCIMENTO_SUPERIOR_365_DIAS",
+            "ipocCode": "401560180020213358275078733582750787"
+        }
+    ],
+    "links": {
+        "self": "https://api.banco.com.br/open-banking/loans/v1/contracts"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-06-02T16:15:00Z"
+    }
+}

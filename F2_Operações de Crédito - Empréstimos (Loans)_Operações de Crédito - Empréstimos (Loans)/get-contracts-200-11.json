@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "contractId": "e4132a2d-9607-e911-80e0-d4ae52aa818f",
+            "brandName": "Sib Bank S.A",
+            "companyCnpj": "40156018000100",
+            "productType": "EMPRESTIMOS",
+            "productSubType": "CONTA_GARANTIDA",
+            "ipocCode": "401560180020216425821701864258217037"
+        }
+        
+    ],
+    "links": {
+        "self": "https://api.banco.com.br/open-banking/loans/v1/contracts?page=2&page-size=25",
+        "first": "https://api.banco.com.br/open-banking/loans/v1/contracts?page=1&page-size=25",
+        "prev": "https://api.banco.com.br/open-banking/loans/v1/contracts?page=1&page-size=25"
+    },
+    "meta": {
+        "totalRecords": 26,
+        "totalPages": 2,
+        "requestDateTime": "2021-06-02T16:52:00Z"
+    }
+}
+

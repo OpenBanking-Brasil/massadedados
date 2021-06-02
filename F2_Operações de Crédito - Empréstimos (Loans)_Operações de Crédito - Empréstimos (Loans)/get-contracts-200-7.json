@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "contractId": "c3760e5e-400d-3c49-9cae-03b76935d531",
+            "brandName": "Decem",
+            "companyCnpj": "25349207000105",
+            "productType": "EMPRESTIMOS",
+            "productSubType": "MICROCREDITO_PRODUTIVO_ORIENTADO",
+            "ipocCode": "25349207020212418427650424184276504"
+        }
+    ],
+    "links": {
+        "self": "https://api.banco.com.br/open-banking/loans/v1/contracts"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-06-02T16:10:00Z"
+    }
+}
