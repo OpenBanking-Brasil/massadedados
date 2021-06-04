@@ -1,0 +1,61 @@
+{
+    "data": {
+        "contractNumber": "33582750787",
+        "ipocCode": "401560180020213358275078733582750787",
+        "productName": "Capital de Giro com Prazo de Vencimento Superior à 365 dias.",
+        "productType": "EMPRESTIMOS",
+        "productSubType": "CAPITAL_GIRO_PRAZO_VENCIMENTO_SUPERIOR_365_DIAS",
+        "contractDate": "2015-04-05",
+        "disbursementDate": "2015-04-10",
+        "settlementDate": "2017-07-15",
+        "contractAmount": 500000.00,
+        "currency": "BRL",
+        "dueDate": "2017-07-15",
+        "instalmentPeriodicity": "ANUAL",
+        "instalmentPeriodicityAdditionalInfo": "NA",
+        "firstInstalmentDueDate": "2021-07-15",
+        "CET": 0.09,
+        "amortizationScheduled": "SAC",
+        "amortizationScheduledAdditionalInfo": "NA",
+        "cnpjConsignee": "40156018000100",
+        "interestRates": [
+            {
+                "taxType": "NOMINAL",
+                "interestRateType": "COMPOSTO",
+                "taxPeriodicity": "AA",
+                "calculation": "30/360",
+                "referentialRateIndexerType": "PRE_FIXADO",
+                "referentialRateIndexerSubType": "TCR_PRE",
+                "referentialRateIndexerAdditionalInfo": "NA",
+                "preFixedRate": 0.0239,
+                "postFixedRate": 0.0148,
+                "additionalInfo": "NA"
+            }
+        ],
+        "contractedFees": [
+            {
+                "feeName": "Taxa de cadastro",
+                "feeCode": "CADASTRO",
+                "feeChargeType": "UNICA",
+                "feeCharge": "FIXO",
+                "feeAmount": 150,
+                "feeRate": 0.0000
+            }
+        ],
+        "contractedFinanceCharges": [
+            {
+                "chargeType": "MULTA_ATRASO_PAGAMENTO",
+                "chargeAdditionalInfo": "Multa para casos de atraso de pagamento.",
+                "chargeRate": 0.0200
+            }
+        ]
+    },
+    "links": {
+        "self": "https://api.banco.com.br/open-banking/loans/v1/contracts/d07b6b27-9aba-39d3-92b5-cb7135567022"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-06-04T14:15:00Z"
+    }
+}

@@ -11,7 +11,7 @@
         "contractAmount": 20000.00,
         "currency": "BRL",
         "dueDate": "2022-07-15",
-        "instalmentPeriodicity": "MENSAL",
+        "instalmentPeriodicity": "SEMANAL",
         "instalmentPeriodicityAdditionalInfo": "NA",
         "firstInstalmentDueDate": "2021-07-15",
         "CET": 0.09,
