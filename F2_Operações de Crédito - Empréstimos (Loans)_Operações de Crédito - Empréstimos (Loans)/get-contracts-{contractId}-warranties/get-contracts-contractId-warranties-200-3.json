@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "currency": "BRL",
+            "warrantyType": "SEM_TIPO_GARANTIA",
+            "warrantySubType": "PESSOA_FISICA",
+            "warrantyAmount": 0
+        }
+    ],
+    "links": {
+        "self": "https://api.banco.com.br/open-banking/loans/v1/contracts/6c52c264-d4a5-4c18-9864-a0cb9916b3b2/warranties"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-06-07T10:27:00Z"
+    }
+}

@@ -1,0 +1,166 @@
+{
+    "data": [
+        {
+            "currency": "BRL",
+            "warrantyType": "HIPOTECA",
+            "warrantySubType": "OUTROS_IMOVEIS",
+            "warrantyAmount": 100000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "HIPOTECA",
+            "warrantySubType": "OUTROS_IMOVEIS",
+            "warrantyAmount": 105000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "HIPOTECA",
+            "warrantySubType": "OUTROS_IMOVEIS",
+            "warrantyAmount": 110000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "HIPOTECA",
+            "warrantySubType": "OUTROS_IMOVEIS",
+            "warrantyAmount": 115000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "HIPOTECA",
+            "warrantySubType": "OUTROS_IMOVEIS",
+            "warrantyAmount": 120000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "HIPOTECA",
+            "warrantySubType": "OUTROS_IMOVEIS",
+            "warrantyAmount": 125000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "BENS_ARRENDADOS",
+            "warrantySubType": "OUTROS_IMOVEIS",
+            "warrantyAmount": 190000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "BENS_ARRENDADOS",
+            "warrantySubType": "OUTROS_IMOVEIS",
+            "warrantyAmount": 185000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "BENS_ARRENDADOS",
+            "warrantySubType": "OUTROS_IMOVEIS",
+            "warrantyAmount": 180000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "BENS_ARRENDADOS",
+            "warrantySubType": "OUTROS_IMOVEIS",
+            "warrantyAmount": 175000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "BENS_ARRENDADOS",
+            "warrantySubType": "OUTROS_IMOVEIS",
+            "warrantyAmount": 170000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "BENS_ARRENDADOS",
+            "warrantySubType": "OUTROS_IMOVEIS",
+            "warrantyAmount": 165000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "BENS_ARRENDADOS",
+            "warrantySubType": "OUTROS_IMOVEIS",
+            "warrantyAmount": 165000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "BENS_ARRENDADOS",
+            "warrantySubType": "OUTROS_IMOVEIS",
+            "warrantyAmount": 160000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "BENS_ARRENDADOS",
+            "warrantySubType": "OUTROS_IMOVEIS",
+            "warrantyAmount": 155000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "BENS_ARRENDADOS",
+            "warrantySubType": "OUTROS_IMOVEIS",
+            "warrantyAmount": 150000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "BENS_ARRENDADOS",
+            "warrantySubType": "OUTROS_IMOVEIS",
+            "warrantyAmount": 145000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "BENS_ARRENDADOS",
+            "warrantySubType": "OUTROS_IMOVEIS",
+            "warrantyAmount": 140000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "BENS_ARRENDADOS",
+            "warrantySubType": "OUTROS_IMOVEIS",
+            "warrantyAmount": 135000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "BENS_ARRENDADOS",
+            "warrantySubType": "OUTROS_IMOVEIS",
+            "warrantyAmount": 100000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "BENS_ARRENDADOS",
+            "warrantySubType": "OUTROS_IMOVEIS",
+            "warrantyAmount": 105000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "BENS_ARRENDADOS",
+            "warrantySubType": "OUTROS_IMOVEIS",
+            "warrantyAmount": 110000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "BENS_ARRENDADOS",
+            "warrantySubType": "OUTROS_IMOVEIS",
+            "warrantyAmount": 115000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "BENS_ARRENDADOS",
+            "warrantySubType": "OUTROS_IMOVEIS",
+            "warrantyAmount": 120000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "BENS_ARRENDADOS",
+            "warrantySubType": "OUTROS_IMOVEIS",
+            "warrantyAmount": 125000.00
+        }
+    ],
+    "links": {
+        "self": "https://api.banco.com.br/open-banking/loans/v1/contracts/443b4853-74c1-336b-861f-8c0525a66f13/warranties?page=2&page-size=25",
+        "next": "https://api.banco.com.br/open-banking/loans/v1/contracts/443b4853-74c1-336b-861f-8c0525a66f13/warranties?page=3&page-size=1",
+        "last": "https://api.banco.com.br/open-banking/loans/v1/contracts/443b4853-74c1-336b-861f-8c0525a66f13/warranties?page=3&page-size=1",
+        "prev": "https://api.banco.com.br/open-banking/loans/v1/contracts/443b4853-74c1-336b-861f-8c0525a66f13/warranties?page=1&page-size=25",
+        "first": "https://api.banco.com.br/open-banking/loans/v1/contracts/443b4853-74c1-336b-861f-8c0525a66f13/warranties?page=1&page-size=25"
+    },
+    "meta": {
+        "totalRecords": 51,
+        "totalPages": 3,
+        "requestDateTime": "2021-06-07T15:40:00Z"
+    }
+}

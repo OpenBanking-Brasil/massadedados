@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "currency": "BRL",
+            "warrantyType": "CESSAO_DIREITOS_CREDITORIOS",
+            "warrantySubType": "PESSOA_FISICA_EXTERIOR",
+            "warrantyAmount": 400000.00
+        }
+    ],
+    "links": {
+        "self": "https://api.banco.com.br/open-banking/loans/v1/contracts/55a1068e-daf9-4b68-849f-8199c757da80/warranties"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-06-07T10:40:00Z"
+    }
+}

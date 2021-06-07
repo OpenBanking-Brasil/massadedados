@@ -1,0 +1,164 @@
+{
+    "data": [
+        {
+            "currency": "BRL",
+            "warrantyType": "ACORDOS_COMPENSACAO",
+            "warrantySubType": "IMOVEIS_RESIDENCIAIS",
+            "warrantyAmount": 180000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "GARANTIA_FIDEJUSSORIA",
+            "warrantySubType": "PRODUTOS_AGROPECUARIOS_COM_WARRANT",
+            "warrantyAmount": 50000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "SEGUROS_ASSEMELHADOS",
+            "warrantySubType": "SEGURO_RURAL",
+            "warrantyAmount": 300000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "BENS_ARRENDADOS",
+            "warrantySubType": "VEICULOS",
+            "warrantyAmount": 50000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "BENS_ARRENDADOS",
+            "warrantySubType": "VEICULOS",
+            "warrantyAmount": 80000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "BENS_ARRENDADOS",
+            "warrantySubType": "VEICULOS_AUTOMOTORES",
+            "warrantyAmount": 70000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "HIPOTECA",
+            "warrantySubType": "IMOVEIS",
+            "warrantyAmount": 250000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "HIPOTECA",
+            "warrantySubType": "OUTROS_IMOVEIS",
+            "warrantyAmount": 135000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "HIPOTECA",
+            "warrantySubType": "PRIMEIRO_GRAU_IMOVEIS_RESIDENCIAIS",
+            "warrantyAmount": 120000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "GARANTIA_FIDEJUSSORIA",
+            "warrantySubType": "DEPOSITOS_A_VISTA_A_PRAZO_POUPANCA_OURO_TITULOS_PUBLICOS_FEDERAIS_ART_36",
+            "warrantyAmount": 100000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "CESSAO_DIREITOS_CREDITORIOS",
+            "warrantySubType": "DIREITOS_SOBRE_ALUGUEIS",
+            "warrantyAmount": 80000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "OPERACOES_GARANTIDAS_PELO_GOVERNO",
+            "warrantySubType": "ESTADUAL_OU_DISTRITAL",
+            "warrantyAmount": 105000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "BENS_ARRENDADOS",
+            "warrantySubType": "VEICULOS_AUTOMOTORES",
+            "warrantyAmount": 100000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "HIPOTECA",
+            "warrantySubType": "IMOVEIS_RESIDENCIAIS",
+            "warrantyAmount": 120000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "HIPOTECA",
+            "warrantySubType": "IMOVEIS_RESIDENCIAIS",
+            "warrantyAmount": 120000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "GARANTIA_FIDEJUSSORIA",
+            "warrantySubType": "DIREITOS_SOBRE_ALUGUEIS",
+            "warrantyAmount": 10000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "GARANTIA_FIDEJUSSORIA",
+            "warrantySubType": "DIREITOS_SOBRE_ALUGUEIS",
+            "warrantyAmount": 25000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "GARANTIA_FIDEJUSSORIA",
+            "warrantySubType": "DIREITOS_SOBRE_ALUGUEIS",
+            "warrantyAmount": 16000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "GARANTIAS_INTERNACIONAIS",
+            "warrantySubType": "OUTROS",
+            "warrantyAmount": 45000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "OPERACOES_GARANTIDAS_OUTRAS_ENTIDADES",
+            "warrantySubType": "OUTRAS",
+            "warrantyAmount": 75000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "ACORDOS_COMPENSACAO",
+            "warrantySubType": "PRIMEIRO_GRAU_BENS_DIREITOS_INTEGRANTES_PATRIMONIO_AFETACAO",
+            "warrantyAmount": 50000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "GARANTIAS_INTERNACIONAIS",
+            "warrantySubType": "NAO_MITIGADORAS",
+            "warrantyAmount": 16000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "GARANTIA_FIDEJUSSORIA",
+            "warrantySubType": "PESSOA_JURIDICA",
+            "warrantyAmount": 80000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "OPERACOES_GARANTIDAS_PELO_GOVERNO",
+            "warrantySubType": "FEDERAL",
+            "warrantyAmount": 10000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "OPERACOES_GARANTIDAS_PELO_GOVERNO",
+            "warrantySubType": "GARANTIA_PRESTADA_TESOURO_NACIONAL_OU_BACEN_ART_37_BENS_DIREITOS_INTEGRANTES_PATRIMONIO_AFETACAO",
+            "warrantyAmount": 25000.00
+        }
+    ],
+    "links": {
+        "self": "https://api.banco.com.br/open-banking/loans/v1/contracts/443b4853-74c1-336b-861f-8c0525a66f13/warranties?page=1&page-size=25",
+        "next": "https://api.banco.com.br/open-banking/loans/v1/contracts/443b4853-74c1-336b-861f-8c0525a66f13/warranties?page=2&page-size=25",
+        "last": "https://api.banco.com.br/open-banking/loans/v1/contracts/443b4853-74c1-336b-861f-8c0525a66f13/warranties?page=3&page-size=1"
+    },
+    "meta": {
+        "totalRecords": 51,
+        "totalPages": 3,
+        "requestDateTime": "2021-06-07T15:32:00Z"
+    }
+}
