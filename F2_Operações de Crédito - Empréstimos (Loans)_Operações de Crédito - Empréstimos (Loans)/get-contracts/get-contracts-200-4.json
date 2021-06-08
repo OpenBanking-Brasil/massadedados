@@ -2,11 +2,11 @@
     "data": [
         {
             "contractId": "82d336be-3eda-4866-9dbc-cd0919cb8c3c",
-            "brandName": "Decem",
-            "companyCnpj": "25349207000105",
+            "brandName": "Banco do Estado do Rio Grande do Sul S.A",
+            "companyCnpj": "92702067000196",
             "productType": "EMPRESTIMOS",
             "productSubType": "CONTA_GARANTIDA",
-            "ipocCode": "25349207020215358079300453580793004"
+            "ipocCode": "92702067020215358079300453580793004"
         }
     ],
     "links": {

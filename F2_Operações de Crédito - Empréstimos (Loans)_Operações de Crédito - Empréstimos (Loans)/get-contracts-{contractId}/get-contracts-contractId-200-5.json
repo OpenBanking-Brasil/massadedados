@@ -1,7 +1,7 @@
 {
     "data": {
         "contractNumber": "7375741514",
-        "ipocCode": "4015601800202173757415147375741514",
+        "ipocCode": "000000000202173757415147375741514",
         "productName": "Capital de Giro com Teto Rotativo",
         "productType": "EMPRESTIMOS",
         "productSubType": "CAPITAL_GIRO_TETO_ROTATIVO",
@@ -17,7 +17,7 @@
         "CET": 0.0450,
         "amortizationScheduled": "PRICE",
         "amortizationScheduledAdditionalInfo": "NA",
-        "cnpjConsignee": "40156018000100",
+        "cnpjConsignee": "00000000000191",
         "interestRates": [
             {
                 "taxType": "EFETIVA",

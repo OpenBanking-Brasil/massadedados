@@ -2,11 +2,11 @@
     "data": [
         {
             "contractId": "c3760e5e-400d-3c49-9cae-03b76935d531",
-            "brandName": "Decem",
-            "companyCnpj": "25349207000105",
+            "brandName": "Banco do Estado do Rio Grande do Sul S.A",
+            "companyCnpj": "92702067000196",
             "productType": "EMPRESTIMOS",
             "productSubType": "MICROCREDITO_PRODUTIVO_ORIENTADO",
-            "ipocCode": "25349207020212418427650424184276504"
+            "ipocCode": "92702067020212418427650424184276504"
         }
     ],
     "links": {

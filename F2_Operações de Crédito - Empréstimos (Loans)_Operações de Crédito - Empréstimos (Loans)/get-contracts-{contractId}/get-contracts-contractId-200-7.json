@@ -1,7 +1,7 @@
 {
     "data": {
         "contractNumber": "24184276504",
-        "ipocCode": "25349207020212418427650424184276504",
+        "ipocCode": "92702067020212418427650424184276504",
         "productName": "Microcrédito Produtivo Orientado",
         "productType": "EMPRESTIMOS",
         "productSubType": "MICROCREDITO_PRODUTIVO_ORIENTADO",
@@ -17,7 +17,7 @@
         "CET": 0.0750,
         "amortizationScheduled": "PRICE",
         "amortizationScheduledAdditionalInfo": "NA",
-        "cnpjConsignee": "25349207000105",
+        "cnpjConsignee": "92702067000196",
         "interestRates": [
             {
                 "taxType": "EFETIVA",

@@ -1,7 +1,7 @@
 {
     "data": {
         "contractNumber": "53580793004",
-        "ipocCode": "25349207020215358079300453580793004",
+        "ipocCode": "92702067020215358079300453580793004",
         "productName": "Conta Garantida",
         "productType": "EMPRESTIMOS",
         "productSubType": "CONTA_GARANTIDA",
@@ -17,7 +17,7 @@
         "CET": 0.0240,
         "amortizationScheduled": "SAC",
         "amortizationScheduledAdditionalInfo": "NA",
-        "cnpjConsignee": "25349207000105",
+        "cnpjConsignee": "92702067000196",
         "interestRates": [
             {
                 "taxType": "EFETIVA",

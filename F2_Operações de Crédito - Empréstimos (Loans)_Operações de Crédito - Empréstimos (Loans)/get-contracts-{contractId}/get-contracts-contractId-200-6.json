@@ -1,7 +1,7 @@
 {
     "data": {
         "contractNumber": "79072545079",
-        "ipocCode": "401560180020217907254507979072545079",
+        "ipocCode": "000000000020217907254507979072545079",
         "productName": "Crédito Pessoal Sem Consignado",
         "productType": "EMPRESTIMOS",
         "productSubType": "CREDITO_PESSOAL_SEM_CONSIGNACAO",
@@ -17,7 +17,7 @@
         "CET": 0.0250,
         "amortizationScheduled": "SAM",
         "amortizationScheduledAdditionalInfo": "NA",
-        "cnpjConsignee": "40156018000100",
+        "cnpjConsignee": "00000000000191",
         "interestRates": [
             {
                 "taxType": "EFETIVA",

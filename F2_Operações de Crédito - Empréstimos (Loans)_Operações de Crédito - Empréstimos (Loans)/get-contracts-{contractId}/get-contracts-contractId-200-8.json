@@ -1,7 +1,7 @@
 {
     "data": {
         "contractNumber": "15719158502",
-        "ipocCode": "25349207020211571915850215719158502",
+        "ipocCode": "92702067020211571915850215719158502",
         "productName": "Capital de Giro com Prazo de Vencimento até 365 dias",
         "productType": "EMPRESTIMOS",
         "productSubType": "CAPITAL_GIRO_PRAZO_VENCIMENTO_ATE_365_DIAS",
@@ -17,7 +17,7 @@
         "CET": 0.0234,
         "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
         "amortizationScheduledAdditionalInfo": "NA",
-        "cnpjConsignee": "25349207000105",
+        "cnpjConsignee": "92702067000196",
         "interestRates": [
             {
                 "taxType": "NOMINAL",
