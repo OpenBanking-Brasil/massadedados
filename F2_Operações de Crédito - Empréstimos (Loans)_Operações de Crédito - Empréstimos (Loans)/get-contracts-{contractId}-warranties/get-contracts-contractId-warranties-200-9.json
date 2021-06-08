@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "currency": "BRL",
+            "warrantyType": "OPERACOES_GARANTIDAS_PELO_GOVERNO",
+            "warrantySubType": "MUNICIPAL",
+            "warrantyAmount": 20000.00
+        }
+    ],
+    "links": {
+        "self": "https://api.banco.com.br/open-banking/loans/v1/contracts/c3760e5e-400d-3c49-9cae-03b76935d531/warranties"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-06-08T08:52:00Z"
+    }
+}

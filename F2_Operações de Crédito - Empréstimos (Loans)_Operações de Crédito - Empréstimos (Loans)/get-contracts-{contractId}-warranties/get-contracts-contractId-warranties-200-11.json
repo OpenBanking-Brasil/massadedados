@@ -1,0 +1,60 @@
+{
+    "data": [
+        {
+            "currency": "BRL",
+            "warrantyType": "OUTRAS_GARANTIAS_NAO_FIDEJUSSORIAS",
+            "warrantySubType": "VEICULOS",
+            "warrantyAmount": 80000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "HIPOTECA",
+            "warrantySubType": "IMOVEIS_RESIDENCIAIS",
+            "warrantyAmount": 220000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "BENS_ARRENDADOS",
+            "warrantySubType": "OUTROS",
+            "warrantyAmount": 25000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "CAUCAO",
+            "warrantySubType": "FATURA_CARTAO_CREDITO",
+            "warrantyAmount": 10000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "GARANTIAS_INTERNACIONAIS",
+            "warrantySubType": "PESSOA_JURIDICA_EXTERIOR",
+            "warrantyAmount": 100000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "GARANTIA_FIDEJUSSORIA",
+            "warrantySubType": "PESSOA_FISICA",
+            "warrantyAmount": 30000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "GARANTIA_FIDEJUSSORIA",
+            "warrantySubType": "PESSOA_FISICA",
+            "warrantyAmount": 20000.00
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "GARANTIA_FIDEJUSSORIA",
+            "warrantySubType": "PESSOA_JURIDICA",
+            "warrantyAmount": 15000.00
+        }
+    ],
+    "links": {
+        "self": "https://api.banco.com.br/open-banking/loans/v1/contracts/d07b6b27-9aba-39d3-92b5-cb7135567022/warranties"
+    },
+    "meta": {
+        "totalRecords": 8,
+        "totalPages": 1,
+        "requestDateTime": "2021-06-08T09:48:00Z"
+    }
+}
