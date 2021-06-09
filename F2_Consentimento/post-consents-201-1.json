@@ -1,14 +1,15 @@
 {
     "data": {
-        "loggedUser": {
-            "document": {
-                "identification": "87517400444",
-                "rel": "CPF"
-            }
-        },
+    "brandID": "46c922c1-c33c-4d3c-a47c-4fbf319cba36",
+    "loggedUser": {
+      "document": {
+        "identification": "87517400444",
+        "rel": "CPF"
+      }
+	},
         "businessEntity": {
             "document": {
-                "identification": "40156018000100",
+                "identification": "00000000000191",
                 "rel": "CNPJ"
             }
         },
@@ -44,8 +45,8 @@
             "UNARRANGED_ACCOUNTS_OVERDRAFT_WARRANTIES_READ",
             "RESOURCES_READ"
         ],
-        "expirationDateTime": "2021-01-31T23:59:59Z",
-        "transactionFromDateTime": "2021-02-01T00:00:00Z",
-        "transactionToDateTime": "2021-07-01T23:59:59Z"
+        "expirationDateTime": "2021-12-08T23:59:59Z",
+        "transactionFromDateTime": "2021-06-08T00:00:00Z",
+        "transactionToDateTime": "2021-12-08T23:59:59Z"
     }
 }
