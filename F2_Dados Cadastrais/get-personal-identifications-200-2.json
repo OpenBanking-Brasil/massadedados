@@ -3,21 +3,21 @@
     {
       "updateDateTime": "2021-05-21T08:30:00Z",
       "personalId": "c57-466-1254590932-3fa314",
-      "brandName": "Alana e Bianca Assessoria Jurídica Ltda",
+      "brandName": "Banco do Estado do Rio Grande do Sul S.A",
       "civilName": "Tatiana Galvão",
       "socialName": "",
       "birthDate": "1989-03-23",
       "maritalStatusCode": "SOLTEIRO",
       "maritalStatusAdditionalInfo": "",
-      "sex": "MASCULINO",
+      "sex": "FEMININO",
       "companyCnpj": [
-        "25349207000105"
+        "92702067000196"
       ],
       "documents": {
-        "cpfNumber": "53580793004",
+        "cpfNumber": "53580793004",	
         "passportNumber": "34229643119827236458",
         "passportCountry": "CAN",			
-        "passportExpirationDate": "2022-05-24",
+        "passportExpirationDate": "2028-05-24",
         "passportIssueDate": "2018-05-24"
       },
       "otherDocuments": [

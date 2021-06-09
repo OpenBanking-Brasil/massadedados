@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "updateDateTime": "2021-05-21T08:00:00Z",
+      "personalId": "fe4-101e-g58f11eg88-125755",
+      "brandName": "Caixa Econômica Federal",
+      "civilName": "Carla Maria Rios",
+      "socialName": "",
+      "birthDate": "1985-08-25",
+      "maritalStatusCode": "CASADO",
+      "maritalStatusAdditionalInfo": "",
+      "sex": "FEMININO",
+      "companyCnpj": [
+        "00360305000104"
+      ],
+      "documents": {
+        "cpfNumber": "28728862813",
+        "passportNumber": "35853965262471421343",
+        "passportCountry": "BRA",		
+        "passportExpirationDate": "2024-10-25",
+        "passportIssueDate": "2014-10-25"
+      },
+      "otherDocuments": [
+        {
+          "type": "CNH",
+          "typeAdditionalInfo": "NA",
+          "number": "27806903",
+          "checkDigit": "B",
+          "additionalInfo": "SSP/MA",
+          "expirationDate": "2022-10-06"	
+        }
+      ],
+      "hasBrazilianNationality": true,
+      "nationality": [
+        {
+          "otherNationalitiesInfo": "",
+          "documents": [
+            {
+              "type": "",
+              "number": "",
+              "expirationDate": "",
+              "issueDate": "",
+              "country": "",
+              "typeAdditionalInfo": ""
+            }
+          ]
+        }
+      ],
+      "filiation": [
+        {
+          "type": "MAE",
+          "civilName": "Maria Amélia Rios",
+          "socialName": "NA"
+        }
+      ],
+      "contacts": {
+        "postalAddresses": [
+          {
+            "isMain": true,
+            "address": "Rua São Luís, 496",
+            "additionalInfo": "",
+            "districtName": "Parque das Mansões",
+            "townName": "Imperatriz",
+            "ibgeTownCode": "2105302",
+            "countrySubDivision": "MA",
+            "postCode": "65917714",
+            "country": "Brasil",
+            "countryCode": "BRA",
+            "geographicCoordinates": {
+              "latitude": "-5.5206",
+              "longitude": "-47.4718"
+            }
+          }
+        ],
+        "phones": [
+          {
+            "isMain": true,
+            "type": "MOVEL",
+            "additionalInfo": "Informações adicionais.",
+            "countryCallingCode": "55",
+            "areaCode": "98",
+            "number": "985353341",
+            "phoneExtension": ""
+          }
+        ],
+        "emails": [
+          {
+            "isMain": true,
+            "email": "carla_rios_2000@email.com"
+          }
+        ]
+      }
+    }
+  ],
+  "links": {
+    "self": "https://api.banco.com.br/open-banking/customers/v1/personal/identifications"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-05-21T08:00:00Z"
+  }
+}
