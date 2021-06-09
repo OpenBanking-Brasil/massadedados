@@ -9,14 +9,14 @@
         "pastDueInstalments": 0,
         "balloonPayments": [
             {
-                "dueDate": "2021-04-05",
+                "dueDate": "2021-05-10",
                 "currency": "BRL",
-                "amount": 859.00
+                "amount": 59.00
             },
             {
-                "dueDate": "2021-05-05",
+                "dueDate": "2021-05-30",
                 "currency": "BRL",
-                "amount": 50000.00
+                "amount": 489.00
             }
         ]
     },
@@ -26,6 +26,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-06-08T13:50:00Z"
+        "requestDateTime": "2021-06-08T16:38:00Z"
     }
 }
