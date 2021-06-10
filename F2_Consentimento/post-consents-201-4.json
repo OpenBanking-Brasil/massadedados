@@ -1,0 +1,35 @@
+{
+    "data": {
+    "brandID": "10a4bc66-5742-4b11-8129-e51f229f8926",
+    "loggedUser": {
+      "document": {
+        "identification": "96644087000",
+        "rel": "CPF"
+      }
+	},
+        "businessEntity": {
+            "document": {
+                "identification": "60746948000112",
+                "rel": "CNPJ"
+            }
+        },
+        "permissions": [
+			"CUSTOMERS_PERSONAL_IDENTIFICATIONS_READ",
+            "CUSTOMERS_PERSONAL_ADITTIONALINFO_READ",
+            "CUSTOMERS_BUSINESS_IDENTIFICATIONS_READ",
+            "CUSTOMERS_BUSINESS_ADITTIONALINFO_READ",
+            "CREDIT_CARDS_ACCOUNTS_READ",
+            "CREDIT_CARDS_ACCOUNTS_BILLS_READ",
+            "CREDIT_CARDS_ACCOUNTS_BILLS_TRANSACTIONS_READ",
+            "CREDIT_CARDS_ACCOUNTS_LIMITS_READ",
+            "CREDIT_CARDS_ACCOUNTS_TRANSACTIONS_READ",
+			"INVOICE_FINANCINGS_READ",
+            "INVOICE_FINANCINGS_SCHEDULED_INSTALMENTS_READ",
+            "INVOICE_FINANCINGS_PAYMENTS_READ",
+            "INVOICE_FINANCINGS_WARRANTIES_READ"
+        ],
+        "expirationDateTime": "2021-09-25T14:00:00Z",
+        "transactionFromDateTime": "2021-03-25T14:00:00Z",
+        "transactionToDateTime": "2021-09-25T14:00:00Z"
+    }
+}

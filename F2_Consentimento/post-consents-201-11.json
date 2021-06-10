@@ -1,0 +1,28 @@
+{
+    "data": {
+    "brandID": "14e99af3-008e-4e7f-b7e2-16d8beb15c97",
+    "loggedUser": {
+      "document": {
+        "identification": "84154817728",
+        "rel": "CPF"
+      }
+	},
+        "businessEntity": {
+            "document": {
+                "identification": "00416968000101",
+                "rel": "CNPJ"
+            }
+        },
+        "permissions": [
+            
+            "LOANS_READ",
+            "LOANS_SCHEDULED_INSTALMENTS_READ",
+            "LOANS_PAYMENTS_READ",
+            "LOANS_WARRANTIES_READ",
+           
+        ],
+        "expirationDateTime": "2022-06-09T06:00:00Z",
+        "transactionFromDateTime": "2021-12-09T00:00:00Z",
+        "transactionToDateTime": "2022-06-09T06:00:00Z"
+    }
+}

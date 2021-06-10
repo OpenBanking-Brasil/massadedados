@@ -1,14 +1,15 @@
 {
     "data": {
-        "loggedUser": {
-            "document": {
-                "identification": "53580793004",
-                "rel": "CPF"
-            }
-        },
+    "brandID": "bad69854-c970-11eb-b8bc-0242ac130003",
+    "loggedUser": {
+      "document": {
+        "identification": "53580793004",
+        "rel": "CPF"
+      }
+	},
         "businessEntity": {
             "document": {
-                "identification": "25349207000105",
+                "identification": "92702067000196",
                 "rel": "CNPJ"
             }
         },
@@ -19,8 +20,8 @@
             "CUSTOMERS_BUSINESS_ADITTIONALINFO_READ",
             "RESOURCES_READ"
         ],
-        "expirationDateTime": "2021-04-31T23:59:59Z",
-        "transactionFromDateTime": "2021-05-01T00:00:00Z",
-        "transactionToDateTime": "2021-11-01T23:59:59Z"
+        "expirationDateTime": "2022-01-10T18:00:00Z",
+        "transactionFromDateTime": "2021-07-10T00:00:00Z",
+        "transactionToDateTime": "2022-12-10T18:00:00Z"
     }
 }

@@ -1,0 +1,27 @@
+{
+    "data": {
+    "brandID": "1183849d-61ec-46fc-a1cc-c6bef63a16b1",
+    "loggedUser": {
+      "document": {
+        "identification": "33582750787",
+        "rel": "CPF"
+      }
+	},
+        "businessEntity": {
+            "document": {
+                "identification": "60701190000104",
+                "rel": "CNPJ"
+            }
+        },
+        "permissions": [
+            
+            "FINANCINGS_READ",
+            "FINANCINGS_SCHEDULED_INSTALMENTS_READ",
+            "FINANCINGS_PAYMENTS_READ",
+            "FINANCINGS_WARRANTIES_READ"
+        ],
+        "expirationDateTime": "2021-01-31T23:59:59Z",
+        "transactionFromDateTime": "2021-02-01T00:00:00Z",
+        "transactionToDateTime": "2021-07-01T23:59:59Z"
+    }
+}
