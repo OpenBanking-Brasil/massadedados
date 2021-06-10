@@ -1,23 +1,23 @@
 {
     "data": {
         "contractNumber": "53580793004",
-        "ipocCode": "25349207020215358079300453580793004",
+        "ipocCode": "92702067020215358079300453580793004",
         "productName": "Conta Garantida",
         "productType": "EMPRESTIMOS",
         "productSubType": "CONTA_GARANTIDA",
         "contractDate": "2021-05-05",
         "disbursementDate": "2021-05-06",
-        "settlementDate": "2021-10-05",
+        "settlementDate": "2023-07-05",
         "contractAmount": 15000.00,
         "currency": "BRL",
-        "dueDate": "2021-10-05",
+        "dueDate": "2023-07-05",
         "instalmentPeriodicity": "SEM_PERIODICIDADE_REGULAR",
         "instalmentPeriodicityAdditionalInfo": "NA",
         "firstInstalmentDueDate": "2021-06-05",
         "CET": 0.0240,
         "amortizationScheduled": "SAC",
         "amortizationScheduledAdditionalInfo": "NA",
-        "cnpjConsignee": "25349207000105",
+        "cnpjConsignee": "92702067000196",
         "interestRates": [
             {
                 "taxType": "EFETIVA",

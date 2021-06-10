@@ -1,7 +1,7 @@
 {
     "data": {
         "contractNumber": "10117409073",
-        "ipocCode": "40156018020211011740907310117409073",
+        "ipocCode": "00000000020211011740907310117409073",
         "productName": "Home Equity",
         "productType": "EMPRESTIMOS",
         "productSubType": "HOME_EQUITY",
@@ -17,7 +17,7 @@
         "CET": 0.04,
         "amortizationScheduled": "SAC",
         "amortizationScheduledAdditionalInfo": "NA",
-        "cnpjConsignee": "40156018000100",
+        "cnpjConsignee": "00000000000191",
         "interestRates": [
             {
                 "taxType": "EFETIVA",

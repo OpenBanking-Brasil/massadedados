@@ -1,7 +1,7 @@
 {
     "data": {
         "contractNumber": "96644087000",
-        "ipocCode": "25349207020219664408700096644087000",
+        "ipocCode": "92702067020219664408700096644087000",
         "productName": "Cheque Especial",
         "productType": "EMPRESTIMOS",
         "productSubType": "CHEQUE_ESPECIAL",
@@ -17,7 +17,7 @@
         "CET": 0.0140,
         "amortizationScheduled": "OUTROS",
         "amortizationScheduledAdditionalInfo": "Juros compostos sobre os dias de empréstimo.",
-        "cnpjConsignee": "25349207000105",
+        "cnpjConsignee": "92702067000196",
         "interestRates": [
             {
                 "taxType": "NOMINAL",

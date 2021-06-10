@@ -1,0 +1,31 @@
+{
+    "data": {
+        "typeNumberOfInstalments": "SEM_PRAZO_TOTAL",
+        "totalNumberOfInstalments": 0,
+        "typeContractRemaining": "SEM_PRAZO_REMANESCENTE",
+        "contractRemainingNumber": 0,
+        "paidInstalments": 0,
+        "dueInstalments": 0,
+        "pastDueInstalments": 0,
+        "balloonPayments": [
+            {
+                "dueDate": "2021-05-10",
+                "currency": "BRL",
+                "amount": 59.00
+            },
+            {
+                "dueDate": "2021-05-30",
+                "currency": "BRL",
+                "amount": 489.00
+            }
+        ]
+    },
+    "links": {
+        "self": "https://api.banco.com.br/open-banking/loans/v1/contracts/6c52c264-d4a5-4c18-9864-a0cb9916b3b2/scheduled-instalments"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-06-08T16:38:00Z"
+    }
+}

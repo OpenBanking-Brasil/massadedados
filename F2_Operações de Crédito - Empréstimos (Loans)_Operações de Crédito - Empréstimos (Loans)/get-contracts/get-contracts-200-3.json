@@ -2,11 +2,11 @@
     "data": [
         {
             "contractId": "6c52c264-d4a5-4c18-9864-a0cb9916b3b2",
-            "brandName": "Decem",
-            "companyCnpj": "25349207000105",
+            "brandName": "Banco do Estado do Rio Grande do Sul S.A",
+            "companyCnpj": "92702067000196",
             "productType": "EMPRESTIMOS",
             "productSubType": "CHEQUE_ESPECIAL",
-            "ipocCode": "25349207020219664408700096644087000"
+            "ipocCode": "92702067020219664408700096644087000"
         }
     ],
     "links": {

@@ -2,11 +2,11 @@
     "data": [
         {
             "contractId": "377aa88d-8905-3847-ad8f-c80d9e47f907",
-            "brandName": "Decem",
-            "companyCnpj": "25349207000105",
+            "brandName": "Banco do Estado do Rio Grande do Sul S.A",
+            "companyCnpj": "92702067000196",
             "productType": "EMPRESTIMOS",
             "productSubType": "CAPITAL_GIRO_PRAZO_VENCIMENTO_ATE_365_DIAS",
-            "ipocCode": "25349207020211571915850215719158502"
+            "ipocCode": "92702067020211571915850215719158502"
         }
     ],
     "links": {

@@ -1,0 +1,31 @@
+{
+    "data": {
+        "typeNumberOfInstalments": "MES",
+        "totalNumberOfInstalments": 12,
+        "typeContractRemaining": "MES",
+        "contractRemainingNumber": 0,
+        "paidInstalments": 6,
+        "dueInstalments": 0,
+        "pastDueInstalments": 0,
+        "balloonPayments": [
+            {
+                "dueDate": "2020-03-04",
+                "currency": "BRL",
+                "amount": 750.00
+            },
+            {
+                "dueDate": "2020-11-04",
+                "currency": "BRL",
+                "amount": 330.00
+            }
+        ]
+    },
+    "links": {
+        "self": "https://api.banco.com.br/open-banking/loans/v1/contracts/c3760e5e-400d-3c49-9cae-03b76935d531/scheduled-instalments"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-06-09T15:16:00Z"
+    }
+}

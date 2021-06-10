@@ -2,11 +2,11 @@
     "data": [
         {
             "contractId": "e4132a2d-9607-e911-80e0-d4ae52aa818f",
-            "brandName": "Sib Bank S.A",
-            "companyCnpj": "40156018000100",
+            "brandName": "Banco do Brasil S.A",
+            "companyCnpj": "00000000000191",
             "productType": "EMPRESTIMOS",
             "productSubType": "CONTA_GARANTIDA",
-            "ipocCode": "401560180020216425821701864258217037"
+            "ipocCode": "000000000020216425821701864258217037"
         }
         
     ],

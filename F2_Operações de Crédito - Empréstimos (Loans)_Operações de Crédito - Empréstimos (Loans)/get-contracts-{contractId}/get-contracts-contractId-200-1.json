@@ -1,7 +1,7 @@
 {
     "data": {
         "contractNumber": "1321341",
-        "ipocCode": "4015601802021875174004441321341",
+        "ipocCode": "0000000002021875174004441321341",
         "productName": "Crédito Pessoal Consignado",
         "productType": "EMPRESTIMOS",
         "productSubType": "CREDITO_PESSOAL_COM_CONSIGNACAO",
@@ -17,7 +17,7 @@
         "CET": 0.09,
         "amortizationScheduled": "PRICE",
         "amortizationScheduledAdditionalInfo": "NA",
-        "cnpjConsignee": "40156018000100",
+        "cnpjConsignee": "00000000000191",
         "interestRates": [
             {
                 "taxType": "EFETIVA",

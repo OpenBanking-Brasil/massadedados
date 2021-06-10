@@ -2,11 +2,11 @@
     "data": [
         {
             "contractId": "443b4853-74c1-336b-861f-8c0525a66f13",
-            "brandName": "Sib Bank S.A",
-            "companyCnpj": "40156018000100",
+            "brandName": "Banco do Brasil S.A",
+            "companyCnpj": "00000000000191",
             "productType": "EMPRESTIMOS",
             "productSubType": "CREDITO_PESSOAL_SEM_CONSIGNACAO",
-            "ipocCode": "401560180020217907254507979072545079"
+            "ipocCode": "000000000020217907254507979072545079"
         }
     ],
     "links": {

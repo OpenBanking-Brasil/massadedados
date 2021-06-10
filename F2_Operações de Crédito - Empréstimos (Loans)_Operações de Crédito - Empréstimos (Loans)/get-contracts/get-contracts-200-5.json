@@ -2,11 +2,11 @@
     "data": [
         {
             "contractId": "28bc0a4b-260f-4d88-9caf-ce14a39ff056",
-            "brandName": "Sib Bank S.A",
-            "companyCnpj": "40156018000100",
+            "brandName": "Banco do Brasil S.A",
+            "companyCnpj": "00000000000191",
             "productType": "EMPRESTIMOS",
             "productSubType": "CAPITAL_GIRO_TETO_ROTATIVO",
-            "ipocCode": "4015601800202173757415147375741514"
+            "ipocCode": "000000000202173757415147375741514"
         }
     ],
     "links": {
