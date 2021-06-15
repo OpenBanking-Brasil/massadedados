@@ -1,0 +1,25 @@
+{
+    "data": {
+    "loggedUser": {
+      "document": {
+        "identification": "24184276504",
+        "rel": "CPF"
+      }
+	},
+        "businessEntity": {
+            "document": {
+                "identification": "00416968000101",
+                "rel": "CNPJ"
+            }
+        },
+        "permissions": [
+            "ACCOUNTS_READ",
+            "ACCOUNTS_BALANCES_READ",
+            "ACCOUNTS_TRANSACTIONS_READ",
+            "ACCOUNTS_OVERDRAFT_LIMITS_READ"
+        ],
+        "expirationDateTime": "2022-05-15T22:00:00Z",
+        "transactionFromDateTime": "2021-11-15T00:00:00Z",
+        "transactionToDateTime": "2022-05-15T22:00:00Z"
+    }
+}

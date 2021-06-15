@@ -1,0 +1,25 @@
+{
+    "data": {
+        "consentId": "235558a9-211b-3d7b-bc82-3eed1d5bf3f5",
+        "creationDateTime": "2021-06-11T09:37:00Z",
+        "status": "AUTHORISED",
+        "statusUpdateDateTime": "2021-06-14T09:42:00Z",
+        "permissions": [
+            "ACCOUNTS_READ",
+            "ACCOUNTS_BALANCES_READ",
+            "ACCOUNTS_TRANSACTIONS_READ",
+            "ACCOUNTS_OVERDRAFT_LIMITS_READ" 
+        ],
+        "expirationDateTime": "2022-05-15T22:00:00Z",
+        "transactionFromDateTime": "2021-11-15T00:00:00Z",
+        "transactionToDateTime": "2022-05-15T22:00:00Z"
+    },
+    "links": {
+        "self": "https://api.banco.com.br/open-banking/consents/v1/consents/235558a9-211b-3d7b-bc82-3eed1d5bf3f5"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-06-15T09:48:00Z"
+    }
+}
