@@ -1,0 +1,26 @@
+{
+    "data": {
+        "consentId": "f0729774-ea5b-3195-b06c-99007dba00e6",
+        "creationDateTime": "2021-06-14T09:35:00Z",
+        "status": "AUTHORISED",
+        "statusUpdateDateTime": "2021-06-15T09:40:00Z",
+        "permissions": [
+            "CREDIT_CARDS_ACCOUNTS_READ",
+            "CREDIT_CARDS_ACCOUNTS_BILLS_READ",
+            "CREDIT_CARDS_ACCOUNTS_BILLS_TRANSACTIONS_READ",
+            "CREDIT_CARDS_ACCOUNTS_LIMITS_READ",
+            "CREDIT_CARDS_ACCOUNTS_TRANSACTIONS_READ"
+        ],
+        "expirationDateTime": "2022-04-22T14:00:25Z",
+        "transactionFromDateTime": "2021-10-22T14:00:25Z",
+        "transactionToDateTime": "2022-04-22T14:00:25Z"
+    },
+    "links": {
+        "self": "https://api.banco.com.br/open-banking/consents/v1/consents/f0729774-ea5b-3195-b06c-99007dba00e6"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-06-15T09:41:00Z"
+    }
+}
