@@ -1,9 +1,8 @@
 {
     "data": {
-    "brandID": "46dcfaff-1810-455a-9679-bf891f139da6",
     "loggedUser": {
       "document": {
-        "identification": "7375741514",
+        "identification": "64258217018",
         "rel": "CPF"
       }
 	},
@@ -14,14 +13,18 @@
             }
         },
         "permissions": [
+            "FINANCINGS_READ",
+            "FINANCINGS_SCHEDULED_INSTALMENTS_READ",
+            "FINANCINGS_PAYMENTS_READ",
+            "FINANCINGS_WARRANTIES_READ",
             "CREDIT_CARDS_ACCOUNTS_READ",
             "CREDIT_CARDS_ACCOUNTS_BILLS_READ",
             "CREDIT_CARDS_ACCOUNTS_BILLS_TRANSACTIONS_READ",
             "CREDIT_CARDS_ACCOUNTS_LIMITS_READ",
             "CREDIT_CARDS_ACCOUNTS_TRANSACTIONS_READ"
         ],
-        "expirationDateTime": "2022-04-22T14:00:25Z",
-        "transactionFromDateTime": "2021-10-22T14:00:25Z",
-        "transactionToDateTime": "2022-04-22T14:00:25Z"
+        "expirationDateTime": "2022-05-19T10:00:00Z",
+        "transactionFromDateTime": "2021-11-19T00:00:00Z",
+        "transactionToDateTime": "2022-05-19T10:00:00Z"
     }
 }
