@@ -6,7 +6,7 @@
             "creditDebitType": "DEBITO",
             "transactionName": "PAGAMENTO",
             "type": "CARTAO",
-            "amount": 771.52,
+            "amount": 771.5200,
             "transactionCurrency": "BRL",
             "transactionDate": "2021-05-20",
             "partieCnpjCpf": "87517400444",

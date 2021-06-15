@@ -1,10 +1,10 @@
 {
   "data": {
-    "availableAmount": 100000.04,
+    "availableAmount": 100000.0400,
     "availableAmountCurrency": "BRL",
-    "blockedAmount": 0.0,
+    "blockedAmount": 0.0000,
     "blockedAmountCurrency": "BRL",
-    "automaticallyInvestedAmount": 15000.00,
+    "automaticallyInvestedAmount": 15000.0000,
     "automaticallyInvestedAmountCurrency": "BRL"
   },
   "links": {
