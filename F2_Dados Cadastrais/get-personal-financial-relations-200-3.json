@@ -19,7 +19,7 @@
     ],
     "accounts": [
       {
-        "compeCode": "001",
+        "compeCode": "748",
         "branchCode": "8521",
         "number": "38334236",
         "checkDigit": "7",
@@ -27,7 +27,7 @@
         "subtype": "INDIVIDUAL"
       },
 	  {
-        "compeCode": "002",
+        "compeCode": "748",
         "branchCode": "1589",
         "number": "16254968",
         "checkDigit": "3",
