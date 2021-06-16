@@ -1,0 +1,40 @@
+{
+  "data": {
+    "updateDateTime": "2021-05-25T08:30:00Z",
+    "startDate": "2021-05-25T08:30:00Z",
+    "productsServicesType": [
+	  "CONTA_PAGAMENTO_PRE_PAGA",
+	  "SEGURO",
+	  "PREVIDENCIA",
+	  "INVESTIMENTO",
+	  "CONTA_SALARIO",
+	  ],
+    "productsServicesTypeAdditionalInfo": "",
+    "procurators": [
+      {
+        "type": "",
+        "cpfNumber": "",
+        "civilName": "",
+        "socialName": ""
+      }
+    ],
+    "accounts": [
+      {
+        "compeCode": "001",
+        "branchCode": "5264",
+        "number": "32211554",
+        "checkDigit": "8",
+        "type": "CONTA_DEPOSITO_A_VISTA",
+        "subtype": "INDIVIDUAL"
+      }	  
+    ]
+  },
+  "links": {
+    "self": "https://api.banco.com.br/open-banking/customers/v1/personal/financial-relations"
+  },
+  "meta": {
+    "totalRecords": 5,
+    "totalPages": 1,
+    "requestDateTime": "2021-05-21T08:30:00Z"
+  }
+}
