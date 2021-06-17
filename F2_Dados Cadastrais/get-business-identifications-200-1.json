@@ -3,20 +3,18 @@
         {
             "updateDateTime": "2021-05-24T08:42:35Z",
             "businessId": "46c922c1-c33c-4d3c-a47c-4fbf319cba36",
-            "brandName": "Sib Bank S.A",
-            "companyName": "Sib Bank S.A",
-            "tradeName": "Sibank",
-            "incorporationDate": "1996-09-21T16:35:12Z",
-            "cnpjNumber": "40156018000100",
+            "brandName": "Banco do Brasil S.A",
+            "companyName": "Banco do Brasil S.A",
+            "tradeName": "Banco do Brasil S.A",
+            "incorporationDate": "1886-10-12T16:35:12Z",
+            "cnpjNumber": "00000000000191",
             "companyCnpjNumber": [
-                "87250168000133",
-                "18664628000157"
             ],
             "otherDocuments": [
                 {
                     "type": "EIN",
                     "number": "601855441",
-                    "country": "USA",
+                    "country": "BRA",
                     "expirationDate": "2028-11-12"
                 }
             ],
@@ -26,8 +24,8 @@
                     "type": "ADMINISTRADOR",
                     "civilName": "Amelia Sandoval Holt",
                     "socialName": "Amelia Sandoval Holt",
-                    "companyName": "Sib Bank S.A",
-                    "tradeName": "Sibank",
+                    "companyName": "Banco do Brasil S.A",
+                    "tradeName": "Banco do Brasil S.A",
                     "startDate": "1996-09-21T16:35:12Z",
                     "shareholding": "0.41",
                     "documentType": "CPF",
