@@ -6,12 +6,6 @@
         "rel": "CPF"
       }
 	},
-        "businessEntity": {
-            "document": {
-                "identification": "00360305000104",
-                "rel": "CNPJ"
-            }
-        },
         "permissions": [
             "ACCOUNTS_READ",
             "ACCOUNTS_BALANCES_READ",
