@@ -1,6 +1,6 @@
 {
     "data": {
-        "consentId": "urn:caixa:BR5833502",
+        "consentId": "urn:caixa:CIX918246490",
         "creationDateTime": "2021-06-10T09:35:00Z",
         "status": "AUTHORISED",
         "statusUpdateDateTime": "2021-06-15T09:42:00Z",
@@ -19,7 +19,7 @@
         "transactionToDateTime": "2022-04-16T15:00:00Z"
     },
     "links": {
-        "self": "https://api.caixa.gov.br/open-banking/consents/v1/consents/urn:caixa:BR5833502"
+        "self": "https://api.caixa.gov.br/open-banking/consents/v1/consents/urn:caixa:CIX918246490"
     },
     "meta": {
         "totalRecords": 1,
