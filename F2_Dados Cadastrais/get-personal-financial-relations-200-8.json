@@ -1,7 +1,7 @@
 {
   "data": {
-    "updateDateTime": "2021-05-21T08:30:00Z",
-    "startDate": "2012-10-12T08:30:00Z",
+    "updateDateTime": "2021-10-16T00:00:00Z",
+    "startDate": "2011-11-16T00:00:00Z",
     "productsServicesType": [
 	  "CONTA_DEPOSITO_A_VISTA",
 	  "CARTAO_CREDITO",
@@ -14,10 +14,10 @@
     "productsServicesTypeAdditionalInfo": "",
     "procurators": [
       {
-        "type": "",
-        "cpfNumber": "",
-        "civilName": "",
-        "socialName": ""
+        "type": "NAO_SE_APLICA",
+        "cpfNumber": "NA",
+        "civilName": "NA",
+        "socialName": "NA"
       }
     ],
     "accounts": [
@@ -32,11 +32,11 @@
     ]
   },
   "links": {
-    "self": "https://api.banco.com.br/open-banking/customers/v1/personal/financial-relations"
+    "self": "https://api.caixa.gov.br/open-banking/customers/v1/personal/financial-relations"
   },
   "meta": {
     "totalRecords": 7,
     "totalPages": 1,
-    "requestDateTime": "2021-05-21T08:30:00Z"
+    "requestDateTime": "2021-12-26T00:00:00Z"
   }
 }
