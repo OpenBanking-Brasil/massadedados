@@ -1,0 +1,56 @@
+{
+    "data": [
+        {
+            "transactionId": "898343b4-ce9f-3992-9085-b2fdcbf12188",
+            "identificationNumber": "5320",
+            "lineName": "CREDITO_A_VISTA",
+            "transactionName": "ARMAZEM DOS MÓVEIS",
+            "billId": "794f2d37-dcc5-3b00-a5cb-d10f75d89cbe",
+            "creditDebitType": "CREDITO",
+            "transactionType": "OPERACOES_CREDITO_CONTRATADAS_CARTAO",
+            "transactionalAdditionalInfo": "NA",
+            "paymentType": "A_VISTA",
+            "feeType": "SMS",
+            "feeTypeAdditionalInfo": "NA",
+            "chargeIdentificator": "PARCELA_1",
+            "chargeNumber": 2,
+            "brazilianAmount": 771.52,
+            "amount": 0.00,
+            "currency": "BRL",
+            "transactionDate": "2021-05-20",
+            "billPostDate": "2021-05-21",
+            "payeeMCC": 5912
+        },
+        {
+            "transactionId": "80fbb66b-b92a-3671-97ee-ba265dafd899",
+            "identificationNumber": "5320",
+            "lineName": "CREDITO_A_VISTA",
+            "transactionName": "BORRACHARIA DO",
+            "billId": "794f2d37-dcc5-3b00-a5cb-d10f75d89cbe",
+            "creditDebitType": "CREDITO",
+            "transactionType": "OPERACOES_CREDITO_CONTRATADAS_CARTAO",
+            "transactionalAdditionalInfo": "NA",
+            "paymentType": "A_VISTA",
+            "feeType": "SMS",
+            "feeTypeAdditionalInfo": "NA",
+            "otherCreditsType": "CREDITO_ROTATIVO",
+            "otherCreditsAdditionalInfo": "NA",
+            "chargeIdentificator": "PARCELA_UNICA",
+            "chargeNumber": 1,
+            "brazilianAmount": 300.0000,
+            "amount": 0.00,
+            "currency": "BRL",
+            "transactionDate": "2021-05-20",
+            "billPostDate": "2021-05-20",
+            "payeeMCC": 5912
+        }
+    ],
+    "links": {
+        "self": "https://api.bradesco.com/open-banking/credit-cards-accounts/v1/accounts/d2ce265c-5c1f-330d-8f21-c4733e1e614f/transactions"
+    },
+    "meta": {
+        "totalRecords": 2,
+        "totalPages": 1,
+        "requestDateTime": "2021-06-23T16:37:00Z"
+    }
+}

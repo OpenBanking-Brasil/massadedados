@@ -1,0 +1,50 @@
+{
+    "data": [
+        {
+            "billId": "794f2d37-dcc5-3b00-a5cb-d10f75d89cbe",
+            "dueDate": "2021-06-15",
+            "billTotalAmount": 2343.0400,
+            "billTotalAmountCurrency": "BRL",
+            "billMinimumAmount": 250.8923,
+            "billMinimumAmountCurrency": "BRL",
+            "isInstalment": true,
+            "financeCharges": [
+                {
+                    "type": "JUROS_REMUNERATORIOS_ATRASO_PAGAMENTO_FATURA",
+                    "additionalInfo": "NA",
+                    "amount": 35.4500,
+                    "currency": "BRL"
+                },
+                {
+                    "type": "IOF",
+                    "additionalInfo": "NA",
+                    "amount": 11.0900,
+                    "currency": "BRL"
+                },
+                {
+                    "type": "JUROS_MORA_ATRASO_PAGAMENTO_FATURA",
+                    "additionalInfo": "NA",
+                    "amount": 9.6800,
+                    "currency": "BRL"
+                }                
+            ],
+            "payments": [
+                {
+                    "valueType": "OUTRO_VALOR_PAGO_FATURA",
+                    "paymentDate": "2021-06-21",
+                    "paymentMode": "DEBITO_CONTA_CORRENTE",
+                    "amount": 2000.0000,
+                    "currency": "BRL"
+                }
+            ]
+        }
+    ],
+    "links": {
+        "self": "https://api.bradesco.com/open-banking/credit-cards-accounts/v1/accounts/d2ce265c-5c1f-330d-8f21-c4733e1e614f/bills"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-05-24T14:28:47Z"
+    }
+}
