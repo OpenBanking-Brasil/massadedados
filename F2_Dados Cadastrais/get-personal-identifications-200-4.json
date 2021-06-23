@@ -1,103 +1,106 @@
 {
-  "data": [
-    {
-      "updateDateTime": "2021-05-21T08:30:00Z",
-      "personalId": "5n9-99vf-55a9fju85e-448b47",
-      "brandName": "Banco Bradesco S.A",
-      "civilName": "Janice Santana Matos",
-      "socialName": "",
-      "birthDate": "1968-11-24",
-      "maritalStatusCode": "VIUVA",
-      "maritalStatusAdditionalInfo": "",
-      "sex": "FEMININO",
-      "companyCnpj": [
-        "60746948000112"
-      ],
-      "documents": {
-        "cpfNumber": "96644087000",
-        "passportNumber": "13531890704588959425",
-        "passportCountry": "BRA",		
-        "passportExpirationDate": "2027-02-22",
-        "passportIssueDate": "2017-02-22"
-      },
-      "otherDocuments": [
+    "data": [
         {
-          "type": "CNH",
-          "typeAdditionalInfo": "NA",
-          "number": "4588594",
-          "checkDigit": "A",
-          "additionalInfo": "SSP/PA",
-          "expirationDate": "2021-06-22"	
-        }
-      ],
-      "hasBrazilianNationality": true,
-      "nationality": [
-        {
-          "otherNationalitiesInfo": "",
-          "documents": [
-            {
-              "type": "",
-              "number": "",
-              "expirationDate": "",
-              "issueDate": "",
-              "country": "",
-              "typeAdditionalInfo": ""
+            "updateDateTime": "2021-05-21T08:30:00Z",
+            "personalId": "5n9-99vf-55a9fju85e-448b47",
+            "brandName": "Banco Bradesco S.A",
+            "civilName": "Janice Santana Matos",
+            "socialName": "NA",
+            "birthDate": "1968-11-24",
+            "maritalStatusCode": "VIUVA",
+            "sex": "FEMININO",
+            "companyCnpj": [
+                "60746948000112"
+            ],
+            "documents": {
+                "cpfNumber": "96644087000",
+                "passportNumber": "13531890704588959425",
+                "passportCountry": "BRA",
+                "passportExpirationDate": "2027-02-22",
+                "passportIssueDate": "2017-02-22"
+            },
+            "otherDocuments": [
+                {
+                    "type": "CNH",
+                    "typeAdditionalInfo": "NA",
+                    "number": "4588594",
+                    "checkDigit": "A",
+                    "additionalInfo": "SSP/PA",
+                    "expirationDate": "2021-06-22"
+                }
+            ],
+            "hasBrazilianNationality": true,
+            "nationality": [
+                {
+                    "otherNationalitiesInfo": "NA",
+                    "documents": [
+                        {
+                            "type": "NA",
+                            "number": "NA",
+                            "expirationDate": "NA",
+                            "issueDate": "NA",
+                            "country": "NA",
+                            "typeAdditionalInfo": "NA"
+                        }
+                    ]
+                }
+            ],
+            "filiation": [
+                {
+                    "type": "MAE",
+                    "civilName": "Luzia Matos",
+                    "socialName": "NA"
+                },
+                {
+                    "type": "PAI",
+                    "civilName": "André Matos",
+                    "socialName": "NA"
+                }
+            ],
+            "contacts": {
+                "postalAddresses": [
+                    {
+                        "isMain": true,
+                        "address": "Vila Chico Buarque, 175",
+                        "additionalInfo": "Casa laranja",
+                        "districtName": "Jurunas",
+                        "townName": "Belém",
+                        "ibgeTownCode": "1501402",
+                        "countrySubDivision": "PA",
+                        "postCode": "66030366",
+                        "country": "Brasil",
+                        "countryCode": "BRA",
+                        "geographicCoordinates": {
+                            "latitude": "-1.45502",
+                            "longitude": "-48.5024"
+                        }
+                    }
+                ],
+                "phones": [
+                    {
+                        "isMain": true,
+                        "type": "MOVEL",
+                        "countryCallingCode": "55",
+                        "areaCode": "91",
+                        "number": "995590211",
+                        "phoneExtension": "NA"
+                    }
+                ],
+                "emails": [
+                    {
+                        "isMain": true,
+                        "email": "janice.matos@email.com"
+                    }
+                ]
             }
-          ]
         }
-      ],
-      "filiation": [
-        {
-          "type": "MAE",
-          "civilName": "Luzia Matos",
-          "socialName": "NA"
-        }
-      ],
-      "contacts": {
-        "postalAddresses": [
-          {
-            "isMain": true,
-            "address": "Vila Chico Buarque, 175",
-            "additionalInfo": "Casa laranja",
-            "districtName": "Jurunas",
-            "townName": "Belém",
-            "ibgeTownCode": "1501402",
-            "countrySubDivision": "PA",
-            "postCode": "66030366",
-            "country": "Brasil",
-            "countryCode": "BRA",
-            "geographicCoordinates": {
-              "latitude": "-1.45502",
-              "longitude": "-48.5024"
-            }
-          }
-        ],
-        "phones": [
-          {
-            "isMain": true,
-            "type": "MOVEL",
-            "additionalInfo": "Informações adicionais.",
-            "countryCallingCode": "55",
-            "areaCode": "91",
-            "number": "995590211",
-            "phoneExtension": ""
-          }
-        ],
-        "emails": [
-          {
-            "isMain": true,
-            "email": "janice.matos@email.com"
-          }
-        ]
-      }
+    ],
+    "links": {
+        "self": "https://api.bradesco.com/open-banking/customers/v1/personal/identifications"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-05-29T08:30:00Z"
     }
-  ],
-  "links": {
-    "self": "https://api.banco.com.br/open-banking/customers/v1/personal/identifications"
-  },
-  "meta": {
-    "totalRecords": 1,
-    "totalPages": 1,
-    "requestDateTime": "2021-05-29T08:30:00Z"
-  }
 }
