@@ -5,27 +5,26 @@
       "personalId": "4be-4e8a-b58f11eb85-0242a",
       "brandName": "Banco do Brasil S.A",
       "civilName": "Celine Valadares Dinis",
-      "socialName": "",
+      "socialName": "NA",
       "birthDate": "1960-04-07",
       "maritalStatusCode": "CASADO",
-      "maritalStatusAdditionalInfo": "",
       "sex": "FEMININO",
       "companyCnpj": [
-        "00.000.000/0001-91"
+        "00000000000191"
       ],
       "documents": {
         "cpfNumber": "79072545079",
-        "passportNumber": "",
-        "passportCountry": "",		
-        "passportExpirationDate": "",
-        "passportIssueDate": ""
+        "passportNumber": "NA",
+        "passportCountry": "NA",		
+        "passportExpirationDate": "NA",
+        "passportIssueDate": "NA"
       },
       "otherDocuments": [
         {
           "type": "CNH",
           "typeAdditionalInfo": "NA",
-          "number": "39143713",
-          "checkDigit": "C",
+          "number": "83006316980",
+          "checkDigit": "NA",
           "additionalInfo": "SSP/CE",
           "expirationDate": "2021-10-05"	
         }
@@ -36,12 +35,10 @@
           "otherNationalitiesInfo": "",
           "documents": [
             {
-              "type": "",
-              "number": "",
-              "expirationDate": "",
-              "issueDate": "",
-              "country": "",
-              "typeAdditionalInfo": ""
+              "type": "NA",
+              "number": "NA",
+              "expirationDate": "NA",
+              "issueDate": "NA"
             }
           ]
         }
@@ -49,26 +46,24 @@
       "filiation": [
         {
           "type": "MAE",
-          "civilName": "Mariana Dinis",
-          "socialName": "NA"
+          "civilName": "Mariana Dinis"
         }
       ],
       "contacts": {
         "postalAddresses": [
           {
             "isMain": true,
-            "address": "Rua João Batista do Nascimento, 205",
-            "additionalInfo": "Fundos",
-            "districtName": "Cajazeiras",
-            "townName": "Fortaleza",
-            "ibgeTownCode": "2304400",
-            "countrySubDivision": "CE",
-            "postCode": "60864665",
+            "address": "Travessa Santo André, 498",
+            "districtName": "Santo André",
+            "townName": "Vitória",
+            "ibgeTownCode": "3205309",
+            "countrySubDivision": "ES",
+            "postCode": "29032267",
             "country": "Brasil",
             "countryCode": "BRA",
             "geographicCoordinates": {
-              "latitude": "-3.71839",
-              "longitude": "-38.5434"
+              "latitude": "-20.2788582",
+              "longitude": ""
             }
           }
         ],
@@ -76,11 +71,10 @@
           {
             "isMain": true,
             "type": "MOVEL",
-            "additionalInfo": "Informações adicionais.",
             "countryCallingCode": "55",
             "areaCode": "85",
-            "number": "37673518",
-            "phoneExtension": ""
+            "number": "937673518",
+            "phoneExtension": "NA"
           }
         ],
         "emails": [
@@ -93,11 +87,11 @@
     }
   ],
   "links": {
-    "self": "https://api.banco.com.br/open-banking/customers/v1/personal/identifications"
+    "self": "https://api.sicredi.com.br/open-banking/customers/v1/personal/identifications"
   },
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2021-05-21T08:30:00Z"
+    "requestDateTime": "2021-04-24T09:32:00Z"
   }
 }

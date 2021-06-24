@@ -1,0 +1,37 @@
+{
+    "data": {
+        "consentId": "urn:sicredi:SCD898711524",
+        "creationDateTime": "2021-01-02T14:00:02Z",
+        "status": "AUTHORISED",
+        "statusUpdateDateTime": "2021-01-02T14:00:02Z",
+        "permissions": [
+            "CUSTOMERS_PERSONAL_IDENTIFICATIONS_READ",
+            "CUSTOMERS_PERSONAL_ADITTIONALINFO_READ",
+            "FINANCINGS_READ",
+            "FINANCINGS_INSTALMENTS_READ",
+            "FINANCINGS_PAYMENTS_READ",
+            "FINANCINGS_WARRANTIES_READ",
+            "ACCOUNTS_READ",
+            "ACCOUNTS_BALANCES_READ",
+            "ACCOUNTS_TRANSACTIONS_READ",
+            "ACCOUNTS_OVERDRAFT_LIMITS_READ",
+            "CREDIT_CARDS_ACCOUNTS_READ",
+            "CREDIT_CARDS_ACCOUNTS_BILLS_READ",
+            "CREDIT_CARDS_ACCOUNTS_BILLS_TRANSACTIONS_READ",
+            "CREDIT_CARDS_ACCOUNTS_LIMITS_READ",
+            "CREDIT_CARDS_ACCOUNTS_TRANSACTIONS_READ",
+            "RESOURCES_READ"
+        ],
+        "expirationDateTime": "2022-01-02T14:00:02Z",
+        "transactionFromDateTime": "2021-01-02T14:00:02Z",
+        "transactionToDateTime": "2022-01-02T14:00:02Z"
+    },
+    "links": {
+        "self": "https://api.sicredi.com.br/open-banking/consents/v1/consents/urn:sicredi:SCD898711524"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-02-02T10:18:20Z"
+    }
+} 
