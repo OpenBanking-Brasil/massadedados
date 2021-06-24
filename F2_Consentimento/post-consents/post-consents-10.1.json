@@ -1,15 +1,9 @@
 {
     "data": {
-    "loggedUser": {
-      "document": {
-        "identification": "64258217018",
-        "rel": "CPF"
-      }
-	},
-        "businessEntity": {
+        "loggedUser": {
             "document": {
-                "identification": "60701190000104",
-                "rel": "CNPJ"
+                "identification": "64258217018",
+                "rel": "CPF"
             }
         },
         "permissions": [
