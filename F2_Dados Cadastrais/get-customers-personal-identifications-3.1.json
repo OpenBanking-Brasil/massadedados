@@ -5,13 +5,13 @@
       "personalId": "0db-52a-30b8dd-11eb-85292",
       "brandName": "Banco Cooperativo Sicredi S.A. – Bansicredi",	
       "civilName": "Eliane Sophia Melo",
-      "socialName": "",
+      "socialName": "NA",
       "birthDate": "1975-12-05",
       "maritalStatusCode": "CASADO",
       "maritalStatusAdditionalInfo": "",
       "sex": "FEMININO",
       "companyCnpj": [
-        "01.181.521/0001-55"
+        "01181521000155"
       ],
       "documents": {
         "cpfNumber": "10117409073",
@@ -22,10 +22,10 @@
       },
       "otherDocuments": [
         {
-          "type": "CNH",
+          "type": "RG",
           "typeAdditionalInfo": "NA",
-          "number": "87469438",
-          "checkDigit": "B",	
+          "number": "40701685",
+          "checkDigit": "5",	
           "additionalInfo": "SSP/ES",
           "expirationDate": "2022-12-15	"	
         }
@@ -36,12 +36,10 @@
           "otherNationalitiesInfo": "",
           "documents": [
             {
-              "type": "",
-              "number": "",
-              "expirationDate": "",
-              "issueDate": "",
-              "country": "",
-              "typeAdditionalInfo": ""
+              "type": "NA",
+              "number": "NA",
+              "expirationDate": "NA",
+              "issueDate": "NA"
             }
           ]
         }
@@ -58,7 +56,6 @@
           {
             "isMain": true,
             "address": "Travessa Santo André, 498",
-            "additionalInfo": "",
             "districtName": "Santo André",
             "townName": "Vitória",
             "ibgeTownCode": "3205309",
@@ -76,11 +73,10 @@
           {
             "isMain": true,
             "type": "MOVEL",
-            "additionalInfo": "",
             "countryCallingCode": "55",
             "areaCode": "27",
             "number": "996328736",
-            "phoneExtension": ""
+            "phoneExtension": "NA"
           }
         ],
         "emails": [
@@ -93,7 +89,7 @@
     }
   ],
   "links": {
-    "self": "https://api.banco.com.br/open-banking/customers/v1/personal/identifications"
+    "self": "https://api.sicredi.com.br/open-banking/customers/v1/personal/identifications"
   },
   "meta": {
     "totalRecords": 1,

@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "billId": "75dd9322-d458-11eb-b8bc-0242ac130003",
+            "dueDate": "2021-01-15",
+            "billTotalAmount": 2102.7700,
+            "billTotalAmountCurrency": "BRL",
+            "billMinimumAmount": 210.2800,
+            "billMinimumAmountCurrency": "BRL",
+            "isInstalment": true,
+            "financeCharges": [
+                {
+                    "type": "JUROS_REMUNERATORIOS_ATRASO_PAGAMENTO_FATURA",
+                    "amount": 1.0200,
+                    "currency": "BRL"
+                }
+            ],
+            "payments": [
+                {
+                    "valueType": "OUTRO_VALOR_PAGO_FATURA",
+                    "paymentDate": "2021-04-21",
+                    "paymentMode": "BOLETO_BANCARIO",
+                    "amount": 2000.7700,
+                    "currency": "BRL"
+                }
+            ]
+        }
+    ],
+    "links": {
+        "self": "https://api.sicredi.com.br/open-banking/credit-cards-accounts/v1/accounts/608b1ae4-d458-11eb-b8bc-0242ac130003/bills"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-02-06T11:22:00Z"
+    }
+}

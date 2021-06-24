@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "contractId": "958613430001107921187517400344985558749658",
+      "brandName": "Banco Cooperativo Sicredi S.A. – Bansicredi",
+      "companyCnpj": "01181521000155",
+      "productType": "FINANCIAMENTOS",
+      "productSubType": "AQUISICAO_BENS_OUTROS_BENS",
+      "ipocCode": "01181521040211011740907325668478542336599"
+    }
+  ],
+  "links": {
+    "self": "https://api.sicredi.com.br/open-banking/financings/v1/contracts"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-07-22T09:32:50Z"
+  }
+}

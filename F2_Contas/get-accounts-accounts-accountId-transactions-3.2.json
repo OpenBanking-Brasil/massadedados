@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "transactionId": "c3763b88-d4ea-11eb-b8bc-0242ac130003",
+            "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
+            "creditDebitType": "DEBITO",
+            "transactionName": "TRANSFSCD224325",
+            "type": "CARTAO",
+            "amount": 2000.7700,
+            "transactionCurrency": "BRL",
+            "transactionDate": "2021-01-18",
+            "partieCnpjCpf": "10117409073",
+            "partiePersonType": "PESSOA_NATURAL",
+            "partieCompeCode": "748",
+            "partieBranchCode": "0718",
+            "partieNumber": "58795644",
+            "partieCheckDigit": "2"
+        },
+        {
+            "transactionId": "c77565ce-d4ea-11eb-b8bc-0242ac130003",
+            "completedAuthorisedPaymentType": "LANCAMENTO_FUTURO",
+            "creditDebitType": "DEBITO",
+            "transactionName": "TRANSFSCD224325",
+            "type": "BOLETO",
+            "amount": 778.6500,
+            "transactionCurrency": "BRL",
+            "transactionDate": "2021-01-23",
+            "partieCnpjCpf": "10117409073",
+            "partiePersonType": "PESSOA_NATURAL",
+            "partieCompeCode": "748",
+            "partieBranchCode": "0718",
+            "partieNumber": "58795644",
+            "partieCheckDigit": "2"
+        }
+    ],
+    "links": {
+        "self": "https://api.sicredi.com.br/open-banking/accounts/v1/accounts/5859f81e-d461-11eb-b8bc-0242ac130003/transactions"
+    },
+    "meta": {
+        "totalRecords": 2,
+        "totalPages": 1,
+        "requestDateTime": "2021-01-24T12:08:00Z"
+    }
+}
