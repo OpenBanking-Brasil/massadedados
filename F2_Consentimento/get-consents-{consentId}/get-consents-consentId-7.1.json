@@ -19,7 +19,7 @@
         "transactionToDateTime": "2022-11-15T22:00:00Z"
     },
     "links": {
-        "self": "https://api.baninter.com.br/open-banking/consents/v1/consents/235558a9-211b-3d7b-bc82-3eed1d5bf3f5"
+        "self": "https://api.baninter.com.br/open-banking/consents/v1/consents/urn:baninter:BIT418548546"
     },
     "meta": {
         "totalRecords": 1,
