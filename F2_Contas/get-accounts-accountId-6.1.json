@@ -1,0 +1,19 @@
+{
+    "data": {
+        "compeCode": "001",
+        "branchCode": "3431",
+        "number": "10255897",
+        "checkDigit": "8",
+        "type": "CONTA_POUPANCA",
+        "subtype": "INDIVIDUAL",
+        "currency": "BRL"
+    },
+    "links": {
+        "self": "https://api.sicredi.com.br/open-banking/accounts/v1/accounts/5f18307a-d520-11eb-b8bc-0242ac130003"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-05-26T07:00:00Z"
+    }
+} 

@@ -1,0 +1,59 @@
+{
+  "data": {
+    "contractNumber": "25587487101",
+    "ipocCode": "01181521040211011740907325668478542336599",
+    "productName": "Aquisição de equipamentos",
+    "productType": "FINANCIAMENTOS",
+    "productSubType": "AQUISICAO_BENS_OUTROS_BENS",
+    "contractDate": "2018-08-01",
+    "disbursementDate": "2021-08-01",
+    "settlementDate": "2021-08-01",
+    "contractAmount": 12070.6000,
+    "currency": "BRL",
+    "dueDate": "2023-08-01",
+    "instalmentPeriodicity": "OUTROS",
+    "instalmentPeriodicityAdditionalInfo": "DIA",
+    "firstInstalmentDueDate": "2021-08-02",
+    "CET": 0.1100,
+    "amortizationScheduled": "PRICE",
+    "amortizationScheduledAdditionalInfo": "NA",
+    "interestRates": [
+      {
+        "taxType": "NOMINAL",
+        "interestRateType": "SIMPLES",
+        "taxPeriodicity": "AA",
+        "calculation": "21/252",
+        "referentialRateIndexerType": "PRE_FIXADO",
+        "referentialRateIndexerSubType": "PRE_FIXADO",
+        "preFixedRate": 0.1500,
+        "postFixedRate": 0.2700,
+        "additionalInfo": "NA"
+      }
+    ],
+    "contractedFees": [
+      {
+        "feeName": "Excesso em Conta",
+        "feeCode": "EXCESSO_CONTA",
+        "feeChargeType": "UNICA",
+        "feeCharge": "FIXO",
+        "feeAmount": 2100.5000,
+        "feeRate": 0.0000
+      }
+    ],
+    "contractedFinanceCharges": [
+      {
+        "chargeType": "MULTA_ATRASO_PAGAMENTO",
+        "chargeAdditionalInfo": "NA",
+        "chargeRate": 0.0600
+      }
+    ]
+  },
+  "links": {
+    "self": "https://api.sicredi.com.br/open-banking/financings/v1/contracts/958613430001107921187517400344985558749658"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-08-23T10:11:00Z"
+  }
+} 

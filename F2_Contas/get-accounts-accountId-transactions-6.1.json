@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "transactionId": "c7d76756-d526-11eb-b8bc-0242ac130003",
+            "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
+            "creditDebitType": "CREDITO",
+            "transactionName": "TRANSFSCD55874962",
+            "type": "DEPOSITO",
+            "amount": 850.9800,
+            "transactionCurrency": "BRL",
+            "transactionDate": "2021-06-01",
+            "partieCnpjCpf": "79072545079",
+            "partiePersonType": "PESSOA_NATURAL",
+            "partieCompeCode": "001",
+            "partieBranchCode": "3431",
+            "partieNumber": "10255897",
+            "partieCheckDigit": "8"
+        }
+    ],
+    "links": {
+        "self": "https://api.sicredi.com.br/open-banking/accounts/v1/accounts/5f18307a-d520-11eb-b8bc-0242ac130003/transactions"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-05-27T06:48:10Z"
+    }
+}

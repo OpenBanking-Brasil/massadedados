@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "currency": "BRL",
+      "warrantyType": "CESSAO_DIREITOS_CREDITORIOS",
+      "warrantySubType": "ACOES_DEBENTURES ",
+      "warrantyAmount": 10000.31,
+    }
+  ],
+  "links": {
+    "self": "https://api.sensedia.com.br/open-banking/financings/v1/contracts/958613430001107921187517400344985558749658/warranties"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-08-23T10:34:21Z"
+  }
+} 
