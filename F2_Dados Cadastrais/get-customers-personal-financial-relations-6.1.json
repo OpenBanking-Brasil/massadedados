@@ -3,32 +3,31 @@
     "updateDateTime": "2021-05-21T08:30:00Z",
     "startDate": "2020-07-14T08:30:00Z",
     "productsServicesType": [
-	  "CONTA_DEPOSITO_A_VISTA",
-	  "CARTAO_CREDITO",
-	  "OPERACAO_CREDITO",
-	  "SEGURO",
-	  "PREVIDENCIA",
-	  "OPERACOES_CAMBIO",
-	  "CONTA_SALARIO",
-	  "CREDENCIAMENTO"
+	    "CONTA_DEPOSITO_A_VISTA",
+	    "CARTAO_CREDITO",
+	    "OPERACAO_CREDITO",
+	    "SEGURO",
+	    "PREVIDENCIA",
+	    "OPERACOES_CAMBIO",
+  	  "CONTA_SALARIO",
+	    "CREDENCIAMENTO"
     ],
-    "productsServicesTypeAdditionalInfo": "",
     "procurators": [
       {
-        "type": "",
-        "cpfNumber": "",
-        "civilName": "",
-        "socialName": ""
+        "type": "NAO_SE_APLICA",
+        "cpfNumber": "NA",
+        "civilName": "NA",
+        "socialName": "NA"
       }
     ],
     "accounts": [
       {
-        "compeCode": "001",
-        "branchCode": "8545",
-        "number": "98758965",
+        "compeCode": "748",
+        "branchCode": "8521",
+        "number": "38334236",
         "checkDigit": "2",
         "type": "CONTA_DEPOSITO_A_VISTA",
-        "subtype": "INDIVIDUAL"
+        "subtype": "CONJUNTA_SIMPLES"
       },
 	  {
         "compeCode": "001",
@@ -42,11 +41,11 @@
     ]
   },
   "links": {
-    "self": "https://api.banco.com.br/open-banking/customers/v1/personal/financial-relations"
+    "self": "https://api.sicredi.com.br/open-banking/customers/v1/personal/financial-relations"
   },
   "meta": {
     "totalRecords": 8,
     "totalPages": 1,
-    "requestDateTime": "2021-05-21T08:30:00Z"
+    "requestDateTime": "2021-05-22T17:18:00Z"
   }
 }
