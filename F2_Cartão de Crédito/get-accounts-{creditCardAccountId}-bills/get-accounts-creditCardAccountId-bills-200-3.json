@@ -2,10 +2,10 @@
     "data": [
         {
             "billId": "794f2d37-dcc5-3b00-a5cb-d10f75d89cbe",
-            "dueDate": "2021-06-15",
-            "billTotalAmount": 2343.0400,
+            "dueDate": "2021-07-15",
+            "billTotalAmount": 409.2600,
             "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 250.8923,
+            "billMinimumAmount": 143.8912,
             "billMinimumAmountCurrency": "BRL",
             "isInstalment": true,
             "financeCharges": [
@@ -33,7 +33,33 @@
                     "valueType": "OUTRO_VALOR_PAGO_FATURA",
                     "paymentDate": "2021-06-21",
                     "paymentMode": "DEBITO_CONTA_CORRENTE",
-                    "amount": 2000.0000,
+                    "amount": 1990.0000,
+                    "currency": "BRL"
+                }
+            ]
+        },
+        {
+            "billId": "794f2d37-dcc5-3b00-a5cb-d10f75d89cbf",
+            "dueDate": "2021-06-15",
+            "billTotalAmount": 2343.0400,
+            "billTotalAmountCurrency": "BRL",
+            "billMinimumAmount": 250.8923,
+            "billMinimumAmountCurrency": "BRL",
+            "isInstalment": true,
+            "financeCharges": [
+                {
+                    "type": "SEM_ENCARGO",
+                    "additionalInfo": "NA",
+                    "amount": 0.0000,
+                    "currency": "BRL"
+                }               
+            ],
+            "payments": [
+                {
+                    "valueType": "OUTRO_VALOR_PAGO_FATURA",
+                    "paymentDate": "2021-06-15",
+                    "paymentMode": "DEBITO_CONTA_CORRENTE",
+                    "amount": 10.0000,
                     "currency": "BRL"
                 }
             ]
@@ -43,7 +69,7 @@
         "self": "https://api.bradesco.com/open-banking/credit-cards-accounts/v1/accounts/d2ce265c-5c1f-330d-8f21-c4733e1e614f/bills"
     },
     "meta": {
-        "totalRecords": 1,
+        "totalRecords": 2,
         "totalPages": 1,
         "requestDateTime": "2021-05-24T14:28:47Z"
     }
