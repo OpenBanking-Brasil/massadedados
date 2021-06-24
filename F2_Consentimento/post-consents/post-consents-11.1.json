@@ -1,22 +1,16 @@
 {
     "data": {
-    "loggedUser": {
-      "document": {
-        "identification": "84154817728",
-        "rel": "CPF"
-      }
-	},
-        "businessEntity": {
+        "loggedUser": {
             "document": {
-                "identification": "00416968000101",
-                "rel": "CNPJ"
+                "identification": "84154817728",
+                "rel": "CPF"
             }
         },
-        "permissions": [            
+        "permissions": [
             "LOANS_READ",
             "LOANS_SCHEDULED_INSTALMENTS_READ",
             "LOANS_PAYMENTS_READ",
-            "LOANS_WARRANTIES_READ"           
+            "LOANS_WARRANTIES_READ"
         ],
         "expirationDateTime": "2022-06-09T06:00:00Z",
         "transactionFromDateTime": "2021-12-09T00:00:00Z",
