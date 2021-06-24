@@ -2,7 +2,7 @@
     "data": {
         "consentId": "urn:baninter:BIT418548546",
         "creationDateTime": "2021-06-11T09:37:00Z",
-        "status": "AWAITING_AUTHORISATION",
+        "status": "AUTHORISED",
         "statusUpdateDateTime": "2021-06-14T09:42:00Z",
         "permissions": [
             "ACCOUNTS_READ",
