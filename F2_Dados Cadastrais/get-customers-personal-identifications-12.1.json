@@ -5,10 +5,10 @@
       "personalId": "fe4-101e-g58f11eg88-125755",
       "brandName": "Caixa Econômica Federal",
       "civilName": "Carla Maria Rios",
-      "socialName": "",
+      "socialName": "NA",
       "birthDate": "1985-08-25",
       "maritalStatusCode": "CASADO",
-      "maritalStatusAdditionalInfo": "",
+      "maritalStatusAdditionalInfo": "NA",
       "sex": "FEMININO",
       "companyCnpj": [
         "00360305000104"
@@ -24,8 +24,8 @@
         {
           "type": "CNH",
           "typeAdditionalInfo": "NA",
-          "number": "27806903",
-          "checkDigit": "B",
+          "number": "92091345146",
+          "checkDigit": "NA",
           "additionalInfo": "SSP/MA",
           "expirationDate": "2022-10-06"	
         }
@@ -36,12 +36,10 @@
           "otherNationalitiesInfo": "",
           "documents": [
             {
-              "type": "",
-              "number": "",
-              "expirationDate": "",
-              "issueDate": "",
-              "country": "",
-              "typeAdditionalInfo": ""
+              "type": "NA",
+              "number": "NA",
+              "expirationDate": "NA",
+              "issueDate": "NA"
             }
           ]
         }
@@ -49,8 +47,7 @@
       "filiation": [
         {
           "type": "MAE",
-          "civilName": "Maria Amélia Rios",
-          "socialName": "NA"
+          "civilName": "Maria Amélia Rios"
         }
       ],
       "contacts": {
@@ -58,7 +55,6 @@
           {
             "isMain": true,
             "address": "Rua São Luís, 496",
-            "additionalInfo": "",
             "districtName": "Parque das Mansões",
             "townName": "Imperatriz",
             "ibgeTownCode": "2105302",
@@ -76,11 +72,10 @@
           {
             "isMain": true,
             "type": "MOVEL",
-            "additionalInfo": "Informações adicionais.",
             "countryCallingCode": "55",
             "areaCode": "98",
             "number": "985353341",
-            "phoneExtension": ""
+            "phoneExtension": "NA"
           }
         ],
         "emails": [
@@ -93,11 +88,11 @@
     }
   ],
   "links": {
-    "self": "https://api.banco.com.br/open-banking/customers/v1/personal/identifications"
+    "self": "https://api.caixa.gov.br/open-banking/customers/v1/personal/identifications"
   },
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2021-05-21T08:00:00Z"
+    "requestDateTime": "2021-08-27T08:00:00Z"
   }
 }
