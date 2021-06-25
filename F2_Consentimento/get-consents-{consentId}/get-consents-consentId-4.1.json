@@ -1,14 +1,12 @@
 {
     "data": {
-        "consentId": "4df68708-c48e-3f66-8d35-5b00b36beffe",
+        "consentId": "urn:bradesco:BDC568642159",
         "creationDateTime": "2021-03-24T09:35:00Z",
         "status": "AUTHORISED",
-        "statusUpdateDateTime": "2021-04-15T10:45:00Z",
+        "statusUpdateDateTime": "2021-03-24T10:45:00Z",
         "permissions": [
             "CUSTOMERS_PERSONAL_IDENTIFICATIONS_READ",
             "CUSTOMERS_PERSONAL_ADITTIONALINFO_READ",
-            "CUSTOMERS_BUSINESS_IDENTIFICATIONS_READ",
-            "CUSTOMERS_BUSINESS_ADITTIONALINFO_READ",
             "CREDIT_CARDS_ACCOUNTS_READ",
             "CREDIT_CARDS_ACCOUNTS_BILLS_READ",
             "CREDIT_CARDS_ACCOUNTS_BILLS_TRANSACTIONS_READ",
@@ -19,12 +17,12 @@
             "INVOICE_FINANCINGS_PAYMENTS_READ",
             "INVOICE_FINANCINGS_WARRANTIES_READ"
         ],
-        "expirationDateTime": "2021-09-25T14:00:00Z",
+        "expirationDateTime": "2022-03-25T14:00:00Z",
         "transactionFromDateTime": "2021-03-25T14:00:00Z",
-        "transactionToDateTime": "2021-09-25T14:00:00Z"
+        "transactionToDateTime": "2022-03-25T14:00:00Z"
     },
     "links": {
-        "self": "https://api.banco.com.br/open-banking/consents/v1/consents/4df68708-c48e-3f66-8d35-5b00b36beffe"
+        "self": "https://api.bradesco.com/open-banking/consents/v1/consents/urn:bradesco:BDC568642159"
     },
     "meta": {
         "totalRecords": 1,
