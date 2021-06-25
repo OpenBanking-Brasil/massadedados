@@ -1,6 +1,6 @@
 {
     "data": {
-        "consentId": "urn:bb:BB96825411",
+        "consentId": "urn:itau:ITU42923680",
         "creationDateTime": "2021-05-28T10:30:00Z",
         "status": "AUTHORISED",
         "statusUpdateDateTime": "2021-05-28T10:45:00Z",
@@ -18,7 +18,7 @@
         "transactionToDateTime": "2021-12-11T00:00:00Z"
     },
     "links": {
-        "self": "https://api.bb.com.br/open-banking/consents/v1/consents/urn:bb:BB96825411"
+        "self": "https://api.itau/open-banking/consents/v1/consents/urn:bb:BB96825411"
     },
     "meta": {
         "totalRecords": 1,
