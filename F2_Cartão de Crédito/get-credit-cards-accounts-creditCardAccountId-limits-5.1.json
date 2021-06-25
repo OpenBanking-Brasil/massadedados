@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "creditLineLimitType": "LIMITE_CREDITO_MODALIDADE_OPERACAO",
+            "consolidationType": "CONSOLIDADO",
+            "identificationNumber": "6578",
+            "lineName": "CREDITO_PARCELADO",
+            "lineNameAdditionalInfo": "NA",
+            "isLimitFlexible": false,
+            "limitAmountCurrency": "BRL",
+            "limitAmount": 23000.9761,
+            "usedAmountCurrency": "BRL",
+            "usedAmount": 800.0000,
+            "availableAmountCurrency": "BRL",
+            "availableAmount": 22200.9761
+        }
+    ],
+    "links": {
+        "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/ITUCC2459187/limits"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-06-15T09:41:00Z"
+    }
+}

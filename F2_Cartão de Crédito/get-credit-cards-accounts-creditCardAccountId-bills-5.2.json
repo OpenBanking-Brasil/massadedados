@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "billId": "fba2cc95-e6de-4cb5-99e6-24c403d79eb5",
+            "billMinimumAmount": 120.0000,
+            "billMinimumAmountCurrency": "BRL",
+            "billTotalAmount": 800.0000,
+            "billTotalAmountCurrency": "BRL",
+            "dueDate": "2021-07-10",
+            "financeCharges": [
+                {
+                    "additionalInfo": "NA",
+                    "amount": 231.9400,
+                    "currency": "BRL",
+                    "type": "JUROS_REMUNERATORIOS_ATRASO_PAGAMENTO_FATURA"
+                }
+            ],
+            "isInstalment": true,
+            "payments": [
+                {
+                    "valueType": "VALOR_PAGAMENTO_FATURA_PARCELADO",
+                    "paymentDate": "2021-07-11",
+                    "paymentMode": "BOLETO_BANCARIO",
+                    "amount": 266.6666,
+                    "currency": "BRL"
+                }
+            ]
+        }
+    ],
+    "links": {
+        "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/ITUCC2459187/bills"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-06-15T09:41:00Z"
+    }
+}
