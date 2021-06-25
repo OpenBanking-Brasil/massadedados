@@ -7,6 +7,8 @@
             }
         },
         "permissions": [
+            "CUSTOMERS_PERSONAL_IDENTIFICATIONS_READ",
+            "CUSTOMERS_PERSONAL_ADITTIONALINFO_READ",
             "LOANS_READ",
             "LOANS_SCHEDULED_INSTALMENTS_READ",
             "LOANS_PAYMENTS_READ",
