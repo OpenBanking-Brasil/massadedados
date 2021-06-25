@@ -1,7 +1,7 @@
 {
     "data": {
-        "consentId": "f0729774-ea5b-3195-b06c-99007dba00e6",
-        "creationDateTime": "2021-06-14T09:35:00Z",
+        "consentId": "urn:itau:ITU123568974",
+        "creationDateTime": "2021-10-22T00:00:00Z",
         "status": "AUTHORISED",
         "statusUpdateDateTime": "2021-06-15T09:40:00Z",
         "permissions": [
@@ -11,12 +11,12 @@
             "CREDIT_CARDS_ACCOUNTS_LIMITS_READ",
             "CREDIT_CARDS_ACCOUNTS_TRANSACTIONS_READ"
         ],
-        "expirationDateTime": "2022-04-22T14:00:25Z",
-        "transactionFromDateTime": "2021-10-22T14:00:25Z",
-        "transactionToDateTime": "2022-04-22T14:00:25Z"
+        "expirationDateTime": "2022-10-22T00:00:00Z",
+        "transactionFromDateTime": "2021-10-22T00:00:00Z",
+        "transactionToDateTime": "2022-04-22T00:00:00Z"
     },
     "links": {
-        "self": "https://api.banco.com.br/open-banking/consents/v1/consents/f0729774-ea5b-3195-b06c-99007dba00e6"
+        "self": "https://api.itau/open-banking/consents/v1/consents/urn:itau:ITU123568974"
     },
     "meta": {
         "totalRecords": 1,
