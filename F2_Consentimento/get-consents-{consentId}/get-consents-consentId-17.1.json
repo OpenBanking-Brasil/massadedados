@@ -1,0 +1,28 @@
+{
+    "data": {
+        "consentId": "urn:bb:BB96825411",
+        "creationDateTime": "2021-05-28T10:30:00Z",
+        "status": "AUTHORISED",
+        "statusUpdateDateTime": "2021-05-28T10:45:00Z",
+        "permissions": [
+		
+            "CREDIT_CARDS_ACCOUNTS_READ",
+            "CREDIT_CARDS_ACCOUNTS_BILLS_READ",
+            "CREDIT_CARDS_ACCOUNTS_BILLS_TRANSACTIONS_READ",
+            "CREDIT_CARDS_ACCOUNTS_LIMITS_READ",
+            "CREDIT_CARDS_ACCOUNTS_TRANSACTIONS_READ"
+			
+        ],
+        "expirationDateTime": "2021-12-11T00:00:00Z",
+        "transactionFromDateTime": "2021-06-11T00:00:00Z",
+        "transactionToDateTime": "2021-12-11T00:00:00Z"
+    },
+    "links": {
+        "self": "https://api.bb.com.br/open-banking/consents/v1/consents/urn:bb:BB96825411"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-05-28T11:04:00Z"
+    }
+}
