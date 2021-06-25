@@ -1,0 +1,34 @@
+{
+    "data": {
+        "consentId": "urn:bb:BB96825411",
+        "creationDateTime": "2021-05-28T10:30:00Z",
+        "status": "AUTHORISED",
+        "statusUpdateDateTime": "2021-05-28T10:45:00Z",
+        "permissions": [
+			
+			"CREDIT_CARDS_ACCOUNTS_READ", 
+			"CREDIT_CARDS_ACCOUNTS_BILLS_READ", 
+			"CREDIT_CARDS_ACCOUNTS_BILLS_TRANSACTIONS_READ",
+			"CREDIT_CARDS_ACCOUNTS_LIMITS_READ", 
+			"CREDIT_CARDS_ACCOUNTS_TRANSACTIONS_READ", 
+			"CUSTOMERS_BUSINESS_IDENTIFICATIONS_READ", 
+			"CUSTOMERS_BUSINESS_ADITTIONALINFO_READ", 
+			"FINANCINGS_READ", 
+			"FINANCINGS_SCHEDULED_INSTALMENTS_READ",
+			"FINANCINGS_PAYMENTS_READ", 
+			"FINANCINGS_WARRANTIES_READ"
+			
+        ],
+        "expirationDateTime": "2022-03-23T00:00:00Z",
+        "transactionFromDateTime": "2021-09-01T00:00:00Z",
+        "transactionToDateTime": "2022-03-23T00:00:00Z"
+    },
+    "links": {
+        "self": "https://api.bb.com.br/open-banking/consents/v1/consents/urn:bb:BB96825411"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-05-28T11:04:00Z"
+    }
+}
