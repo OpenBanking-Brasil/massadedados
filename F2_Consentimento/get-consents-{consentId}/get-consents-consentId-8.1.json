@@ -1,17 +1,9 @@
 {
     "data": {
-    "loggedUser": {
-      "document": {
-        "identification": "15719158502",
-        "rel": "CPF"
-      }
-	},
-        "businessEntity": {
-            "document": {
-                "identification": "00360305000104",
-                "rel": "CNPJ"
-            }
-        },
+        "consentId": "urn:caixa:CEF918246490",
+        "creationDateTime": "2021-06-10T09:35:00Z",
+        "status": "AUTHORISED",
+        "statusUpdateDateTime": "2021-06-15T09:42:00Z",
         "permissions": [
             "ACCOUNTS_READ",
             "ACCOUNTS_BALANCES_READ",
@@ -20,10 +12,18 @@
             "LOANS_READ",
             "LOANS_SCHEDULED_INSTALMENTS_READ",
             "LOANS_PAYMENTS_READ",
-            "LOANS_WARRANTIES_READ"           
+            "LOANS_WARRANTIES_READ"  
         ],
         "expirationDateTime": "2022-04-16T15:00:00Z",
         "transactionFromDateTime": "2021-10-16T00:00:00Z",
         "transactionToDateTime": "2022-04-16T15:00:00Z"
+    },
+    "links": {
+        "self": "https://api.caixa.gov.br/open-banking/consents/v1/consents/urn:caixa:CEF918246490"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-11-15T09:46:00Z"
     }
 }

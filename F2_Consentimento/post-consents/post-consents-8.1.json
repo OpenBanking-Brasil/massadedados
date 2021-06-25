@@ -1,0 +1,23 @@
+{
+    "data": {
+    "loggedUser": {
+      "document": {
+        "identification": "15719158502",
+        "rel": "CPF"
+      }
+	},
+        "permissions": [
+            "ACCOUNTS_READ",
+            "ACCOUNTS_BALANCES_READ",
+            "ACCOUNTS_TRANSACTIONS_READ",
+            "ACCOUNTS_OVERDRAFT_LIMITS_READ",
+            "LOANS_READ",
+            "LOANS_SCHEDULED_INSTALMENTS_READ",
+            "LOANS_PAYMENTS_READ",
+            "LOANS_WARRANTIES_READ"           
+        ],
+        "expirationDateTime": "2022-04-16T15:00:00Z",
+        "transactionFromDateTime": "2021-10-16T00:00:00Z",
+        "transactionToDateTime": "2022-04-16T15:00:00Z"
+    }
+}
