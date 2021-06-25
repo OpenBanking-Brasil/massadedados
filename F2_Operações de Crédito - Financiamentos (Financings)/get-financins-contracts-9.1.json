@@ -1,0 +1,20 @@
+{
+    "data": [
+      {
+        "contractId": "18061493403110792119751740044492525769252",
+        "brandName": "Banco Itaú Unibanco S.A.",
+        "companyCnpj": "60701190000104",
+        "productType": "FINANCIAMENTOS_RURAIS ",
+        "productSubType": "CUSTEIO",
+        "ipocCode": "607011901535807930045174004449252576925"
+      }
+    ],
+    "links": {
+      "self": "https://api.itau.com.br/open-banking/financings/v1/contracts"
+    },
+    "meta": {
+      "totalRecords": 1,
+      "totalPages": 1,
+      "requestDateTime": "2021-05-21T08:30:00Z"
+    }
+  }
