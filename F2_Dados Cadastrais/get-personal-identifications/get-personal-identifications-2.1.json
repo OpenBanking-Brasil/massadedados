@@ -5,10 +5,9 @@
       "personalId": "c57-466-1254590932-3fa314",
       "brandName": "Banco do Estado do Rio Grande do Sul S.A",
       "civilName": "Tatiana Galvão",
-      "socialName": "",
+      "socialName": "NA",
       "birthDate": "1989-03-23",
       "maritalStatusCode": "SOLTEIRO",
-      "maritalStatusAdditionalInfo": "",
       "sex": "FEMININO",
       "companyCnpj": [
         "92702067000196"
@@ -40,8 +39,7 @@
               "number": "423929299",
               "expirationDate": "2022-08-21",
               "issueDate": "2020-05-30",
-              "country": "Brasil",
-              "typeAdditionalInfo": ""
+              "country": "Canada"
             }
           ]
         }
@@ -49,7 +47,7 @@
       "filiation": [
         {
           "type": "MAE",
-          "civilName": "Andreia Galvao",
+          "civilName": "Andreia Galvão",
           "socialName": "NA"
         }
       ],
@@ -76,7 +74,6 @@
           {
             "isMain": true,
             "type": "FIXO",
-            "additionalInfo": "Informações adicionais.",
             "countryCallingCode": "55",
             "areaCode": "51",
             "number": "325421328",
@@ -93,7 +90,7 @@
     }
   ],
   "links": {
-    "self": "https://api.banco.com.br/open-banking/customers/v1/personal/identifications"
+    "self": "https://openbanking.banrisul.com.br/open-banking/customers/v1/personal/identifications"
   },
   "meta": {
     "totalRecords": 1,
