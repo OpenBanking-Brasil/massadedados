@@ -1,0 +1,26 @@
+{
+  "data": {
+    "typeNumberOfInstalments": "MES",
+    "totalNumberOfInstalments": 120,
+    "typeContractRemaining": "MES ",
+    "contractRemainingNumber": 120,
+    "paidInstalments": 1,
+    "dueInstalments": 119,
+    "pastDueInstalments": 0,
+    "balloonPayments": [
+      {
+        "dueDate": "2021-06-25",
+        "currency": "BRL",
+        "amount": 10000.0000
+      }
+    ]
+  },
+  "links": {
+    "self": "https://api.itau/open-banking/financings/v1/contracts/94351e88-203b-323f-9edc-6051b64826e3/scheduled-instalments"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-06-25T11:52:00Z"
+  }
+}

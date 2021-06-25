@@ -1,6 +1,6 @@
 {
     "data": {
-        "consentId": "4401c7d7-34fa-3e8c-9718-e67d9038fd7d",
+        "consentId": "urn:itau:ITU984616618",
         "creationDateTime": "2021-04-11T09:37:00Z",
         "status": "AUTHORISED",
         "statusUpdateDateTime": "2021-05-31T09:42:00Z",
@@ -20,7 +20,7 @@
         "transactionToDateTime": "2022-05-19T10:00:00Z"
     },
     "links": {
-        "self": "https://api.banco.com.br/open-banking/consents/v1/consents/4401c7d7-34fa-3e8c-9718-e67d9038fd7d"
+        "self": "https://api.itau/open-banking/consents/v1/consents/urn:itau:ITU984616618"
     },
     "meta": {
         "totalRecords": 1,
