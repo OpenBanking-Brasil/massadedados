@@ -1,0 +1,18 @@
+{
+  "data": {
+    "availableAmount": 9.0000,
+    "availableAmountCurrency": "BRL",
+    "blockedAmount": 5610.0000,
+    "blockedAmountCurrency": "BRL",
+    "automaticallyInvestedAmount": 1.0000,
+    "automaticallyInvestedAmountCurrency": "BRL"
+  },
+  "links": {
+    "self": "https://api.sicredi.com.br/open-banking/accounts/v1/accounts/5859f81e-d461-11eb-b8bc-0242ac130003/balances"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-05-30T10:35:19Z"
+  }
+}

@@ -4,17 +4,16 @@
     "startDate": "2005-11-15T08:30:00Z",
     "productsServicesType": [
       "CONTA_DEPOSITO_A_VISTA", 
-	  "CONTA_POUPANCA",
-	  "CARTAO_CREDITO",
-	  "OPERACOES_CAMBIO"
+	    "CONTA_POUPANCA",
+	    "CARTAO_CREDITO",
+	    "OPERACOES_CAMBIO"
     ],
-    "productsServicesTypeAdditionalInfo": "",
     "procurators": [
       {
-        "type": "",
-        "cpfNumber": "",
-        "civilName": "",
-        "socialName": ""
+        "type": "NAO_SE_APLICA",
+        "cpfNumber": "NA",
+        "civilName": "NA",
+        "socialName": "NA"
       }
     ],
     "accounts": [
@@ -22,11 +21,11 @@
         "compeCode": "748",
         "branchCode": "8521",
         "number": "38334236",
-        "checkDigit": "7",
+        "checkDigit": "2",
         "type": "CONTA_DEPOSITO_A_VISTA",
-        "subtype": "INDIVIDUAL"
+        "subtype": "CONJUNTA_SIMPLES"
       },
-	  {
+	   {
         "compeCode": "748",
         "branchCode": "1589",
         "number": "16254968",
@@ -37,7 +36,7 @@
     ]
   },
   "links": {
-    "self": "https://api.banco.com.br/open-banking/customers/v1/personal/financial-relations"
+    "self": "https://api.sicredi.com.br/open-banking/customers/v1/personal/financial-relations"
   },
   "meta": {
     "totalRecords": 4,
