@@ -4,7 +4,7 @@
             "currency": "BRL",
             "warrantyType": "SEM_TIPO_GARANTIA",
             "warrantySubType": "PESSOA_FISICA",
-            "warrantyAmount": 0
+            "warrantyAmount": 0.0000
         }
     ],
     "links": {
