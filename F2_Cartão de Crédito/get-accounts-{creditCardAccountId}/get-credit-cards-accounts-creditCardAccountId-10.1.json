@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "Hipercard Internacional Mastercard",
+    "productType": "OUTROS",
+    "productAdditionalInfo": "Hipercard Internacional",
+    "creditCardNetwork": "MASTERCARD",
+    "networkAdditionalInfo": "NA",
+    "paymentMethod": {
+      "identificationNumber": "1250",
+      "isMultipleCreditCard": true
+    }
+  },
+  "links": {
+    "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/87684e13-3f03-3c4e-b00a-2b9f2f8215c0"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-06-24T15:40:00Z"
+  }
+}
