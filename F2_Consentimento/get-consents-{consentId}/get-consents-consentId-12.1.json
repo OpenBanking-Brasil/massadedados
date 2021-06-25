@@ -1,10 +1,12 @@
 {
     "data": {
-        "consentId": "f0a8fad3-b403-3ba9-a6c4-0d1373230f26",
+        "consentId": "urn:caixa:CEF565555555",
         "creationDateTime": "2021-06-11T09:37:00Z",
         "status": "AUTHORISED",
         "statusUpdateDateTime": "2021-06-14T09:42:00Z",
         "permissions": [
+            "CUSTOMERS_PERSONAL_IDENTIFICATIONS_READ",
+            "CUSTOMERS_PERSONAL_ADITTIONALINFO_READ",
             "CREDIT_CARDS_ACCOUNTS_READ",
             "CREDIT_CARDS_ACCOUNTS_BILLS_READ",
             "CREDIT_CARDS_ACCOUNTS_BILLS_TRANSACTIONS_READ",
@@ -24,7 +26,7 @@
         "transactionToDateTime": "2022-02-27T11:00:00Z"
     },
     "links": {
-        "self": "https://api.banco.com.br/open-banking/consents/v1/consents/f0a8fad3-b403-3ba9-a6c4-0d1373230f26"
+        "self": "https://api.caixa.gov.br/open-banking/consents/v1/consents/urn:caixa:CEF565555555"
     },
     "meta": {
         "totalRecords": 1,

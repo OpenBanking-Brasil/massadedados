@@ -1,18 +1,14 @@
 {
     "data": {
-    "loggedUser": {
-      "document": {
-        "identification": "28728862813",
-        "rel": "CPF"
-      }
-	},
-        "businessEntity": {
+        "loggedUser": {
             "document": {
-                "identification": "00360305000104",
-                "rel": "CNPJ"
+                "identification": "28728862813",
+                "rel": "CPF"
             }
         },
         "permissions": [
+            "CUSTOMERS_PERSONAL_IDENTIFICATIONS_READ",
+            "CUSTOMERS_PERSONAL_ADITTIONALINFO_READ",
             "CREDIT_CARDS_ACCOUNTS_READ",
             "CREDIT_CARDS_ACCOUNTS_BILLS_READ",
             "CREDIT_CARDS_ACCOUNTS_BILLS_TRANSACTIONS_READ",
@@ -25,7 +21,7 @@
             "LOANS_READ",
             "LOANS_SCHEDULED_INSTALMENTS_READ",
             "LOANS_PAYMENTS_READ",
-            "LOANS_WARRANTIES_READ"          
+            "LOANS_WARRANTIES_READ"
         ],
         "expirationDateTime": "2022-02-27T11:00:00Z",
         "transactionFromDateTime": "2021-08-27T00:00:00Z",

@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "creditCardAccountId": "CEFTR5874669",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Platinum Visa",
+      "productType": "PLATINUM",
+      "creditCardNetwork": "MASTERCARD",
+    }
+  ],
+  "links": {
+    "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-08-28T08:38:15Z"
+  }
+}
