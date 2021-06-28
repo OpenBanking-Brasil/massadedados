@@ -13,7 +13,7 @@
         "overParcel": {
           "fees": [
             {
-              "feeName": "Reavaliação periódica do bem",
+              "feeName": "eavaliação periódica do bem",
               "feeCode": "aval_bem",
               "feeAmount": 109214.8500
             }
@@ -30,7 +30,7 @@
     ]
   },
   "links": {
-    "self": "https://api.itau.com.br/open-banking/financings/v1/contracts/42061493000110792118751740044492525769252/payments"
+    "self": "https://api.itau.com.br/open-banking/financings/v1/contracts/18061493403110792119751740044492525769252/payments"
   },
   "meta": {
     "totalRecords": 1,

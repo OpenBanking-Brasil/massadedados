@@ -8,7 +8,7 @@
     }
   ],
   "links": {
-    "self": "https://api.itau.com.br/open-banking/financings/v1/contracts/42061493000110792118751740044492525769252/warranties"
+    "self": "https://api.itau.com.br/open-banking/financings/v1/contracts/18061493403110792119751740044492525769252/warranties"
   },
   "meta": {
     "totalRecords": 1,
