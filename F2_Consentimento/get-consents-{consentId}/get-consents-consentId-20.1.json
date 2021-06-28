@@ -21,11 +21,11 @@
         "transactionToDateTime": "2022-01-05T00:00:00Z"
     },
     "links": {
-        "self": "https://api.api.santander.com.br/open-banking/consents/v1/consents/urn:bb:BB96825411"
+        "self": "https://super.api.santander.com.br/open-banking/consents/v1/consents/urn:bb:BB96825411"
     },
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-05-28T11:04:00Z"
+        "requestDateTime": "2021-09-12T15:24:00Z"
     }
 }
