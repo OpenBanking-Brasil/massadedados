@@ -17,7 +17,7 @@
         }
     },
     "links": {
-        "self": "https://api.banco.com.br/open-banking/customers/v1/personal/qualifications"
+        "self": "https://api.itau/open-banking/customers/v1/personal/qualifications"
     },
     "meta": {
         "totalRecords": 1,
