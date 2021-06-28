@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "resourceId": "NA",
+            "type": "ACCOUNT",
+            "status": "TEMPORARILY_UNAVAILABLE"
+        },
+        {
+            "resourceId": "NA",
+            "type": "CREDIT_CARD_ACCOUNT",
+            "status": "TEMPORARILY_UNAVAILABLE"
+        },
+        {
+            "resourceId": "NA",
+            "type": "LOAN",
+            "status": "TEMPORARILY_UNAVAILABLE"
+        },
+        {
+            "resourceId": "NA",
+            "type": "FINANCING",
+            "status": "TEMPORARILY_UNAVAILABLE"
+        },
+        {
+            "resourceId": "NA",
+            "type": "UNARRANGED_ACCOUNT_OVERDRAFT",
+            "status": "TEMPORARILY_UNAVAILABLE"
+        },
+        {
+            "resourceId": "NA",
+            "type": "INVOICE_FINANCING",
+            "status": "TEMPORARILY_UNAVAILABLE"
+        }
+    ],
+    "links": {
+        "self": "https://api.sicredi.com.br/open-banking/resources/v1/resources"
+    },
+    "meta": {
+        "totalRecords": 6,
+        "totalPages": 1,
+        "requestDateTime": "2021-09-28T00:00:00Z"
+    }
+}
