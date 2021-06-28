@@ -13,7 +13,7 @@
         "overParcel": {
           "fees": [
             {
-              "feeName": "eavaliação periódica do bem",
+              "feeName": "Reavaliação periódica do bem",
               "feeCode": "aval_bem",
               "feeAmount": 109214.8500
             }
