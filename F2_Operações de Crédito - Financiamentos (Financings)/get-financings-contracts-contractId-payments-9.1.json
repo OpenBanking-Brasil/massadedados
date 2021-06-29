@@ -1,7 +1,7 @@
 {
   "data": {
     "paidInstalments": 4,
-    "contractOutstandingBalance": 120616.00,
+    "contractOutstandingBalance": 120616.0000,
     "releases": [
       {
         "paymentId": "faKFchiRwQh1VZrJPVkxJtOcIeYiUKRaUeAAyRjp02n",
