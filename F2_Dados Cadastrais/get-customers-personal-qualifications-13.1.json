@@ -17,11 +17,11 @@
         }
     },
     "links": {
-        "self": "https://api.caixa.gov.br/open-banking/customers/v1/personal/qualifications"
+        "self": "https://opendata.api.bb.com.br/open-banking/customers/v1/personal/qualifications"
     },
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-08-27T08:05:00Z"
+        "requestDateTime": "2021-10-02T09:55:17Z"
     }
 }

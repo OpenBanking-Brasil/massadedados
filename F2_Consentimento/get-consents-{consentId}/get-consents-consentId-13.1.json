@@ -38,11 +38,11 @@
         "transactionToDateTime": "2022-03-01T00:00:00Z"
     },
     "links": {
-        "self": "https://api.bb.com.br/open-banking/consents/v1/consents/urn:bb:BB96825411"
+        "self": "https://opendata.api.bb.com.br/open-banking/consents/v1/consents/urn:bb:BB96825411"
     },
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-05-28T11:04:00Z"
+        "requestDateTime": "2021-10-28T11:04:00Z"
     }
 }

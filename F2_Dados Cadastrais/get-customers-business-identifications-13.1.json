@@ -1,0 +1,71 @@
+{
+    "data": [
+        {
+            "updateDateTime": "2021-05-24T08:42:35Z",
+            "businessId": "b5d5af7c-d5df-11eb-b8bc-0242ac130003",
+            "brandName": "Sabor e Arte Restaurante",
+            "companyName": "Sabor e Arte Restaurante ME",
+            "tradeName": "Sabor e Arte Restaurante",
+            "incorporationDate": "1999-12-03T16:35:12Z",
+            "cnpjNumber": "05830916000192",
+            "companyCnpjNumber": [
+                "00000000000191"
+            ],
+            "parties": [
+                {
+                    "personType": "PESSOA_NATURAL",
+                    "type": "ADMINISTRADOR",
+                    "civilName": "Tânia Maitê Dias",
+                    "socialName": "NA",
+                    "companyName": "Sabor e Arte Restaurante ME",
+                    "tradeName": "Sabor e Arte Restaurante",
+                    "startDate": "1999-12-03T16:35:12Z",
+                    "shareholding": "1",
+                    "documentType": "CNH",
+                    "documentNumber": "61045200310",
+                    "documentCountry": "BRA",
+                    "documentExpirationDate": "2024-04-29",
+                    "documentIssueDate": "2019-04-29"
+                }
+            ],
+            "contacts": {
+                "postalAddresses": [
+                    {
+                        "isMain": true,
+                        "address": "Rua Pioneira Rosa Portela da Silva, 820",
+                        "districtName": "Jardim Montreal",
+                        "townName": "Maringá",
+                        "countrySubDivision": "PR",
+                        "postCode": "87070660",
+                        "country": "Brasil"
+                    }
+                ],
+                "phones": [
+                    {
+                        "isMain": true,
+                        "type": "FIXO",
+                        "additionalInfo": "NA",
+                        "countryCallingCode": "55",
+                        "areaCode": "44",
+                        "number": "39875132",
+                        "phoneExtension": "512"
+                    }
+                ],
+                "emails": [
+                    {
+                        "isMain": true,
+                        "email": "sabor.restaurante@email.com"
+                    }
+                ]
+            }
+        }
+    ],
+    "links": {
+        "self": "https://opendata.api.bb.com.br/open-banking/customers/v1/business/identifications"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-10-02T10:03:19Z"
+    }
+}
