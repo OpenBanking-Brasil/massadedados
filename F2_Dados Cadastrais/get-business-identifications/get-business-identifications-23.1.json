@@ -1,0 +1,183 @@
+{
+    "data": [
+        {
+            "updateDateTime": "2021-05-24T08:42:35Z",
+            "businessId": "99aa18c9-a998-4f5e-b32e-49b2df789756",
+            "brandName": "Banco Inter S.A.",
+            "companyName": "Impressione Gráfica Ltda",
+            "tradeName": "Impressione Gráfica",
+            "incorporationDate": "2018-03-19T00:00:00Z",
+            "cnpjNumber": "00416968000101",
+            "companyCnpjNumber": [
+                "60667129000180"
+            ],
+            "otherDocuments": [
+                {
+                    "type": "NA",
+                    "number": "NA",
+                    "country": "NA",
+                    "expirationDate": "NA"
+                }
+            ],
+            "parties": [
+                {
+                    "personType": "PESSOA_JURIDICA",
+                    "type": "ADMINISTRADOR",
+                    "civilName": "Cecília Rebeca Sueli Corte Real",
+                    "socialName": "NA",
+                    "companyName": "Impressione Gráfica Ltda",
+                    "tradeName": "Impressione Gráfica",
+                    "startDate": "2018-03-19T00:00:00Z",
+                    "shareholding": "0.60",
+                    "documentType": "CNPJ",
+                    "documentNumber": "88770695000131",
+                    "documentAdditionalInfo": "NA",
+                    "documentCountry": "BRA",
+                    "documentExpirationDate": "NA",
+                    "documentIssueDate": "2017-06-29"
+                },
+                {
+                    "personType": "PESSOA_JURIDICA",
+                    "type": "SOCIO",
+                    "civilName": "Francisca Carolina Moraes",
+                    "socialName": "NA",
+                    "companyName": "Impressione Gráfica Ltda",
+                    "tradeName": "Impressione Gráfica",
+                    "startDate": "2018-03-19T00:00:00Z",
+                    "shareholding": "0.20",
+                    "documentType": "CNPJ",
+                    "documentNumber": "58532169000172",
+                    "documentAdditionalInfo": "NA",
+                    "documentCountry": "BRA",
+                    "documentExpirationDate": "NA",
+                    "documentIssueDate": "1987-03-29"
+                },
+                {
+                    "personType": "PESSOA_NATURAL",
+                    "type": "SOCIO",
+                    "civilName": "Augusto Benjamin Caleb Nascimento",
+                    "socialName": "NA",
+                    "companyName": "Impressione Gráfica Ltda",
+                    "tradeName": "Impressione Gráfica",
+                    "startDate": "2019-04-29T00:00:00Z",
+                    "shareholding": "0.06",
+                    "documentType": "CPF",
+                    "documentNumber": "46242505240",
+                    "documentAdditionalInfo": "NA",
+                    "documentCountry": "BRA",
+                    "documentExpirationDate": "NA",
+                    "documentIssueDate": "NA"
+                },                
+                {
+                    "personType": "PESSOA_NATURAL",
+                    "type": "SOCIO",
+                    "civilName": "Severino Rodrigo Guilherme Lopes",
+                    "socialName": "NA",
+                    "companyName": "Impressione Gráfica Ltda",
+                    "tradeName": "Impressione Gráfica",
+                    "startDate": "2019-05-07T00:00:00Z",
+                    "shareholding": "0.04",
+                    "documentType": "CPF",
+                    "documentNumber": "45103412292",
+                    "documentAdditionalInfo": "NA",
+                    "documentCountry": "BRA",
+                    "documentExpirationDate": "NA",
+                    "documentIssueDate": "1990-12-12"
+                },
+                {
+                    "personType": "PESSOA_NATURAL",
+                    "type": "SOCIO",
+                    "civilName": "Igor Sebastião Erick Peixoto",
+                    "socialName": "NA",
+                    "companyName": "Impressione Gráfica Ltda",
+                    "tradeName": "Impressione Gráfica",
+                    "startDate": "2020-06-17T00:00:00Z",
+                    "shareholding": "0.02",
+                    "documentType": "CPF",
+                    "documentNumber": "27293012241",
+                    "documentAdditionalInfo": "NA",
+                    "documentCountry": "BRA",
+                    "documentExpirationDate": "NA",
+                    "documentIssueDate": "2009-11-10"
+                },
+                {
+                    "personType": "PESSOA_NATURAL",
+                    "type": "SOCIO",
+                    "civilName": "Enzo Enrico Duarte",
+                    "socialName": "Juliana Daiane Lara Duarte",
+                    "companyName": "Impressione Gráfica Ltda",
+                    "tradeName": "Impressione Gráfica",
+                    "startDate": "2020-06-17T00:00:00Z",
+                    "shareholding": "0.05",
+                    "documentType": "CPF",
+                    "documentNumber": "46122656291",
+                    "documentAdditionalInfo": "NA",
+                    "documentCountry": "BRA",
+                    "documentExpirationDate": "NA",
+                    "documentIssueDate": "2000-05-03"
+                },
+                {
+                    "personType": "PESSOA_NATURAL",
+                    "type": "SOCIO",
+                    "civilName": "Anderson Giovanni Theo da Rocha",
+                    "socialName": "NA",
+                    "companyName": "Impressione Gráfica Ltda",
+                    "tradeName": "Impressione Gráfica",
+                    "startDate": "2021-06-29T00:00:00Z",
+                    "shareholding": "0.03",
+                    "documentType": "CPF",
+                    "documentNumber": "00923907220",
+                    "documentAdditionalInfo": "NA",
+                    "documentCountry": "BRA",
+                    "documentExpirationDate": "NA",
+                    "documentIssueDate": "2001-02-19"
+                }
+            ],
+            "contacts": {
+                "postalAddresses": [
+                    {
+                        "isMain": true,
+                        "address": "Avenida Presidente Getúlio Vargas 7, 572",
+                        "additionalInfo": "Sala 402",
+                        "districtName": "Central",
+                        "townName": "Macapá",
+                        "ibgeTownCode": "1600303",
+                        "countrySubDivision": "AP",
+                        "postCode": "68900903",
+                        "country": "Brasil",
+                        "countryCode": "BRA",
+                        "geographicCoordinates": {
+                            "latitude": "-0.0249499",
+                            "longitude": "-51.1790609"
+                        }
+                    }
+                ],
+                "phones": [
+                    {
+                        "isMain": true,
+                        "type": "MOVEL",
+                        "additionalInfo": "NA",
+                        "countryCallingCode": "55",
+                        "areaCode": "96",
+                        "number": "9635323024",
+                        "phoneExtension": "NA"
+                    }
+                ],
+                "emails": [
+                    {
+                        "isMain": true,
+                        "email": "impressione.grafica@email.com"
+                    }
+                ]
+            }
+        }
+    ],
+    "links": {
+        "self": "https://api.baninter.com/open-banking/customers/v1/business/identifications"
+    },
+    "meta": {
+        "totalRecords": 7,
+        "totalPages": 1,
+        "requestDateTime": "2022-01-18T00:00:00Z"
+    }
+}
