@@ -13,7 +13,8 @@
             }
         },
         "permissions": [
-            
+            "CUSTOMERS_BUSINESS_IDENTIFICATIONS_READ", 
+            "CUSTOMERS_BUSINESS_ADITTIONALINFO_READ", 
             "FINANCINGS_READ",
             "FINANCINGS_SCHEDULED_INSTALMENTS_READ",
             "FINANCINGS_PAYMENTS_READ",
@@ -25,6 +26,6 @@
         ],
         "expirationDateTime": "2022-03-01T00:00:00Z",
         "transactionFromDateTime": "2021-09-01T00:00:00Z",
-        "transactionToDateTime": "2022-03-01T00:00:00Z"
+        "transactionToDateTime": "2022-09-01T00:00:00Z"
     }
 }

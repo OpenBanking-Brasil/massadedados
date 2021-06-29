@@ -1,0 +1,102 @@
+{
+    "data": [
+        {
+            "updateDateTime": "2021-05-28T08:42:35Z",
+            "businessId": "1851jkl5-1f86-ae1w-b16m-k6r1ew5881wa",
+            "brandName": "Lilian Psicologia Familiar",
+            "companyName": "Lilian Psicologia Familiar",
+            "tradeName": "Lilian Psicologia Familiar",
+            "incorporationDate": "2018-06-30T08:35:12Z",
+            "cnpjNumber": "43053510000130",
+            "companyCnpjNumber": [
+                "60701190000104"
+            ],
+            "parties": [
+                {
+                    "personType": "PESSOA_NATURAL",
+                    "type": "ADMINISTRADOR",
+                    "civilName": "Lilian Vanessa Cristiane Monteiro",
+                    "socialName": "NA",
+                    "companyName": "Lilian Psicologia Familiar",
+                    "tradeName": "Lilian Psicologia Familiar",
+                    "startDate": "2018-10-14T10:35:12Z",
+                    "shareholding": "0.34",
+                    "documentType": "CPF",
+                    "documentNumber": "37964623168",
+                    "documentCountry": "BRA",
+                    "documentExpirationDate": "NA"
+                },
+                {
+                    "personType": "PESSOA_NATURAL",
+                    "type": "SOCIO",
+                    "civilName": "Bruno Carlos Duarte",
+                    "socialName": "NA",
+                    "companyName": "Lilian Psicologia Familiar",
+                    "tradeName": "Lilian Psicologia Familiar",
+                    "startDate": "2018-06-30T08:35:12Z",
+                    "shareholding": "0.51",
+                    "documentType": "CPF",
+                    "documentNumber": "74930176972",
+                    "documentCountry": "BRA",
+                    "documentExpirationDate": "NA"
+                },
+                {
+                    "personType": "PESSOA_JURIDICA",
+                    "type": "SOCIO",
+                    "civilName": "Patrícia Cardoso",
+                    "socialName": "NA",
+                    "companyName": "Patrícia Psicologia Progressiva ME",
+                    "startDate": "2019-03-01T08:00:00Z",
+                    "shareholding": "0.15",
+                    "documentType": "CNPJ",
+                    "documentNumber": "30290686000163",
+                    "documentCountry": "BRA",
+                    "documentExpirationDate": "NA"
+                }
+            ],
+            "contacts": {
+                "postalAddresses": [
+                    {
+                        "isMain": true,
+                        "address": "Rua Felino Barroso, 581",
+                        "districtName": "Jardim das Américas",
+                        "townName": "Curitiba",
+                        "ibgeTownCode": 4106902,
+                        "countrySubDivision": "PR",
+                        "postCode": "81520140",
+                        "country": "Brasil",
+                        "geographicCoordinates": {
+                            "latitude": "-25.4284515",
+                            "longitude": "-49.2737515"
+                        }
+                    }
+                ],
+                "phones": [
+                    {
+                        "isMain": true,
+                        "type": "FIXO",
+                        "additionalInfo": "NA",
+                        "countryCallingCode": "55",
+                        "areaCode": "41",
+                        "number": "39028419",
+                        "phoneExtension": "032"
+                    }
+                ],
+                "emails": [
+                    {
+                        "isMain": true,
+                        "email": "lilian.psicologia@email.com"
+                    }
+                ]
+            }
+        }
+    ],
+    "links": {
+        "self": "https://api.itau/open-banking/customers/v1/business/identifications"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-09-12T09:47:50Z"
+    }
+}
