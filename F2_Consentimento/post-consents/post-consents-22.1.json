@@ -1,11 +1,11 @@
 {
     "data": {
-    "loggedUser": {
-      "document": {
-        "identification": "94478415030",
-        "rel": "CPF"
-      }
-	},
+        "loggedUser": {
+            "document": {
+                "identification": "94478415030",
+                "rel": "CPF"
+            }
+        },
         "businessEntity": {
             "document": {
                 "identification": "85443926000104",
@@ -13,19 +13,17 @@
             }
         },
         "permissions": [
-            
-			"CREDIT_CARDS_ACCOUNTS_READ", 
-			"CREDIT_CARDS_ACCOUNTS_BILLS_READ", 
-			"CREDIT_CARDS_ACCOUNTS_BILLS_TRANSACTIONS_READ",
-			"CREDIT_CARDS_ACCOUNTS_LIMITS_READ", 
-			"CREDIT_CARDS_ACCOUNTS_TRANSACTIONS_READ", 
-			"CUSTOMERS_BUSINESS_IDENTIFICATIONS_READ", 
-			"CUSTOMERS_BUSINESS_ADITTIONALINFO_READ", 
-			"FINANCINGS_READ", 
-			"FINANCINGS_SCHEDULED_INSTALMENTS_READ",
-			"FINANCINGS_PAYMENTS_READ", 
-			"FINANCINGS_WARRANTIES_READ"
-			
+            "CREDIT_CARDS_ACCOUNTS_READ",
+            "CREDIT_CARDS_ACCOUNTS_BILLS_READ",
+            "CREDIT_CARDS_ACCOUNTS_BILLS_TRANSACTIONS_READ",
+            "CREDIT_CARDS_ACCOUNTS_LIMITS_READ",
+            "CREDIT_CARDS_ACCOUNTS_TRANSACTIONS_READ",
+            "CUSTOMERS_BUSINESS_IDENTIFICATIONS_READ",
+            "CUSTOMERS_BUSINESS_ADITTIONALINFO_READ",
+            "FINANCINGS_READ",
+            "FINANCINGS_SCHEDULED_INSTALMENTS_READ",
+            "FINANCINGS_PAYMENTS_READ",
+            "FINANCINGS_WARRANTIES_READ"
         ],
         "expirationDateTime": "2022-03-23T00:00:00Z",
         "transactionFromDateTime": "2021-09-01T00:00:00Z",
