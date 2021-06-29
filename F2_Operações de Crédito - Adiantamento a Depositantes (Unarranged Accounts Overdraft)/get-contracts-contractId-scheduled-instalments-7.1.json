@@ -1,0 +1,26 @@
+{
+    "data": {
+      "typeNumberOfInstalments": "MES",
+      "totalNumberOfInstalments": 130632,
+      "typeContractRemaining": "DIA",
+      "contractRemainingNumber": 14600,
+      "paidInstalments": 73,
+      "dueInstalments": 57,
+      "pastDueInstalments": 73,
+      "balloonPayments": [
+        {
+          "dueDate": "2020-01-10",
+          "currency": "BRL",
+          "amount": 100000.0474
+        }
+      ]
+    },
+    "links": {
+      "self": "https://api.baninter.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/5ef4185e-f1e5-n196-q51w-d5fv1e51f51s/scheduled-instalments"
+    },
+    "meta": {
+      "totalRecords": 1,
+      "totalPages": 1,
+      "requestDateTime": "2021-11-15T00:00:00Z"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "data": {
+      "contractNumber": "1324926521496",
+      "ipocCode": "0041696800001241842765041324926521496",
+      "productName": "AD",
+      "productType": "ADIANTAMENTO_A_DEPOSITANTES",
+      "productSubType": "ADIANTAMENTO_A_DEPOSITANTES",
+      "contractDate": "2018-01-05",
+      "disbursementDate": "2018-01-15",
+      "settlementDate": "2018-01-15",
+      "contractAmount": 100000.0474,
+      "currency": "BRL",
+      "dueDate": "2028-01-15",
+      "instalmentPeriodicity": "SEMANAL",
+      "instalmentPeriodicityAdditionalInfo": "NA",
+      "firstInstalmentDueDate": "2018-02-15",
+      "CET": 0.29,
+      "amortizationScheduled": "SAC",
+      "amortizationScheduledAdditionalInfo": "NA",
+      "interestRates": [
+        {
+          "taxType": "EFETIVA",
+          "interestRateType": "COMPOSTO",
+          "taxPeriodicity": "AM",
+          "calculation": "30/360",
+          "referentialRateIndexerType": "PRE_FIXADO",
+          "referentialRateIndexerSubType": "SEM_SUB_TIPO_INDEXADOR",
+          "referentialRateIndexerAdditionalInfo": "NA",
+          "preFixedRate": 0.6,
+          "postFixedRate": 0.55,
+          "additionalInfo": "NA"
+        }
+      ],
+      "contractedFees": [
+        {
+          "feeName": "Excesso em Conta",
+          "feeCode": "EXCESSO_CONTA",
+          "feeChargeType": "UNICA",
+          "feeCharge": "MINIMO",
+          "feeAmount": 100000.0474,
+          "feeRate": 50
+        }
+      ],
+      "contractedFinanceCharges": [
+        {
+          "chargeType": "MULTA_ATRASO_PAGAMENTO",
+          "chargeAdditionalInfo": "NA",
+          "chargeRate": 0.07
+        }
+      ]
+    },
+    "links": {
+      "self": "https://api.baninter.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/5ef4185e-f1e5-n196-q51w-d5fv1e51f51s"
+    },
+    "meta": {
+      "totalRecords": 1,
+      "totalPages": 1,
+      "requestDateTime": "2021-11-15T00:00:00Z"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "data": [
+      {
+        "currency": "BRL",
+        "warrantyType": "GARANTIA_FIDEJUSSORIA",
+        "warrantySubType": "PESSOA_FISICA",
+        "warrantyAmount": 100000.0474
+      }
+    ],
+    "links": {
+      "self": "https://api.baninter.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/5ef4185e-f1e5-n196-q51w-d5fv1e51f51s/warranties"
+    },
+    "meta": {
+      "totalRecords": 1,
+      "totalPages": 1,
+      "requestDateTime": "2021-11-15T00:00:00Z"
+    }
+}

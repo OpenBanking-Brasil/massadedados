@@ -1,0 +1,20 @@
+{
+    "data": [
+      {
+        "contractId": "5ef4185e-f1e5-n196-q51w-d5fv1e51f51s",
+        "brandName": "Banco Inter S.A.",
+        "companyCnpj": "00416968000101",
+        "productType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "productSubType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "ipocCode": "0041696800001241842765041324926521496"
+      }
+    ],
+    "links": {
+      "self": "https://api.baninter.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts"
+    },
+    "meta": {
+      "totalRecords": 1,
+      "totalPages": 1,
+      "requestDateTime": "2021-11-15T00:00:00Z"
+    }
+}

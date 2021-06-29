@@ -1,0 +1,31 @@
+{
+    "data": {
+        "consentId": "urn:baninter:BIT418548546",
+        "creationDateTime": "2021-11-15T00:00:00Z",
+        "status": "AUTHORISED",
+        "statusUpdateDateTime": "2021-11-15T00:00:00Z",
+        "permissions": [
+            "ACCOUNTS_READ",
+            "ACCOUNTS_BALANCES_READ",
+            "ACCOUNTS_TRANSACTIONS_READ",
+            "ACCOUNTS_OVERDRAFT_LIMITS_READ",
+            "CUSTOMERS_PERSONAL_IDENTIFICATIONS_READ",
+            "CUSTOMERS_PERSONAL_ADITTIONALINFO_READ",
+            "UNARRANGED_ACCOUNTS_OVERDRAFT_READ",
+            "UNARRANGED_ACCOUNTS_OVERDRAFT_WARRANTIES_READ",
+            "UNARRANGED_ACCOUNTS_OVERDRAFT_SCHEDULED_INSTALMENTS_READ",
+            "UNARRANGED_ACCOUNTS_OVERDRAFT_PAYMENTS_READ" 
+        ],
+        "expirationDateTime": "2022-11-15T22:00:00Z",
+        "transactionFromDateTime": "2021-11-15T00:00:00Z",
+        "transactionToDateTime": "2022-11-15T22:00:00Z"
+    },
+    "links": {
+        "self": "https://api.baninter.com.br/open-banking/consents/v1/consents/urn:baninter:BIT418548546"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-11-15T00:00:00Z"
+    }
+}

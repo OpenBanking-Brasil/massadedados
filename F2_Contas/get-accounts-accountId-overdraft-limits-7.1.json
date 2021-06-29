@@ -1,0 +1,18 @@
+{
+    "data": {
+      "overdraftContractedLimit": 850.0000,
+      "overdraftContractedLimitCurrency": "BRL",
+      "overdraftUsedLimit": 0.0000,
+      "overdraftUsedLimitCurrency": "BRL",
+      "unarrangedOverdraftAmount": 850.0000,
+      "unarrangedOverdraftAmountCurrency": "BRL"
+    },
+    "links": {
+      "self": "https://api.baninter.com.br/open-banking/accounts/v1/accounts/92792126019929279212650822221989319252576/overdraft-limits"
+    },
+    "meta": {
+      "totalRecords": 1,
+      "totalPages": 1,
+      "requestDateTime": "2021-05-21T08:30:00Z"
+    }
+}
