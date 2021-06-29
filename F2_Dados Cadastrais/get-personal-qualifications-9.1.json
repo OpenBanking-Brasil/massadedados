@@ -6,12 +6,12 @@
         "occupationDescription": "Jornalista",
         "informedIncome": {
             "frequency": "MENSAL",
-            "amount": 4570.5,
+            "amount": 4570.5000,
             "currency": "BRL",
             "date": "2021-05-20"
         },
         "informedPatrimony": {
-            "amount": 10000.45,
+            "amount": 10000.4500,
             "currency": "BRL",
             "year": 2020
         }
