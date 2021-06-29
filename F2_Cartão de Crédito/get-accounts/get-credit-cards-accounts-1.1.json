@@ -2,8 +2,8 @@
   "data": [
     {
       "creditCardAccountId": "PIITR3459087",
-      "brandName": "Sib Bank",
-      "companyCnpj": "40156018000100",
+      "brandName": "Banco do Brasil S.A",
+      "companyCnpj": "00000000000191",
       "name": "Dinners Grafite",
       "productType": "GRAFITE",
       "productAdditionalInfo": "Dinners Elo Grafite",
@@ -12,7 +12,7 @@
     }
   ],
   "links": {
-    "self": "https://api.banco.com.br/open-banking/credit-cards-accounts/v1/accounts"
+    "self": "https://opendata.api.bb.com.br/open-banking/credit-cards-accounts/v1/accounts"
   },
   "meta": {
     "totalRecords": 1,
