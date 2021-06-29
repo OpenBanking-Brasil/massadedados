@@ -1,17 +1,17 @@
 {
     "data": {
         "updateDateTime": "2021-05-21T14:00:00Z",
-        "companyCnpj": "00000000000191",
+        "companyCnpj": "00360305000104",
         "occupationCode": "CBO",
-        "occupationDescription": "Sócio proprietário de restaurante - conta própria",
+        "occupationDescription": "Game designer",
         "informedIncome": {
             "frequency": "MENSAL",
-            "amount": 14570.9700,
+            "amount": 16752.64,
             "currency": "BRL",
             "date": "2021-05-20"
         },
         "informedPatrimony": {
-            "amount": 407885.1400,
+            "amount": 256200.26,
             "currency": "BRL",
             "year": 2020
         }
