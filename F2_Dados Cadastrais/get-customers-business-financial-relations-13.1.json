@@ -21,8 +21,7 @@
         "branchCode": "0352",
         "number": "78779802",
         "checkDigit": "5",
-        "type": "CONTA_DEPOSITO_A_VISTA",
-        "subtype": "INDIVIDUAL"
+        "type": "CONTA_DEPOSITO_A_VISTA"
       }
     ]
   },
