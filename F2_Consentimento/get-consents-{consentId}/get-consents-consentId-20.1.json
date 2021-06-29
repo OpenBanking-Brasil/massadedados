@@ -22,7 +22,7 @@
         "transactionToDateTime": "2022-01-05T00:00:00Z"
     },
     "links": {
-        "self": "https://super.api.santander.com.br/open-banking/consents/v1/consents/urn:bb:BB96825411"
+        "self": "https://super.api.santander.com.br/open-banking/consents/v1/consents/urn:santander:BSB91020866"
     },
     "meta": {
         "totalRecords": 1,
