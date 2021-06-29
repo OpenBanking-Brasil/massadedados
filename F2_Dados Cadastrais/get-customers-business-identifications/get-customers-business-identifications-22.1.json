@@ -23,17 +23,17 @@
                 {
                     "personType": "PESSOA_NATURAL",
                     "type": "ADMINISTRADOR",
-                    "civilName": "Francisco Marcos Igor Rezende",
+                    "civilName": "Fabrice Rezende",
                     "socialName": "NA",
                     "companyName": "Bice Bicicletas Ltda",
                     "tradeName": "Bice Bicicletas",
                     "startDate": "2010-02-28T10:35:00Z",
                     "shareholding": "0.40",
                     "documentType": "CPF",
-                    "documentNumber": "88355604113",
+                    "documentNumber": "94478415030",
                     "documentAdditionalInfo": "NA",
                     "documentCountry": "BRA",
-                    "documentExpirationDate": "2028-04-01",
+                    "documentExpirationDate": "NA",
                     "documentIssueDate": "2018-04-01"
                 },
                 {
@@ -164,6 +164,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-06-29T09:31:00Z"
+        "requestDateTime": "2021-09-03T09:31:00Z"
     }
 }
