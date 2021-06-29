@@ -28,8 +28,7 @@
         "branchCode": "2136",
         "number": "69880123",
         "checkDigit": "7",
-        "type": "CONTA_DEPOSITO_A_VISTA",
-        "subtype": "INDIVIDUAL"
+        "type": "CONTA_DEPOSITO_A_VISTA"
       }
     ]
   },
