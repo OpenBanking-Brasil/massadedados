@@ -1,11 +1,10 @@
 {
     "data": {
         "consentId": "urn:bradesco:BDC10682262",
-        "creationDateTime": "2021-05-28T10:30:00Z",
+        "creationDateTime": "2021-09-01T00:00:00Z",
         "status": "AUTHORISED",
-        "statusUpdateDateTime": "2021-05-28T10:45:00Z",
+        "statusUpdateDateTime": "2021-10-01T00:00:00Z",
         "permissions": [
-		
             "CREDIT_CARDS_ACCOUNTS_READ",
             "CREDIT_CARDS_ACCOUNTS_BILLS_READ",
             "CREDIT_CARDS_ACCOUNTS_BILLS_TRANSACTIONS_READ",
@@ -17,18 +16,17 @@
             "INVOICE_FINANCINGS_SCHEDULED_INSTALMENTS_READ",
             "INVOICE_FINANCINGS_PAYMENTS_READ",
             "INVOICE_FINANCINGS_WARRANTIES_READ"
-			
         ],
         "expirationDateTime": "2022-04-01T00:00:00Z",
         "transactionFromDateTime": "2021-10-01T00:00:00Z",
         "transactionToDateTime": "2022-04-01T00:00:00Z"
     },
     "links": {
-        "self": "https://api.bradesco.com/open-banking/consents/v1/consents/urn:bb:BB96825411"
+        "self": "https://api.bradesco.com/open-banking/consents/v1/consents/urn:bradesco:BDC10682262"
     },
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-05-28T11:04:00Z"
+        "requestDateTime": "2021-10-01T00:00:00Z"
     }
 }
