@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
+            "dueDate": "2021-08-05",
+            "billTotalAmount": 5816.8900,
+            "billTotalAmountCurrency": "BRL",
+            "billMinimumAmount": 58.1689,
+            "billMinimumAmountCurrency": "BRL",
+            "isInstalment": true,
+            "financeCharges": [
+                {
+                    "type": "SEM_ENCARGO",
+                    "amount": 0,
+                    "currency": "BRL"
+                }
+            ],
+            "payments": [
+                {
+                    "valueType": "VALOR_PAGAMENTO_FATURA_PARCELADO",
+                    "paymentDate": "2021-08-04",
+                    "paymentMode": "DEBITO_CONTA_CORRENTE",
+                    "amount": 2908.4450,
+                    "currency": "BRL"
+                },
+                {
+                    "valueType": "VALOR_PAGAMENTO_FATURA_PARCELADO",
+                    "paymentDate": "2021-09-04",
+                    "paymentMode": "DEBITO_CONTA_CORRENTE",
+                    "amount": 2908.4450,
+                    "currency": "BRL"
+                }
+            ]
+        }
+    ],
+    "links": {
+        "self": "https://api.caixa.com.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-08-28T08:19:00Z"
+    }
+} 
