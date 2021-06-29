@@ -5,10 +5,10 @@
       "personalId": "a67-c9de-k58f11eb85-25524",
       "brandName": "Banco Itaú Unibanco S.A.",
       "civilName": "Estevão Rodrigues Ribas",
-      "socialName": "",
+      "socialName": "NA",
       "birthDate": "1982-02-18",					
-      "maritalStatusCode": "UNIÃO ESTÁVEL",
-      "maritalStatusAdditionalInfo": "",
+      "maritalStatusCode": "UNIAO_ESTAVEL",
+      "maritalStatusAdditionalInfo": "NA",
       "sex": "MASCULINO",
       "companyCnpj": [
         "60701190000104"
@@ -25,7 +25,7 @@
           "type": "CNH",
           "typeAdditionalInfo": "NA",
           "number": "83582684",
-          "checkDigit": "B",
+          "checkDigit": "NA",
           "additionalInfo": "SSP/RJ",
           "expirationDate": "2022-05-06"	
         }
@@ -33,15 +33,15 @@
       "hasBrazilianNationality": true,
       "nationality": [
         {
-          "otherNationalitiesInfo": "",
+          "otherNationalitiesInfo": "NA",
           "documents": [
             {
-              "type": "",
-              "number": "",
-              "expirationDate": "",
-              "issueDate": "",
-              "country": "",
-              "typeAdditionalInfo": ""
+              "type": "NA",
+              "number": "NA",
+              "expirationDate": "NA",
+              "issueDate": "NA",
+              "country": "NA",
+              "typeAdditionalInfo": "NA"
             }
           ]
         }
@@ -58,7 +58,7 @@
           {
             "isMain": true,
             "address": "Rua F, 162",
-            "additionalInfo": "",
+            "additionalInfo": "NA",
             "districtName": "São José do Imbassaí",
             "townName": "Maricá",
             "ibgeTownCode": "3302700",
@@ -80,7 +80,7 @@
             "countryCallingCode": "55",
             "areaCode": "21",
             "number": "996567682",
-            "phoneExtension": ""
+            "phoneExtension": "0"
           }
         ],
         "emails": [
@@ -93,7 +93,7 @@
     }
   ],
   "links": {
-    "self": "https://api.banco.com.br/open-banking/customers/v1/personal/identifications"
+    "self": "https://api.itau/open-banking/customers/v1/personal/identifications"
   },
   "meta": {
     "totalRecords": 1,
