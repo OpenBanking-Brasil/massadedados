@@ -1,23 +1,23 @@
 {
     "data": {
         "contractNumber": "15719158502",
-        "ipocCode": "92702067020211571915850215719158502",
+        "ipocCode": "0036030500010402151157191585021",
         "productName": "Capital de Giro com Prazo de Vencimento até 365 dias",
         "productType": "EMPRESTIMOS",
         "productSubType": "CAPITAL_GIRO_PRAZO_VENCIMENTO_ATE_365_DIAS",
         "contractDate": "2019-11-24",
         "disbursementDate": "2019-11-24",
         "settlementDate": "2020-11-24",
-        "contractAmount": 100000.00,
+        "contractAmount": 100000.0000,
         "currency": "BRL",
         "dueDate": "2020-05-24",
         "instalmentPeriodicity": "TRIMESTRAL",
         "instalmentPeriodicityAdditionalInfo": "NA",
         "firstInstalmentDueDate": "2019-12-24",
         "CET": 0.0234,
-        "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
+        "amortizationScheduled": "SAM",
         "amortizationScheduledAdditionalInfo": "NA",
-        "cnpjConsignee": "92702067000196",
+        "cnpjConsignee": "00360305000104",
         "interestRates": [
             {
                 "taxType": "NOMINAL",
@@ -37,7 +37,7 @@
                 "feeName": "Taxa de manutenção",
                 "feeCode": "MANUTENCAO",
                 "feeChargeType": "POR_PARCELA",
-                "feeCharge": "Percentual",
+                "feeCharge": "PERCENTUAL",
                 "feeAmount": 100,
                 "feeRate": 0.0100
             }
@@ -51,11 +51,11 @@
         ]
     },
     "links": {
-        "self": "https://api.banco.com.br/open-banking/loans/v1/contracts/377aa88d-8905-3847-ad8f-c80d9e47f907"
+        "self": "https://api.caixa.gov.br/open-banking/loans/v1/contracts/377aa88d-8905-3847-ad8f-c80d9e47f907"
     },
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-06-04T13:56:00Z"
+        "requestDateTime": "2021-10-26T00:00:00Z"
     }
 }

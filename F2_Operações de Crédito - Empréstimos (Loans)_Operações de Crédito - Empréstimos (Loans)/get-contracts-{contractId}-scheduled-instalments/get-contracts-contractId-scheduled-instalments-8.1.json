@@ -11,26 +11,21 @@
             {
                 "dueDate": "2019-12-30",
                 "currency": "BRL",
-                "amount": 17500.00
-            },
-            {
-                "dueDate": "2020-03-04",
-                "currency": "BRL",
-                "amount": 9300.00
+                "amount": 17500.0000
             },
             {
                 "dueDate": "2020-07-19",
                 "currency": "BRL",
-                "amount": 7600.00
+                "amount": 7500.0000
             }
         ]
     },
     "links": {
-        "self": "https://api.banco.com.br/open-banking/loans/v1/contracts/377aa88d-8905-3847-ad8f-c80d9e47f907/scheduled-instalments"
+        "self": "https://api.caixa.gov.br/open-banking/loans/v1/contracts/377aa88d-8905-3847-ad8f-c80d9e47f907/scheduled-instalments"
     },
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-06-09T15:27:00Z"
+        "requestDateTime": "2021-10-26T00:00:00Z"
     }
 }
