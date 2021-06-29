@@ -22,7 +22,7 @@
         "transactionToDateTime": "2022-09-01T00:00:00Z"
     },
     "links": {
-        "self": "https://api.itau/open-banking/consents/v1/consents/urn:bb:BB96825411"
+        "self": "https://api.itau/open-banking/consents/v1/consents/urn:itau:ITU48572287"
     },
     "meta": {
         "totalRecords": 1,
