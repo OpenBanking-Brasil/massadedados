@@ -1,15 +1,15 @@
 {
     "data": {
-        "compeCode": "001",
-        "branchCode": "1478",
-        "number": "94088392",
-        "checkDigit": "4",
+        "compeCode": "341",
+        "branchCode": "0004",
+        "number": "04088",
+        "checkDigit": "0",
         "type": "CONTA_DEPOSITO_A_VISTA",
         "subtype": "INDIVIDUAL",
         "currency": "BRL"
     },
     "links": {
-        "self": "https://opendata.api.bb.com.br/open-banking/accounts/v1/accounts/291e5a29-49ed-401f-a583-193caa7ac79d"
+        "self": "https://api.itau/open-banking/accounts/v1/accounts/ba0471bc-d910-11eb-b8bc-0242ac130003"
     },
     "meta": {
         "totalRecords": 1,
