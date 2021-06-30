@@ -53,7 +53,7 @@
     ]
   },
   "links": {
-    "self": "https://api.banco.com.br/open-banking/customers/v1/personal/financial-relations"
+    "self": "https://opendata.api.bb.com.br/open-banking/customers/v1/personal/financial-relations"
   },
   "meta": {
     "totalRecords": 11,
