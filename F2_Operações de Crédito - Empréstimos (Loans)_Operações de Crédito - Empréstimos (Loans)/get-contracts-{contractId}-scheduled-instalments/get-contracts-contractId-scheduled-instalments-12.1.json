@@ -1,0 +1,31 @@
+{
+    "data": {
+        "typeNumberOfInstalments": "TRIMESTRAL",
+        "totalNumberOfInstalments": 5,
+        "typeContractRemaining": "TRIMESTRAL",
+        "contractRemainingNumber": 0,
+        "paidInstalments": 5,
+        "dueInstalments": 0,
+        "pastDueInstalments": 1,
+        "balloonPayments": [
+            {
+                "dueDate": "2010-02-17",
+                "currency": "BRL",
+                "amount": 540.00
+            },
+            {
+                "dueDate": "2010-03-01",
+                "currency": "BRL",
+                "amount": 260.00
+            }
+        ]
+    },
+    "links": {
+        "self": "https://api.caixa.com.br/open-banking/loans/v1/contracts/64efa400-db34-11eb-8d19-0242ac130003/scheduled-instalments"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-09-16T20:04:10Z"
+    }
+}

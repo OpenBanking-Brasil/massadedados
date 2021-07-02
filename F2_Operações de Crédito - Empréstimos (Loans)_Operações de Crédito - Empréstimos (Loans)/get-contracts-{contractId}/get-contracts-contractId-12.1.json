@@ -1,0 +1,70 @@
+{
+    "data": {
+        "contractNumber": "546210548754",
+        "ipocCode": "00360305020312872886281303666985210587841",
+        "productName": "Crédito pessoal- sem consignação em folha de pagam.",
+        "productType": "EMPRESTIMOS",
+        "productSubType": "CREDITO_PESSOAL_SEM_CONSIGNACAO",
+        "contractDate": "2009-07-04",
+        "settlementDate": "2009-07-04",
+        "contractAmount": 5000.00,
+        "currency": "BRL",
+        "dueDate": "2010-07-04",
+        "instalmentPeriodicity": "TRIMESTRAL",
+        "instalmentPeriodicityAdditionalInfo": "NA",
+        "firstInstalmentDueDate": "2009-10-04",
+        "CET": 0.05,
+        "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
+        "amortizationScheduledAdditionalInfo": "NA",
+        "cnpjConsignee": "00360305000104",
+        "interestRates": [
+            {
+                "taxType": "EFETIVA",
+                "interestRateType": "SIMPLES",
+                "taxPeriodicity": "AA",
+                "calculation": "30/365",
+                "referentialRateIndexerType": "POS_FIXADO",
+                "referentialRateIndexerSubType": "CDI",
+                "referentialRateIndexerAdditionalInfo": "NA",
+                "preFixedRate": 0.0000,
+                "postFixedRate": 0.036,
+                "additionalInfo": "NA"
+            }
+        ],
+        "contractedFees": [
+            {
+                "feeName": "Taxa de adesão",
+                "feeCode": "ADESAO",
+                "feeChargeType": "POR_PARCELA",
+                "feeCharge": "FIXO",
+                "feeAmount": 89.9000,
+                "feeRate": 0.0
+            }
+        ],
+        "contractedFinanceCharges": [
+            {
+                "chargeType": "MULTA_ATRASO_PAGAMENTO",
+                "chargeAdditionalInfo": "Multa para casos de atraso de pagamento.",
+                "chargeRate": 0.0100
+            },
+            {
+                "chargeType": "IOF_POR_ATRASO",
+                "chargeAdditionalInfo": "Imposto sobre Operações Financeiras para casos de atraso de pagamento.",
+                "chargeRate": 0.0250
+            },
+            {
+                "chargeType": "IOF_CONTRATACAO",
+                "chargeAdditionalInfo": "Imposto sobre Operações Financeiras para contratação do financiamento.",
+                "chargeRate": 0.0080
+            }
+        ]
+    },
+    "links": {
+        "self": "https://api.caixa.com.br/open-banking/loans/v1/contracts/64efa400-db34-11eb-8d19-0242ac130003"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-09-16T22:52:00Z"
+    }
+}

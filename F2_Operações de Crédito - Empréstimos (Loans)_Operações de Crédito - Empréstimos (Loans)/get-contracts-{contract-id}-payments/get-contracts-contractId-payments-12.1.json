@@ -1,0 +1,199 @@
+{
+    "data": {
+        "paidInstalments": 7,
+        "contractOutstandingBalance": 0.0000,
+        "releases": [
+            {
+                "paymentId": "8c7b7d96-db57-11eb-8d19-0242ac130003",
+                "isOverParcelPayment": false,
+                "instalmentId": "8c7b8796-f45b-4358-8d19-0242ac130003",
+                "paidDate": "2009-07-04",
+                "currency": "BRL",
+                "paidAmount": 1000.0000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "Juros",
+                            "feeCode": "JUROS",
+                            "feeAmount": 180.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "Taxa de adesão",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 89.9000
+                        },
+                        {
+                            "chargeType": "IOF_CONTRATACAO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 40.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "a8dbc400-78a2-4358-aa1e-b6db2613e2eb",
+                "isOverParcelPayment": false,
+                "instalmentId": "a1fb1942-db57-11eb-8d19-0242ac130003",
+                "paidDate": "2009-10-04",
+                "currency": "BRL",
+                "paidAmount": 1000.0000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "Juros",
+                            "feeCode": "JUROS",
+                            "feeAmount": 180.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "Taxa de adesão",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 89.9000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "b389fe30-db57-11eb-8d19-0242ac130003",
+                "isOverParcelPayment": false,
+                "instalmentId": "c018a8fe-c80f-3ef8-b9b2-10814fe05da6",
+                "paidDate": "2010-01-04",
+                "currency": "BRL",
+                "paidAmount": 200.0000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "Juros",
+                            "feeCode": "JUROS",
+                            "feeAmount": 180.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "Taxa de adesão",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 89.9000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "7d5f7dc9-619c-3d1d-a5df-764934c089cc",
+                "isOverParcelPayment": true,
+                "instalmentId": "7cbe17cf-8891-38e4-9c5e-9efb3cb748e3",
+                "paidDate": "2010-02-17",
+                "currency": "BRL",
+                "paidAmount": 540.0000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "MULTA_ATRASO_PAGAMENTO",
+                            "chargeAdditionalInfo": "Multa",
+                            "chargeAmount": 5.4000
+                        },
+                        {
+                            "chargeType": "IOF_POR_ATRASO",
+                            "chargeAdditionalInfo": "Multa",
+                            "chargeAmount": 13.5000
+                        },
+                    ]
+                }
+            }
+            {
+                "paymentId": "7c25568a-139e-3ccf-b9bc-d36921246971",
+                "isOverParcelPayment": true,
+                "instalmentId": "04815e07-cffb-3ca8-a64e-763001673209",
+                "paidDate": "2010-03-01",
+                "currency": "BRL",
+                "paidAmount": 260.0000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "MULTA_ATRASO_PAGAMENTO",
+                            "chargeAdditionalInfo": "Multa",
+                            "chargeAmount": 2.6000
+                        },
+                        {
+                            "chargeType": "IOF_POR_ATRASO",
+                            "chargeAdditionalInfo": "Multa",
+                            "chargeAmount": 6.5000
+                        },
+                    ]
+                }
+            },
+            {
+                "paymentId": "a00cfe7c-a71e-3b93-a4c7-3cec9ba247bd",
+                "isOverParcelPayment": false,
+                "instalmentId": "71f6840a-74cc-371a-989b-eadaad906806",
+                "paidDate": "2010-04-04",
+                "currency": "BRL",
+                "paidAmount": 1000.0000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "Juros",
+                            "feeCode": "JUROS",
+                            "feeAmount": 180.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "Taxa de adesão",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 89.9000
+                        }
+                    ]
+                }
+            }
+            {
+                "paymentId": "74ef0dbc-7d06-343d-862e-90349c4e21eb",
+                "isOverParcelPayment": false,
+                "instalmentId": "e2c37d99-34d1-37d2-91f9-48cc8e56abd3",
+                "paidDate": "2010-07-04",                
+                "currency": "BRL",
+                "paidAmount": 7500.0000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "Juros",
+                            "feeCode": "JUROS",
+                            "feeAmount": 180.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "Taxa de adesão",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 89.9000
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "links": {
+        "self": "https://api.caixa.gov.br/open-banking/loans/v1/contracts/64efa400-db34-11eb-8d19-0242ac130003/payments"
+    },
+    "meta": {
+        "totalRecords": 7,
+        "totalPages": 1,
+        "requestDateTime": "2021-09-16T20:36:17Z"
+    }
+}
