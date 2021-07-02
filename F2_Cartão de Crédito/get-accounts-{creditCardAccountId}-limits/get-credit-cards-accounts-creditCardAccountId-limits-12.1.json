@@ -3,24 +3,23 @@
         {
             "creditLineLimitType": "LIMITE_CREDITO_TOTAL",
             "consolidationType": "INDIVIDUAL",
-            "identificationNumber": "0000",
-            "lineName": "OUTROS",
-            "lineNameAdditionalInfo": "Sem limite para cheque eletrônico.",
+            "identificationNumber": "0126",
+            "lineName": "CREDITO_PARCELADO",
             "isLimitFlexible": true,
             "limitAmountCurrency": "BRL",
-            "limitAmount": 3000.0000,
+            "limitAmount": 11000.0000,
             "usedAmountCurrency": "BRL",
-            "usedAmount": 2368.4870,
+            "usedAmount": 11000.0000,
             "availableAmountCurrency": "BRL",
-            "availableAmount": 631.513
+            "availableAmount": 0.0000
         }
     ],
     "links": {
-        "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/87684e13-3f03-3c4e-b00a-2b9f2f8215c0/limits"
+        "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/limits"
     },
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-06-24T16:32:59Z"
+        "requestDateTime": "2021-09-10T16:32:59Z"
     }
 }

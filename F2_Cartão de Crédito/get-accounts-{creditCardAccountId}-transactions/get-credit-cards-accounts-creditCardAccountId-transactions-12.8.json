@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "transactionId": "14d26260-d9b2-11eb-b8bc-0242ac130003",
+            "identificationNumber": "0126",
+            "lineName": "CREDITO_A_VISTA",
+            "transactionName": "ANUIDADE",
+            "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
+            "creditDebitType": "DEBITO",
+            "transactionType": "OPERACOES_CREDITO_CONTRATADAS_CARTAO",
+            "transactionalAdditionalInfo": "NA",
+            "paymentType": "A_VISTA",
+            "feeType": "ANUIDADE",
+            "feeTypeAdditionalInfo": "NA",
+            "otherCreditsType": "CREDITO_ROTATIVO",
+            "otherCreditsAdditionalInfo": "NA",
+            "chargeIdentificator": "PARCELA_1",
+            "chargeNumber": 1,
+            "brazilianAmount": 163.0200,
+            "amount": 0.0000,
+            "currency": "BRL",
+            "transactionDate": "2021-07-18",
+            "billPostDate": "2021-07-18",
+            "payeeMCC": 4900
+        }
+    ],
+    "links": {
+        "self": "https://api.caixa.com.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=1&page-size=1&transactionType=OPERACOES_CREDITO_CONTRATADAS_CARTAO",
+        "first": "https://api.caixa.com.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=1&page-size=1&transactionType=OPERACOES_CREDITO_CONTRATADAS_CARTAO",
+        "next": "https://api.caixa.com.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=2&page-size=1&transactionType=OPERACOES_CREDITO_CONTRATADAS_CARTAO",
+        "last": "https://api.caixa.com.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=2&page-size=1&transactionType=OPERACOES_CREDITO_CONTRATADAS_CARTAO",
+    },
+    "meta": {
+        "totalRecords": 2,
+        "totalPages": 2,
+        "requestDateTime": "2021-08-30T02:10:02Z"
+    }
+} 

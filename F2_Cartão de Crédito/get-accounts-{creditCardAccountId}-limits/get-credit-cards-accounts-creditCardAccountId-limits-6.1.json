@@ -1,31 +1,21 @@
 {
     "data": [
         {
-            "transactionId": "83cef05c-d458-11eb-b8bc-0242ac130003",
+            "creditLineLimitType": "LIMITE_CREDITO_TOTAL",
+            "consolidationType": "CONSOLIDADO",
             "identificationNumber": "5489",
             "lineName": "SAQUE_CREDITO_BRASIL",
-            "transactionName": "SAQUE",
-            "billId": "75dd9322-d458-11eb-b8bc-0242ac130003",
-            "creditDebitType": "DEBITO",
-            "transactionType": "OPERACOES_CREDITO_CONTRATADAS_CARTAO",
-            "transactionalAdditionalInfo": "NA",
-            "paymentType": "A_VISTA",
-            "feeType": "SAQUE_CARTAO_BRASIL",
-            "feeTypeAdditionalInfo": "NA",
-            "otherCreditsType": "CREDITO_ROTATIVO",
-            "otherCreditsAdditionalInfo": "NA",
-            "chargeIdentificator": "PARCELA_1",
-            "chargeNumber": 1,
-            "brazilianAmount": 2102.7700,
-            "amount": 0.0000,
-            "currency": "BRL",
-            "transactionDate": "2021-01-14",
-            "billPostDate": "2021-01-15",
-            "payeeMCC": 5992
+            "isLimitFlexible": true,
+            "limitAmountCurrency": "BRL",
+            "limitAmount": 18400.0000,
+            "usedAmountCurrency": "BRL",
+            "usedAmount": 102.0000,
+            "availableAmountCurrency": "BRL",
+            "availableAmount": 18298.0000
         }
     ],
     "links": {
-        "self": "https://api.sicredi.com.br/open-banking/credit-cards-accounts/v1/accounts/608b1ae4-d458-11eb-b8bc-0242ac130003/transactions"
+        "self": "https://api.sicredi.com.br/open-banking/credit-cards-accounts/v1/accounts/608b1ae4-d458-11eb-b8bc-0242ac130003/limits"
     },
     "meta": {
         "totalRecords": 1,
