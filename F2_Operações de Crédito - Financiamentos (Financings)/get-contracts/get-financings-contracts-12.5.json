@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "contractId": "21856667403127921183690253334871953321458",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "productType": "FINANCIAMENTOS_IMOBILIARIOS",
+      "productSubType": "AQUISICAO_BENS_OUTROS_BENS",
+      "ipocCode": "00360305040212872886281368996510247547152" 
+    }
+  ],
+  "links": {
+    "self": "https://api.caixa.gov.br/open-banking/financings/v1/contracts?page=3&page-size=2",
+    "first": "https://api.caixa.gov.br/open-banking/financings/v1/contracts?page=1&page-size=2",
+    "prev": "https://api.caixa.gov.br/open-banking/financings/v1/contracts?page=2&page-size=2",
+    "last": "https://api.caixa.gov.br/open-banking/financings/v1/contracts?page=3&page-size=2"
+  },
+  "meta": {
+    "totalRecords": 5,
+    "totalPages": 3,
+    "requestDateTime": "2021-09-02T08:39:00Z"
+  }
+} 
