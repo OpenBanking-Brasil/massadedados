@@ -1,0 +1,82 @@
+{
+    "data": [
+        {
+            "billId": "43a15d0f-b61e-36ea-9dc7-9b2377db9dd5",
+            "dueDate": "2021-06-10",
+            "billTotalAmount": 1018.5096,
+            "billTotalAmountCurrency": "BRL",
+            "billMinimumAmount": 305.9683,
+            "billMinimumAmountCurrency": "BRL",
+            "isInstalment": false,
+            "financeCharges": [
+                {
+                    "type": "MULTA_ATRASO_PAGAMENTO_FATURA",
+                    "additionalInfo": "NA",
+                    "amount": 65.9600,
+                    "currency": "BRL"
+                },
+                {
+                    "type": "IOF",
+                    "additionalInfo": "NA",
+                    "amount": 35.5400,
+                    "currency": "BRL"
+                },
+                {
+                    "type": "JUROS_MORA_ATRASO_PAGAMENTO_FATURA",
+                    "additionalInfo": "NA",
+                    "amount": 45.5982,
+                    "currency": "BRL"
+                },
+                {
+                    "type": "OUTROS",
+                    "additionalInfo": "Taxa referente ao acordo assinado pelo cliente para renegociação do atraso.",
+                    "amount": 106.9651,
+                    "currency": "BRL"
+                }
+            ],
+            "payments": [
+                {
+                    "valueType": "OUTRO_VALOR_PAGO_FATURA",
+                    "paymentDate": "2021-06-09",
+                    "paymentMode": "DEBITO_CONTA_CORRENTE",
+                    "amount": 1272.5729,
+                    "currency": "BRL"
+                }
+            ]
+        },
+        {
+            "billId": "f9672f09-3b9d-3d8b-9487-7df5626cdf00",
+            "dueDate": "2021-05-10",
+            "billTotalAmount": 328.4517,
+            "billTotalAmountCurrency": "BRL",
+            "billMinimumAmount": 59.9821,
+            "billMinimumAmountCurrency": "BRL",
+            "isInstalment": false,
+            "financeCharges": [
+                {
+                    "type": "SEM_ENCARGO",
+                    "additionalInfo": "NA",
+                    "amount": 0.0000,
+                    "currency": "BRL"
+                }
+            ],
+            "payments": [
+                {
+                    "valueType": "OUTRO_VALOR_PAGO_FATURA",
+                    "paymentDate": "2021-05-11",
+                    "paymentMode": "PIX",
+                    "amount": 59.9821,
+                    "currency": "BRL"
+                }
+            ]
+        }
+    ],
+    "links": {
+        "self": "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts/471856b2-cae3-31a6-b4f7-b3d13fe625ee/bills"
+    },
+    "meta": {
+        "totalRecords": 2,
+        "totalPages": 1,
+        "requestDateTime": "2021-12-10T09:56:47Z"
+    }
+}
