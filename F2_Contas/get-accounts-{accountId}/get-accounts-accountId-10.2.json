@@ -1,0 +1,19 @@
+{
+    "data": {
+        "compeCode": "41",
+        "branchCode": "8956",
+        "number": "598615",
+        "checkDigit": "2",
+        "type": "CONTA_POUPANCA",
+        "subtype": "CONJUNTA_SOLIDARIA",
+        "currency": "BRL"
+    },
+    "links": {
+        "self": "https://openbanking.banrisul.com.br/open-banking/accounts/v1/accounts/5575b3ad-b534-3901-8be4-bac02436f02d"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-12-26T12:00:00Z"
+    }
+}
