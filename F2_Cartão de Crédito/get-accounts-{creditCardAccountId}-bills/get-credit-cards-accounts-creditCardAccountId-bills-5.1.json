@@ -13,13 +13,19 @@
                     "amount": 120.5400,
                     "currency": "BRL",
                     "type": "JUROS_REMUNERATORIOS_ATRASO_PAGAMENTO_FATURA"
+                },
+                {
+                    "additionalInfo": "NA",
+                    "amount": 220.2020,
+                    "currency": "BRL",
+                    "type": "MULTA_ATRASO_PAGAMENTO_FATURA"
                 }
             ],
             "isInstalment": false,
             "payments": [
                 {
                     "valueType": "OUTRO_VALOR_PAGO_FATURA",
-                    "paymentDate": "2021-06-10",
+                    "paymentDate": "2021-06-11",
                     "paymentMode": "BOLETO_BANCARIO",
                     "amount": 56.4000,
                     "currency": "BRL"
@@ -28,11 +34,11 @@
         }
     ],
     "links": {
-        "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/ITUCC2459012/bills"
+        "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/ITUCC2459012/bills?fromDueDate='2021-06-01'"
     },
     "meta": {
-        "totalRecords": 1,
+        "totalRecords": 2,
         "totalPages": 1,
-        "requestDateTime": "2021-06-15T09:41:00Z"
+        "requestDateTime": "2021-12-15T09:41:00Z"
     }
 }

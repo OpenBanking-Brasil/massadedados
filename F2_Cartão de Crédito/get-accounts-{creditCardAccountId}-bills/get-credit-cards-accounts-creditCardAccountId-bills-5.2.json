@@ -6,33 +6,40 @@
             "billMinimumAmountCurrency": "BRL",
             "billTotalAmount": 800.0000,
             "billTotalAmountCurrency": "BRL",
-            "dueDate": "2021-07-10",
+            "dueDate": "2021-11-10",
             "financeCharges": [
                 {
                     "additionalInfo": "NA",
-                    "amount": 231.9400,
+                    "amount": 0.0000,
                     "currency": "BRL",
-                    "type": "JUROS_REMUNERATORIOS_ATRASO_PAGAMENTO_FATURA"
+                    "type": "SEM_ENCARGO"
                 }
             ],
             "isInstalment": true,
             "payments": [
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_PARCELADO",
-                    "paymentDate": "2021-07-11",
+                    "paymentDate": "2021-07-10",
                     "paymentMode": "BOLETO_BANCARIO",
-                    "amount": 266.6666,
+                    "amount": 200.0000,
+                    "currency": "BRL"
+                },
+                {
+                    "valueType": "VALOR_PAGAMENTO_FATURA_PARCELADO",
+                    "paymentDate": "2021-08-10",
+                    "paymentMode": "BOLETO_BANCARIO",
+                    "amount": 200.0000,
                     "currency": "BRL"
                 }
             ]
         }
     ],
     "links": {
-        "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/ITUCC2459187/bills"
+        "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/ITUCC2459187/bills?fromDueDate='2021-07-01'&toDueDate='2021-09-01'"
     },
     "meta": {
-        "totalRecords": 1,
+        "totalRecords": 2,
         "totalPages": 1,
-        "requestDateTime": "2021-06-15T09:41:00Z"
+        "requestDateTime": "2021-12-15T09:41:00Z"
     }
 }

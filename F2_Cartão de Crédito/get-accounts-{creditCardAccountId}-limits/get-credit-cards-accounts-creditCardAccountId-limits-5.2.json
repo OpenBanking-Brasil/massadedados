@@ -8,11 +8,11 @@
             "lineNameAdditionalInfo": "NA",
             "isLimitFlexible": false,
             "limitAmountCurrency": "BRL",
-            "limitAmount": 23000.9761,
+            "limitAmount": 5000.0000,
             "usedAmountCurrency": "BRL",
-            "usedAmount": 800.0000,
+            "usedAmount": 0.0000,
             "availableAmountCurrency": "BRL",
-            "availableAmount": 22200.9761
+            "availableAmount": 5000.0000
         }
     ],
     "links": {
@@ -21,6 +21,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-06-15T09:41:00Z"
+        "requestDateTime": "2021-12-15T09:41:00Z"
     }
 }
