@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "CAIXA EMPRESARIAL",
+    "productType": "OUTROS",
+    "productAdditionalInfo": "EMPRESARIAL +",
+    "creditCardNetwork": "OUTRAS",
+    "networkAdditionalInfo": "CARTAO CAIXA EMPRESARIAL",
+    "paymentMethod": {
+      "identificationNumber": "5500",
+      "isMultipleCreditCard": false
+    }
+  },
+  "links": {
+    "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/5cd65564-db2c-11eb-8d19-0242ac130003"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-05-21T08:30:00Z"
+  }
+}

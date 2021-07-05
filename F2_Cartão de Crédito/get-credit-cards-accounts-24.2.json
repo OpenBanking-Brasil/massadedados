@@ -1,0 +1,464 @@
+{
+  "data": [
+    {
+      "creditCardAccountId": "5cd65564-db2c-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Elo Nanquim",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "ELO"
+    },
+    {
+      "creditCardAccountId": "601c977e-db2c-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Elo Grafite",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "ELO"
+    },
+    {
+      "creditCardAccountId": "63ad9686-db2c-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Elo Mais",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "ELO"
+    },
+    {
+      "creditCardAccountId": "75e1e6fe-db2c-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "​​Elo Diners Club",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "ELO"
+    },
+    {
+      "creditCardAccountId": "79ce061c-db2c-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Elo Mulher",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "ELO"
+    },
+    {
+      "creditCardAccountId": "91dc282e-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "​Elo SIM",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "ELO"
+    },
+    {
+      "creditCardAccountId": "91dc4958-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Elo SIMPLES",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "ELO"
+    },
+    {
+      "creditCardAccountId": "91dc4a0c-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Elo Mais",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "ELO"
+    },
+    {
+      "creditCardAccountId": "91dc4ac0-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Elo Grafite",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "ELO"
+    },
+    {
+      "creditCardAccountId": "91dc4d18-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Elo Nanquim",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "ELO"
+    },
+    {
+      "creditCardAccountId": "91dc2a90-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Elo Diners Club",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "ELO"
+    },
+    {
+      "creditCardAccountId": "91dc2b8a-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Vai de Visa",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "VISA"
+    },
+    {
+      "creditCardAccountId": "91dc2c52-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Visa SIM",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "VISA"
+    },
+    {
+      "creditCardAccountId": "91dc2fb8-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Internacional",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "VISA"
+    },
+    {
+      "creditCardAccountId": "91dc3076-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Infinite",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "VISA"
+    },
+    {
+      "creditCardAccountId": "91dc312a-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Platinum",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "VISA"
+    },
+    {
+      "creditCardAccountId": "91dc31e8-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "​Visa Mulher",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "VISA"
+    },
+    {
+      "creditCardAccountId": "91dc32a6-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Black",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "MASTERCARD"
+    },
+    {
+      "creditCardAccountId": "91dc335a-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Platinum",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "MASTERCARD"
+    },
+    {
+      "creditCardAccountId": "91dc340e-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Gold",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "MASTERCARD"
+    },
+    {
+      "creditCardAccountId": "91dc3698-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Nacional",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "MASTERCARD"
+    },
+    {
+      "creditCardAccountId": "91dc3760-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Black",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "MASTERCARD"
+    },
+    {
+      "creditCardAccountId": "91dc3814-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Plantinum",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "MASTERCARD"
+    },
+    {
+      "creditCardAccountId": "91dc38c8-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Internacional",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "MASTERCARD"
+    },
+    {
+      "creditCardAccountId": "91dc38c8-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Black",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "MASTERCARD"
+    },
+    {
+      "creditCardAccountId": "91dc3a30-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Gold",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "MASTERCARD"
+    },
+    {
+      "creditCardAccountId": "91dc3ae4-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Infinite",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "VISA"
+    },
+    {
+      "creditCardAccountId": "91dc3b98-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Platinum",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "VISA"
+    },
+    {
+      "creditCardAccountId": "91dc3ddc-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Gold",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "VISA"
+    },
+    {
+      "creditCardAccountId": "91dc3e9a-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Internacional",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "VISA"
+    },
+    {
+      "creditCardAccountId": "91dc3f58-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "​Visa Mulher",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "VISA"
+    },
+    {
+      "creditCardAccountId": "91dc400c-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Visa SIM",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "VISA"
+    },
+    {
+      "creditCardAccountId": "91dc421e-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Elo Diners Club",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "ELO"
+    },
+    {
+      "creditCardAccountId": "91dc421e-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Elo Mulher",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "ELO"
+    },
+    {
+      "creditCardAccountId": "91dc441c-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "​Elo SIM",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "ELO"
+    },
+    {
+      "creditCardAccountId": "91dc4674-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "​Elo SIMPLES",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "ELO"
+    },
+    {
+      "creditCardAccountId": "91dc4732-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Elo Mais",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "ELO"
+    },
+    {
+      "creditCardAccountId": "91dc47e6-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "​Elo SIMPLES",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "ELO"
+    },
+    {
+      "creditCardAccountId": "91dc48a4-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Elo Nanquim",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "ELO"
+    },
+    {
+      "creditCardAccountId": "91dc4d18-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Elo Nanquim",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "ELO"
+    },
+    {
+      "creditCardAccountId": "91dc4de0-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Elo Nanquim",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "ELO"
+    },
+    {
+      "creditCardAccountId": "91dc4e94-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Elo Nanquim",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "ELO"
+    },
+    {
+      "creditCardAccountId": "91dc4f48-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Elo Nanquim",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "ELO"
+    },
+    {
+      "creditCardAccountId": "91dc5006-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Elo Nanquim",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "ELO"
+    },
+    {
+      "creditCardAccountId": "91dc50ba-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Elo Nanquim",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "ELO"
+    },
+    {
+      "creditCardAccountId": "91dc516e-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Elo Nanquim",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "ELO"
+    },
+    {
+      "creditCardAccountId": "91dc53d0-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Elo Nanquim",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "ELO"
+    },
+    {
+      "creditCardAccountId": "91dc5498-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Elo Nanquim",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "ELO"
+    },
+    {
+      "creditCardAccountId": "91dc554c-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Elo Nanquim",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "ELO"
+    },
+    {
+      "creditCardAccountId": "91dc5600-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Elo Nanquim",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "ELO"
+    },
+    {
+      "creditCardAccountId": "91dc56be-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Elo Nanquim",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "ELO"
+    },
+    {
+      "creditCardAccountId": "91dc577c-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Elo Nanquim",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "ELO"
+    },
+    {
+      "creditCardAccountId": "91dc5830-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Elo Nanquim",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "ELO"
+    },
+    {
+      "creditCardAccountId": "91dc58ee-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Elo Nanquim",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "ELO"
+    },
+    {
+      "creditCardAccountId": "91dc5b28-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Elo Nanquim",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "ELO"
+    },
+    {
+      "creditCardAccountId": "91dc5bf0-db54-11eb-8d19-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Elo Nanquim",
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "ELO"
+    }
+  ],
+  "links": {
+    "first":"https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts?page=1&page-size=56",
+    "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts?page=2&page-size=56",
+    "prev": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts?page=1&page-size=56",
+    "next": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts?page=3&page-size=56",
+    "last": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts?page=3&page-size=56"
+  },
+  "meta": {
+    "totalRecords": 56,
+    "totalPages": 3,
+    "requestDateTime": "2021-05-21T08:30:00Z"
+  }
+}
