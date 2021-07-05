@@ -1,0 +1,69 @@
+{
+    "data": [
+        {
+            "transactionId": "e3930b9e-db66-11eb-8d19-0242ac130003",
+            "identificationNumber": "5500",
+            "lineName": "EMPRESTIMO_CARTAO_CONSIGNADO",
+            "transactionName": "PAGAMENTO",
+            "billId": "b5c4e68a-db5a-11eb-8d19-0242ac130003",
+            "creditDebitType": "DEBITO",
+            "transactionType": "PAGAMENTO",
+            "paymentType": "A_PRAZO",
+            "feeType": "ANUIDADE",
+            "chargeIdentificator": "PARCELA_1",
+            "chargeNumber": 10,
+            "brazilianAmount": 749.0000,
+            "amount": 0.0000,
+            "currency": "BRL",
+            "transactionDate": "2021-05-20",
+            "billPostDate": "2021-05-21",
+            "payeeMCC": 4582
+        },
+        {
+            "transactionId": "dbdd1d92-db6e-11eb-8d19-0242ac130003",
+            "identificationNumber": "5500",
+            "lineName": "OUTROS",
+            "transactionName": "PAGAMENTO",
+            "billId": "b5c4e68a-db5a-11eb-8d19-0242ac130003",
+            "creditDebitType": "DEBITO",
+            "transactionType": "PAGAMENTO",
+            "paymentType": "A_PRAZO",
+            "feeType": "ANUIDADE",
+            "chargeIdentificator": "PARCELA_1",
+            "chargeNumber": 10,
+            "brazilianAmount": 755.0000,
+            "amount": 0.0000,
+            "currency": "BRL",
+            "transactionDate": "2021-05-20",
+            "billPostDate": "2021-05-21",
+            "payeeMCC": 4761
+        },
+        {
+            "transactionId": "468bb0c2-dd8b-11eb-ba80-0242ac130004",
+            "identificationNumber": "5500",
+            "lineName": "CREDITO_A_VISTA",
+            "transactionName": "CANCELAMENTO",
+            "billId": "b5c4e68a-db5a-11eb-8d19-0242ac130003",
+            "creditDebitType": "CREDITO",
+            "transactionType": "ESTORNO",
+            "paymentType": "A_VISTA",
+            "feeType": "ANUIDADE",
+            "chargeIdentificator": "PARCELA_1",
+            "chargeNumber": 1,
+            "brazilianAmount": 4.0000,
+            "amount": 0.0000,
+            "currency": "BRL",
+            "transactionDate": "2021-05-20",
+            "billPostDate": "2021-05-21",
+            "payeeMCC": 5311
+        }
+    ],
+    "links": {
+        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/5cd65564-db2c-11eb-8d19-0242ac130003/transactions?fromTransactionDate=2021-01-01&toTransactionDate=2021-12-31"
+    },
+    "meta": {
+        "totalRecords": 3,
+        "totalPages": 1,
+        "requestDateTime": "2021-05-21T15:11:21Z"
+    }
+}
