@@ -65,7 +65,11 @@
             "transactionName": "933108ee-41b7-417f-9079-e345b271e9b7"
         },
         {
+<<<<<<< HEAD
             "amount": 10029.7010,
+=======
+            "amount": 10029.701,
+>>>>>>> Sort transactions in descending chronological order and fix page-size
             "partieCompeCode": "001",
             "partieBranchCode": "5429",
             "partieNumber": "12583783",
@@ -113,7 +117,11 @@
             "transactionName": "7afb2cb2-f312-4023-97aa-06b9a29a6700"
         },
         {
+<<<<<<< HEAD
             "amount": 10256.7110,
+=======
+            "amount": 10256.711,
+>>>>>>> Sort transactions in descending chronological order and fix page-size
             "partieCompeCode": "001",
             "partieBranchCode": "5429",
             "partieNumber": "12583783",
