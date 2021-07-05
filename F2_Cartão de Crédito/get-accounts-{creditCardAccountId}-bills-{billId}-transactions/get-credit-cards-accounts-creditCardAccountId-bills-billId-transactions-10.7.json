@@ -116,7 +116,7 @@
             "lineName": "CREDITO_A_VISTA",
             "transactionName": "Restante não pago da fatura anterior",
             "billId": "43a15d0f-b61e-36ea-9dc7-9b2377db9dd5",
-            "creditDebitType": "CREDITO",
+            "creditDebitType": "DEBITO",
             "transactionType": "OPERACOES_CREDITO_CONTRATADAS_CARTAO",
             "transactionalAdditionalInfo": "NA",
             "paymentType": "A_PRAZO",
