@@ -17,11 +17,7 @@
             "transactionName": "3e6532e4-11c9-498f-b547-35804859f6f3"
         },
         {
-<<<<<<< HEAD
             "amount": 7358.1220,
-=======
-            "amount": 7358.122,
->>>>>>> Sort transactions in descending chronological order and fix page-size
             "partieCompeCode": "001",
             "partieBranchCode": "5429",
             "partieNumber": "12583783",
