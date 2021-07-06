@@ -25,10 +25,10 @@
         }
     ],
     "links": {
-        "self": "https://api.caixa.com.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills/2c30bc0e-d8e5-11eb-b8bc-0242ac130003/transactions?page=1&page-size=1&transactionType=CASHBACK",
-        "first": "https://api.caixa.com.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills/2c30bc0e-d8e5-11eb-b8bc-0242ac130003/transactions?page=1&page-size=1&transactionType=CASHBACK",
-        "next": "https://api.caixa.com.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills/2c30bc0e-d8e5-11eb-b8bc-0242ac130003/transactions?page=2&page-size=1&transactionType=CASHBACK",
-        "last": "https://api.caixa.com.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills/2c30bc0e-d8e5-11eb-b8bc-0242ac130003/transactions?page=2&page-size=1&transactionType=CASHBACK"
+        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills/2c30bc0e-d8e5-11eb-b8bc-0242ac130003/transactions?page=1&page-size=1&transactionType=CASHBACK",
+        "first": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills/2c30bc0e-d8e5-11eb-b8bc-0242ac130003/transactions?page=1&page-size=1&transactionType=CASHBACK",
+        "next": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills/2c30bc0e-d8e5-11eb-b8bc-0242ac130003/transactions?page=2&page-size=1&transactionType=CASHBACK",
+        "last": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills/2c30bc0e-d8e5-11eb-b8bc-0242ac130003/transactions?page=2&page-size=1&transactionType=CASHBACK"
     },
     "meta": {
         "totalRecords": 2,

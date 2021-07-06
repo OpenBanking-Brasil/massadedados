@@ -48,7 +48,7 @@
         }
     ],
     "links": {
-        "self": "https://api.caixa.com.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills/2c30bc0e-d8e5-11eb-b8bc-0242ac130003/transactions?payeeMCC=5661"
+        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills/2c30bc0e-d8e5-11eb-b8bc-0242ac130003/transactions?payeeMCC=5661"
     },
     "meta": {
         "totalRecords": 2,

@@ -11,7 +11,7 @@
             "financeCharges": [
                 {
                     "type": "SEM_ENCARGO",
-                    "amount": 0,
+                    "amount": 0.0000,
                     "currency": "BRL"
                 }
             ],
@@ -34,7 +34,7 @@
         }
     ],
     "links": {
-        "self": "https://api.caixa.com.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills"
+        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills"
     },
     "meta": {
         "totalRecords": 1,

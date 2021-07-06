@@ -71,15 +71,14 @@
         }
     ],
     "links": {
-        "self": "https://api.caixa.com.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=2&page-size=3&fromTransactionDate=2021-07-10&toTransactionDate=2021-07-21",
-        "first": "https://api.caixa.com.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=1&page-size=3&fromTransactionDate=2021-07-10&toTransactionDate=2021-07-21",
-        "prev": "https://api.caixa.com.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=1&page-size=3&fromTransactionDate=2021-07-10&toTransactionDate=2021-07-21",
-        "next": "https://api.caixa.com.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=3&page-size=3&fromTransactionDate=2021-07-10&toTransactionDate=2021-07-21",
-        "last": "https://api.caixa.com.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=3&page-size=3&fromTransactionDate=2021-07-10&toTransactionDate=2021-07-21"
+        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=3&page-size=3&fromTransactionDate=2021-07-10&toTransactionDate=2021-07-21",
+        "first": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=1&page-size=3&fromTransactionDate=2021-07-10&toTransactionDate=2021-07-21",
+        "prev": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=2&page-size=3&fromTransactionDate=2021-07-10&toTransactionDate=2021-07-21",
+        "last": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=3&page-size=3&fromTransactionDate=2021-07-10&toTransactionDate=2021-07-21"
     },
     "meta": {
         "totalRecords": 9,
-        "totalPages": 1,
-        "requestDateTime": "2021-08-29T20:12:09Z"
+        "totalPages": 3,
+        "requestDateTime": "2021-08-29T20:12:18Z"
     }
 } 

@@ -15,7 +15,7 @@
         }
     ],
     "links": {
-        "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/limits"
+        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/limits"
     },
     "meta": {
         "totalRecords": 1,

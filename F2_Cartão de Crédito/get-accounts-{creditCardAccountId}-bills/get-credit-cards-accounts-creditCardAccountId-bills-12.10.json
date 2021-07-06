@@ -11,7 +11,7 @@
             "financeCharges": [
                 {
                     "type": "SEM_ENCARGO",
-                    "amount": 0,
+                    "amount": 0.0000,
                     "currency": "BRL"
                 }
             ],
@@ -36,7 +36,7 @@
             "financeCharges": [
                 {
                     "type": "SEM_ENCARGO",
-                    "amount": 0,
+                    "amount": 0.0000,
                     "currency": "BRL"
                 }
             ],
@@ -52,11 +52,11 @@
         }
     ],
     "links": {
-        "self": "https://api.caixa.com.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?page=2&page-size=25&fromDueDate=2017-05-01?toDueDate=2021-08-31",
-        "first": "https://api.caixa.com.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?page=1&page-size=25&fromDueDate=2017-05-01?toDueDate=2021-08-31",
-        "prev": "https://api.caixa.com.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?page=1&page-size=25&fromDueDate=2017-05-01?toDueDate=2021-08-31",
-        "next": "https://api.caixa.com.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?page=3&page-size=25&fromDueDate=2017-05-01?toDueDate=2021-08-31",
-        "last": "https://api.caixa.com.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?page=3&page-size=52&fromDueDate=2017-05-01?toDueDate=2021-08-31"
+        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?page=2&page-size=25&fromDueDate=2017-05-01?toDueDate=2021-08-31",
+        "first": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?page=1&page-size=25&fromDueDate=2017-05-01?toDueDate=2021-08-31",
+        "prev": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?page=1&page-size=25&fromDueDate=2017-05-01?toDueDate=2021-08-31",
+        "next": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?page=3&page-size=25&fromDueDate=2017-05-01?toDueDate=2021-08-31",
+        "last": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?page=3&page-size=52&fromDueDate=2017-05-01?toDueDate=2021-08-31"
     },
     "meta": {
         "totalRecords": 52,

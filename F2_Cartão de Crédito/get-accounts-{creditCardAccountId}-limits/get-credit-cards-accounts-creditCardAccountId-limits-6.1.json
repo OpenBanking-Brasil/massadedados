@@ -15,7 +15,7 @@
         }
     ],
     "links": {
-        "self": "https://api.sicredi.com.br/open-banking/credit-cards-accounts/v1/accounts/608b1ae4-d458-11eb-b8bc-0242ac130003/limits"
+        "self": "https://opendata.api.bb.com.br/open-banking/credit-cards-accounts/v1/accounts/608b1ae4-d458-11eb-b8bc-0242ac130003/limits"
     },
     "meta": {
         "totalRecords": 1,

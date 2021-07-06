@@ -1,36 +1,13 @@
 {
     "data": [
         {
-            "transactionId": "6c30bc0e-d8e5-11eb-b8bc-0242ac130003",
+            "transactionId": "622e7af4-d9b1-11eb-b8bc-0242ac130003",
             "identificationNumber": "0126",
             "lineName": "CREDITO_A_VISTA",
-            "transactionName": "PGTO",
+            "transactionName": "TARIFAS",
             "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
             "creditDebitType": "DEBITO",
-            "transactionType": "PAGAMENTO",
-            "transactionalAdditionalInfo": "NA",
-            "paymentType": "A_VISTA",
-            "feeType": "TARIFA_PAGAMENTO_CONTAS",
-            "feeTypeAdditionalInfo": "NA",
-            "otherCreditsType": "CREDITO_ROTATIVO",
-            "otherCreditsAdditionalInfo": "NA",
-            "chargeIdentificator": "PARCELA_1",
-            "chargeNumber": 1,
-            "brazilianAmount": 3622.7700,
-            "amount": 0.0000,
-            "currency": "BRL",
-            "transactionDate": "2021-07-21",
-            "billPostDate": "2021-07-25",
-            "payeeMCC": 5621
-        },
-        {
-            "transactionId": "cb9e21d6-d9b3-11eb-b8bc-0242ac130003",
-            "identificationNumber": "0126",
-            "lineName": "CREDITO_A_VISTA",
-            "transactionName": "PGTO",
-            "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
-            "creditDebitType": "CREDITO",
-            "transactionType": "PAGAMENTO",
+            "transactionType": "TARIFA",
             "transactionalAdditionalInfo": "NA",
             "paymentType": "A_VISTA",
             "feeType": "ANUIDADE",
@@ -39,23 +16,23 @@
             "otherCreditsAdditionalInfo": "NA",
             "chargeIdentificator": "PARCELA_1",
             "chargeNumber": 1,
-            "brazilianAmount": 78.1600,
+            "brazilianAmount": 489.9900,
             "amount": 0.0000,
             "currency": "BRL",
-            "transactionDate": "2021-07-17",
-            "billPostDate": "2021-07-17",
-            "payeeMCC": 5661
+            "transactionDate": "2021-07-20",
+            "billPostDate": "2021-07-20",
+            "payeeMCC": 4900
         }
     ],
     "links": {
-        "self": "https://api.caixa.com.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=1&page-size=2&transactionType=PAGAMENTO",
-        "first": "https://api.caixa.com.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=1&page-size=2&transactionType=PAGAMENTO",
-        "next": "https://api.caixa.com.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=1&page-size=2&transactionType=PAGAMENTO",
-        "last": "https://api.caixa.com.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=1&page-size=2&transactionType=PAGAMENTO",
+        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=1&page-size=1&transactionType=TARIFA",
+        "first": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=1&page-size=1&transactionType=TARIFA",
+        "next": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=2&page-size=1&transactionType=TARIFA",
+        "last": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=2&page-size=1&transactionType=TARIFA",
     },
     "meta": {
-        "totalRecords": 5,
-        "totalPages": 3,
-        "requestDateTime": "2021-08-30T02:10:02Z"
+        "totalRecords": 2,
+        "totalPages": 2,
+        "requestDateTime": "2021-08-30T06:10:15Z"
     }
 } 
