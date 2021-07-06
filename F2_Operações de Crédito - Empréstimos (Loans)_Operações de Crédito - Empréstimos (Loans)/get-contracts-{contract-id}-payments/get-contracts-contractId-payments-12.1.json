@@ -18,9 +18,9 @@
                             "feeAmount": 7.5500
                         },
                         {
-                            "chargeType": "Taxa de adesão",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 10.9000
+                            "feeName": "Taxa de adesão",
+                            "feeCode": "ADESAO",
+                            "feeAmount": 10.9000
                         }
                     ],
                     "charges": [
@@ -47,9 +47,9 @@
                             "feeAmount": 7.5500
                         },
                         {
-                            "chargeType": "Taxa de adesão",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 10.9000
+                            "feeName": "Taxa de adesão",
+                            "feeCode": "ADESAO",
+                            "feeAmount": 10.9000
                         }
                     ],
                     "charges": [
