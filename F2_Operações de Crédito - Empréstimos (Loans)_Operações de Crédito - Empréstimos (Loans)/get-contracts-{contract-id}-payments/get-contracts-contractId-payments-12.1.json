@@ -16,13 +16,18 @@
                             "feeName": "Juros",
                             "feeCode": "JUROS",
                             "feeAmount": 7.5500
-                        }
-                    ],
-                    "charges": [
+                        },
                         {
                             "chargeType": "Taxa de adesão",
                             "chargeAdditionalInfo": "NA",
                             "chargeAmount": 10.9000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
                         }
                     ]
                 }
@@ -40,13 +45,18 @@
                             "feeName": "Juros",
                             "feeCode": "JUROS",
                             "feeAmount": 7.5500
-                        }
-                    ],
-                    "charges": [
+                        },
                         {
                             "chargeType": "Taxa de adesão",
                             "chargeAdditionalInfo": "NA",
                             "chargeAmount": 10.9000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
                         }
                     ]
                 }
@@ -64,13 +74,18 @@
                             "feeName": "Juros",
                             "feeCode": "JUROS",
                             "feeAmount": 7.5500
+                        },
+                        {
+                            "feeName": "Taxa de adesão",
+                            "feeCode": "ADESAO",
+                            "feeAmount": 10.9000
                         }
                     ],
                     "charges": [
                         {
-                            "chargeType": "Taxa de adesão",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 10.9000
+                            "chargeAmount": 0.0000
                         }
                     ]
                 }
@@ -88,14 +103,14 @@
                             "feeName": "Juros",
                             "feeCode": "JUROS",
                             "feeAmount": 7.5500
+                        },
+                        {
+                            "feeName": "Taxa de adesão",
+                            "feeCode": "ADESAO",
+                            "feeAmount": 10.9000
                         }
                     ],
                     "charges": [
-                        {
-                            "chargeType": "Taxa de adesão",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 10.9000
-                        },
                         {
                             "chargeType": "MULTA_ATRASO_PAGAMENTO",
                             "chargeAdditionalInfo": "Multa",
@@ -122,13 +137,18 @@
                             "feeName": "Juros",
                             "feeCode": "JUROS",
                             "feeAmount": 7.5500
+                        },
+                        {
+                            "feeName": "Taxa de adesão",
+                            "feeCode": "ADESAO",
+                            "feeAmount": 10.9000
                         }
                     ],
                     "charges": [
                         {
-                            "chargeType": "Taxa de adesão",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 10.9000
+                            "chargeAmount": 0.0000
                         }
                     ]
                 }
@@ -146,13 +166,18 @@
                             "feeName": "Juros",
                             "feeCode": "JUROS",
                             "feeAmount": 7.5500
+                        },
+                        {
+                            "feeName": "Taxa de adesão",
+                            "feeCode": "ADESAO",
+                            "feeAmount": 10.9000
                         }
                     ],
                     "charges": [
                         {
-                            "chargeType": "Taxa de adesão",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 10.9000
+                            "chargeAmount": 0.0000
                         }
                     ]
                 }
@@ -170,13 +195,18 @@
                             "feeName": "Juros",
                             "feeCode": "JUROS",
                             "feeAmount": 7.5500
+                        },
+                        {
+                            "feeName": "Taxa de adesão",
+                            "feeCode": "ADESAO",
+                            "feeAmount": 10.9000
                         }
                     ],
                     "charges": [
                         {
-                            "chargeType": "Taxa de adesão",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 10.9000
+                            "chargeAmount": 0.0000
                         }
                     ]
                 }
@@ -194,13 +224,18 @@
                             "feeName": "NA",
                             "feeCode": "NA",
                             "feeAmount": 0.0000
+                        },
+                        {
+                            "feeName": "Taxa de adesão",
+                            "feeCode": "ADESAO",
+                            "feeAmount": 10.9000
                         }
                     ],
                     "charges": [
                         {
-                            "chargeType": "Taxa de adesão",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 10.9000
+                            "chargeAmount": 0.0000
                         }
                     ]
                 }
@@ -218,13 +253,18 @@
                             "feeName": "NA",
                             "feeCode": "NA",
                             "feeAmount": 7.5500
+                        },
+                        {
+                            "feeName": "Taxa de adesão",
+                            "feeCode": "ADESAO",
+                            "feeAmount": 10.9000
                         }
                     ],
                     "charges": [
                         {
-                            "chargeType": "Taxa de adesão",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 10.9000
+                            "chargeAmount": 0.0000
                         }
                     ]
                 }
@@ -242,14 +282,14 @@
                             "feeName": "Juros",
                             "feeCode": "JUROS",
                             "feeAmount": 7.5500
+                        },
+                        {
+                            "feeName": "Taxa de adesão",
+                            "feeCode": "ADESAO",
+                            "feeAmount": 10.9000
                         }
                     ],
                     "charges": [
-                        {
-                            "chargeType": "Taxa de adesão",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 10.9000
-                        },
                         {
                             "chargeType": "IOF_CONTRATACAO",
                             "chargeAdditionalInfo": "NA",
@@ -271,13 +311,18 @@
                             "feeName": "Juros",
                             "feeCode": "JUROS",
                             "feeAmount": 7.5500
+                        },
+                        {
+                            "feeName": "Taxa de adesão",
+                            "feeCode": "ADESAO",
+                            "feeAmount": 10.9000
                         }
                     ],
                     "charges": [
                         {
-                            "chargeType": "Taxa de adesão",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 10.9000
+                            "chargeAmount": 0.0000
                         }
                     ]
                 }
@@ -295,13 +340,18 @@
                             "feeName": "Juros",
                             "feeCode": "JUROS",
                             "feeAmount": 7.5500
+                        },
+                        {
+                            "feeName": "Taxa de adesão",
+                            "feeCode": "ADESAO",
+                            "feeAmount": 10.9000
                         }
                     ],
                     "charges": [
                         {
-                            "chargeType": "Taxa de adesão",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 10.9000
+                            "chargeAmount": 0.0000
                         }
                     ]
                 }
