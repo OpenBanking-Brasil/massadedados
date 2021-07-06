@@ -16,7 +16,7 @@
         }
     ],
     "links": {
-        "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/ITUBR33128970/limits"
+        "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/27daf004-7a54-43e6-acef-3180d26c025d/limits"
     },
     "meta": {
         "totalRecords": 1,

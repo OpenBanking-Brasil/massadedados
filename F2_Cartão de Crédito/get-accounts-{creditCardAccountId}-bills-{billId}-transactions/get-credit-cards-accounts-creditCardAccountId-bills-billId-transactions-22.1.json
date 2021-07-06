@@ -72,7 +72,7 @@
 		
     ],
     "links": {
-        "self": "https://api.bb.com.br/open-banking/credit-cards-accounts/v1/accounts/ITUBR33128970/bills/cbe82101-404c-4f52-b5e6-788a692f0945/transactions"
+        "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/27daf004-7a54-43e6-acef-3180d26c025d/bills/cbe82101-404c-4f52-b5e6-788a692f0945/transactions"
     },
     "meta": {
         "totalRecords": 3,
