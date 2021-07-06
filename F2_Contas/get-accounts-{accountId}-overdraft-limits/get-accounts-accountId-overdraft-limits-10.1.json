@@ -4,7 +4,7 @@
         "overdraftContractedLimitCurrency": "BRL",
         "overdraftUsedLimit": 650.0000,
         "overdraftUsedLimitCurrency": "BRL",
-        "unarrangedOverdraftAmount": 1200.0000,
+        "unarrangedOverdraftAmount": 15000.0000,
         "unarrangedOverdraftAmountCurrency": "BRL"
     },
     "links": {
