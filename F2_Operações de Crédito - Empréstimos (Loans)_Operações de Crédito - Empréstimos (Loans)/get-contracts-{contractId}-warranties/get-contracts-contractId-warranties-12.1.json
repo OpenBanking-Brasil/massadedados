@@ -4,11 +4,11 @@
             "currency": "BRL",
             "warrantyType": "GARANTIA_FIDEJUSSORIA",
             "warrantySubType": "PESSOA_FISICA",
-            "warrantyAmount": 6000.00
+            "warrantyAmount": 7000.0000
         }
     ],
     "links": {
-        "self": "https://api.caixa.com.br/open-banking/loans/v1/contracts/64efa400-db34-11eb-8d19-0242ac130003/warranties"
+        "self": "https://api.caixa.gov.br/open-banking/loans/v1/contracts/64efa400-db34-11eb-8d19-0242ac130003/warranties"
     },
     "meta": {
         "totalRecords": 1,

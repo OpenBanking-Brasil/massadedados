@@ -11,7 +11,7 @@
         
     ],
     "links": {
-        "self": "https://api.caixa.com.br/open-banking/loans/v1/contracts",
+        "self": "https://api.caixa.gov.br/open-banking/loans/v1/contracts"
     },
     "meta": {
         "totalRecords": 1,

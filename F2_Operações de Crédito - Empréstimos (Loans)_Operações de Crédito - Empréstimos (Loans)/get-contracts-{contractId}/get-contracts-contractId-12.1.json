@@ -6,14 +6,14 @@
         "productType": "EMPRESTIMOS",
         "productSubType": "CREDITO_PESSOAL_SEM_CONSIGNACAO",
         "contractDate": "2009-07-04",
-        "settlementDate": "2009-07-04",
-        "contractAmount": 5000.00,
+        "settlementDate": "2009-06-04",
+        "contractAmount": 6000.0000,
         "currency": "BRL",
-        "dueDate": "2010-07-04",
+        "dueDate": "2010-06-04",
         "instalmentPeriodicity": "TRIMESTRAL",
         "instalmentPeriodicityAdditionalInfo": "NA",
         "firstInstalmentDueDate": "2009-10-04",
-        "CET": 0.05,
+        "CET": 0.0500,
         "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
         "amortizationScheduledAdditionalInfo": "NA",
         "cnpjConsignee": "00360305000104",
@@ -21,13 +21,12 @@
             {
                 "taxType": "EFETIVA",
                 "interestRateType": "SIMPLES",
-                "taxPeriodicity": "AA",
+                "taxPeriodicity": "AM",
                 "calculation": "30/365",
-                "referentialRateIndexerType": "POS_FIXADO",
-                "referentialRateIndexerSubType": "CDI",
-                "referentialRateIndexerAdditionalInfo": "NA",
-                "preFixedRate": 0.0000,
-                "postFixedRate": 0.036,
+                "referentialRateIndexerType": "PRE_FIXADO",
+                "referentialRateIndexerSubType": "PRE_FIXADO",
+                "preFixedRate": 0.0151,
+                "postFixedRate": 0.0000,
                 "additionalInfo": "NA"
             }
         ],
@@ -37,8 +36,8 @@
                 "feeCode": "ADESAO",
                 "feeChargeType": "POR_PARCELA",
                 "feeCharge": "FIXO",
-                "feeAmount": 89.9000,
-                "feeRate": 0.0
+                "feeAmount": 10.9000,
+                "feeRate": 0.0000
             }
         ],
         "contractedFinanceCharges": [
@@ -60,7 +59,7 @@
         ]
     },
     "links": {
-        "self": "https://api.caixa.com.br/open-banking/loans/v1/contracts/64efa400-db34-11eb-8d19-0242ac130003"
+        "self": "https://api.caixa.gov.br/open-banking/loans/v1/contracts/64efa400-db34-11eb-8d19-0242ac130003"
     },
     "meta": {
         "totalRecords": 1,

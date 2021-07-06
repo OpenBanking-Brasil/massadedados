@@ -1,30 +1,60 @@
 {
     "data": {
-        "typeNumberOfInstalments": "TRIMESTRAL",
+        "typeNumberOfInstalments": "MES",
         "totalNumberOfInstalments": 5,
-        "typeContractRemaining": "TRIMESTRAL",
+        "typeContractRemaining": "MES",
         "contractRemainingNumber": 0,
         "paidInstalments": 5,
         "dueInstalments": 0,
         "pastDueInstalments": 1,
         "balloonPayments": [
             {
-                "dueDate": "2010-02-17",
+                "dueDate": "2010-06-04",
                 "currency": "BRL",
-                "amount": 540.00
+                "amount": 500.0000
             },
             {
-                "dueDate": "2010-03-01",
+                "dueDate": "2010-05-04",
                 "currency": "BRL",
-                "amount": 260.00
+                "amount": 500.0000
+            },
+            {
+                "dueDate": "2010-03-04",
+                "currency": "BRL",
+                "amount": 500.0000
+            },
+            {
+                "dueDate": "2010-02-04",
+                "currency": "BRL",
+                "amount": 500.0000
+            },
+            {
+                "dueDate": "2009-12-04",
+                "currency": "BRL",
+                "amount": 500.0000
+            },
+            {
+                "dueDate": "2009-11-04",
+                "currency": "BRL",
+                "amount": 500.0000
+            },
+            {
+                "dueDate": "2009-09-04",
+                "currency": "BRL",
+                "amount": 500.0000
+            },
+            {
+                "dueDate": "2009-08-04",
+                "currency": "BRL",
+                "amount": 500.0000
             }
         ]
     },
     "links": {
-        "self": "https://api.caixa.com.br/open-banking/loans/v1/contracts/64efa400-db34-11eb-8d19-0242ac130003/scheduled-instalments"
+        "self": "https://api.caixa.gov.br/open-banking/loans/v1/contracts/64efa400-db34-11eb-8d19-0242ac130003/scheduled-instalments"
     },
     "meta": {
-        "totalRecords": 1,
+        "totalRecords": 8,
         "totalPages": 1,
         "requestDateTime": "2021-09-16T20:04:10Z"
     }
