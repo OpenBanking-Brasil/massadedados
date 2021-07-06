@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "Mastercard Platinum",
+    "productType": "PLATINUM",
+    "productAdditionalInfo": "NA",
+    "creditCardNetwork": "MASTERCARD",
+    "networkAdditionalInfo": "NA",
+    "paymentMethod": {
+      "identificationNumber": "2205",
+      "isMultipleCreditCard": true
+    }
+  },
+  "links": {
+    "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/ITUBR33128970"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-08-21T08:30:00Z"
+  }
+}

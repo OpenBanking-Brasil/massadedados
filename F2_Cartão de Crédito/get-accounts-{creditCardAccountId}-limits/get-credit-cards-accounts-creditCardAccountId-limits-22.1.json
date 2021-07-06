@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "creditLineLimitType": "LIMITE_CREDITO_TOTAL",
+            "consolidationType": "CONSOLIDADO",
+            "identificationNumber": "2205",
+            "lineName": "CREDITO_PARCELADO",
+            "lineNameAdditionalInfo": "NA",
+            "isLimitFlexible": true,
+            "limitAmountCurrency": "BRL",
+            "limitAmount": 25000.0000,
+            "usedAmountCurrency": "BRL",
+            "usedAmount": 12512.20,
+            "availableAmountCurrency": "BRL",
+            "availableAmount": 22510.0200
+        }
+    ],
+    "links": {
+        "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/ITUBR33128970/limits"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-05-21T15:32:59Z"
+    }
+}
