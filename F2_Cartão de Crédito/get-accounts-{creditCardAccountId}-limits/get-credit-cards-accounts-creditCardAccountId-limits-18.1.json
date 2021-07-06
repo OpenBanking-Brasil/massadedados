@@ -10,9 +10,9 @@
             "limitAmountCurrency": "BRL",
             "limitAmount": 50000.0000,
             "usedAmountCurrency": "BRL",
-            "usedAmount": 16243.6364,
+            "usedAmount": 0.0000,
             "availableAmountCurrency": "BRL",
-            "availableAmount": 33756.3636
+            "availableAmount": 50000.0000
         }
     ],
     "links": {

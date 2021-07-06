@@ -16,7 +16,7 @@
             "otherCreditsAdditionalInfo": "NA",
             "chargeIdentificator": "NA",
             "chargeNumber": 0,
-            "brazilianAmount": 7727.6302,
+            "brazilianAmount": 9393.0721,
             "amount": 0,
             "currency": "BRL",
             "transactionDate": "2022-01-16",
@@ -42,7 +42,7 @@
             "brazilianAmount": 7606.7818,
             "amount": 0,
             "currency": "BRL",
-            "transactionDate": "2022-01-31",
+            "transactionDate": "2022-03-01",
             "billPostDate": "2022-03-30",
             "payeeMCC": 7379
         }

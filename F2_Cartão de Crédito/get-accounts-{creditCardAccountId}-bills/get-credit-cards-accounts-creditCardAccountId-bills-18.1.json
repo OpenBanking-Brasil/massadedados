@@ -1,32 +1,6 @@
 {
     "data": [
         {
-            "billId": "359a9b72-201e-4966-a4c4-5cd77654614f",
-            "dueDate": "2021-11-01",
-            "billTotalAmount": 9393.0721,
-            "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 1408.9608,
-            "billMinimumAmountCurrency": "BRL",
-            "isInstalment": false,
-            "financeCharges": [
-                {
-                    "type": "JUROS_REMUNERATORIOS_ATRASO_PAGAMENTO_FATURA",
-                    "additionalInfo": "NA",
-                    "amount": 187.8614,
-                    "currency": "BRL"
-                }
-            ],
-            "payments": [
-                {
-                    "valueType": "OUTRO_VALOR_PAGO_FATURA",
-                    "paymentDate": "2022-01-16",
-                    "paymentMode": "PIX",
-                    "amount": 7727.6302,
-                    "currency": "BRL"
-                }
-            ]
-        },
-        {
             "billId": "40ec23a0-b78f-46de-82cd-3535b46c55e1",
             "dueDate": "2022-03-30",
             "billTotalAmount": 6850.5643,
@@ -38,16 +12,42 @@
                 {
                     "type": "NA",
                     "additionalInfo": "NA",
-                    "amount": 0.0000,
+                    "amount": 0,
                     "currency": "NA"
                 }
             ],
             "payments": [
                 {
                     "valueType": "OUTRO_VALOR_PAGO_FATURA",
-                    "paymentDate": "2022-01-31",
+                    "paymentDate": "2022-03-01",
                     "paymentMode": "PIX",
-                    "amount": 7606.7818,
+                    "amount": 6850.5643,
+                    "currency": "BRL"
+                }
+            ]
+        },
+        {
+            "billId": "359a9b72-201e-4966-a4c4-5cd77654614f",
+            "dueDate": "2021-11-01",
+            "billTotalAmount": 9393.0721,
+            "billTotalAmountCurrency": "BRL",
+            "billMinimumAmount": 1408.9608,
+            "billMinimumAmountCurrency": "BRL",
+            "isInstalment": false,
+            "financeCharges": [
+                {
+                    "type": "JUROS_REMUNERATORIOS_ATRASO_PAGAMENTO_FATURA",
+                    "additionalInfo": "NA",
+                    "amount": 375.7228,
+                    "currency": "BRL"
+                }
+            ],
+            "payments": [
+                {
+                    "valueType": "OUTRO_VALOR_PAGO_FATURA",
+                    "paymentDate": "2022-01-16",
+                    "paymentMode": "PIX",
+                    "amount": 9393.0721,
                     "currency": "BRL"
                 }
             ]
