@@ -9,7 +9,7 @@
                 "instalmentId": "f1ca5c7a-e54c-3c15-84c8-e90297c39999",
                 "paidDate": "2010-06-04",                
                 "currency": "BRL",
-                "paidAmount": 500.0000,
+                "paidAmount": 518.4500,
                 "overParcel": {
                     "fees": [
                         {
@@ -38,7 +38,7 @@
                 "instalmentId": "34f911ab-4e52-3182-9e6c-94c7ec6858b4",
                 "paidDate": "2010-05-04",                
                 "currency": "BRL",
-                "paidAmount": 500.0000,
+                "paidAmount": 518.4500,
                 "overParcel": {
                     "fees": [
                         {
@@ -63,11 +63,11 @@
             },
             {
                 "paymentId": "75eee5be-9942-390d-8d4e-fe293efeacf4",
-                "isOverParcelPayment": true,
+                "isOverParcelPayment": false,
                 "instalmentId": "c6ccb47b-a5f7-3098-94b1-45458495437e",
                 "paidDate": "2010-04-04",                
                 "currency": "BRL",
-                "paidAmount": 500.0000,
+                "paidAmount": 518.4500,
                 "overParcel": {
                     "fees": [
                         {
@@ -96,7 +96,7 @@
                 "instalmentId": "2fb35a78-d468-307e-bf80-bb488c5dcbeb",
                 "paidDate": "2010-03-25",                
                 "currency": "BRL",
-                "paidAmount": 500.0000,
+                "paidAmount": 535.9500,
                 "overParcel": {
                     "fees": [
                         {
@@ -130,7 +130,7 @@
                 "instalmentId": "2fb35a78-d468-307e-bf80-bb488c5dcbeb",
                 "paidDate": "2010-03-04",                
                 "currency": "BRL",
-                "paidAmount": 500.0000,
+                "paidAmount": 518.4500,
                 "overParcel": {
                     "fees": [
                         {
@@ -159,7 +159,7 @@
                 "instalmentId": "e2c37d99-34d1-37d2-91f9-48cc8e56abd3",
                 "paidDate": "2010-02-04",                
                 "currency": "BRL",
-                "paidAmount": 500.0000,
+                "paidAmount": 518.4500,
                 "overParcel": {
                     "fees": [
                         {
@@ -188,7 +188,7 @@
                 "instalmentId": "71f6840a-74cc-371a-989b-eadaad906806",
                 "paidDate": "2010-01-04",
                 "currency": "BRL",
-                "paidAmount": 500.0000,
+                "paidAmount": 518.4500,
                 "overParcel": {
                     "fees": [
                         {
@@ -217,7 +217,7 @@
                 "instalmentId": "04815e07-cffb-3ca8-a64e-763001673209",
                 "paidDate": "2009-12-04",
                 "currency": "BRL",
-                "paidAmount": 500.0000,
+                "paidAmount": 518.4500,
                 "overParcel": {
                     "fees": [
                         {
@@ -246,7 +246,7 @@
                 "instalmentId": "7cbe17cf-8891-38e4-9c5e-9efb3cb748e3",
                 "paidDate": "2009-11-04",
                 "currency": "BRL",
-                "paidAmount": 500.0000,
+                "paidAmount": 518.4500,
                 "overParcel": {
                     "fees": [
                         {
@@ -275,7 +275,7 @@
                 "instalmentId": "c018a8fe-c80f-3ef8-b9b2-10814fe05da6",
                 "paidDate": "2009-10-04",
                 "currency": "BRL",
-                "paidAmount": 500.0000,
+                "paidAmount": 518.4500,
                 "overParcel": {
                     "fees": [
                         {
@@ -304,7 +304,7 @@
                 "instalmentId": "a1fb1942-db57-11eb-8d19-0242ac130003",
                 "paidDate": "2009-09-04",
                 "currency": "BRL",
-                "paidAmount": 500.0000,
+                "paidAmount": 518.4500,
                 "overParcel": {
                     "fees": [
                         {
@@ -333,7 +333,7 @@
                 "instalmentId": "8c7b8796-f45b-4358-8d19-0242ac130003",
                 "paidDate": "2009-08-04",
                 "currency": "BRL",
-                "paidAmount": 500.0000,
+                "paidAmount": 518.4500,
                 "overParcel": {
                     "fees": [
                         {

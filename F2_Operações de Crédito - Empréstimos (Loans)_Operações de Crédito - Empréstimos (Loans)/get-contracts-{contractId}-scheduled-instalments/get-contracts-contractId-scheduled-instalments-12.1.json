@@ -6,7 +6,7 @@
         "contractRemainingNumber": 0,
         "paidInstalments": 5,
         "dueInstalments": 0,
-        "pastDueInstalments": 1,
+        "pastDueInstalments": 0,
         "balloonPayments": [
             {
                 "dueDate": "2010-06-04",
