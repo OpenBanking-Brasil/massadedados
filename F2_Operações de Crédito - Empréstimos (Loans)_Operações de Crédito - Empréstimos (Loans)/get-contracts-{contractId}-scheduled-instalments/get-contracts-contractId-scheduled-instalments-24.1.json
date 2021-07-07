@@ -1,9 +1,9 @@
 {
     "data": {
         "typeNumberOfInstalments": "SEMANA",
-        "totalNumberOfInstalments": 4,
+        "totalNumberOfInstalments": 78,
         "typeContractRemaining": "SEMANA",
-        "contractRemainingNumber": 219,
+        "contractRemainingNumber": 74,
         "paidInstalments": 4,
         "dueInstalments": 3,
         "pastDueInstalments": 2,
@@ -16,7 +16,7 @@
         ]
     },
     "links": {
-        "self": "https://api.caixa.com.br/open-banking/loans/v1/contracts/befb174b-b96f-381e-9150-effa8dc43c7e/scheduled-instalments"
+        "self": "https://api.caixa.gov.br/open-banking/loans/v1/contracts/befb174b-b96f-381e-9150-effa8dc43c7e/scheduled-instalments"
     },
     "meta": {
         "totalRecords": 1,

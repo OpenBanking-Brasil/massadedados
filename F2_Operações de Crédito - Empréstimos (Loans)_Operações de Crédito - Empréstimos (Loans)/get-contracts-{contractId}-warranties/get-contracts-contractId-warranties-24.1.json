@@ -38,7 +38,7 @@
         }
     ],
     "links": {
-        "self": "https://api.caixa.com.br/open-banking/loans/v1/contracts/befb174b-b96f-381e-9150-effa8dc43c7e/warranties"
+        "self": "https://api.caixa.gov.br/open-banking/loans/v1/contracts/befb174b-b96f-381e-9150-effa8dc43c7e/warranties"
     },
     "meta": {
         "totalRecords": 6,

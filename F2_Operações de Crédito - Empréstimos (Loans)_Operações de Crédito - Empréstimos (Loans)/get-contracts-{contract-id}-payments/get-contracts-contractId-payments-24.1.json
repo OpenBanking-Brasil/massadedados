@@ -2,49 +2,25 @@
     "data": {
         "paidInstalments": 4,
         "contractOutstandingBalance": 98214.25857,
-        "releases": [
+        "releases": [ 
             {
-                "paymentId": "0bea759f-d9db-3521-869d-425d38acf909",
+                "paymentId": "35968066-56a9-33b9-abf1-177e2487d93c",
                 "isOverParcelPayment": false,
-                "instalmentId": "45980414-7e91-3bf0-aa3e-f730f113aa3e",
-                "paidDate": "2013-08-16",
+                "instalmentId": "4f5f570e-1213-3598-87c2-922d5005d55a",
+                "paidDate": "2013-09-06",
                 "currency": "BRL",
-                "paidAmount": 446.4300,
-                "overParcel": {
-                    "fees": [
-                        {
-                            "feeName": "Taxa de Adesao",
-                            "feeCode": "ADESAO",
-                            "feeAmount": 1500.00
-                        }
-                    ],
-                    "charges": [
-                        {
-                            "chargeType": "NA",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0
-                        }
-                    ]
-                }
-            },
-            {
-                "paymentId": "30290631-d82a-39fe-9f3c-2181962d2525",
-                "isOverParcelPayment": false,
-                "instalmentId": "9be78add-0ea4-33ec-aad9-8929f3ec9448",
-                "paidDate": "2013-08-23",
-                "currency": "BRL",
-                "paidAmount": 446.4300,
+                "paidAmount": 1781.1891,
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "NA",
                             "feeCode": "NA",
-                            "feeAmount": 0
+                            "feeAmount": 0.0000
                         }
                     ],
                     "charges": [
                         {
-                            "chargeType": "NA",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
                             "chargeAmount": 0
                         }
@@ -57,7 +33,7 @@
                 "instalmentId": "82a08797-878e-3954-b1a4-5a0b74eaf239",
                 "paidDate": "2013-08-30",
                 "currency": "BRL",
-                "paidAmount": 446.4300,
+                "paidAmount": 1781.1891,
                 "overParcel": {
                     "fees": [
                         {
@@ -68,7 +44,7 @@
                     ],
                     "charges": [
                         {
-                            "chargeType": "NA",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
                             "chargeAmount": 0
                         }
@@ -76,23 +52,47 @@
                 }
             },
             {
-                "paymentId": "35968066-56a9-33b9-abf1-177e2487d93c",
+                "paymentId": "30290631-d82a-39fe-9f3c-2181962d2525",
                 "isOverParcelPayment": false,
-                "instalmentId": "4f5f570e-1213-3598-87c2-922d5005d55a",
-                "paidDate": "2013-09-06",
+                "instalmentId": "9be78add-0ea4-33ec-aad9-8929f3ec9448",
+                "paidDate": "2013-08-23",
                 "currency": "BRL",
-                "paidAmount": 446.4300,
+                "paidAmount": 1781.1891,
                 "overParcel": {
                     "fees": [
                         {
-                            "feeName": "Juros",
-                            "feeCode": "JUROS",
-                            "feeAmount": 80.3571
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0
                         }
                     ],
                     "charges": [
                         {
-                            "chargeType": "NA",
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "0bea759f-d9db-3521-869d-425d38acf909",
+                "isOverParcelPayment": false,
+                "instalmentId": "45980414-7e91-3bf0-aa3e-f730f113aa3e",
+                "paidDate": "2013-08-16",
+                "currency": "BRL",
+                "paidAmount": 3281.1891,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "Taxa de Adesao",
+                            "feeCode": "ADESAO",
+                            "feeAmount": 1500.00
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
                             "chargeAmount": 0
                         }
