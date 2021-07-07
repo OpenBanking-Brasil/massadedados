@@ -3,7 +3,7 @@
         {
             "billId": "43a15d0f-b61e-36ea-9dc7-9b2377db9dd5",
             "dueDate": "2021-06-10",
-            "billTotalAmount": 1018.5096,
+            "billTotalAmount": 1131.5729,
             "billTotalAmountCurrency": "BRL",
             "billMinimumAmount": 305.9683,
             "billMinimumAmountCurrency": "BRL",
@@ -12,34 +12,34 @@
                 {
                     "type": "MULTA_ATRASO_PAGAMENTO_FATURA",
                     "additionalInfo": "NA",
-                    "amount": 65.9600,
+                    "amount": 15.9600,
                     "currency": "BRL"
                 },
                 {
                     "type": "IOF",
                     "additionalInfo": "NA",
-                    "amount": 35.5400,
+                    "amount": 15.5400,
                     "currency": "BRL"
                 },
                 {
                     "type": "JUROS_MORA_ATRASO_PAGAMENTO_FATURA",
                     "additionalInfo": "NA",
-                    "amount": 45.5982,
+                    "amount": 15.5982,
                     "currency": "BRL"
                 },
                 {
                     "type": "OUTROS",
-                    "additionalInfo": "Taxa referente ao acordo assinado pelo cliente para renegociação do atraso.",
-                    "amount": 106.9651,
+                    "additionalInfo": "Taxa referente ao acordo assinado pelo cliente para renegociação do atraso da fatura anterior.",
+                    "amount": 65.9651,
                     "currency": "BRL"
                 }
             ],
             "payments": [
                 {
                     "valueType": "OUTRO_VALOR_PAGO_FATURA",
-                    "paymentDate": "2021-06-09",
+                    "paymentDate": "2021-06-11",
                     "paymentMode": "DEBITO_CONTA_CORRENTE",
-                    "amount": 1286.9792,
+                    "amount": 1131.5729,
                     "currency": "BRL"
                 }
             ]
@@ -63,7 +63,7 @@
             "payments": [
                 {
                     "valueType": "OUTRO_VALOR_PAGO_FATURA",
-                    "paymentDate": "2021-05-11",
+                    "paymentDate": "2021-05-10",
                     "paymentMode": "PIX",
                     "amount": 59.9821,
                     "currency": "BRL"

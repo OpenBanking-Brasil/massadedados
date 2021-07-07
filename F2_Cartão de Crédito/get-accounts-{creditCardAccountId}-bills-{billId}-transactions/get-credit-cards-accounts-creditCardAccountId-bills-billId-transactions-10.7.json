@@ -123,6 +123,7 @@
             "feeType": "SMS",
             "feeTypeAdditionalInfo": "NA",
             "otherCreditsType": "OUTROS",
+            "otherCreditsAdditionalInfo": "DEBITO IPT",
             "chargeIdentificator": "PARCELA_UNICA",
             "chargeNumber": 1,
             "brazilianAmount": 260.6500,
