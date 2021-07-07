@@ -1,10 +1,10 @@
 {
     "data": {
         "typeNumberOfInstalments": "MES",
-        "totalNumberOfInstalments": 5,
+        "totalNumberOfInstalments": 6,
         "typeContractRemaining": "MES",
         "contractRemainingNumber": 0,
-        "paidInstalments": 5,
+        "paidInstalments": 6,
         "dueInstalments": 0,
         "pastDueInstalments": 0,
         "balloonPayments": [

@@ -13,11 +13,6 @@
                 "overParcel": {
                     "fees": [
                         {
-                            "feeName": "Juros",
-                            "feeCode": "JUROS",
-                            "feeAmount": 7.5500
-                        },
-                        {
                             "feeName": "Taxa de adesão",
                             "feeCode": "ADESAO",
                             "feeAmount": 10.9000
@@ -41,11 +36,6 @@
                 "paidAmount": 518.4500,
                 "overParcel": {
                     "fees": [
-                        {
-                            "feeName": "Juros",
-                            "feeCode": "JUROS",
-                            "feeAmount": 7.5500
-                        },
                         {
                             "feeName": "Taxa de adesão",
                             "feeCode": "ADESAO",
@@ -71,11 +61,6 @@
                 "overParcel": {
                     "fees": [
                         {
-                            "feeName": "Juros",
-                            "feeCode": "JUROS",
-                            "feeAmount": 7.5500
-                        },
-                        {
                             "feeName": "Taxa de adesão",
                             "feeCode": "ADESAO",
                             "feeAmount": 10.9000
@@ -99,11 +84,6 @@
                 "paidAmount": 535.9500,
                 "overParcel": {
                     "fees": [
-                        {
-                            "feeName": "Juros",
-                            "feeCode": "JUROS",
-                            "feeAmount": 7.5500
-                        },
                         {
                             "feeName": "Taxa de adesão",
                             "feeCode": "ADESAO",
@@ -134,11 +114,6 @@
                 "overParcel": {
                     "fees": [
                         {
-                            "feeName": "Juros",
-                            "feeCode": "JUROS",
-                            "feeAmount": 7.5500
-                        },
-                        {
                             "feeName": "Taxa de adesão",
                             "feeCode": "ADESAO",
                             "feeAmount": 10.9000
@@ -162,11 +137,6 @@
                 "paidAmount": 518.4500,
                 "overParcel": {
                     "fees": [
-                        {
-                            "feeName": "Juros",
-                            "feeCode": "JUROS",
-                            "feeAmount": 7.5500
-                        },
                         {
                             "feeName": "Taxa de adesão",
                             "feeCode": "ADESAO",
@@ -192,11 +162,6 @@
                 "overParcel": {
                     "fees": [
                         {
-                            "feeName": "Juros",
-                            "feeCode": "JUROS",
-                            "feeAmount": 7.5500
-                        },
-                        {
                             "feeName": "Taxa de adesão",
                             "feeCode": "ADESAO",
                             "feeAmount": 10.9000
@@ -220,11 +185,6 @@
                 "paidAmount": 518.4500,
                 "overParcel": {
                     "fees": [
-                        {
-                            "feeName": "NA",
-                            "feeCode": "NA",
-                            "feeAmount": 0.0000
-                        },
                         {
                             "feeName": "Taxa de adesão",
                             "feeCode": "ADESAO",
@@ -250,11 +210,6 @@
                 "overParcel": {
                     "fees": [
                         {
-                            "feeName": "NA",
-                            "feeCode": "NA",
-                            "feeAmount": 7.5500
-                        },
-                        {
                             "feeName": "Taxa de adesão",
                             "feeCode": "ADESAO",
                             "feeAmount": 10.9000
@@ -278,11 +233,6 @@
                 "paidAmount": 518.4500,
                 "overParcel": {
                     "fees": [
-                        {
-                            "feeName": "Juros",
-                            "feeCode": "JUROS",
-                            "feeAmount": 7.5500
-                        },
                         {
                             "feeName": "Taxa de adesão",
                             "feeCode": "ADESAO",
@@ -308,11 +258,6 @@
                 "overParcel": {
                     "fees": [
                         {
-                            "feeName": "Juros",
-                            "feeCode": "JUROS",
-                            "feeAmount": 7.5500
-                        },
-                        {
                             "feeName": "Taxa de adesão",
                             "feeCode": "ADESAO",
                             "feeAmount": 10.9000
@@ -336,11 +281,6 @@
                 "paidAmount": 518.4500,
                 "overParcel": {
                     "fees": [
-                        {
-                            "feeName": "Juros",
-                            "feeCode": "JUROS",
-                            "feeAmount": 7.5500
-                        },
                         {
                             "feeName": "Taxa de adesão",
                             "feeCode": "ADESAO",
