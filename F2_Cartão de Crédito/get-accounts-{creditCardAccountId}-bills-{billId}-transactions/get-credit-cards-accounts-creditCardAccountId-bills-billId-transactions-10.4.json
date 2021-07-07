@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "transactionId": "c0f9e79a-5ed8-3633-91f4-d6d03fc899bc",
+            "identificationNumber": "0896",
+            "lineName": "CREDITO_A_VISTA",
+            "transactionName": "Digital Games Platform PDJ",
+            "billId": "f9672f09-3b9d-3d8b-9487-7df5626cdf00",
+            "creditDebitType": "DEBITO",
+            "transactionType": "PAGAMENTO",
+            "transactionalAdditionalInfo": "NA",
+            "paymentType": "A_VISTA",
+            "feeType": "SMS",
+            "feeTypeAdditionalInfo": "NA",
+            "otherCreditsType": "CREDITO_ROTATIVO",
+            "chargeIdentificator": "PARCELA_1",
+            "chargeNumber": 1,
+            "brazilianAmount": 0.0000,
+            "amount": 77.7205,
+            "currency": "BRL",
+            "transactionDate": "2021-05-01",
+            "billPostDate": "2021-05-01",
+            "payeeMCC": 5816
+        }
+    ],
+    "links": {
+        "self": "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts/471856b2-cae3-31a6-b4f7-b3d13fe625ee/bills/f9672f09-3b9d-3d8b-9487-7df5626cdf00/transactions?fromTransactionDate=2021-05-01"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-12-10T13:42:21Z"
+    }
+}
