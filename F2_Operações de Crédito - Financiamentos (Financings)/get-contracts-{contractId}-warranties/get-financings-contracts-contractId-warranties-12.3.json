@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "currency": "BRL",
+      "warrantyType": "OPERACOES_GARANTIDAS_PELO_GOVERNO",
+      "warrantySubType": "MUNICIPAL",
+      "warrantyAmount": 5420.0000,
+    },
+    {
+      "currency": "BRL",
+      "warrantyType": "CAUCAO",
+      "warrantySubType": "FATURA_CARTAO_CREDITO",
+      "warrantyAmount": 11000.0000,
+    },
+    {
+      "currency": "BRL",
+      "warrantyType": "PENHOR",
+      "warrantySubType": "EQUIPAMENTOS",
+      "warrantyAmount": 15000.0000,
+    },
+    {
+      "currency": "BRL",
+      "warrantyType": "PENHOR",
+      "warrantySubType": "VEICULO",
+      "warrantyAmount": 62000.0000,
+    },
+  ],
+  "links": {
+    "self": "https://api.caixa.gov.br/open-banking/financings/v1/contracts/697741123110107921187517400340333895224710/warranties"
+  },
+  "meta": {
+    "totalRecords": 3,
+    "totalPages": 1,
+    "requestDateTime": "2021-09-04T09:30:12Z"
+  }
+}
