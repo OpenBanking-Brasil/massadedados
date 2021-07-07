@@ -1,25 +1,23 @@
 {
   "data": [
     {
-      "creditCardAccountId": "5cd65564-db2c-11eb-8d19-0242ac130003",
+      "creditCardAccountId": "4c2a2196-db54-11eb-8d19-0242ac130003",
       "brandName": "Caixa Econômica Federal",
       "companyCnpj": "00360305000104",
       "name": "Elo Nanquim",
-      "productType": "OUTROS",
-      "productAdditionalInfo":"CONSTRUCARD",
-      "creditCardNetwork": "OUTRAS",
-      "networkAdditionalInfo": ""
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "ELO"
     },
     {
-      "creditCardAccountId": "601c977e-db2c-11eb-8d19-0242ac130003",
+      "creditCardAccountId": "5598304c-db54-11eb-8d19-0242ac130003",
       "brandName": "Caixa Econômica Federal",
       "companyCnpj": "00360305000104",
       "name": "Elo Grafite",
-      "productType": "CORPORATIVO",
-      "creditCardNetwork": "BANDEIRA_PROPRIA"
+      "productType": "EMPRESARIAL",
+      "creditCardNetwork": "ELO"
     },
     {
-      "creditCardAccountId": "63ad9686-db2c-11eb-8d19-0242ac130003",
+      "creditCardAccountId": "5a326e42-db54-11eb-8d19-0242ac130003",
       "brandName": "Caixa Econômica Federal",
       "companyCnpj": "00360305000104",
       "name": "Elo Mais",
@@ -27,7 +25,7 @@
       "creditCardNetwork": "ELO"
     },
     {
-      "creditCardAccountId": "75e1e6fe-db2c-11eb-8d19-0242ac130003",
+      "creditCardAccountId": "5f58a738-db54-11eb-8d19-0242ac130003",
       "brandName": "Caixa Econômica Federal",
       "companyCnpj": "00360305000104",
       "name": "​​Elo Diners Club",
@@ -35,7 +33,7 @@
       "creditCardNetwork": "ELO"
     },
     {
-      "creditCardAccountId": "79ce061c-db2c-11eb-8d19-0242ac130003",
+      "creditCardAccountId": "64cefc12-db54-11eb-8d19-0242ac130003",
       "brandName": "Caixa Econômica Federal",
       "companyCnpj": "00360305000104",
       "name": "Elo Mulher",
@@ -51,7 +49,7 @@
       "creditCardNetwork": "ELO"
     },
     {
-      "creditCardAccountId": "824bc446-db2c-11eb-8d19-0242ac130003",
+      "creditCardAccountId": "6d957e3e-db54-11eb-8d19-0242ac130003",
       "brandName": "Caixa Econômica Federal",
       "companyCnpj": "00360305000104",
       "name": "Elo SIMPLES",
@@ -59,7 +57,7 @@
       "creditCardNetwork": "ELO"
     },
     {
-      "creditCardAccountId": "858eccf2-db2c-11eb-8d19-0242ac130003",
+      "creditCardAccountId": "722f9696-db54-11eb-8d19-0242ac130003",
       "brandName": "Caixa Econômica Federal",
       "companyCnpj": "00360305000104",
       "name": "Elo Mais",
@@ -115,7 +113,7 @@
       "creditCardNetwork": "VISA"
     },
     {
-      "creditCardAccountId": "9f7424fa-db2c-11eb-8d19-0242ac130003",
+      "creditCardAccountId": "56061052-db46-11eb-8d19-0242ac130003",
       "brandName": "Caixa Econômica Federal",
       "companyCnpj": "00360305000104",
       "name": "Infinite",
@@ -291,7 +289,7 @@
       "creditCardNetwork": "ELO"
     },
     {
-      "creditCardAccountId": "46503610-db2d-11eb-8d19-0242ac130003",
+      "creditCardAccountId": "6435032c-db46-11eb-8d19-0242ac130003",
       "brandName": "Caixa Econômica Federal",
       "companyCnpj": "00360305000104",
       "name": "Elo Mais",
@@ -379,7 +377,7 @@
       "creditCardNetwork": "ELO"
     },
     {
-      "creditCardAccountId": "6c5742cc-db2d-11eb-8d19-0242ac130003",
+      "creditCardAccountId": "6d0a911a-db46-11eb-8d19-0242ac130003",
       "brandName": "Caixa Econômica Federal",
       "companyCnpj": "00360305000104",
       "name": "Elo Nanquim",
@@ -411,7 +409,7 @@
       "creditCardNetwork": "ELO"
     },
     {
-      "creditCardAccountId": "7710627a-db2d-11eb-8d19-0242ac130003",
+      "creditCardAccountId": "749aa8fc-db46-11eb-8d19-0242ac130003",
       "brandName": "Caixa Econômica Federal",
       "companyCnpj": "00360305000104",
       "name": "Elo Nanquim",
@@ -452,13 +450,14 @@
     }
   ],
   "links": {
-    "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts?page=1&page-size=56",
-    "next": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts?page=2&page-size=56",
-    "last": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts?page=3&page-size=56"
+    "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts?page=3&page-size=56",
+    "prev": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accountspage=2&page-size=56",
+    "first": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accountspage=1&page-size=56",
+    "next": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accountspage=2&page-size=56"
   },
   "meta": {
     "totalRecords": 56,
     "totalPages": 3,
-    "requestDateTime": "2021-05-21T08:30:00Z"
+    "requestDateTime": "2021-09-10T08:30:00Z"
   }
 }
