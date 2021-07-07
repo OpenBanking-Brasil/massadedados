@@ -6,7 +6,7 @@
             "lineName": "CREDITO_A_VISTA",
             "transactionName": "PGTO",
             "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
-            "creditDebitType": "CREDITO",
+            "creditDebitType": "DEBITO",
             "transactionType": "PAGAMENTO",
             "transactionalAdditionalInfo": "NA",
             "paymentType": "A_VISTA",
