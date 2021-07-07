@@ -347,7 +347,7 @@
         }
     ],
     "links": {
-        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions"
+        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?fromTransactionDate=2021-07-08&toTransactionDate=2021-07-21"
     },
     "meta": {
         "totalRecords": 15,
