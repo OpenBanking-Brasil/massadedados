@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "creditLineLimitType": "LIMITE_CREDITO_MODALIDADE_OPERACAO",
+            "consolidationType": "CONSOLIDADO",
+            "identificationNumber": "7890",
+            "lineName": "CREDITO_A_VISTA",
+            "isLimitFlexible": true,
+            "limitAmountCurrency": "BRL",
+            "limitAmount": 2300.0000,
+            "usedAmountCurrency": "BRL",
+            "usedAmount": 0.0000,
+            "availableAmountCurrency": "BRL",
+            "availableAmount": 2300.0000
+        },
+        {
+            "creditLineLimitType": "LIMITE_CREDITO_MODALIDADE_OPERACAO",
+            "consolidationType": "CONSOLIDADO",
+            "identificationNumber": "7890",
+            "lineName": "CREDITO_PARCELADO",
+            "isLimitFlexible": true,
+            "limitAmountCurrency": "BRL",
+            "limitAmount": 2400.0000,
+            "usedAmountCurrency": "BRL",
+            "usedAmount": 1000.0400,
+            "availableAmountCurrency": "BRL",
+            "availableAmount": 1399.9600
+        }
+    ],
+    "links": {
+        "self": "https://api.banco.com.br/open-banking/credit-cards-accounts/v1/accounts/PIITR3459087/limits"
+    },
+    "meta": {
+        "totalRecords": 2,
+        "totalPages": 1,
+        "requestDateTime": "2021-06-21T15:32:59Z"
+    }
+}
