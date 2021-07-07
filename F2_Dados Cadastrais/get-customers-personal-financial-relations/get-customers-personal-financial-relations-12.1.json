@@ -4,7 +4,7 @@
     "updateDateTime": "2021-05-25T08:30:00Z",
     "startDate": "2021-05-25T08:30:00Z",
     "productsServicesType": [
-	    "CONTA_PAGAMENTO_PRE_PAGA",
+	    "CONTA_DEPOSITO_A_VISTA",
 	    "SEGURO",
 	    "PREVIDENCIA",
 	    "INVESTIMENTO",
