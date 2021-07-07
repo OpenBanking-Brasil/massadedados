@@ -5,7 +5,7 @@
             "identificationNumber": "5500",
             "lineName": "EMPRESTIMO_CARTAO_CONSIGNADO",
             "transactionName": "PAGAMENTO",
-            "billId": "e7afa584-db61-11eb-8d19-0242ac130003",
+            "billId": "636c6eaa-df31-11eb-ba80-0242ac130004",
             "creditDebitType": "DEBITO",
             "transactionType": "PAGAMENTO",
             "paymentType": "A_PRAZO",
@@ -24,7 +24,7 @@
             "identificationNumber": "5500",
             "lineName": "OUTROS",
             "transactionName": "PAGAMENTO",
-            "billId": "e7afa584-db61-11eb-8d19-0242ac130003",
+            "billId": "636c6eaa-df31-11eb-ba80-0242ac130004",
             "creditDebitType": "DEBITO",
             "transactionType": "PAGAMENTO",
             "paymentType": "A_PRAZO",
@@ -39,7 +39,7 @@
             "payeeMCC": 4761
         },
         {
-            "transactionId": "e7afa584-db61-11eb-8d19-0242ac130003",
+            "transactionId": "636c6eaa-df31-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
             "lineName": "CREDITO_A_VISTA",
             "transactionName": "CANCELAMENTO",
@@ -59,11 +59,11 @@
         }
     ],
     "links": {
-        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/5cd65564-db2c-11eb-8d19-0242ac130003/transactions?toTransactionDate=2021-06-15"
+        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/7cdecc82-db2d-11eb-8d19-0242ac130003/transactions?toTransactionDate=2021-06-15"
     },
     "meta": {
         "totalRecords": 3,
         "totalPages": 1,
-        "requestDateTime": "2021-05-21T15:11:21Z"
+        "requestDateTime": "2021-09-21T15:11:21Z"
     }
 }
