@@ -22,7 +22,7 @@
                         {
                             "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0
+                            "chargeAmount": 0.0000
                         }
                     ]
                 }
@@ -39,14 +39,14 @@
                         {
                             "feeName": "NA",
                             "feeCode": "NA",
-                            "feeAmount": 0
+                            "feeAmount": 0.0000
                         }
                     ],
                     "charges": [
                         {
                             "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0
+                            "chargeAmount": 0.0000
                         }
                     ]
                 }
@@ -63,14 +63,14 @@
                         {
                             "feeName": "NA",
                             "feeCode": "NA",
-                            "feeAmount": 0
+                            "feeAmount": 0.0000
                         }
                     ],
                     "charges": [
                         {
                             "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0
+                            "chargeAmount": 0.0000
                         }
                     ]
                 }
@@ -87,14 +87,14 @@
                         {
                             "feeName": "Taxa de Adesao",
                             "feeCode": "ADESAO",
-                            "feeAmount": 1500.00
+                            "feeAmount": 1500.0000
                         }
                     ],
                     "charges": [
                         {
                             "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0
+                            "chargeAmount": 0.0000
                         }
                     ]
                 }
