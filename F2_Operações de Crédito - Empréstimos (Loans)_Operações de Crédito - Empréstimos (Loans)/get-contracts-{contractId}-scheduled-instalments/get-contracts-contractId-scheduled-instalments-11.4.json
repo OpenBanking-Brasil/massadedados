@@ -1,0 +1,31 @@
+{
+    "data": {
+        "typeNumberOfInstalments": "MES",
+        "totalNumberOfInstalments": 12,
+        "typeContractRemaining": "MES",
+        "contractRemainingNumber": 12,
+        "paidInstalments": 5,
+        "dueInstalments": 7,
+        "pastDueInstalments": 0,
+        "balloonPayments": [
+            {
+                "dueDate": "2021-05-21",
+                "currency": "BRL",
+                "amount": 100000.04
+            },
+            {
+                "dueDate": "2021-05-21",
+                "currency": "BRL",
+                "amount": 100000.04
+            }
+        ]
+    },
+    "links": {
+        "self": "https://api.baninter.com/open-banking/loans/v1/contracts//scheduled-instalments"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-06-15T09:54:00Z"
+    }
+}

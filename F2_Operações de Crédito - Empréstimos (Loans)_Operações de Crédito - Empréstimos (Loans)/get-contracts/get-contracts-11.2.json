@@ -1,12 +1,12 @@
 {
     "data": [
         {
-            "contractId": "12wee35x-ba69-3a9e-a343-tbe36paw07go",
+            "contractId": "b4n473rr-ba69-3a9e-a343-tbe36paw07go",
             "brandName": "Banco Inter S.A.",
             "companyCnpj": "00416968000101",
             "productType": "EMPRESTIMOS",
-            "productSubType": "HOME_EQUITY",
-            "ipocCode": "004169680211184154817728148231"
+            "productSubType": "CAPITAL_GIRO_PRAZO_VENCIMENTO_SUPERIOR_365_DIAS",
+            "ipocCode": "004169680211184154817728148232"
         }
     ],
     "links": {

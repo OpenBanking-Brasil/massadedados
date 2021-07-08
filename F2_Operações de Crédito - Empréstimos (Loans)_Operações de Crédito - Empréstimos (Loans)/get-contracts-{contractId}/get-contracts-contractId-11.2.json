@@ -1,0 +1,109 @@
+{
+    "data": {
+        "contractNumber": "15876348557412300151",
+        "ipocCode": "004169680211184154817728148231",
+        "productName": "Crédito Pessoal",
+        "productType": "EMPRESTIMOS",
+        "productSubType": "HOME_EQUITY",
+        "contractDate": "2020-01-01",
+        "disbursementDate": "2020-01-02",
+        "settlementDate": "NA",
+        "contractAmount": 50000.0000,
+        "currency": "BRL",
+        "dueDate": "2021-01-01",
+        "instalmentPeriodicity": "SEMESTRAL",
+        "instalmentPeriodicityAdditionalInfo": "NA",
+        "firstInstalmentDueDate": "2020-06-01",
+        "CET": 0.46000,
+        "amortizationScheduled": "SAC",
+        "amortizationScheduledAdditionalInfo": "NA",
+        "cnpjConsignee": "00416968000101",
+        "interestRates": [
+            {
+                "taxType": "NOMINAL",
+                "interestRateType": "SIMPLES",
+                "taxPeriodicity": "AA",
+                "calculation": "30/365",
+                "referentialRateIndexerType": "PRE_FIXADO",
+                "referentialRateIndexerSubType": "PRE_FIXADO",
+                "referentialRateIndexerAdditionalInfo": "NA",
+                "preFixedRate": 0.1000,
+                "postFixedRate": 0.0000,
+                "additionalInfo": "NA"
+            },
+            {
+                "taxType": "EFETIVA",
+                "interestRateType": "COMPOSTO",
+                "taxPeriodicity": "AA",
+                "calculation": "21/252",
+                "referentialRateIndexerType": "FLUTUANTES",
+                "referentialRateIndexerSubType": "SELIC",
+                "referentialRateIndexerAdditionalInfo": "NA",
+                "preFixedRate": 0.0000,
+                "postFixedRate": 0.0800,
+                "additionalInfo": "NA"
+            },
+            {
+                "taxType": "EFETIVA",
+                "interestRateType": "COMPOSTO",
+                "taxPeriodicity": "AA",
+                "calculation": "30/360",
+                "referentialRateIndexerType": "FLUTUANTES",
+                "referentialRateIndexerSubType": "CDI",
+                "referentialRateIndexerAdditionalInfo": "NA",
+                "preFixedRate": 0.0000,
+                "postFixedRate": 0.0800,
+                "additionalInfo": "NA"
+            },
+            {
+                "taxType": "NOMINAL",
+                "interestRateType": "SIMPLES",
+                "taxPeriodicity": "AA",
+                "calculation": "30/365",
+                "referentialRateIndexerType": "POS_FIXADO",
+                "referentialRateIndexerSubType": "TJLP",
+                "referentialRateIndexerAdditionalInfo": "NA",
+                "preFixedRate": 0.0000,
+                "postFixedRate": 0.0500,
+                "additionalInfo": "NA"
+            },
+            {
+                "taxType": "NOMINAL",
+                "interestRateType": "SIMPLES",
+                "taxPeriodicity": "AA",
+                "calculation": "30/365",
+                "referentialRateIndexerType": "POS_FIXADO",
+                "referentialRateIndexerSubType": "TR_TBF",
+                "referentialRateIndexerAdditionalInfo": "NA",
+                "preFixedRate": 0.0000,
+                "postFixedRate": 0.0500,
+                "additionalInfo": "NA"
+            }
+        ],
+        "contractedFees": [
+            {
+                "feeName": "Taxa de Cadastro",
+                "feeCode": "CADASTRO",
+                "feeChargeType": "UNICA",
+                "feeCharge": "FIXO",
+                "feeAmount": 500.0000,
+                "feeRate": 0.0000
+            }
+        ],
+        "contractedFinanceCharges": [
+            {
+                "chargeType": "JUROS_MORA_ATRASO",
+                "chargeAdditionalInfo": "",
+                "chargeRate": 0.1000
+            }
+        ]
+    },
+    "links": {
+        "self": "https://api.baninter.com/open-banking/loans/v1/contracts/12wee35x-ba69-3a9e-a343-tbe36paw07go"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-06-15T09:54:00Z"
+    }
+}
