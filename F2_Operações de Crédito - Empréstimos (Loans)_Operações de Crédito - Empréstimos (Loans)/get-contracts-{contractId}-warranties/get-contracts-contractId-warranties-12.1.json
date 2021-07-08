@@ -2,47 +2,17 @@
     "data": [
         {
             "currency": "BRL",
-            "warrantyType": "OUTRAS_GARANTIAS_NAO_FIDEJUSSORIAS",
-            "warrantySubType": "VEICULOS",
-            "warrantyAmount": 110000.00
-        },
-        {
-            "currency": "BRL",
-            "warrantyType": "BENS_ARRENDADOS",
-            "warrantySubType": "OUTROS",
-            "warrantyAmount": 25000.00
-        },
-        {
-            "currency": "BRL",
-            "warrantyType": "CAUCAO",
-            "warrantySubType": "FATURA_CARTAO_CREDITO",
-            "warrantyAmount": 26000.00
-        },
-        {
-            "currency": "BRL",
             "warrantyType": "GARANTIA_FIDEJUSSORIA",
             "warrantySubType": "PESSOA_FISICA",
-            "warrantyAmount": 150000.00
-        },
-        {
-            "currency": "BRL",
-            "warrantyType": "GARANTIA_FIDEJUSSORIA",
-            "warrantySubType": "PESSOA_FISICA",
-            "warrantyAmount": 140000.00
-        },
-        {
-            "currency": "BRL",
-            "warrantyType": "OPERACOES_GARANTIDAS_PELO_GOVERNO",
-            "warrantySubType": "FGTS_FUNDO_GARANTIA_TEMPO_SERVICO",
-            "warrantyAmount": 50000.00
+            "warrantyAmount": 7000.0000
         }
     ],
     "links": {
-        "self": "https://api.banco.com.br/open-banking/loans/v1/contracts/5d18c5fe-ba69-3a9e-a343-dca4d2a1cf6c/warranties"
+        "self": "https://api.caixa.gov.br/open-banking/loans/v1/contracts/64efa400-db34-11eb-8d19-0242ac130003/warranties"
     },
     "meta": {
-        "totalRecords": 6,
+        "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-06-08T10:20:00Z"
+        "requestDateTime": "2021-09-16T20:04:10Z"
     }
 }
