@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "transactionId": "959bc3a2-15e7-49e4-ba44-663048cbb8ef",
+            "identificationNumber": "3783",
+            "lineName": "SAQUE_CREDITO_BRASIL",
+            "transactionName": "SAQUE",
+            "billId": "359a9b72-201e-4966-a4c4-5cd77654614f",
+            "creditDebitType": "DEBITO",
+            "transactionType": "PAGAMENTO",
+            "transactionalAdditionalInfo": "NA",
+            "paymentType": "A_VISTA",
+            "feeType": "SAQUE_CARTAO_BRASIL",
+            "feeTypeAdditionalInfo": "NA",
+            "otherCreditsType": "NA",
+            "otherCreditsAdditionalInfo": "NA",
+            "chargeIdentificator": "NA",
+            "chargeNumber": 0.0000,
+            "brazilianAmount": 9393.0721,
+            "amount": 0.0000,
+            "currency": "BRL",
+            "transactionDate": "2022-01-16",
+            "billPostDate": "2021-11-01",
+            "payeeMCC": 7379
+        }
+    ],
+    "links": {
+        "self": "https://opendata.api.bb.com.br/open-banking/credit-cards-accounts/v1/accounts/1198c730-9941-4215-8925-95ea536214c3/bills/359a9b72-201e-4966-a4c4-5cd77654614f/transactions"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-03-28T00:00:00Z"
+    }
+}
