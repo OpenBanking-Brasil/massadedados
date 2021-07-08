@@ -10,9 +10,9 @@
     "contractAmount": 80000.0000,
     "currency": "BRL",
     "dueDate": "2019-05-01",
-    "instalmentPeriodicity": "BIMESTRAL",
+    "instalmentPeriodicity": "ANUAL",
     "instalmentPeriodicityAdditionalInfo": "NA",
-    "firstInstalmentDueDate": "2015-07-01",
+    "firstInstalmentDueDate": "2016-05-01",
     "CET": 0.1700,
     "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
     "amortizationScheduledAdditionalInfo": "NA",
@@ -22,7 +22,7 @@
         "interestRateType": "COMPOSTO",
         "taxPeriodicity": "AM",
         "calculation": "30/365",
-        "referentialRateIndexerType": "POS_FIXADO",
+        "referentialRateIndexerType": "INDICES_PRECOS",
         "referentialRateIndexerSubType": "IPCA",
         "preFixedRate": 0.0000,
         "postFixedRate": 0.0530,
@@ -48,7 +48,7 @@
     ]
   },
   "links": {
-    "self": "https://api.caixa.gov.br/open-banking/financings/v1/contracts/697741123110107921187517400340333895224710"
+    "self": "https://api.caixa.gov.br/open-banking/financings/v1/contracts/b8f7ccd3-4630-34ce-ad5b-733209dd0854"
   },
   "meta": {
     "totalRecords": 1,

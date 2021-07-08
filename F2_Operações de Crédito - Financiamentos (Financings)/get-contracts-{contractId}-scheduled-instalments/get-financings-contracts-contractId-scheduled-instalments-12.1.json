@@ -16,7 +16,7 @@
     ]
   },
   "links": {
-    "self": "https://api.caixa.gov.br/open-banking/financings/v1/contracts/898874102235099211875174003409876320954347/scheduled-instalments"
+    "self": "https://api.caixa.gov.br/open-banking/financings/v1/contracts/f675a994-7baf-3a5c-bdc5-8d556c36d02f/scheduled-instalments"
   },
   "meta": {
     "totalRecords": 1,

@@ -21,12 +21,12 @@
     {
       "currency": "BRL",
       "warrantyType": "PENHOR",
-      "warrantySubType": "VEICULO",
+      "warrantySubType": "VEICULOS",
       "warrantyAmount": 62000.0000,
     },
   ],
   "links": {
-    "self": "https://api.caixa.gov.br/open-banking/financings/v1/contracts/697741123110107921187517400340333895224710/warranties"
+    "self": "https://api.caixa.gov.br/open-banking/financings/v1/contracts/b8f7ccd3-4630-34ce-ad5b-733209dd0854/warranties"
   },
   "meta": {
     "totalRecords": 3,
