@@ -1,0 +1,112 @@
+{
+    "data": {
+        "paidInstalments": 4,
+        "contractOutstandingBalance": 95811.5200,
+        "releases": [
+            {
+                "paymentId": "7851daf7-285a-40e3-814a-4ad5bf5df140",
+                "isOverParcelPayment": false,
+                "instalmentId": "d6b727f8-4f6b-477c-936e-96baab2df876",
+                "paidDate": "2021-05-10",
+                "currency": "BRL",
+                "paidAmount": 6843.68,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "taxa_fixa",
+                            "feeCode": "taxa_fixa",
+                            "feeAmount": 732.5688
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+			{
+                "paymentId": "100a0ed8-c768-4963-8eee-00259f9a0eff",
+                "isOverParcelPayment": false,
+                "instalmentId": "214b6317-33ed-42b5-99a5-c1a7899b9361",
+                "paidDate": "2021-04-10",
+                "currency": "BRL",
+                "paidAmount": 6843.68,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "taxa_fixa",
+                            "feeCode": "taxa_fixa",
+                            "feeAmount": 732.5688
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+			{
+                "paymentId": "f7001e05-cfd2-422f-973a-93f94bcdbcab",
+                "isOverParcelPayment": false,
+                "instalmentId": "1b1045a1-adf2-4ae5-97b0-1c2bf8f305b5",
+                "paidDate": "2021-03-10",
+                "currency": "BRL",
+                "paidAmount": 6843.68,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "taxa_fixa",
+                            "feeCode": "taxa_fixa",
+                            "feeAmount": 732.5688
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+			{
+                "paymentId": "6d24b3d3-684d-4214-8f7f-60ca55d3e7d5",
+                "isOverParcelPayment": false,
+                "instalmentId": "524ed787-f7b6-42b4-8685-b7de809f8bc8",
+                "paidDate": "2021-02-10",
+                "currency": "BRL",
+                "paidAmount": 6843.68,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "taxa_fixa",
+                            "feeCode": "taxa_fixa",
+                            "feeAmount": 732.5688
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "links": {
+        "self": "https://api.itau/open-banking/financings/v1/contracts/8a90b69e-327a-467e-95f2-970b68e40f34/payments"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-05-26T19:35:01Z"
+    }
+} 

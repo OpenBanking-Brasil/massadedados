@@ -21,7 +21,7 @@
                     "valueType": "OUTRO_VALOR_PAGO_FATURA",
                     "paymentDate": "2021-06-05",
                     "paymentMode": "BOLETO_BANCARIO",
-                    "amount": 0000.0000,
+                    "amount": 0.0000,
                     "currency": "BRL"
                 }
             ]
@@ -29,7 +29,7 @@
 		{
             "billId": "63627e5f-4376-4fce-a094-458ed002c820",
             "dueDate": "2021-05-05",
-            "billTotalAmount": 9110.25,
+            "billTotalAmount": 9560.25,
             "billTotalAmountCurrency": "BRL",
             "billMinimumAmount": 1822.05,
             "billMinimumAmountCurrency": "BRL",
@@ -38,7 +38,7 @@
                 {
                     "type": "JUROS_REMUNERATORIOS_ATRASO_PAGAMENTO_FATURA",
                     "additionalInfo": "NA",
-                    "amount": 0000.0000,
+                    "amount": 0.0000,
                     "currency": "BRL"
                 }
             ],
@@ -47,8 +47,10 @@
                     "valueType": "OUTRO_VALOR_PAGO_FATURA",
                     "paymentDate": "2021-05-05",
                     "paymentMode": "BOLETO_BANCARIO",
-                    "amount": 0000.0000,
+                    "amount": 0.0000,
                     "currency": "BRL"
+                }
+            ]
         },
 		{
 			"billId": "92d534e6-c4ca-4783-9041-c065823d90f3",
@@ -62,7 +64,7 @@
 				{
 					"type": "SEM_ENCARGO",
 					"additionalInfo": "NA",
-					"amount": 0000.0000,
+					"amount": 0.0000,
 					"currency": "BRL"
 				}
 			],
@@ -71,9 +73,11 @@
 					"valueType": "OUTRO_VALOR_PAGO_FATURA",
 					"paymentDate": "2021-04-05",
 					"paymentMode": "BOLETO_BANCARIO",
-					"amount": 0000.0000,
+					"amount": 0.0000,
 					"currency": "BRL"
 				}
+            ]
+        }
     ],
     "links": {
         "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/27daf004-7a54-43e6-acef-3180d26c025d/bills"
