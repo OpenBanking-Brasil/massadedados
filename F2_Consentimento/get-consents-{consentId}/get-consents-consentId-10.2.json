@@ -1,6 +1,6 @@
 {
     "data": {
-        "consentId": "urn:banrisul:BRSXXXXXXXXX562359874",
+        "consentId": "urn:banrisul:BRS562359874",
         "creationDateTime": "2021-06-11T09:37:00Z",
         "status": "AUTHORISED",
         "statusUpdateDateTime": "2021-06-14T09:42:00Z",
@@ -19,9 +19,9 @@
             "UNARRANGED_ACCOUNTS_OVERDRAFT_PAYMENTS_READ",
             "UNARRANGED_ACCOUNTS_OVERDRAFT_WARRANTIES_READ"
         ],
-        "expirationDateTime": "2022-06-09T06:00:00Z",
-        "transactionFromDateTime": "2021-12-09T00:00:00Z",
-        "transactionToDateTime": "2022-06-09T06:00:00Z"
+        "expirationDateTime": "2022-05-09T06:00:00Z",
+        "transactionFromDateTime": "2021-05-09T06:00:00Z",
+        "transactionToDateTime": "2022-05-09T06:00:00Z"
     },
     "links": {
         "self": "https://openbanking.banrisul.com.br/open-banking/consents/v1/consents/urn:banrisul:BRS562359874"

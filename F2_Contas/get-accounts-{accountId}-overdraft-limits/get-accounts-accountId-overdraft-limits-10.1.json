@@ -1,0 +1,18 @@
+{
+    "data": {
+        "overdraftContractedLimit": 650.0000,
+        "overdraftContractedLimitCurrency": "BRL",
+        "overdraftUsedLimit": 650.0000,
+        "overdraftUsedLimitCurrency": "BRL",
+        "unarrangedOverdraftAmount": 15000.0000,
+        "unarrangedOverdraftAmountCurrency": "BRL"
+    },
+    "links": {
+        "self": "https://openbanking.banrisul.com.br/open-banking/accounts/v1/accounts/1a9df2e9-baa7-3c8f-98b8-cc2d56211275/overdraft-limits"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-12-30T16:00:00Z"
+    }
+}
