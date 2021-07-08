@@ -1,0 +1,58 @@
+{
+  "data": {
+    "contractNumber": "30221485900",
+    "ipocCode": "00360305090112872886281368996510210008745",
+    "productName": "Minha casa minha vida",
+    "productType": "FINANCIAMENTOS_IMOBILIARIOS",
+    "productSubType": "FINANCIAMENTO_HABITACIONAL_SFH",
+    "contractDate": "2012-01-01",
+    "settlementDate": "NA",
+    "contractAmount": 35000.0000,
+    "currency": "BRL",
+    "dueDate": "2015-01-01",
+    "instalmentPeriodicity": "BIMESTRAL",
+    "instalmentPeriodicityAdditionalInfo": "NA",
+    "firstInstalmentDueDate": "2015-07-01",
+    "CET": 0.2100,
+    "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
+    "amortizationScheduledAdditionalInfo": "NA",
+    "interestRates": [
+      {
+        "taxType": "NOMINAL",
+        "interestRateType": "COMPOSTO",
+        "taxPeriodicity": "AA",
+        "calculation": "30/365",
+        "referentialRateIndexerType": "FLUTUANTES",
+        "referentialRateIndexerSubType": "SELIC",
+        "preFixedRate": 0.0000,
+        "postFixedRate": 0.0470,
+        "additionalInfo": "NA"
+      }
+    ],
+    "contractedFees": [
+      {
+        "feeName": "Taxa de administração",
+        "feeCode": "ADMINISTRACAO",
+        "feeChargeType": "UNICA",
+        "feeCharge": "FIXO",
+        "feeAmount": 2980.0000,
+        "feeRate": 0.0100
+      }
+    ],
+    "contractedFinanceCharges": [
+      {
+        "chargeType": "SEM_ENCARGO",
+        "chargeAdditionalInfo": "NA",
+        "chargeRate": 0.0000
+      }
+    ]
+  },
+  "links": {
+    "self": "https://api.caixa.gov.br/open-banking/financings/v1/contracts/83d4007e-7125-36a3-95da-30f1956caecc"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-09-03T10:19:00Z"
+  }
+} 
