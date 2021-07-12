@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "creditLineLimitType": "LIMITE_CREDITO_MODALIDADE_OPERACAO",
+            "consolidationType": "CONSOLIDADO",
+            "identificationNumber": "7890",
+            "lineName": "CREDITO_A_VISTA",
+            "isLimitFlexible": true,
+            "limitAmountCurrency": "BRL",
+            "limitAmount": 2300.0000,
+            "usedAmountCurrency": "BRL",
+            "usedAmount": 0.0000,
+            "availableAmountCurrency": "BRL",
+            "availableAmount": 2300.0000
+        },
+        {
+            "creditLineLimitType": "LIMITE_CREDITO_MODALIDADE_OPERACAO",
+            "consolidationType": "CONSOLIDADO",
+            "identificationNumber": "7890",
+            "lineName": "CREDITO_PARCELADO",
+            "isLimitFlexible": true,
+            "limitAmountCurrency": "BRL",
+            "limitAmount": 2400.0000,
+            "usedAmountCurrency": "BRL",
+            "usedAmount": 1425.8200,
+            "availableAmountCurrency": "BRL",
+            "availableAmount": 974.1800
+        }
+    ],
+    "links": {
+        "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/15c7e4c4-da93-11eb-8d19-0242ac130003/limits"
+    },
+    "meta": {
+        "totalRecords": 2,
+        "totalPages": 1,
+        "requestDateTime": "2021-06-111T15:32:59Z"
+    }
+}
