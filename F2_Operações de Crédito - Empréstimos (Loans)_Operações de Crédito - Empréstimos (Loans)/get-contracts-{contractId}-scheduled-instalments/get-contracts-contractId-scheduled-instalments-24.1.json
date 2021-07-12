@@ -1,0 +1,26 @@
+{
+    "data": {
+        "typeNumberOfInstalments": "SEMANA",
+        "totalNumberOfInstalments": 78,
+        "typeContractRemaining": "SEMANA",
+        "contractRemainingNumber": 74,
+        "paidInstalments": 4,
+        "dueInstalments": 3,
+        "pastDueInstalments": 2,
+        "balloonPayments": [
+            {
+                "dueDate": "NA",
+                "currency": "NA",
+                "amount": 0.0000
+            }
+        ]
+    },
+    "links": {
+        "self": "https://api.caixa.gov.br/open-banking/loans/v1/contracts/befb174b-b96f-381e-9150-effa8dc43c7e/scheduled-instalments"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-10-02T18:10:33Z"
+    }
+}
