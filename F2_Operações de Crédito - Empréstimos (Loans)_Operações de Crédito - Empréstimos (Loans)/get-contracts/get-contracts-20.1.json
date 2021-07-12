@@ -1,0 +1,21 @@
+{
+    "data": [
+        {
+            "contractId": "15thr536-9607-e911-80e0-1asoi1p5c650",
+            "brandName": "Banco Santander (BRASIL) S.A.",
+            "companyCnpj": "90400888000142",
+            "productType": "EMPRESTIMOS",
+            "productSubType": "CHEQUE_ESPECIAL",
+            "ipocCode": "90400888021328032674854848"
+        }
+    ],
+    "links": {
+        "self": "https://super.api.santander.com.br/open-banking/loans/v1/contracts"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-07-05T00:00:00Z"
+    }
+}
+
