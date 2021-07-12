@@ -1,0 +1,88 @@
+{
+    "data": {
+        "contractNumber": "648900002",
+        "ipocCode": "927020670101164258217018648900002",
+        "productName": "AD",
+        "productType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "productSubType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "contractDate": "2021-01-06",
+        "disbursementDate": "2021-01-06",
+        "settlementDate": "2021-03-26",
+        "contractAmount": 13000.0000,
+        "currency": "BRL",
+        "dueDate": "2021-03-24",
+        "instalmentPeriodicity": "SEMANAL",
+        "instalmentPeriodicityAdditionalInfo": "NA",
+        "firstInstalmentDueDate": "2021-01-13",
+        "CET": 0.0419,
+        "amortizationScheduled": "PRICE",
+        "amortizationScheduledAdditionalInfo": "NA",
+        "interestRates": [
+            {
+                "taxType": "EFETIVA",
+                "interestRateType": "COMPOSTO",
+                "taxPeriodicity": "AA",
+                "calculation": "30/365",
+                "referentialRateIndexerType": "FLUTUANTES",
+                "referentialRateIndexerSubType": "OUTRAS_TAXAS_FLUTUANTES",
+                "referentialRateIndexerAdditionalInfo": "NA",
+                "preFixedRate": 0.0000,
+                "postFixedRate": 0.0419,
+                "additionalInfo": "NA"
+            }
+        ],
+        "contractedFees": [
+            {
+                "feeName": "Manutenção de Contrato",
+                "feeCode": "MANUTENCAO_CONTRATO",
+                "feeChargeType": "UNICA",
+                "feeCharge": "FIXO",
+                "feeAmount": 59.9000,
+                "feeRate": 0.0000
+            },
+            {
+                "feeName": "Manutenção de Conta",
+                "feeCode": "MANUTENCAO_CONTA",
+                "feeChargeType": "UNICA",
+                "feeCharge": "MAXIMO",
+                "feeAmount": 29.8599,
+                "feeRate": 0.0000
+            }
+        ],
+        "contractedFinanceCharges": [
+            {
+                "chargeType": "MULTA_ATRASO_PAGAMENTO",
+                "chargeAdditionalInfo": "NA",
+                "chargeRate": 0.0959
+            },
+            {
+                "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
+                "chargeAdditionalInfo": "NA",
+                "chargeRate": 0.0400
+            },
+            {
+                "chargeType": "JUROS_MORA_ATRASO",
+                "chargeAdditionalInfo": "NA",
+                "chargeRate": 0.0296
+            },
+            {
+                "chargeType": "IOF_CONTRATACAO",
+                "chargeAdditionalInfo": "NA",
+                "chargeRate": 0.0356
+            },
+            {
+                "chargeType": "IOF_POR_ATRASO",
+                "chargeAdditionalInfo": "NA",
+                "chargeRate": 0.0159
+            }
+        ]
+    },
+    "links": {
+        "self": "https://openbanking.banrisul.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/790b1bd3-0614-33d5-83c9-01044e5efeca"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-07-02T08:54:00Z"
+    }
+}
