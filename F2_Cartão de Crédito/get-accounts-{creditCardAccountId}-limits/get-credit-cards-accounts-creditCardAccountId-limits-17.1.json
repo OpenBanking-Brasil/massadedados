@@ -28,7 +28,7 @@
         }
     ],
     "links": {
-        "self": "https://api.banco.com.br/open-banking/credit-cards-accounts/v1/accounts/PIITR3459087/limits"
+        "self": "https://api.banco.com.br/open-banking/credit-cards-accounts/v1/accounts/15c7e4c4-da93-11eb-8d19-0242ac130003/limits"
     },
     "meta": {
         "totalRecords": 2,
