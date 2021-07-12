@@ -18,8 +18,6 @@
 			"CUSTOMERS_BUSINESS_ADITTIONALINFO_READ",
             "RESOURCES_READ"
         ],
-        "expirationDateTime": "2021-09-01T00:00:00Z",
-        "transactionFromDateTime": "2021-03-01T00:00:00Z",
-        "transactionToDateTime": "2021-09-01T00:00:00Z"
+        "expirationDateTime": "2021-09-01T00:00:00Z"
     }
 }
