@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "transactionId": "278c9b3b-91b4-430c-b2fc-9184e5beae5d",
+            "identificationNumber": "6578",
+            "lineName": "CREDITO_PARCELADO",
+            "transactionName": "PAGAMENTO",
+            "billId": "fba2cc95-e6de-4cb5-99e6-24c403d79eb5",
+            "creditDebitType": "DEBITO",
+            "transactionType": "PAGAMENTO",
+            "transactionalAdditionalInfo": "NA",
+            "paymentType": "A_PRAZO",
+            "feeType": "NA",
+            "feeTypeAdditionalInfo": "NA",
+            "otherCreditsType": "NA",
+            "otherCreditsAdditionalInfo": "NA",
+            "chargeIdentificator": "PARCELA_1",
+            "chargeNumber": 4,
+            "brazilianAmount": 200.0000,
+            "amount": 0.0000,
+            "currency": "BRL",
+            "transactionDate": "2021-07-10",
+            "billPostDate": "2021-07-10",
+            "payeeMCC": 1520
+        },
+        {
+            "transactionId": "94a9a870-7641-453e-a027-27a6b1960dbc",
+            "identificationNumber": "6578",
+            "lineName": "CREDITO_PARCELADO",
+            "transactionName": "PAGAMENTO",
+            "billId": "fba2cc95-e6de-4cb5-99e6-24c403d79eb5",
+            "creditDebitType": "DEBITO",
+            "transactionType": "PAGAMENTO",
+            "transactionalAdditionalInfo": "NA",
+            "paymentType": "A_PRAZO",
+            "feeType": "NA",
+            "feeTypeAdditionalInfo": "NA",
+            "otherCreditsType": "NA",
+            "otherCreditsAdditionalInfo": "NA",
+            "chargeIdentificator": "PARCELA_2",
+            "chargeNumber": 4,
+            "brazilianAmount": 200.0000,
+            "amount": 0.0000,
+            "currency": "BRL",
+            "transactionDate": "2021-08-10",
+            "billPostDate": "2021-08-10",
+            "payeeMCC": 1520
+        }
+    ],
+    "links": {
+        "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/afe4fb0b-4479-4f52-9399-6a038ee62f02/bills/fba2cc95-e6de-4cb5-99e6-24c403d79eb5?fromTransactionDate=2021-07-01&toTransactionDate=2021-09-01"
+    },
+    "meta": {
+        "totalRecords": 2,
+        "totalPages": 1,
+        "requestDateTime": "2021-12-15T09:41:00Z"
+    }
+}

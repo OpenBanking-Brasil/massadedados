@@ -1,0 +1,23 @@
+{
+  "data": {
+    "creditCardNetwork": "VISA",
+    "name": "Itaucard Gold Visa",
+    "networkAdditionalInfo": "NA",    
+    "paymentMethod": [
+      {
+        "identificationNumber": "6552",
+        "isMultipleCreditCard": false
+      }
+    ],
+    "productType": "GOLD",
+    "productAdditionalInfo": "NA"
+  },
+  "links": {
+    "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/f116b8b0-d64f-4c89-91e3-8022915366ab"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-12-15T09:41:00Z"
+  }
+}
