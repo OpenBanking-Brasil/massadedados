@@ -3,22 +3,22 @@
         {
             "billId": "1e1f17da-da9a-11eb-8d19-0242ac130003",
             "dueDate": "2021-06-10",
-            "billTotalAmount": 1543.0400,
+            "billTotalAmount": 1154.8200,
             "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 154.4300,
+            "billMinimumAmount": 115.4820,
             "billMinimumAmountCurrency": "BRL",
             "isInstalment": false,
             "financeCharges": [
                 {
                     "type": "JUROS_REMUNERATORIOS_ATRASO_PAGAMENTO_FATURA",
-                    "amount": 0.5400,
+                    "amount": 154.7800,
                     "currency": "BRL"
                 }
             ],
             "payments": [
                 {
                     "valueType": "OUTRO_VALOR_PAGO_FATURA",
-                    "paymentDate": "2021-04-21",
+                    "paymentDate": "2021-06-15",
                     "paymentMode": "BOLETO_BANCARIO",
                     "amount": 574.2600,
                     "currency": "BRL"
@@ -32,6 +32,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-06-21T14:28:47Z"
+        "requestDateTime": "2021-06-11T14:28:47Z"
     }
 }
