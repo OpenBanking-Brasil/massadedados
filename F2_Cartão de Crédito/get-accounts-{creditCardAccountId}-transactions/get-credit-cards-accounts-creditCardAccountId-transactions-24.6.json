@@ -1,23 +1,23 @@
 {
     "data": [
         {
-            "transactionId": "9d3f11b2-ddad-11eb-ba80-0242ac130004",
+            "transactionId": "a7a9f090-ddad-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "EMPRESTIMO_CARTAO_CONSIGNADO",
-            "transactionName": "PAGAMENTO",
+            "lineName": "CREDITO_A_VISTA",
+            "transactionName": "CANCELAMENTO",
             "billId": "b619435a-df2f-11eb-ba80-0242ac130004",
-            "creditDebitType": "DEBITO",
-            "transactionType": "PAGAMENTO",
-            "paymentType": "A_PRAZO",
+            "creditDebitType": "CREDITO",
+            "transactionType": "ESTORNO",
+            "paymentType": "A_VISTA",
             "feeType": "ANUIDADE",
-            "chargeIdentificator": "PARCELA_1",
-            "chargeNumber": 10,
-            "brazilianAmount": 749.0000,
+            "chargeIdentificator": "PARCELA_3",
+            "chargeNumber": 1,
+            "brazilianAmount": 4.0000,
             "amount": 0.0000,
             "currency": "BRL",
-            "transactionDate": "2021-05-20",
-            "billPostDate": "2021-05-21",
-            "payeeMCC": 4582
+            "transactionDate": "2021-07-20",
+            "billPostDate": "2021-07-21",
+            "payeeMCC": 5311
         },
         {
             "transactionId": "a22ba028-ddad-11eb-ba80-0242ac130004",
@@ -35,27 +35,27 @@
             "amount": 0.0000,
             "currency": "BRL",
             "transactionDate": "2021-06-20",
-            "billPostDate": "2021-05-21",
+            "billPostDate": "2021-06-21",
             "payeeMCC": 4761
         },
         {
-            "transactionId": "a7a9f090-ddad-11eb-ba80-0242ac130004",
+            "transactionId": "9d3f11b2-ddad-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
-            "transactionName": "CANCELAMENTO",
+            "lineName": "EMPRESTIMO_CARTAO_CONSIGNADO",
+            "transactionName": "PAGAMENTO",
             "billId": "b619435a-df2f-11eb-ba80-0242ac130004",
-            "creditDebitType": "CREDITO",
-            "transactionType": "ESTORNO",
-            "paymentType": "A_VISTA",
+            "creditDebitType": "DEBITO",
+            "transactionType": "PAGAMENTO",
+            "paymentType": "A_PRAZO",
             "feeType": "ANUIDADE",
-            "chargeIdentificator": "PARCELA_3",
-            "chargeNumber": 1,
-            "brazilianAmount": 4.0000,
+            "chargeIdentificator": "PARCELA_1",
+            "chargeNumber": 10,
+            "brazilianAmount": 749.0000,
             "amount": 0.0000,
             "currency": "BRL",
-            "transactionDate": "2021-07-20",
+            "transactionDate": "2021-05-20",
             "billPostDate": "2021-05-21",
-            "payeeMCC": 5311
+            "payeeMCC": 4582
         }
     ],
     "links": {
@@ -64,6 +64,6 @@
     "meta": {
         "totalRecords": 3,
         "totalPages": 1,
-        "requestDateTime": "2021-09-21T15:11:21Z"
+        "requestDateTime": "2021-07-21T15:11:21Z"
     }
 }
