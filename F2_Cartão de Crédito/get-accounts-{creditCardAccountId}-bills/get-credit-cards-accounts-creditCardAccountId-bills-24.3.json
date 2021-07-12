@@ -1,26 +1,26 @@
 {
     "data": [
         {
-            "billId": "f2648412-db62-11eb-8d19-0242ac130003",
-            "dueDate": "2021-08-10",
-            "billTotalAmount": 3000.0000,
+            "billId": "fb3bdb08-db62-11eb-8d19-0242ac130003",
+            "dueDate": "2021-10-10",
+            "billTotalAmount": 100.0000,
             "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 150.0000,
+            "billMinimumAmount": 10.0000,
             "billMinimumAmountCurrency": "BRL",
             "isInstalment": true,
             "financeCharges": [
                 {
                     "type": "JUROS_MORA_ATRASO_PAGAMENTO_FATURA",
-                    "amount": 30.0000,
+                    "amount": 1.0000,
                     "currency": "BRL"
                 }
             ],
             "payments": [
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_PARCELADO",
-                    "paymentDate": "2021-09-08",
+                    "paymentDate": "2021-10-11",
                     "paymentMode": "AVERBACAO_FOLHA",
-                    "amount": 1500.0000,
+                    "amount": 100.0000,
                     "currency": "BRL"
                 }
             ]
@@ -51,26 +51,51 @@
             ]
         },
         {
-            "billId": "fb3bdb08-db62-11eb-8d19-0242ac130003",
-            "dueDate": "2021-10-10",
-            "billTotalAmount": 100.0000,
+            "billId": "f2648412-db62-11eb-8d19-0242ac130003",
+            "dueDate": "2021-08-10",
+            "billTotalAmount": 3000.0000,
             "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 10.0000,
+            "billMinimumAmount": 150.0000,
             "billMinimumAmountCurrency": "BRL",
             "isInstalment": true,
             "financeCharges": [
                 {
                     "type": "JUROS_MORA_ATRASO_PAGAMENTO_FATURA",
-                    "amount": 1.0000,
+                    "amount": 30.0000,
                     "currency": "BRL"
                 }
             ],
             "payments": [
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_PARCELADO",
-                    "paymentDate": "2021-10-11",
+                    "paymentDate": "2021-09-08",
                     "paymentMode": "AVERBACAO_FOLHA",
-                    "amount": 100.0000,
+                    "amount": 1500.0000,
+                    "currency": "BRL"
+                }
+            ]
+        },
+        {
+            "billId": "f2648412-db62-11eb-8d19-0242ac130003",
+            "dueDate": "2021-08-10",
+            "billTotalAmount": 3000.0000,
+            "billTotalAmountCurrency": "BRL",
+            "billMinimumAmount": 150.0000,
+            "billMinimumAmountCurrency": "BRL",
+            "isInstalment": true,
+            "financeCharges": [
+                {
+                    "type": "JUROS_MORA_ATRASO_PAGAMENTO_FATURA",
+                    "amount": 30.0000,
+                    "currency": "BRL"
+                }
+            ],
+            "payments": [
+                {
+                    "valueType": "VALOR_PAGAMENTO_FATURA_PARCELADO",
+                    "paymentDate": "2021-09-08",
+                    "paymentMode": "AVERBACAO_FOLHA",
+                    "amount": 1500.0000,
                     "currency": "BRL"
                 }
             ]
@@ -82,7 +107,7 @@
         "first": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/5cd65564-db2c-11eb-8d19-0242ac130003/bills?page=1&page-size=3"
     },
     "meta": {
-        "totalRecords": 3,
+        "totalRecords": 9,
         "totalPages": 3,
         "requestDateTime": "2021-09-11T14:28:47Z"
     }

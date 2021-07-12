@@ -1,11 +1,11 @@
 {
     "data": [
         {
-            "transactionId": "9d3f11b2-ddad-11eb-ba80-0242ac130004",
+            "transactionId": "e3930b9e-db66-11eb-8d19-0242ac130003",
             "identificationNumber": "5500",
             "lineName": "EMPRESTIMO_CARTAO_CONSIGNADO",
             "transactionName": "PAGAMENTO",
-            "billId": "323972f6-db62-11eb-8d19-0242ac130003",
+            "billId": "b5c4e68a-db5a-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
             "transactionType": "PAGAMENTO",
             "paymentType": "A_PRAZO",
@@ -20,11 +20,11 @@
             "payeeMCC": 4582
         },
         {
-            "transactionId": "a22ba028-ddad-11eb-ba80-0242ac130004",
+            "transactionId": "dbdd1d92-db6e-11eb-8d19-0242ac130003",
             "identificationNumber": "5500",
             "lineName": "OUTROS",
             "transactionName": "PAGAMENTO",
-            "billId": "323972f6-db62-11eb-8d19-0242ac130003",
+            "billId": "b5c4e68a-db5a-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
             "transactionType": "PAGAMENTO",
             "paymentType": "A_PRAZO",
@@ -39,11 +39,11 @@
             "payeeMCC": 4761
         },
         {
-            "transactionId": "a7a9f090-ddad-11eb-ba80-0242ac130004",
+            "transactionId": "468bb0c2-dd8b-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
             "lineName": "CREDITO_A_VISTA",
             "transactionName": "CANCELAMENTO",
-            "billId": "323972f6-db62-11eb-8d19-0242ac130003",
+            "billId": "b5c4e68a-db5a-11eb-8d19-0242ac130003",
             "creditDebitType": "CREDITO",
             "transactionType": "ESTORNO",
             "paymentType": "A_VISTA",
@@ -59,7 +59,7 @@
         }
     ],
     "links": {
-        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/5cd65564-db2c-11eb-8d19-0242ac130003/bills/323972f6-db62-11eb-8d19-0242ac130003/transactions?fromTransactionDate=2021-06-15"
+        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/5cd65564-db2c-11eb-8d19-0242ac130003/bills/b5c4e68a-db5a-11eb-8d19-0242ac130003/transactions?fromTransactionDate=2021-01-01&toTransactionDate=2021-12-31"
     },
     "meta": {
         "totalRecords": 3,

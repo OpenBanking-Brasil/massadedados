@@ -29,12 +29,12 @@
             "transactionType": "PAGAMENTO",
             "paymentType": "A_PRAZO",
             "feeType": "ANUIDADE",
-            "chargeIdentificator": "PARCELA_1",
+            "chargeIdentificator": "PARCELA_2",
             "chargeNumber": 10,
             "brazilianAmount": 755.0000,
             "amount": 0.0000,
             "currency": "BRL",
-            "transactionDate": "2021-05-20",
+            "transactionDate": "2021-06-20",
             "billPostDate": "2021-05-21",
             "payeeMCC": 4761
         },
@@ -48,18 +48,18 @@
             "transactionType": "ESTORNO",
             "paymentType": "A_VISTA",
             "feeType": "ANUIDADE",
-            "chargeIdentificator": "PARCELA_1",
+            "chargeIdentificator": "PARCELA_3",
             "chargeNumber": 1,
             "brazilianAmount": 4.0000,
             "amount": 0.0000,
             "currency": "BRL",
-            "transactionDate": "2021-05-20",
+            "transactionDate": "2021-07-20",
             "billPostDate": "2021-05-21",
             "payeeMCC": 5311
         }
     ],
     "links": {
-        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/7fabbd9e-db2d-11eb-8d19-0242ac130003/transactions?fromTransactionDate=2021-06-15"
+        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/7fabbd9e-db2d-11eb-8d19-0242ac130003/transactions?fromTransactionDate=2021-05-15"
     },
     "meta": {
         "totalRecords": 3,

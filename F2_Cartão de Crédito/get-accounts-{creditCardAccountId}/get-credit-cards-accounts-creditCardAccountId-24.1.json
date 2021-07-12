@@ -1,8 +1,8 @@
 {
   "data": {
-    "name": "CAIXA EMPRESARIAL",
+    "name": "Caixa Econômica Federal",
     "productType": "OUTROS",
-    "productAdditionalInfo": "EMPRESARIAL +",
+    "productAdditionalInfo": "CONSTRUCARD",
     "creditCardNetwork": "OUTRAS",
     "networkAdditionalInfo": "CARTAO CAIXA EMPRESARIAL",
     "paymentMethod": {

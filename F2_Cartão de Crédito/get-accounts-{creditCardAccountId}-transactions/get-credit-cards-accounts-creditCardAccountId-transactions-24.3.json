@@ -1,6 +1,26 @@
 {
     "data": [
         {
+            "transactionId": "2169c5fc-ddc4-11eb-ba80-0242ac130004",
+            "identificationNumber": "5500",
+            "lineName": "CREDITO_A_VISTA",
+            "transactionName": "PAGAMENTO",
+            "billId": "c070742c-db5b-11eb-8d19-0242ac130003",
+            "creditDebitType": "DEBITO",
+            "transactionType": "OUTROS",
+            "otherCreditsType": "CREDITO_ROTATIVO",
+            "paymentType": "A_VISTA",
+            "feeType": "ANUIDADE",
+            "chargeIdentificator": "PARCELA_1",
+            "chargeNumber": 1,
+            "brazilianAmount": 5.0000,
+            "amount": 0.0000,
+            "currency": "BRL",
+            "transactionDate": "2021-06-20",
+            "billPostDate": "2021-06-21",
+            "payeeMCC": 8299
+        },
+        {
             "transactionId": "f3995fd0-dd9a-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
             "lineName": "EMPRESTIMO_CARTAO_CONSIGNADO",
@@ -1295,35 +1315,16 @@
             "transactionDate": "2021-05-20",
             "billPostDate": "2021-05-21",
             "payeeMCC": 5311
-        },
-        {
-            "transactionId": "2169c5fc-ddc4-11eb-ba80-0242ac130004",
-            "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
-            "transactionName": "PAGAMENTO",
-            "billId": "c070742c-db5b-11eb-8d19-0242ac130003",
-            "creditDebitType": "DEBITO",
-            "transactionType": "OUTROS",
-            "otherCreditsType": "CREDITO_ROTATIVO",
-            "paymentType": "A_VISTA",
-            "feeType": "ANUIDADE",
-            "chargeIdentificator": "PARCELA_1",
-            "chargeNumber": 1,
-            "brazilianAmount": 5.0000,
-            "amount": 0.0000,
-            "currency": "BRL",
-            "transactionDate": "2021-06-20",
-            "billPostDate": "2021-05-21",
-            "payeeMCC": 8299
         }
+       
     ],
     "links": {
-        "first":"https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/5cd65564-db2c-11eb-8d19-0242ac130003/transactions?page=1&page-size=66",
+        "first": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/5cd65564-db2c-11eb-8d19-0242ac130003/transactions?page=1&page-size=66",
         "prev": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/5cd65564-db2c-11eb-8d19-0242ac130003/transactions?page=2&page-size=66",
         "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/5cd65564-db2c-11eb-8d19-0242ac130003/transactions?page=3&page-size=66"
     },
     "meta": {
-        "totalRecords": 66,
+        "totalRecords": 198,
         "totalPages": 3,
         "requestDateTime": "2021-09-21T15:11:21Z"
     }

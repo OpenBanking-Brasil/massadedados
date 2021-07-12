@@ -10,15 +10,15 @@
             "isInstalment": true,
             "financeCharges": [
                 {
+                    "type": "SEM_ENCARGO",
+                    "amount": "0.0000",
+                    "currency": "BRL"
                 }
             ],
             "payments": [
-                {
-                }
+                {}
             ]
         }
-        
-        
     ],
     "links": {
         "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/5a326e42-db54-11eb-8d19-0242ac130003/bills"
