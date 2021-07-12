@@ -48,7 +48,7 @@
         }
     ],
     "links": {
-        "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/ITUCC2459187/bills/fba2cc95-e6de-4cb5-99e6-24c403d79eb5?fromTransactionDate='2021-07-01'&toTransactionDate='2021-09-01'"
+        "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/afe4fb0b-4479-4f52-9399-6a038ee62f02/bills/fba2cc95-e6de-4cb5-99e6-24c403d79eb5?fromTransactionDate=2021-07-01&toTransactionDate=2021-09-01"
     },
     "meta": {
         "totalRecords": 2,

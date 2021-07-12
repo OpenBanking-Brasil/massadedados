@@ -19,7 +19,14 @@
             "payments": [
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_PARCELADO",
-                    "paymentDate": "2021-07-10",
+                    "paymentDate": "2021-10-05",
+                    "paymentMode": "BOLETO_BANCARIO",
+                    "amount": 200.0000,
+                    "currency": "BRL"
+                },
+                {
+                    "valueType": "VALOR_PAGAMENTO_FATURA_PARCELADO",
+                    "paymentDate": "2021-09-07",
                     "paymentMode": "BOLETO_BANCARIO",
                     "amount": 200.0000,
                     "currency": "BRL"
@@ -30,15 +37,22 @@
                     "paymentMode": "BOLETO_BANCARIO",
                     "amount": 200.0000,
                     "currency": "BRL"
+                },
+                {
+                    "valueType": "VALOR_PAGAMENTO_FATURA_PARCELADO",
+                    "paymentDate": "2021-07-10",
+                    "paymentMode": "BOLETO_BANCARIO",
+                    "amount": 200.0000,
+                    "currency": "BRL"
                 }
             ]
         }
     ],
     "links": {
-        "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/ITUCC2459187/bills?fromDueDate='2021-07-01'&toDueDate='2021-09-01'"
+        "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/afe4fb0b-4479-4f52-9399-6a038ee62f02/bills?fromDueDate=2021-07-01&toDueDate=2021-11-10"
     },
     "meta": {
-        "totalRecords": 2,
+        "totalRecords": 4,
         "totalPages": 1,
         "requestDateTime": "2021-12-15T09:41:00Z"
     }
