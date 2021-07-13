@@ -1,20 +1,20 @@
 {
   "data": [
     {
-      "contractId": "42061493000110792118751740044492525769252",
-      "brandName": "Sib Bank S.A",
-      "companyCnpj": "42061493000110",
+      "contractId": "47f8ec0a-e230-390e-a47d-8623ad9d6de6",
+      "brandName": "Banco do Brasil S.A",
+      "companyCnpj": "00000000000191",
       "productType": "FINANCIAMENTOS",
       "productSubType": "AQUISICAO_BENS_VEICULOS_AUTOMOTORES",
-      "ipocCode": "42061493000110792118751740044492525769252"
+      "ipocCode": "00000000040118751740044439873689375023953"
     }
   ],
   "links": {
-    "self": "https://api.banco.com.br/open-banking/financings/v1/contracts"
+    "self": "https://opendata.api.bb.com.br/open-banking/financings/v1/contracts"
   },
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2021-05-21T08:30:00Z"
+    "requestDateTime": "2021-08-21T19:30:00Z"
   }
 }

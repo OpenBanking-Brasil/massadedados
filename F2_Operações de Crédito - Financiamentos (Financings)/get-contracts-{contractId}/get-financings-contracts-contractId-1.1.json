@@ -1,60 +1,58 @@
 {
   "data": {
-    "contractNumber": "92525769252",
-    "ipocCode": "42061493000110792118751740044492525769252",
+    "contractNumber": "34589374320",
+    "ipocCode": "00000000040118751740044439873689375023953",
     "productName": "Crédito Pessoal Consignado",
     "productType": "FINANCIAMENTOS",
     "productSubType": "AQUISICAO_BENS_VEICULOS_AUTOMOTORES",
-    "contractDate": "2021-01-15",
-    "disbursementDate": "2021-01-29",
-    "settlementDate": "2021-01-15",
-    "contractAmount": 105000.40,
+    "contractDate": "2021-06-09",
+    "settlementDate": "NA",
+    "contractAmount": 50000.0000,
     "currency": "BRL",
-    "dueDate": "2028-01-15",
+    "dueDate": "2026-07-09",
     "instalmentPeriodicity": "MENSAL",
-    "instalmentPeriodicityAdditionalInfo": "",
-    "firstInstalmentDueDate": "2021-02-15",
-    "CET": 0.29,
-    "amortizationScheduled": "SAC",
+    "instalmentPeriodicityAdditionalInfo": "NA",
+    "firstInstalmentDueDate": "2021-07-09",
+    "CET": 0.5858,
+    "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
     "amortizationScheduledAdditionalInfo": "NA",
     "interestRates": [
       {
         "taxType": "NOMINAL",
         "interestRateType": "COMPOSTO",
-        "taxPeriodicity": "AA",
+        "taxPeriodicity": "AM",
         "calculation": "21/252",
-        "referentialRateIndexerType": "PRE_FIXADO",
+        "referentialRateIndexerType": "POS_FIXADO",
         "referentialRateIndexerSubType": "TJLP",
-        "referentialRateIndexerAdditionalInfo": "",
-        "preFixedRate": 0.6,
-        "postFixedRate": 0.55,
-        "additionalInfo": ""
+        "preFixedRate": 0.0000,
+        "postFixedRate": 0.5858,
+        "additionalInfo": "NA"
       }
     ],
     "contractedFees": [
       {
-        "feeName": "Excesso em Conta",
-        "feeCode": "EXCESSO_CONTA",
-        "feeChargeType": "UNICA",
-        "feeCharge": "MINIMO",
-        "feeAmount": 105000.40,
-        "feeRate": 0.2
+        "feeName": "Taxa de administração",
+        "feeCode": "ADMINISTRACAO",
+        "feeChargeType": "POR_PARCELA",
+        "feeCharge": "Percentual",
+        "feeAmount": 80.0000,
+        "feeRate": 0.0000
       }
     ],
     "contractedFinanceCharges": [
       {
         "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
-        "chargeAdditionalInfo": "",
-        "chargeRate": 0.07
+        "chargeAdditionalInfo": "NA",
+        "chargeRate": 0.0700
       }
     ]
   },
   "links": {
-    "self": "https://api.banco.com.br/open-banking/financings/v1/contracts/42061493000110792118751740044492525769252"
+    "self": "https://opendata.api.bb.com.br/open-banking/financings/v1/contracts/47f8ec0a-e230-390e-a47d-8623ad9d6de6"
   },
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2021-05-21T08:30:00Z"
+    "requestDateTime": "2021-08-21T19:35:07Z"
   }
 }
