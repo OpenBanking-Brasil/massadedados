@@ -1,0 +1,151 @@
+{
+    "data": {
+        "typeNumberOfInstalments": "MES",
+        "totalNumberOfInstalments": 77,
+        "typeContractRemaining": "MES",
+        "contractRemainingNumber": 51,
+        "paidInstalments": 52,
+        "dueInstalments": 25,
+        "pastDueInstalments": 0,
+        "balloonPayments": [
+            {
+                "dueDate": "2020-07-06",
+                "currency": "BRL",
+                "amount": 63439.1400
+            },
+            {
+                "dueDate": "2021-06-06",
+                "currency": "BRL",
+                "amount": 63439.1400
+            },
+            {
+                "dueDate": "2021-05-06",
+                "currency": "BRL",
+                "amount": 63439.1400
+            },
+            {
+                "dueDate": "2021-04-06",
+                "currency": "BRL",
+                "amount": 63439.1400
+            },
+            {
+                "dueDate": "2021-03-06",
+                "currency": "BRL",
+                "amount": 63439.1400
+            },
+            {
+                "dueDate": "2021-02-06",
+                "currency": "BRL",
+                "amount": 63439.1400
+            },
+            {
+                "dueDate": "2021-01-06",
+                "currency": "BRL",
+                "amount": 63439.1400
+            },
+            {
+                "dueDate": "2020-12-06",
+                "currency": "BRL",
+                "amount": 63439.1400
+            },
+            {
+                "dueDate": "2020-11-06",
+                "currency": "BRL",
+                "amount": 63439.1400
+            },
+            {
+                "dueDate": "2020-10-06",
+                "currency": "BRL",
+                "amount": 63439.1400
+            },
+            {
+                "dueDate": "2020-09-06",
+                "currency": "BRL",
+                "amount": 63439.1400
+            },
+            {
+                "dueDate": "2020-08-06",
+                "currency": "BRL",
+                "amount": 63439.1400
+            },
+            {
+                "dueDate": "2020-07-06",
+                "currency": "BRL",
+                "amount": 63439.1400
+            },
+            {
+                "dueDate": "2020-06-06",
+                "currency": "BRL",
+                "amount": 63439.1400
+            },
+            {
+                "dueDate": "2020-05-06",
+                "currency": "BRL",
+                "amount": 63439.1400
+            },
+            {
+                "dueDate": "2020-04-06",
+                "currency": "BRL",
+                "amount": 63439.1400
+            },
+            {
+                "dueDate": "2020-03-06",
+                "currency": "BRL",
+                "amount": 63439.1400
+            },
+            {
+                "dueDate": "2020-02-06",
+                "currency": "BRL",
+                "amount": 63439.1400
+            },
+            {
+                "dueDate": "2020-01-06",
+                "currency": "BRL",
+                "amount": 63439.1400
+            },
+            {
+                "dueDate": "2019-12-06",
+                "currency": "BRL",
+                "amount": 63439.1400
+            },
+            {
+                "dueDate": "2019-11-06",
+                "currency": "BRL",
+                "amount": 63439.1400
+            },
+            {
+                "dueDate": "2019-10-06",
+                "currency": "BRL",
+                "amount": 63439.1400
+            },
+            {
+                "dueDate": "2019-09-06",
+                "currency": "BRL",
+                "amount": 63439.1400
+            },
+            {
+                "dueDate": "2019-08-06",
+                "currency": "BRL",
+                "amount": 63439.1400
+            },
+            {
+                "dueDate": "2019-07-06",
+                "currency": "BRL",
+                "amount": 63439.1400
+            },
+            {
+                "dueDate": "2019-06-06",
+                "currency": "BRL",
+                "amount": 63439.1400
+            }            
+        ]
+    },
+    "links": {
+        "self": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts/1ff29059-3105-43cd-a55a-20652d73604b/scheduled-instalments"
+    },
+    "meta": {
+        "totalRecords": 26,
+        "totalPages": 1,
+        "requestDateTime": "2021-07-21T15:00:00Z"
+    }
+}

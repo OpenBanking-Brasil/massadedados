@@ -1,20 +1,20 @@
 {
     "data": {
-        "contractNumber": "79072545079",
-        "ipocCode": "000000000020217907254507979072545079",
+        "contractNumber": "001654056488",
+        "ipocCode": "000000000203296542746001654056488",
         "productName": "Crédito Pessoal Sem Consignado",
         "productType": "EMPRESTIMOS",
         "productSubType": "CREDITO_PESSOAL_SEM_CONSIGNACAO",
         "contractDate": "2019-06-04",
         "disbursementDate": "2019-06-04",
-        "settlementDate": "2025-12-04",
-        "contractAmount": 5797000.00,
+        "settlementDate": "NA",
+        "contractAmount": 2797000.0000,
         "currency": "BRL",
         "dueDate": "2025-12-04",
         "instalmentPeriodicity": "QUINZENAL",
         "instalmentPeriodicityAdditionalInfo": "NA",
-        "firstInstalmentDueDate": "2019-06-21",
-        "CET": 0.0250,
+        "firstInstalmentDueDate": "2019-06-18",
+        "CET": 0.0160,
         "amortizationScheduled": "SAM",
         "amortizationScheduledAdditionalInfo": "NA",
         "cnpjConsignee": "00000000000191",
@@ -25,11 +25,11 @@
                 "taxPeriodicity": "AM",
                 "calculation": "30/365",
                 "referentialRateIndexerType": "CREDITO_RURAL",
-                "referentialRateIndexerSubType": "SELIC",
+                "referentialRateIndexerSubType": "TRFC_POS",
                 "referentialRateIndexerAdditionalInfo": "NA",
-                "preFixedRate": 0.0390,
-                "postFixedRate": 0.0390,
-                "additionalInfo": "O percentual da taxa vai acompanhar a taxa Selic."
+                "preFixedRate": 0.0000,
+                "postFixedRate": 0.0140,
+                "additionalInfo": "O percentual da taxa vai acompanhar percentualmente a taxa Selic."
             }
         ],
         "contractedFees": [
@@ -38,8 +38,8 @@
                 "feeCode": "MANUTENCAO",
                 "feeChargeType": "POR_PARCELA",
                 "feeCharge": "Percentual",
-                "feeAmount": 150,
-                "feeRate": 0.0150
+                "feeAmount": 0.0000,
+                "feeRate": 0.0020
             }
         ],
         "contractedFinanceCharges": [
@@ -51,11 +51,11 @@
         ]
     },
     "links": {
-        "self": "https://api.banco.com.br/open-banking/loans/v1/contracts/443b4853-74c1-336b-861f-8c0525a66f13"
+        "self": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts/1ff29059-3105-43cd-a55a-20652d73604b"
     },
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-06-04T10:57:00Z"
+        "requestDateTime": "2021-12-04T10:57:00Z"
     }
 }

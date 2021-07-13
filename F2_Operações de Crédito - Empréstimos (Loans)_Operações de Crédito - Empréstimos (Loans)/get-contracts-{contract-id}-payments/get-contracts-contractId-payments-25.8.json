@@ -1,0 +1,40 @@
+{
+    "data": {
+        "paidInstalments": 1,
+        "contractOutstandingBalance": 0.0000,
+        "releases": [
+            {
+                "paymentId": "36a282ea-0327-3dc1-9ab0-f04e1bab8f00",
+                "isOverParcelPayment": false,
+                "instalmentId": "36a282ea-0327-3dc1-9ab0-f04e1bab8f01",
+                "paidDate": "2020-10-12",
+                "currency": "BRL",
+                "paidAmount": 20474.0100,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "Taxa de contratação cheque especial",
+                            "feeCode": "CONTRATACAO_CHEQUE_ESPECIAL",
+                            "feeAmount": 29.6000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 1251.0000
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "links": {
+        "self": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts/331491ea-4d1c-3418-b0db-c8a069362d2d/payments"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-07-21T15:00:00Z"
+    }
+}
