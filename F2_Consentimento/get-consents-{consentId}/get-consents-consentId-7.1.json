@@ -16,9 +16,7 @@
             "UNARRANGED_ACCOUNTS_OVERDRAFT_SCHEDULED_INSTALMENTS_READ",
             "UNARRANGED_ACCOUNTS_OVERDRAFT_PAYMENTS_READ" 
         ],
-        "expirationDateTime": "2022-11-15T22:00:00Z",
-        "transactionFromDateTime": "2021-11-15T00:00:00Z",
-        "transactionToDateTime": "2022-11-15T22:00:00Z"
+        "expirationDateTime": "2022-11-15T22:00:00Z"
     },
     "links": {
         "self": "https://api.baninter.com.br/open-banking/consents/v1/consents/urn:baninter:BIT418548546"
@@ -26,6 +24,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-11-15T00:00:00Z"
+        "requestDateTime": "2022-11-15T22:00:00Z"
     }
 }

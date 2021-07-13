@@ -22,9 +22,7 @@
             "CREDIT_CARDS_ACCOUNTS_TRANSACTIONS_READ",
             "RESOURCES_READ"
         ],
-        "expirationDateTime": "2022-01-02T14:00:02Z",
-        "transactionFromDateTime": "2021-01-02T14:00:02Z",
-        "transactionToDateTime": "2022-01-02T14:00:02Z"
+        "expirationDateTime": "2022-01-02T14:00:02Z"
     },
     "links": {
         "self": "https://api.sicredi.com.br/open-banking/consents/v1/consents/urn:sicredi:SCD898711524"

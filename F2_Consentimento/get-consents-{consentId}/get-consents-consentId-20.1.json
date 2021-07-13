@@ -17,9 +17,7 @@
             "LOANS_WARRANTIES_READ"
 			
         ],
-        "expirationDateTime": "2022-01-05T00:00:00Z",
-        "transactionFromDateTime": "2021-07-05T00:00:00Z",
-        "transactionToDateTime": "2022-01-05T00:00:00Z"
+        "expirationDateTime": "2022-01-05T00:00:00Z"
     },
     "links": {
         "self": "https://super.api.santander.com.br/open-banking/consents/v1/consents/urn:santander:BSB91020866"

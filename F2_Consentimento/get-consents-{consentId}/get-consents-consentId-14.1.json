@@ -9,9 +9,7 @@
 			"CUSTOMERS_BUSINESS_ADITTIONALINFO_READ",
             "RESOURCES_READ"
         ],
-        "expirationDateTime": "2021-09-01T00:00:00Z",
-        "transactionFromDateTime": "2021-03-01T00:00:00Z",
-        "transactionToDateTime": "2021-09-01T00:00:00Z"
+        "expirationDateTime": "2021-09-01T00:00:00Z"
     },
     "links": {
         "self": "http://openbanking.banrisul.com.br/open-banking/consents/v1/consents/urn:banrisul:BRS96825411"
@@ -19,6 +17,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-04-02T15:04:00Z"
+        "requestDateTime": "2021-09-01T00:00:00Z"
     }
 }

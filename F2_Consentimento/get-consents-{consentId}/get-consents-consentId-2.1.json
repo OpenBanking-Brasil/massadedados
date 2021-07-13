@@ -9,9 +9,7 @@
             "CUSTOMERS_PERSONAL_ADITTIONALINFO_READ",
             "RESOURCES_READ"
         ],
-        "expirationDateTime": "2022-07-10T18:00:00Z",
-        "transactionFromDateTime": "2021-07-10T00:00:00Z",
-        "transactionToDateTime": "2022-07-10T18:00:00Z"
+        "expirationDateTime": "2022-07-10T18:00:00Z"
     },
     "links": {
         "self": "https://openbanking.banrisul.com.br/open-banking/consents/v1/consents/urn:banrisul:BRS913310259"
@@ -19,6 +17,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-05-28T16:25:00Z"
+        "requestDateTime": "2022-07-10T18:00:00Z"
     }
 }

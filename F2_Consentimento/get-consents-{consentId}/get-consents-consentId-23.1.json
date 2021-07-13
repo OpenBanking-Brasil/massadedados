@@ -12,9 +12,7 @@
 			"LOANS_PAYMENTS_READ",
 			"LOANS_WARRANTIES_READ"
         ],
-        "expirationDateTime": "2022-06-26T00:00:00Z",
-        "transactionFromDateTime": "2021-09-26T00:00:00Z",
-        "transactionToDateTime": "2022-03-26T00:00:00Z"
+        "expirationDateTime": "2022-06-26T00:00:00Z"
     },
     "links": {
         "self": "https://api.baninter.com/open-banking/consents/v1/consents/urn:baninter:BIT97298291"
