@@ -1,0 +1,55 @@
+{
+    "data": [
+        {
+            "transactionId": "f3996b56-dd9a-11eb-ba80-0242ac130004",
+            "identificationNumber": "5500",
+            "lineName": "CREDITO_A_VISTA",
+            "transactionName": "PAGAMENTO",
+            "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
+            "creditDebitType": "DEBITO",
+            "transactionType": "OPERACOES_CREDITO_CONTRATADAS_CARTAO",
+            "paymentType": "A_VISTA",
+            "feeType": "SMS",
+            "otherCreditsType": "EMPRESTIMO",
+            "chargeIdentificator": "PARCELA_1",
+            "chargeNumber": 1,
+            "brazilianAmount": 10.0000,
+            "amount": 0.0000,
+            "currency": "BRL",
+            "transactionDate": "2021-05-20",
+            "billPostDate": "2021-05-21",
+            "payeeMCC": 8299
+        },
+        {
+            "transactionId": "f3996cd2-dd9a-11eb-ba80-0242ac130004",
+            "identificationNumber": "5500",
+            "lineName": "CREDITO_A_VISTA",
+            "transactionName": "PAGAMENTO",
+            "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
+            "creditDebitType": "DEBITO",
+            "transactionType": "OPERACOES_CREDITO_CONTRATADAS_CARTAO",
+            "paymentType": "A_VISTA",
+            "feeType": "ANUIDADE",
+            "otherCreditsType": "PARCELAMENTO_FATURA",
+            "chargeIdentificator": "PARCELA_1",
+            "chargeNumber": 1,
+            "brazilianAmount": 10.0000,
+            "amount": 0.0000,
+            "currency": "BRL",
+            "transactionDate": "2021-05-20",
+            "billPostDate": "2021-05-21",
+            "payeeMCC": 5311
+        }
+    ],
+    "links": {
+        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/5cd65564-db2c-11eb-8d19-0242ac130003/bills/e7afa584-db61-11eb-8d19-0242ac130003/transactions?page=3&page-size=2&transactionType=OPERACOES_CREDITO_CONTRATADAS_CARTAO",
+        "first": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/5cd65564-db2c-11eb-8d19-0242ac130003/bills/e7afa584-db61-11eb-8d19-0242ac130003/transactions?page=1&page-size=2&transactionType=OPERACOES_CREDITO_CONTRATADAS_CARTAO",
+        "prev": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/5cd65564-db2c-11eb-8d19-0242ac130003/bills/e7afa584-db61-11eb-8d19-0242ac130003/transactions?page=2&page-size=2&transactionType=OPERACOES_CREDITO_CONTRATADAS_CARTAO",
+        "last": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/5cd65564-db2c-11eb-8d19-0242ac130003/bills/e7afa584-db61-11eb-8d19-0242ac130003/transactions?page=3&page-size=2&transactionType=OPERACOES_CREDITO_CONTRATADAS_CARTAO"
+    },
+    "meta": {
+        "totalRecords": 6,
+        "totalPages": 3,
+        "requestDateTime": "2021-09-21T15:11:21Z"
+    }
+}
