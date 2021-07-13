@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "currency": "BRL",
+            "warrantyType": "OPERACOES_GARANTIDAS_PELO_GOVERNO",
+            "warrantySubType": "FEDERAL",
+            "warrantyAmount": 150000.0000
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "CESSAO_DIREITOS_CREDITORIOS",
+            "warrantySubType": "FATURA_CARTAO_CREDITO",
+            "warrantyAmount": 10000.0000
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "GARANTIA_FIDEJUSSORIA",
+            "warrantySubType": "PESSOA_JURIDICA",
+            "warrantyAmount": 70000.0000
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "GARANTIA_FIDEJUSSORIA",
+            "warrantySubType": "PESSOA_FISICA",
+            "warrantyAmount": 50000.0000
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "GARANTIA_FIDEJUSSORIA",
+            "warrantySubType": "PESSOA_FISICA",
+            "warrantyAmount": 20000.0000
+        }
+    ],
+    "links": {
+        "self": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts/c13daaa1-a83a-36f1-9f50-0e546eb3dc49/warranties"
+    },
+    "meta": {
+        "totalRecords": 5,
+        "totalPages": 1,
+        "requestDateTime": "2021-09-16T19:58:00Z"
+    }
+}

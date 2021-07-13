@@ -1,0 +1,64 @@
+{
+    "data": {
+        "paidInstalments": 1,
+        "contractOutstandingBalance": 264144.4100,
+        "releases": [
+            {
+                "paymentId": "f8ba36ac-1ac4-3f15-a94b-1b58d7cc2a2d",
+                "isOverParcelPayment": false,
+                "instalmentId": "f8ba36ac-1ac4-3f15-a94b-1b58d7cc2a2e",
+                "paidDate": "2020-07-16",                
+                "currency": "BRL",
+                "paidAmount": 20965.4900,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "Taxa de contratação",
+                            "feeCode": "CONTRATACAO",
+                            "feeAmount": 109.9000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "f667a7b5-2340-37ee-8dd3-71e1467cdb93",
+                "isOverParcelPayment": true,
+                "instalmentId": "34f911ab-2e52-3182-9e6c-94c7ec6858b4",
+                "paidDate": "2020-06-16",                
+                "currency": "BRL",
+                "paidAmount": 15000.0000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "links": {
+        "self": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts/c13daaa1-a83a-36f1-9f50-0e546eb3dc49/payments"
+    },
+    "meta": {
+        "totalRecords": 2,
+        "totalPages": 1,
+        "requestDateTime": "2021-09-16T20:36:17Z"
+    }
+}

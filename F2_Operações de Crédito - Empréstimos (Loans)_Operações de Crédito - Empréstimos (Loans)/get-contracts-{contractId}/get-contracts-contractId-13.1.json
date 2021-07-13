@@ -1,0 +1,64 @@
+{
+    "data": {
+        "contractNumber": "3215012",
+        "ipocCode": "0000000002122058309163215012",
+        "productName": "Microcredito Produtivo Orientado",
+        "productType": "EMPRESTIMOS",
+        "productSubType": "MICROCREDITO_PRODUTIVO_ORIENTADO",
+        "contractDate": "2020-06-16",
+        "settlementDate": "NA",
+        "contractAmount": 300000.0000,
+        "currency": "BRL",
+        "dueDate": "2022-07-16",
+        "instalmentPeriodicity": "MENSAL",
+        "instalmentPeriodicityAdditionalInfo": "NA",
+        "firstInstalmentDueDate": "2020-07-16",
+        "CET": 0.0510,
+        "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
+        "amortizationScheduledAdditionalInfo": "NA",
+        "cnpjConsignee": "NA",
+        "interestRates": [
+            {
+                "taxType": "EFETIVA",
+                "interestRateType": "SIMPLES",
+                "taxPeriodicity": "AA",
+                "calculation": "30/365",
+                "referentialRateIndexerType": "PRE_FIXADO",
+                "referentialRateIndexerSubType": "PRE_FIXADO",
+                "preFixedRate": 0.0510,
+                "postFixedRate": 0.0000,
+                "additionalInfo": "NA"
+            }
+        ],
+        "contractedFees": [
+            {
+                "feeName": "Taxa de contratação",
+                "feeCode": "CONTRATACAO",
+                "feeChargeType": "UNICA",
+                "feeCharge": "FIXO",
+                "feeAmount": 109.9000,
+                "feeRate": 0.0000
+            }
+        ],
+        "contractedFinanceCharges": [
+            {
+                "chargeType": "MULTA_ATRASO_PAGAMENTO",
+                "chargeAdditionalInfo": "Multa para casos de atraso de pagamento.",
+                "chargeRate": 0.0100
+            },
+            {
+                "chargeType": "IOF_POR_ATRASO",
+                "chargeAdditionalInfo": "Imposto sobre Operações Financeiras para casos de atraso de pagamento.",
+                "chargeRate": 0.0250
+            }
+        ]
+    },
+    "links": {
+        "self": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts/c13daaa1-a83a-36f1-9f50-0e546eb3dc49"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-09-16T19:58:00Z"
+    }
+}
