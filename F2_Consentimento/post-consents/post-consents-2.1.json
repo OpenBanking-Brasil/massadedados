@@ -11,8 +11,6 @@
             "CUSTOMERS_PERSONAL_ADITTIONALINFO_READ",
             "RESOURCES_READ"
         ],
-        "expirationDateTime": "2022-07-10T18:00:00Z",
-        "transactionFromDateTime": "2021-07-10T00:00:00Z",
-        "transactionToDateTime": "2022-07-10T18:00:00Z"
+        "expirationDateTime": "2022-07-10T18:00:00Z"
     }
 }

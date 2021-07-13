@@ -1,0 +1,26 @@
+{
+    "data": {
+      "typeNumberOfInstalments": "MES",
+      "totalNumberOfInstalments": 12,
+      "typeContractRemaining": "MES",
+      "contractRemainingNumber": 12,
+      "paidInstalments": 0,
+      "dueInstalments": 12,
+      "pastDueInstalments": 0,
+      "balloonPayments": [
+        {
+          "dueDate": "NA",
+          "currency": "BRL",
+          "amount": 0.0000
+        }
+      ]
+    },
+    "links": {
+      "self": "https://openbanking.banrisul.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/902d4fff-ad6f-339e-8fcf-dc5cc4fe6487/scheduled-instalments"
+    },
+    "meta": {
+      "totalRecords": 1,
+      "totalPages": 1,
+      "requestDateTime": "2021-07-02T08:54:00Z"
+    }
+}

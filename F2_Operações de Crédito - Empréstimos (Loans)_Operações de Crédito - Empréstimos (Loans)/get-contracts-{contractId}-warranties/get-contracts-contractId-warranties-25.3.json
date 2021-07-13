@@ -1,0 +1,21 @@
+{
+    "data": [
+        {
+            "currency": "BRL",
+            "warrantyType": "OPERACOES_GARANTIDAS_PELO_GOVERNO",
+            "warrantySubType": "MUNICIPAL",
+            "warrantyAmount": 20000.00
+        }
+    ],
+    "links": {
+        "self": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts/5d18c5fe-ba69-3a9e-a343-dca4d2a1cf6c/warranties?page=3&page-size=25",
+        "prev": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts/5d18c5fe-ba69-3a9e-a343-dca4d2a1cf6c/warranties?page=2&page-size=25",
+        "first": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts/5d18c5fe-ba69-3a9e-a343-dca4d2a1cf6c/warranties?page=1&page-size=25",
+        "last": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts/5d18c5fe-ba69-3a9e-a343-dca4d2a1cf6c/warranties?page=3&page-size=25"
+    },
+    "meta": {
+        "totalRecords": 51,
+        "totalPages": 3,
+        "requestDateTime": "2021-12-08T08:52:00Z"
+    }
+}

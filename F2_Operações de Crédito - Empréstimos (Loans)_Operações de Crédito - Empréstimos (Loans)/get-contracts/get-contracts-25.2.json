@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "contractId": "e4132a2d-9607-e911-80e0-d4ae52aa818f",
+            "brandName": "Banco do Brasil S.A",
+            "companyCnpj": "00000000000191",
+            "productType": "EMPRESTIMOS",
+            "productSubType": "CONTA_GARANTIDA",
+            "ipocCode": "000000000214296542746001982101"
+        }
+        
+    ],
+    "links": {
+        "self": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts?page=2&page-size=25",
+        "first": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts?page=1&page-size=25",
+        "prev": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts?page=1&page-size=25"
+    },
+    "meta": {
+        "totalRecords": 26,
+        "totalPages": 2,
+        "requestDateTime": "2021-12-02T16:52:00Z"
+    }
+}
+

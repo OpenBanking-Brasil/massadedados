@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "currency": "BRL",
+            "warrantyType": "PENHOR",
+            "warrantySubType": "OUTROS_BENS",
+            "warrantyAmount": 15000.00
+        }
+    ],
+    "links": {
+        "self": "https://openbanking.banrisul.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/790b1bd3-0614-33d5-83c9-01044e5efeca"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-12-21T08:30:00Z"
+    }
+}

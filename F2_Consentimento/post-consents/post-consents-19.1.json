@@ -17,8 +17,6 @@
             "ACCOUNTS_TRANSACTIONS_READ",
             "ACCOUNTS_OVERDRAFT_LIMITS_READ"
         ],
-        "expirationDateTime": "2021-10-10T00:00:00Z",
-        "transactionFromDateTime": "2021-04-01T00:00:00Z",
-        "transactionToDateTime": "2021-10-01T00:00:00Z"
+        "expirationDateTime": "2021-10-10T00:00:00Z"
     }
 }

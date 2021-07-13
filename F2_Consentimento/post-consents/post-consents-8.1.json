@@ -16,8 +16,6 @@
             "LOANS_PAYMENTS_READ",
             "LOANS_WARRANTIES_READ"           
         ],
-        "expirationDateTime": "2022-04-16T15:00:00Z",
-        "transactionFromDateTime": "2021-10-16T00:00:00Z",
-        "transactionToDateTime": "2022-04-16T15:00:00Z"
+        "expirationDateTime": "2022-04-16T15:00:00Z"
     }
 }

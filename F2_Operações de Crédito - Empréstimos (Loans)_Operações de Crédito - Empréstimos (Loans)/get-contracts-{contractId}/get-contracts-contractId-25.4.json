@@ -1,0 +1,61 @@
+{
+    "data": {
+        "contractNumber": "0016165101",
+        "ipocCode": "0000000002032965427460016165101",
+        "productName": "Crédito pessoal sem consignação",
+        "productType": "EMPRESTIMOS",
+        "productSubType": "CREDITO_PESSOAL_SEM_CONSIGNACAO",
+        "contractDate": "1999-01-10",
+        "disbursementDate": "1999-01-20",
+        "settlementDate": "2001-01-12",
+        "contractAmount": 500000.0000,
+        "currency": "BRL",
+        "dueDate": "2001-01-10",
+        "instalmentPeriodicity": "ANUAL",
+        "instalmentPeriodicityAdditionalInfo": "NA",
+        "firstInstalmentDueDate": "2000-01-10",
+        "CET": 0.0811,
+        "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
+        "amortizationScheduledAdditionalInfo": "NA",
+        "cnpjConsignee": "00000000000191",
+        "interestRates": [
+            {
+                "taxType": "EFETIVA",
+                "interestRateType": "SIMPLES",
+                "taxPeriodicity": "AA",
+                "calculation": "30/365",
+                "referentialRateIndexerType": "CREDITO_RURAL",
+                "referentialRateIndexerSubType": "TCR_POS",
+                "referentialRateIndexerAdditionalInfo": "NA",
+                "preFixedRate": 0.0000,
+                "postFixedRate": 0.0811,
+                "additionalInfo": "NA"
+            }
+        ],
+        "contractedFees": [
+            {
+                "feeName": "Taxa de cadastro",
+                "feeCode": "CADASTRO",
+                "feeChargeType": "UNICA",
+                "feeCharge": "MAXIMO",
+                "feeAmount": 90.0000,
+                "feeRate": 0.0000
+            }
+        ],
+        "contractedFinanceCharges": [
+            {
+                "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
+                "chargeAdditionalInfo": "NA",
+                "chargeRate": 0.0712
+            }
+        ]
+    },
+    "links": {
+        "self": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts/3a9faa33-f708-e911-80e0-d4ae52aa818f"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-12-04T14:15:00Z"
+    }
+}
