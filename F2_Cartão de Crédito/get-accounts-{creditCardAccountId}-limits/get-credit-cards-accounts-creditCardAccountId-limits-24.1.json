@@ -40,19 +40,6 @@
             "availableAmount": 3000.0000
         },
         {
-            "creditLineLimitType": "SAQUE_CREDITO_EXTERIOR",
-            "consolidationType": "CONSOLIDADO",
-            "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
-            "isLimitFlexible": true,
-            "limitAmountCurrency": "BRL",
-            "limitAmount": 0.0000,
-            "usedAmountCurrency": "BRL",
-            "usedAmount": 0.0000,
-            "availableAmountCurrency": "BRL",
-            "availableAmount": 0.0000
-        },
-        {
             "creditLineLimitType": "EMPRESTIMO_CARTAO_CONSIGNADO",
             "consolidationType": "CONSOLIDADO",
             "identificationNumber": "5500",
@@ -85,7 +72,7 @@
         "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/5cd65564-db2c-11eb-8d19-0242ac130003/limits"
     },
     "meta": {
-        "totalRecords": 6,
+        "totalRecords": 5,
         "totalPages": 1,
         "requestDateTime": "2021-09-21T15:11:21Z"
     }
