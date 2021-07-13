@@ -21,8 +21,6 @@
             "UNARRANGED_ACCOUNTS_OVERDRAFT_PAYMENTS_READ",
             "UNARRANGED_ACCOUNTS_OVERDRAFT_WARRANTIES_READ"
         ],
-        "expirationDateTime": "2022-05-09T06:00:00Z",
-        "transactionFromDateTime": "2021-05-09T06:00:00Z",
-        "transactionToDateTime": "2022-05-09T06:00:00Z"
+        "expirationDateTime": "2022-05-09T06:00:00Z"
     }
 }

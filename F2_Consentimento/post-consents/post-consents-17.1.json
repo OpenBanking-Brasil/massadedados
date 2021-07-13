@@ -21,8 +21,6 @@
             "CREDIT_CARDS_ACCOUNTS_TRANSACTIONS_READ"
             
         ],
-        "expirationDateTime": "2021-12-11T00:00:00Z",
-        "transactionFromDateTime": "2021-06-11T00:00:00Z",
-        "transactionToDateTime": "2021-12-11T00:00:00Z"
+        "expirationDateTime": "2021-12-11T00:00:00Z"
     }
 }

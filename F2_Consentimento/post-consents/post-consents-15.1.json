@@ -22,8 +22,6 @@
             "FINANCINGS_WARRANTIES_READ",
             "RESOURCES_READ"
         ],
-        "expirationDateTime": "2022-03-05T00:00:00Z",
-        "transactionFromDateTime": "2021-09-05T00:00:00Z",
-        "transactionToDateTime": "2022-03-05T00:00:00Z"
+        "expirationDateTime": "2022-03-05T00:00:00Z"
     }
 }

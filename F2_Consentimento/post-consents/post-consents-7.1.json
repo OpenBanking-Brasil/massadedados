@@ -24,8 +24,6 @@
             "UNARRANGED_ACCOUNTS_OVERDRAFT_SCHEDULED_INSTALMENTS_READ",
             "UNARRANGED_ACCOUNTS_OVERDRAFT_PAYMENTS_READ" 
         ],
-        "expirationDateTime": "2022-11-15T22:00:00Z",
-        "transactionFromDateTime": "2021-11-15T00:00:00Z",
-        "transactionToDateTime": "2022-11-15T22:00:00Z"
+        "expirationDateTime": "2022-11-15T22:00:00Z"
     }
 }
