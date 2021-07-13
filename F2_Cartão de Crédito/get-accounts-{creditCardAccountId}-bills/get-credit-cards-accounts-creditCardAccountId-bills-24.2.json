@@ -1,91 +1,66 @@
 {
     "data": [
         {
-            "billId": "37cec810-db62-11eb-8d19-0242ac130003",
+            "billId": "c070742c-db5b-11eb-8d19-0242ac130003",
             "dueDate": "2021-07-10",
-            "billTotalAmount": 100.0000,
+            "billTotalAmount": 4313.5200,
             "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 10.0000,
+            "billMinimumAmount": 600.1700,
             "billMinimumAmountCurrency": "BRL",
             "isInstalment": true,
             "financeCharges": [
                 {
-                    "type": "JUROS_MORA_ATRASO_PAGAMENTO_FATURA",
-                    "amount": 1.0000,
+                    "type": "SEM_ENCARGO",
+                    "amount": 0.0000,
                     "currency": "BRL"
                 }
             ],
             "payments": [
                 {
-                    "valueType": "VALOR_PAGAMENTO_FATURA_PARCELADO",
-                    "paymentDate": "2021-05-11",
-                    "paymentMode": "AVERBACAO_FOLHA",
-                    "amount": 100.0000,
+                    "valueType": "OUTRO_VALOR_PAGO_FATURA",
+                    "paymentDate": "2021-07-10",
+                    "paymentMode": "BOLETO_BANCARIO",
+                    "amount": 3500.0000,
                     "currency": "BRL"
                 }
             ]
         },
         {
-            "billId": "e7afa584-db61-11eb-8d19-0242ac130003",
+            "billId": "3b490578-8b21-3466-a3c0-f66b9c6b3f4b",
             "dueDate": "2021-07-10",
-            "billTotalAmount": 1500.0000,
+            "billTotalAmount": 5893.1900,
             "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 150.0000,
+            "billMinimumAmount": 670.1900,
             "billMinimumAmountCurrency": "BRL",
             "isInstalment": true,
             "financeCharges": [
                 {
-                    "type": "JUROS_MORA_ATRASO_PAGAMENTO_FATURA",
-                    "amount": 12.0000,
+                    "type": "OUTROS",
+                    "additionalInfo": "Reenvio da fatura fisica",
+                    "amount": 9.4500,
                     "currency": "BRL"
                 }
             ],
             "payments": [
                 {
-                    "valueType": "VALOR_PAGAMENTO_FATURA_PARCELADO",
-                    "paymentDate": "2021-05-08",
-                    "paymentMode": "AVERBACAO_FOLHA",
-                    "amount": 1500.0000,
-                    "currency": "BRL"
-                }
-            ]
-        },
-        {
-            "billId": "323972f6-db62-11eb-8d19-0242ac130003",
-            "dueDate": "2021-06-10",
-            "billTotalAmount": 50.0000,
-            "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 15.0000,
-            "billMinimumAmountCurrency": "BRL",
-            "isInstalment": true,
-            "financeCharges": [
-                {
-                    "type": "JUROS_MORA_ATRASO_PAGAMENTO_FATURA",
-                    "amount": 12.0000,
-                    "currency": "BRL"
-                }
-            ],
-            "payments": [
-                {
-                    "valueType": "VALOR_PAGAMENTO_FATURA_PARCELADO",
-                    "paymentDate": "2021-06-15",
-                    "paymentMode": "AVERBACAO_FOLHA",
-                    "amount": 15.0000,
+                    "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
+                    "paymentDate": "2021-07-10",
+                    "paymentMode": "PIX",
+                    "amount": 5893.1900,
                     "currency": "BRL"
                 }
             ]
         }
-        
     ],
     "links": {
-        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/5cd65564-db2c-11eb-8d19-0242ac130003/bills?page=2&page-size=3",
-        "prev": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/5cd65564-db2c-11eb-8d19-0242ac130003/bills?page=1&page-size=3",
-        "next": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/5cd65564-db2c-11eb-8d19-0242ac130003/bills?page=3&page-size=3",
-        "first": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/5cd65564-db2c-11eb-8d19-0242ac130003/bills?page=1&page-size=3",
-        "last": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/5cd65564-db2c-11eb-8d19-0242ac130003/bills?page=3&page-size=3"
+        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/5cd65564-db2c-11eb-8d19-0242ac130003/bills?page=2&page-size=2",
+        "prev": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/5cd65564-db2c-11eb-8d19-0242ac130003/bills?page=1&page-size=2",
+        "next": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/5cd65564-db2c-11eb-8d19-0242ac130003/bills?page=3&page-size=2",
+        "first": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/5cd65564-db2c-11eb-8d19-0242ac130003/bills?page=1&page-size=2",
+        "last": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/5cd65564-db2c-11eb-8d19-0242ac130003/bills?page=3&page-size=2"
     },
     "meta": {
-        "totalRecords": 9,
+        "totalRecords": 5,
         "totalPages": 3,
         "requestDateTime": "2021-09-10T14:28:47Z"
     }

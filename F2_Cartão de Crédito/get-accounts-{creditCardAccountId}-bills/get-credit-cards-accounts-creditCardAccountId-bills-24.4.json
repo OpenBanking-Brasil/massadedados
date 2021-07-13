@@ -16,7 +16,13 @@
                 }
             ],
             "payments": [
-                {}
+                {
+                    "valueType": "OUTRO_VALOR_PAGO_FATURA",
+                    "paymentDate": "2021-09-20",
+                    "paymentMode": "DEBITO_CONTA_CORRENTE",
+                    "amount": 0.0000,
+                    "currency": "BRL"
+                }
             ]
         }
     ],
