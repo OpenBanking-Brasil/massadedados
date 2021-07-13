@@ -1,0 +1,27 @@
+{
+    "data": [
+        {
+            "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
+            "creditDebitType": "CREDITO",
+            "transactionName": "Sem transacao",
+            "type": "OUTROS",
+            "amount": 0.0000,
+            "transactionCurrency": "BRL",
+            "transactionDate": "2021-05-25",
+            "partieCnpjCpf": "NA",
+            "partiePersonType": "PESSOA_NATURAL",
+            "partieCompeCode": "NA",
+            "partieBranchCode": "NA",
+            "partieNumber": "NA",
+            "partieCheckDigit": "NA"
+        }
+    ],
+    "links": {
+        "self": "https://super.api.santander.com.br/open-banking/accounts/v1/accounts/312f5666-d912-11eb-b8bc-0242ac130003/transactions"
+    },
+    "meta": {
+        "totalRecords": 0,
+        "totalPages": 1,
+        "requestDateTime": "2021-05-25T15:43:00Z"
+    }
+}

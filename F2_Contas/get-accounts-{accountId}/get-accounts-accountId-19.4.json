@@ -1,15 +1,15 @@
 {
     "data": {
-        "compeCode": "001",
-        "branchCode": "1478",
-        "number": "94088392",
-        "checkDigit": "4",
+        "compeCode": "237",
+        "branchCode": "1770",
+        "number": "32700",
+        "checkDigit": "2",
         "type": "CONTA_DEPOSITO_A_VISTA",
         "subtype": "INDIVIDUAL",
         "currency": "BRL"
     },
     "links": {
-        "self": "https://opendata.api.bb.com.br/open-banking/accounts/v1/accounts/291e5a29-49ed-401f-a583-193caa7ac79d"
+        "self": "https://api.bradesco.com/open-banking/accounts/v1/accounts/142fb6cc-d995-11eb-b8bc-0242ac130003"
     },
     "meta": {
         "totalRecords": 1,

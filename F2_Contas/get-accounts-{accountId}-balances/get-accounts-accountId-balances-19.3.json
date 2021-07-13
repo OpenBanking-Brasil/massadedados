@@ -1,0 +1,18 @@
+{
+  "data": {
+    "availableAmount": 10000.0000,
+    "availableAmountCurrency": "BRL",
+    "blockedAmount": 0.0000,
+    "blockedAmountCurrency": "BRL",
+    "automaticallyInvestedAmount": 0.0000,
+    "automaticallyInvestedAmountCurrency": "BRL"
+  },
+  "links": {
+    "self": "https://super.api.santander.com.br/open-banking/accounts/v1/accounts/312f5666-d912-11eb-b8bc-0242ac130003/balances"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-05-21T08:30:00Z"
+  }
+}
