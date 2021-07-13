@@ -6,7 +6,7 @@
             "companyCnpj": "00416968000101",
             "productType": "EMPRESTIMOS",
             "productSubType": "CONTA_GARANTIDA",
-            "ipocCode": "0041696802172606671292352410"
+            "ipocCode": "0041696802142606671292365110"
         },
         {
             "contractId": "a5324555-53c8-3e0c-a981-21c2eca7e68d",
@@ -14,7 +14,7 @@
             "companyCnpj": "00416968000101",
             "productType": "EMPRESTIMOS",
             "productSubType": "CAPITAL_GIRO_TETO_ROTATIVO",
-            "ipocCode": "0041696802142606671292365110"
+            "ipocCode": "0041696802172606671292352410"
         },
         {
             "contractId": "aa82d663-09a8-3e8e-869f-b172505d4bfd",

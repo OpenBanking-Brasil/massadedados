@@ -1,7 +1,7 @@
 {
     "data": {
-        "contractNumber": "2352410",
-        "ipocCode": "0041696802142606671292352410",
+        "contractNumber": "2365110",
+        "ipocCode": "0041696802142606671292365110",
         "productName": "Empréstimo com Conta Garantida",
         "productType": "EMPRESTIMOS",
         "productSubType": "CONTA_GARANTIDA",
@@ -25,7 +25,7 @@
                 "taxPeriodicity": "AA",
                 "calculation": "30/360",
                 "referentialRateIndexerType": "PRE_FIXADO",
-                "referentialRateIndexerSubType": "SEM_SUB_TIPO_INDEXADOR",
+                "referentialRateIndexerSubType": "PRE_FIXADO",
                 "referentialRateIndexerAdditionalInfo": "NA",
                 "preFixedRate": 0.0615,
                 "postFixedRate": 0.0000,

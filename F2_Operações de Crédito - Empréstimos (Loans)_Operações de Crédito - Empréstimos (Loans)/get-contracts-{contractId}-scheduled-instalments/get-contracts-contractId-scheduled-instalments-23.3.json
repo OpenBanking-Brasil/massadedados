@@ -9,27 +9,27 @@
         "pastDueInstalments": 0,
         "balloonPayments": [
             {
-                "dueDate": "2019-01-04",
+                "dueDate": "2019-05-27",
                 "currency": "BRL",
                 "amount": 15000.0000
-            },
+            } ,
             {
                 "dueDate": "2019-02-30",
                 "currency": "BRL",
                 "amount": 15000.0000
             },
             {
-                "dueDate": "2019-05-27",
+                "dueDate": "2019-01-04",
                 "currency": "BRL",
                 "amount": 15000.0000
-            }         
+            }       
         ]
     },
     "links": {
         "self": "https://api.baninter.com/open-banking/loans/v1/contracts/aa82d663-09a8-3e8e-869f-b172505d4bfd/scheduled-instalments"
     },
     "meta": {
-        "totalRecords": 1,
+        "totalRecords": 3,
         "totalPages": 1,
         "requestDateTime": "2021-12-09T10:56:00Z"
     }

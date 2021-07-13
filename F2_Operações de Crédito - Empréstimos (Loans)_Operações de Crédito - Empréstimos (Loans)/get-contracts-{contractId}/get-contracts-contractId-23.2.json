@@ -1,7 +1,7 @@
 {
     "data": {
-        "contractNumber": "2365110",
-        "ipocCode": "0041696802142606671292365110",
+        "contractNumber": "2352410",
+        "ipocCode": "0041696802172606671292352410",
         "productName": "Empréstimo com Capital de Giro Teto Rotativo",
         "productType": "EMPRESTIMOS",
         "productSubType": "CAPITAL_GIRO_TETO_ROTATIVO",
@@ -13,9 +13,9 @@
         "dueDate": "2020-09-27",
         "instalmentPeriodicity": "BIMESTRAL",
         "instalmentPeriodicityAdditionalInfo": "NA",
-        "firstInstalmentDueDate": "2019-11-27",
+        "firstInstalmentDueDate": "2019-10-27",
         "CET": 0.0715,
-        "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
+        "amortizationScheduled": "SAM",
         "amortizationScheduledAdditionalInfo": "NA",
         "cnpjConsignee": "NA",
         "interestRates": [
