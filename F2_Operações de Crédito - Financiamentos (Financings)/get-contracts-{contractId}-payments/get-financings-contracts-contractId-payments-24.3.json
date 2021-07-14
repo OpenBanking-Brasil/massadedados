@@ -150,7 +150,7 @@
         ]
     },
     "links": {
-        "self": "https://api.caixa.gov.br/open-banking/financings/v1/contracts/bf7555e6-d629-33ce-8cf9-ee95e92241a0/payments"
+        "self": "https://api.caixa.gov.br/open-banking/financings/v1/contracts/df7555e6-d629-33ce-8cf9-ee95e92241a0/payments"
     },
     "meta": {
         "totalRecords": 6,
