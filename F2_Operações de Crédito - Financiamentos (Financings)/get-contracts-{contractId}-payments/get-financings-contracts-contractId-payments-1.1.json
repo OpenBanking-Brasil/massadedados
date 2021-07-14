@@ -1,7 +1,7 @@
 {
     "data": {
         "paidInstalments": 3,
-        "contractOutstandingBalance": 56473.3200,
+        "contractOutstandingBalance": 83514.0900,
         "releases": [
             {
                 "paymentId": "6af128c2-1494-35bc-9038-1b7ad4690195",
@@ -9,7 +9,7 @@
                 "instalmentId": "27e1ec00-f82e-3cdf-81d5-23af2176ec3c",
                 "paidDate": "2021-09-20",
                 "currency": "BRL",
-                "paidAmount": 1140.1132,
+                "paidAmount": 1572.2259,
                 "overParcel": {
                     "fees": [
                         {
@@ -22,7 +22,7 @@
                         {
                             "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
                             "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 69.3532
+                            "chargeAmount": 102.8559
                         }
                     ]
                 }
@@ -33,7 +33,7 @@
                 "instalmentId": "94faa5f4-36cc-33c1-b7fb-49b68125c78f",
                 "paidDate": "2021-08-09",
                 "currency": "BRL",
-                "paidAmount": 1070.7600,
+                "paidAmount": 1469.3700,
                 "overParcel": {
                     "fees": [
                         {
@@ -57,7 +57,7 @@
                 "instalmentId": "3a8ef50d-4eec-3df4-9acd-5f39bde5bfd8",
                 "paidDate": "2021-07-09",
                 "currency": "BRL",
-                "paidAmount": 1070.7600,
+                "paidAmount": 1469.3700,
                 "overParcel": {
                     "fees": [
                         {

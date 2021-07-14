@@ -13,7 +13,7 @@
     "instalmentPeriodicity": "MENSAL",
     "instalmentPeriodicityAdditionalInfo": "NA",
     "firstInstalmentDueDate": "2021-07-09",
-    "CET": 0.5858,
+    "CET": 0.1858,
     "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
     "amortizationScheduledAdditionalInfo": "NA",
     "interestRates": [
@@ -25,7 +25,7 @@
         "referentialRateIndexerType": "POS_FIXADO",
         "referentialRateIndexerSubType": "TJLP",
         "preFixedRate": 0.0000,
-        "postFixedRate": 0.5858,
+        "postFixedRate": 0.1858,
         "additionalInfo": "NA"
       }
     ],
