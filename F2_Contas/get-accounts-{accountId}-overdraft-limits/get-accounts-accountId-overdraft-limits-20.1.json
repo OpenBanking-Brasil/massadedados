@@ -1,0 +1,18 @@
+{
+    "data": {
+        "overdraftContractedLimit": 7000.0000,
+        "overdraftContractedLimitCurrency": "BRL",
+        "overdraftUsedLimit": 0.0000,
+        "overdraftUsedLimitCurrency": "BRL",
+        "unarrangedOverdraftAmount": 0.0000,
+        "unarrangedOverdraftAmountCurrency": "BRL"
+    },
+    "links": {
+        "self": "https://super.api.santander.com.br/open-banking/accounts/v1/accounts/d448bbb0-9d53-306f-816a-d59c12d73630/overdraft-limits"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-07-18T17:21:19Z"
+    }
+} 

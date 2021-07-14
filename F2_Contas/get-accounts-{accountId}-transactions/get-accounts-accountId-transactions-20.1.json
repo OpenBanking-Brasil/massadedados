@@ -1,0 +1,76 @@
+{
+    "data": [
+        {
+            "transactionId": "e24796a5-e55a-3cd3-b755-bbaa4d5352b0",
+            "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
+            "creditDebitType": "CREDITO",
+            "transactionName": "TRANSFSCD552347902",
+            "type": "DEPOSITO",
+            "amount": 25030.1600,
+            "transactionCurrency": "BRL",
+            "transactionDate": "2021-06-20",
+            "partieCnpjCpf": "90400888000142",
+            "partiePersonType": "PESSOA_JURIDICA",
+            "partieCompeCode": "033",
+            "partieBranchCode": "4332",
+            "partieNumber": "43567324",
+            "partieCheckDigit": "9"
+        },
+        {
+            "transactionId": "3fc8ba4f-d399-3039-8826-5b8d3f54c53d",
+            "completedAuthorisedPaymentType": "LANCAMENTO_FUTURO",
+            "creditDebitType": "CREDITO",
+            "transactionName": "TRANSFSRR000391244",
+            "type": "DOC",
+            "amount": 200961.1600,
+            "transactionCurrency": "BRL",
+            "transactionDate": "2021-06-18",
+            "partieCnpjCpf": "90400888000142",
+            "partiePersonType": "PESSOA_JURIDICA",
+            "partieCompeCode": "033",
+            "partieBranchCode": "4332",
+            "partieNumber": "43567324",
+            "partieCheckDigit": "9"
+        },
+        {
+            "transactionId": "265e9a41-2fc8-35a2-8cd8-ebc20f2a22cc",
+            "completedAuthorisedPaymentType": "LANCAMENTO_FUTURO",
+            "creditDebitType": "CREDITO",
+            "transactionName": "TRANSFSCD552347902",
+            "type": "TED",
+            "amount": 300000.0000,
+            "transactionCurrency": "BRL",
+            "transactionDate": "2021-06-15",
+            "partieCnpjCpf": "90400888000142",
+            "partiePersonType": "PESSOA_JURIDICA",
+            "partieCompeCode": "033",
+            "partieBranchCode": "4332",
+            "partieNumber": "43567324",
+            "partieCheckDigit": "9"
+        },
+        {
+            "transactionId": "e8a959e2-4e0a-336c-bacb-7fb0450c81b3",
+            "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
+            "creditDebitType": "CREDITO",
+            "transactionName": "TRANSFSES676230112",
+            "type": "PIX",
+            "amount": 15790.7800,
+            "transactionCurrency": "BRL",
+            "transactionDate": "2021-06-15",
+            "partieCnpjCpf": "90400888000142",
+            "partiePersonType": "PESSOA_JURIDICA",
+            "partieCompeCode": "033",
+            "partieBranchCode": "4332",
+            "partieNumber": "43567324",
+            "partieCheckDigit": "9"
+        }
+    ],
+    "links": {
+        "self": "https://super.api.santander.com.br/open-banking/accounts/v1/accounts/d448bbb0-9d53-306f-816a-d59c12d73630/transactions?fromBookingDate=2021-06-15"
+    },
+    "meta": {
+        "totalRecords": 4,
+        "totalPages": 1,
+        "requestDateTime": "2021-07-18T17:24:10Z"
+    }
+}
