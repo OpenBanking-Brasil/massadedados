@@ -9,22 +9,22 @@
         "pastDueInstalments": 0,
         "balloonPayments": [
             {
-                "dueDate": "2019-12-30",
-                "currency": "BRL",
-                "amount": 17500.0000
-            },
-            {
                 "dueDate": "2020-07-19",
                 "currency": "BRL",
                 "amount": 7500.0000
-            }
+            },
+            {
+                "dueDate": "2019-12-30",
+                "currency": "BRL",
+                "amount": 17500.0000
+            }            
         ]
     },
     "links": {
         "self": "https://api.caixa.gov.br/open-banking/loans/v1/contracts/377aa88d-8905-3847-ad8f-c80d9e47f907/scheduled-instalments"
     },
     "meta": {
-        "totalRecords": 1,
+        "totalRecords": 2,
         "totalPages": 1,
         "requestDateTime": "2021-10-26T00:00:00Z"
     }

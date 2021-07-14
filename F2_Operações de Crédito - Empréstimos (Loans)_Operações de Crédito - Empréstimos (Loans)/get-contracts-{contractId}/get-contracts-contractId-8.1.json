@@ -10,11 +10,11 @@
         "settlementDate": "2020-11-24",
         "contractAmount": 100000.0000,
         "currency": "BRL",
-        "dueDate": "2020-05-24",
+        "dueDate": "2020-11-24",
         "instalmentPeriodicity": "TRIMESTRAL",
         "instalmentPeriodicityAdditionalInfo": "NA",
-        "firstInstalmentDueDate": "2019-12-24",
-        "CET": 0.0234,
+        "firstInstalmentDueDate": "2020-02-24",
+        "CET": 0.0534,
         "amortizationScheduled": "SAM",
         "amortizationScheduledAdditionalInfo": "NA",
         "cnpjConsignee": "00360305000104",
@@ -27,8 +27,8 @@
                 "referentialRateIndexerType": "SEM_TIPO_INDEXADOR",
                 "referentialRateIndexerSubType": "SEM_SUB_TIPO_INDEXADOR",
                 "referentialRateIndexerAdditionalInfo": "NA",
-                "preFixedRate": 0.0385,
-                "postFixedRate": 0.0492,
+                "preFixedRate": 0.0434,
+                "postFixedRate": 0.0000,
                 "additionalInfo": "NA"
             }
         ],
@@ -38,7 +38,7 @@
                 "feeCode": "MANUTENCAO",
                 "feeChargeType": "POR_PARCELA",
                 "feeCharge": "PERCENTUAL",
-                "feeAmount": 100,
+                "feeAmount": 0.0000,
                 "feeRate": 0.0100
             }
         ],
