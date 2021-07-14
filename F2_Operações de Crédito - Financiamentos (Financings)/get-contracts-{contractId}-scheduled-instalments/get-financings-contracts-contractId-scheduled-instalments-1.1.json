@@ -7,13 +7,7 @@
     "paidInstalments": 3,
     "dueInstalments": 1,
     "pastDueInstalments": 0,
-    "balloonPayments": [
-      {
-        "dueDate": "NA",
-        "currency": "NA",
-        "amount": 0.0000
-      }
-    ]
+    "balloonPayments": []
   },
   "links": {
     "self": "https://opendata.api.bb.com.br/open-banking/financings/v1/contracts/47f8ec0a-e230-390e-a47d-8623ad9d6de6/scheduled-instalments"

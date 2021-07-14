@@ -34,7 +34,7 @@
         "feeName": "Taxa de administração",
         "feeCode": "ADMINISTRACAO",
         "feeChargeType": "POR_PARCELA",
-        "feeCharge": "Percentual",
+        "feeCharge": "FIXO",
         "feeAmount": 80.0000,
         "feeRate": 0.0000
       }
