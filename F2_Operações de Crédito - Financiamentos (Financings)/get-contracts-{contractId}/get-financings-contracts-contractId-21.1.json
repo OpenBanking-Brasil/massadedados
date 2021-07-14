@@ -6,10 +6,10 @@
     "productType": "FINANCIAMENTOS_IMOBILIARIOS",
     "productSubType": "FINANCIAMENTO_HABITACIONAL_SFH",
     "contractDate": "2002-03-01",
-    "settlementDate": "2019-03-01",
+    "settlementDate": "2018-03-01",
     "contractAmount": 250000.6000,
     "currency": "BRL",
-    "dueDate": "2019-03-01",
+    "dueDate": "2018-03-01",
     "instalmentPeriodicity": "ANUAL",
     "instalmentPeriodicityAdditionalInfo": "NA",
     "firstInstalmentDueDate": "2003-03-01",
@@ -36,7 +36,7 @@
         "feeChargeType": "UNICA",
         "feeCharge": "FIXO",
         "feeAmount": 5080.0000,
-        "feeRate": 0.0100
+        "feeRate": 0.0000
       }
     ],
     "contractedFinanceCharges": [
@@ -48,7 +48,7 @@
       {
         "chargeType": "IOF_CONTRATACAO",
         "chargeAdditionalInfo": "",
-        "chargeAmount": 560.0000
+        "chargeRate": 0.0500
       }
     ]
   },
