@@ -1,0 +1,68 @@
+{
+  "data": {
+    "contractNumber": "15165161",
+    "ipocCode": "00360305040323086749715165161",
+    "productName": "Microcredito",
+    "productType": "FINANCIAMENTOS",
+    "productSubType": "MICROCREDITO",
+    "contractDate": "2012-12-01",
+    "settlementDate": "2015-12-01",
+    "contractAmount": 200000.0000,
+    "currency": "BRL",
+    "dueDate": "2015-12-01",
+    "instalmentPeriodicity": "SEMESTRAL",
+    "instalmentPeriodicityAdditionalInfo": "NA",
+    "firstInstalmentDueDate": "2013-06-01",
+    "CET": 0.0500,
+    "amortizationScheduled": "SAC",
+    "amortizationScheduledAdditionalInfo": "NA",
+    "interestRates": [
+      {
+        "taxType": "EFETIVA",
+        "interestRateType": "SIMPLES",
+        "taxPeriodicity": "AM",
+        "calculation": "30/360",
+        "referentialRateIndexerType": "POS_FIXADO",
+        "referentialRateIndexerSubType": "TJLP",
+        "preFixedRate": 0.0000,
+        "postFixedRate": 0.0410,
+        "additionalInfo": "NA"
+      }
+    ],
+    "contractedFees": [
+      {
+        "feeName": "Taxa de manutenção",
+        "feeCode": "MANUTENCAO",
+        "feeChargeType": "POR_PARCELA",
+        "feeCharge": "PERCENTUAL",
+        "feeAmount": 0.0000,
+        "feeRate": 0.0090
+      }
+    ],
+    "contractedFinanceCharges": [
+      {
+        "chargeType": "MULTA_ATRASO_PAGAMENTO",
+        "chargeAdditionalInfo": "NA",
+        "chargeRate": 0.0360
+      },
+      {
+        "chargeType": "JUROS_MORA_ATRASO",
+        "chargeAdditionalInfo": "NA",
+        "chargeRate": 0.0260
+      },
+      {
+        "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
+        "chargeAdditionalInfo": "NA",
+        "chargeRate": 0.0250
+      }
+    ]
+  },
+  "links": {
+    "self": "https://api.caixa.gov.br/open-banking/financings/v1/contracts/ff7555e6-d629-33ce-8cf9-ee95e92241a0"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-09-03T10:17:00Z"
+  }
+} 
