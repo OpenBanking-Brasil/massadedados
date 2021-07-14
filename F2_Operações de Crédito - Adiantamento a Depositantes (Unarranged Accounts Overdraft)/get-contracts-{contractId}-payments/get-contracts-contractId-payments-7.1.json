@@ -1,28 +1,100 @@
 {
     "data": {
-      "paidInstalments": 73,
-      "contractOutstandingBalance": 100000.0474,
+      "paidInstalments": 4,
+      "contractOutstandingBalance": 13426.9604,
       "releases": [
         {
-          "paymentId": "XlthLXpBLVowLTldW2EtekEtWjAtOVwtXXswLDk5fSQ",
-          "isOverParcelPayment": true,
-          "instalmentId": "WGx0aExYcEJMVm93TFRsZFcyRXRla0V0V2pBdE9Wd3RYWH",
-          "paidDate": "2021-05-21",
+          "paymentId": "469fcba8-5be9-3bb0-82d5-a5c2c1d4e0e0",
+          "isOverParcelPayment": false,
+          "instalmentId": "53e9d383-0b87-35e2-8973-c3eb23627b9a",
+          "paidDate": "2021-05-05",
           "currency": "BRL",
-          "paidAmount": 100000.0474,
+          "paidAmount": 1675.0200,
           "overParcel": {
             "fees": [
               {
-                "feeName": "Saque a descoberto",
-                "feeCode": "Saque descoberto",
-                "feeAmount": 100000.0474
-              }
+                "feeName": "Manutenção de Contrato",
+                "feeCode": "MANUTENCAO_CONTRATO",
+                "feeAmount": 3.3500
+              },
             ],
             "charges": [
               {
-                "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
+                "chargeType": "MULTA_ATRASO_PAGAMENTO",
                 "chargeAdditionalInfo": "NA",
-                "chargeAmount": 100000.0474
+                "chargeAmount": 0.0000
+              }
+            ]
+          }
+        },
+        {
+          "paymentId": "57efe3b5-6426-3446-ba18-1164cdc78d55",
+          "isOverParcelPayment": false,
+          "instalmentId": "34c88273-a28e-3fbe-8e54-30b56941f2ba",
+          "paidDate": "2021-04-05",
+          "currency": "BRL",
+          "paidAmount": 1675.0200,
+          "overParcel": {
+            "fees": [
+              {
+                "feeName": "Manutenção de Contrato",
+                "feeCode": "MANUTENCAO_CONTRATO",
+                "feeAmount": 3.3500
+              },
+            ],
+            "charges": [
+              {
+                "chargeType": "MULTA_ATRASO_PAGAMENTO",
+                "chargeAdditionalInfo": "NA",
+                "chargeAmount": 0.0000
+              }
+            ]
+          }
+        },
+        {
+          "paymentId": "2488c991-d622-3c75-8fca-07b756482f76",
+          "isOverParcelPayment": false,
+          "instalmentId": "7efc8c1a-3757-303e-816a-45385c70f9cf",
+          "paidDate": "2021-03-05",
+          "currency": "BRL",
+          "paidAmount": 1675.0200,
+          "overParcel": {
+            "fees": [
+              {
+                "feeName": "Manutenção de Contrato",
+                "feeCode": "MANUTENCAO_CONTRATO",
+                "feeAmount": 3.3500
+              },
+            ],
+            "charges": [
+              {
+                "chargeType": "MULTA_ATRASO_PAGAMENTO",
+                "chargeAdditionalInfo": "NA",
+                "chargeAmount": 0.0000
+              }
+            ]
+          }
+        },
+        {
+          "paymentId": "93470b38-fff3-3305-b08b-46f86af02959",
+          "isOverParcelPayment": false,
+          "instalmentId": "8f916840-053e-3de6-833e-db9d6e0e18e1",
+          "paidDate": "2021-02-05",
+          "currency": "BRL",
+          "paidAmount": 1675.0200,
+          "overParcel": {
+            "fees": [
+              {
+                "feeName": "Manutenção de Contrato",
+                "feeCode": "MANUTENCAO_CONTRATO",
+                "feeAmount": 3.3500
+              },
+            ],
+            "charges": [
+              {
+                "chargeType": "MULTA_ATRASO_PAGAMENTO",
+                "chargeAdditionalInfo": "NA",
+                "chargeAmount": 0.0000
               }
             ]
           }
@@ -35,6 +107,6 @@
     "meta": {
       "totalRecords": 1,
       "totalPages": 1,
-      "requestDateTime": "2021-11-15T00:00:00Z"
+      "requestDateTime": "2021-03-15T10:00:00Z"
     }
 }

@@ -1,20 +1,19 @@
 {
     "data": {
-      "contractNumber": "1324926521496",
-      "ipocCode": "0041696800001241842765041324926521496",
+      "contractNumber": "0467476436897234",
+      "ipocCode": "00416968010112418427650409572405540002312",
       "productName": "AD",
       "productType": "ADIANTAMENTO_A_DEPOSITANTES",
       "productSubType": "ADIANTAMENTO_A_DEPOSITANTES",
-      "contractDate": "2018-01-05",
-      "disbursementDate": "2018-01-15",
-      "settlementDate": "2018-01-15",
-      "contractAmount": 100000.0474,
+      "contractDate": "2021-01-05",
+      "settlementDate": "NA",
+      "contractAmount": 18500.0000,
       "currency": "BRL",
-      "dueDate": "2028-01-15",
-      "instalmentPeriodicity": "SEMANAL",
+      "dueDate": "2022-01-05",
+      "instalmentPeriodicity": "MENSAL",
       "instalmentPeriodicityAdditionalInfo": "NA",
-      "firstInstalmentDueDate": "2018-02-15",
-      "CET": 0.29,
+      "firstInstalmentDueDate": "2021-02-05",
+      "CET": 0.0150,
       "amortizationScheduled": "SAC",
       "amortizationScheduledAdditionalInfo": "NA",
       "interestRates": [
@@ -24,21 +23,20 @@
           "taxPeriodicity": "AM",
           "calculation": "30/360",
           "referentialRateIndexerType": "PRE_FIXADO",
-          "referentialRateIndexerSubType": "SEM_SUB_TIPO_INDEXADOR",
-          "referentialRateIndexerAdditionalInfo": "NA",
-          "preFixedRate": 0.6,
-          "postFixedRate": 0.55,
+          "referentialRateIndexerSubType": "PRE_FIXADO",
+          "preFixedRate": 0.0130,
+          "postFixedRate": 0.0000,
           "additionalInfo": "NA"
         }
       ],
       "contractedFees": [
         {
-          "feeName": "Excesso em Conta",
-          "feeCode": "EXCESSO_CONTA",
-          "feeChargeType": "UNICA",
-          "feeCharge": "MINIMO",
-          "feeAmount": 100000.0474,
-          "feeRate": 50
+          "feeName": "Taxa de manutenção",
+          "feeCode": "MANUTENCAO",
+          "feeChargeType": "POR_PARCELA",
+          "feeCharge": "Percentual",
+          "feeAmount": 0.0000,
+          "feeRate": 0.0020
         }
       ],
       "contractedFinanceCharges": [
