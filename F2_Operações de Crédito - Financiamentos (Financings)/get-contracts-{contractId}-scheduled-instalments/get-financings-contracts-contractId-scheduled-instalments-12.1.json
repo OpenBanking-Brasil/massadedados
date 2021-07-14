@@ -10,7 +10,7 @@
     "balloonPayments": [
       {
         "dueDate": "NA",
-        "currency": "NA",
+        "currency": "BRL",
         "amount": 0.0000
       }
     ]
