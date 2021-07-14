@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "currency": "BRL",
+      "warrantyType": "CESSAO_DIREITOS_CREDITORIOS",
+      "warrantySubType": "APLICACOES_FINANCEIRAS_RENDA_VARIAVEL ",
+      "warrantyAmount": 55170.90,
+    },
+    {
+      "currency": "BRL",
+      "warrantyType": "GARANTIA_FIDEJUSSORIA",
+      "warrantySubType": "PESSOA_FISICA",
+      "warrantyAmount": 170000.0000,
+    },
+    {
+      "currency": "BRL",
+      "warrantyType": "PENHOR",
+      "warrantySubType": "VEICULOS",
+      "warrantyAmount": 58000.0000,
+    },
+    {
+      "currency": "BRL",
+      "warrantyType": "CESSAO_DIREITOS_CREDITORIOS",
+      "warrantySubType": "CHEQUES ",
+      "warrantyAmount": 15000.00,
+    },
+    {
+      "currency": "BRL",
+      "warrantyType": "GARANTIA_FIDEJUSSORIA",
+      "warrantySubType": "PESSOA_FISICA",
+      "warrantyAmount": 80000.0000,
+    }
+  ],
+  "links": {
+    "self": "https://api.itau/open-banking/financings/v1/contracts/f96b10e8-5aa7-32fe-b029-3ad7873fdef4/warranties"
+  },
+  "meta": {
+    "totalRecords": 5,
+    "totalPages": 1,
+    "requestDateTime": "2022-02-11T12:08:00Z"
+  }
+} 
