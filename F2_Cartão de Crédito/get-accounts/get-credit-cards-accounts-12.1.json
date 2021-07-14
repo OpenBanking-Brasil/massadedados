@@ -6,7 +6,7 @@
       "companyCnpj": "00360305000104",
       "name": "Platinum Mastercard",
       "productType": "PLATINUM",
-      "creditCardNetwork": "MASTERCARD",
+      "creditCardNetwork": "MASTERCARD"
     }
   ],
   "links": {

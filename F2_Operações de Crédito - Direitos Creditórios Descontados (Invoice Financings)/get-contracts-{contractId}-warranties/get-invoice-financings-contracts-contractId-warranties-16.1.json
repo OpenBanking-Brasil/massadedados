@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "currency": "BRL",
+      "warrantyType": "CESSAO_DIREITOS_CREDITORIOS",
+      "warrantySubType": "EQUIPAMENTOS",
+      "warrantyAmount": 350000.0000
+    }
+  ],
+  "links": {
+    "self": "https://api.bradesco.com/open-banking/invoice-financings/v1/contracts/2ec8fbe4-09e4-305d-bf8c-cdae1c298183/warranties"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-10-01T00:00:00Z"
+  }
+}
