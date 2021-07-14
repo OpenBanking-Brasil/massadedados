@@ -6,10 +6,10 @@
     "productType": "FINANCIAMENTOS",
     "productSubType": "AQUISICAO_BENS_OUTROS_BENS",
     "contractDate": "2019-04-01",
-    "settlementDate": "2020-05-01",
+    "settlementDate": "2020-04-01",
     "contractAmount": 30000.0000,
     "currency": "BRL",
-    "dueDate": "2020-05-01",
+    "dueDate": "2020-04-01",
     "instalmentPeriodicity": "BIMESTRAL",
     "instalmentPeriodicityAdditionalInfo": "NA",
     "firstInstalmentDueDate": "2019-06-01",
@@ -35,7 +35,7 @@
         "feeCode": "MANUTENCAO",
         "feeChargeType": "POR_PARCELA",
         "feeCharge": "FIXO",
-        "feeAmount": 11.9900,
+        "feeAmount": 20.0000,
         "feeRate": 0.0000
       }
     ],

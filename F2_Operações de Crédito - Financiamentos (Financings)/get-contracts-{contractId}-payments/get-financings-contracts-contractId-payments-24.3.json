@@ -1,0 +1,160 @@
+{
+    "data": {
+        "paidInstalments": 6,
+        "contractOutstandingBalance": 0.0000,
+        "releases": [
+            {
+                "paymentId": "e8bfcaf6-5864-3698-8cc0-945eba44a2b0",
+                "isOverParcelPayment": false,
+                "instalmentId": "d8bfcaf6-5864-3698-8cc0-945eba44a2b0",
+                "paidDate": "2020-04-01",
+                "currency": "BRL",
+                "paidAmount": 6140.0600,
+                "overParcel": {
+                    "fees": [
+                         {
+                          "feeName": "Taxa de manutenção",
+                          "feeCode": "MANUTENCAO",
+                          "feeAmount": 20.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "a8bfcaf6-5864-3698-8cc0-945eba44a2b0",
+                "isOverParcelPayment": false,
+                "instalmentId": "c8bfcaf6-5864-3698-8cc0-945eba44a2b0",
+                "paidDate": "2020-02-01",
+                "currency": "BRL",
+                "paidAmount": 6140.0600,
+                "overParcel": {
+                    "fees": [
+                         {
+                          "feeName": "Taxa de manutenção",
+                          "feeCode": "MANUTENCAO",
+                          "feeAmount": 20.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "28bfcaf6-5864-3698-8cc0-945eba44a2b0",
+                "isOverParcelPayment": false,
+                "instalmentId": "28bfcaf6-5864-3698-8cc0-945eba44a2b0",
+                "paidDate": "2019-12-01",
+                "currency": "BRL",
+                "paidAmount": 6140.0600,
+                "overParcel": {
+                    "fees": [
+                         {
+                          "feeName": "Taxa de manutenção",
+                          "feeCode": "MANUTENCAO",
+                          "feeAmount": 20.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "08bfcaf6-5864-3698-8cc0-945eba44a2b0",
+                "isOverParcelPayment": false,
+                "instalmentId": "08bfcaf6-5864-3698-8cc0-945eba44a2b0",
+                "paidDate": "2019-10-01",
+                "currency": "BRL",
+                "paidAmount": 6140.0600,
+                "overParcel": {
+                    "fees": [
+                         {
+                          "feeName": "Taxa de manutenção",
+                          "feeCode": "MANUTENCAO",
+                          "feeAmount": 20.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "88bfcaf6-5864-3698-8cc0-945eba44a2b0",
+                "isOverParcelPayment": false,
+                "instalmentId": "88bfcaf6-5864-3698-8cc0-945eba44a2b0",
+                "paidDate": "2019-08-01",
+                "currency": "BRL",
+                "paidAmount": 6140.0600,
+                "overParcel": {
+                    "fees": [
+                         {
+                          "feeName": "Taxa de manutenção",
+                          "feeCode": "MANUTENCAO",
+                          "feeAmount": 20.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "68bfcaf6-5864-3698-8cc0-945eba44a2b0",
+                "isOverParcelPayment": false,
+                "instalmentId": "68bfcaf6-5864-3698-8cc0-945eba44a2b0",
+                "paidDate": "2019-06-01",
+                "currency": "BRL",
+                "paidAmount": 6140.0600,
+                "overParcel": {
+                    "fees": [
+                         {
+                          "feeName": "Taxa de manutenção",
+                          "feeCode": "MANUTENCAO",
+                          "feeAmount": 20.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "links": {
+        "self": "https://api.caixa.gov.br/open-banking/financings/v1/contracts/bf7555e6-d629-33ce-8cf9-ee95e92241a0/payments"
+    },
+    "meta": {
+        "totalRecords": 6,
+        "totalPages": 1,
+        "requestDateTime": "2021-08-26T13:15:00Z"
+    }
+}

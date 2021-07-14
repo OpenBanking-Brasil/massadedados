@@ -11,10 +11,16 @@
       "warrantyType": "PENHOR",
       "warrantySubType": "OUTROS_BENS",
       "warrantyAmount": 50000.0000,
+    },
+    {
+      "currency": "BRL",
+      "warrantyType": "GARANTIA_FIDEJUSSORIA",
+      "warrantySubType": "PESSOA_JURIDICA",
+      "warrantyAmount": 180000.0000,
     }
   ],
   "links": {
-    "self": "https://api.caixa.gov.br/open-banking/financings/v1/contracts/f675a994-7baf-3a5c-bdc5-8d556c36d02f/warranties"
+    "self": "https://api.caixa.gov.br/open-banking/financings/v1/contracts/bf7555e6-d629-33ce-8cf9-ee95e92241a0/warranties"
   },
   "meta": {
     "totalRecords": 3,

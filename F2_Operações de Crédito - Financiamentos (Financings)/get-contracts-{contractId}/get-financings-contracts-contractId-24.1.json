@@ -13,7 +13,7 @@
     "instalmentPeriodicity": "MENSAL",
     "instalmentPeriodicityAdditionalInfo": "NA",
     "firstInstalmentDueDate": "2021-09-01",
-    "CET": 0.0600,
+    "CET": 0.0150,
     "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
     "amortizationScheduledAdditionalInfo": "NA",
     "interestRates": [
@@ -24,7 +24,7 @@
         "calculation": "30/360",
         "referentialRateIndexerType": "PRE_FIXADO",
         "referentialRateIndexerSubType": "PRE_FIXADO",
-        "preFixedRate": 0.0600,
+        "preFixedRate": 0.0150,
         "postFixedRate": 0.0000,
         "additionalInfo": "NA"
       }
