@@ -24,6 +24,7 @@
         "calculation": "30/360",
         "referentialRateIndexerType": "POS_FIXADO",
         "referentialRateIndexerSubType": "OUTRAS_TAXAS_POS_FIXADAS",
+        "referentialRateIndexerAdditionalInfo": "BB POS TAX",
         "preFixedRate": 0.0000,
         "postFixedRate": 0.0400,
         "additionalInfo": "NA"
