@@ -16,7 +16,6 @@
         "firstInstalmentDueDate": "2021-09-27",
         "CET": 0.0615,
         "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
-        "amortizationScheduledAdditionalInfo": "NA",
         "cnpjConsignee": "NA",
         "interestRates": [
             {
