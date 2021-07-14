@@ -1,0 +1,88 @@
+{
+    "data": {
+        "paidInstalments": 2,
+        "contractOutstandingBalance": 187903.4000,
+        "releases": [
+            {
+                "paymentId": "5599831b-78e0-4874-9426-a76afa25d31b",
+                "isOverParcelPayment": false,
+                "instalmentId": "ccca1c0b-fa68-48a4-a83c-ab4c21c150da",
+                "paidDate": "2021-12-01",
+                "currency": "BRL",
+                "paidAmount": 6061.4000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "44ad3387-0a53-445d-aa92-09d3448c99be",
+                "isOverParcelPayment": false,
+                "instalmentId": "aac8b819-4672-421b-91dd-12572604910c",
+                "paidDate": "2021-11-01",
+                "currency": "BRL",
+                "paidAmount": 6172.3900,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "Taxa de administração",
+                            "feeCode": "ADMINISTRACAO",
+                            "feeAmount": 110.9900
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "66a33593-1a85-4815-861b-62a83e7535eb",
+                "isOverParcelPayment": true,
+                "instalmentId": "993ce944-366e-486a-91e4-72f581f74d74",
+                "paidDate": "2021-10-02",
+                "currency": "BRL",
+                "paidAmount": 10.0000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "links": {
+        "self": "https://opendata.api.bb.com.br/open-banking/financings/v1/contracts/94c393aa-82e8-367a-bb3d-3c23c3ccea9c/payments"
+    },
+    "meta": {
+        "totalRecords": 3,
+        "totalPages": 1,
+        "requestDateTime": "2021-12-04T00:00:00Z"
+    }
+}
