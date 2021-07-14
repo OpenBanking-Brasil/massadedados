@@ -43,12 +43,12 @@
         "contractedFinanceCharges": [
             {
                 "chargeType": "MULTA_ATRASO_PAGAMENTO",
-                "chargeAdditionalInfo": "Multa para casos de atraso de pagamento.",
+                "chargeAdditionalInfo": "NA",
                 "chargeRate": 0.0100
             },
             {
                 "chargeType": "IOF_POR_ATRASO",
-                "chargeAdditionalInfo": "Imposto sobre Operações Financeiras para casos de atraso de pagamento.",
+                "chargeAdditionalInfo": "NA",
                 "chargeRate": 0.0250
             }
         ]
