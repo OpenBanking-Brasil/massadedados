@@ -4,25 +4,25 @@
         "contractOutstandingBalance": 14402.3790,
         "releases": [
             {
-                "paymentId": "b60f7c86-d4fc-11eb-b8bc-0242ac130003",
+                "paymentId": "6bf425f8-d500-11eb-b8bc-0242ac130003",
                 "isOverParcelPayment": false,
-                "instalmentId": "e7cce722-d4fc-11eb-b8bc-0242ac130003",
-                "paidDate": "2021-08-02",
+                "instalmentId": "6fcf6e8a-d500-11eb-b8bc-0242ac130003",
+                "paidDate": "2021-08-04",
                 "currency": "BRL",
-                "paidAmount": 20.0870,
+                "paidAmount": 220.5870,
                 "overParcel": {
                     "fees": [
                         {
-                            "feeName": "NA",
-                            "feeCode": "NA",
-                            "feeAmount": 0.0000
+                            "feeName": "Taxa de administracao",
+                            "feeCode": "ADMNISTRACAO",
+                            "feeAmount": 200.5000
                         }
                     ],
                     "charges": [
                         {
-                            "chargeType": "SEM_ENCARGO",
+                            "chargeType": "MULTA_ATRASO_PAGAMENTO",
                             "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
+                            "chargeAmount": 0.9921
                         }
                     ]
                 }
@@ -52,25 +52,25 @@
                 }
             },
             {
-                "paymentId": "6bf425f8-d500-11eb-b8bc-0242ac130003",
+                "paymentId": "b60f7c86-d4fc-11eb-b8bc-0242ac130003",
                 "isOverParcelPayment": false,
-                "instalmentId": "6fcf6e8a-d500-11eb-b8bc-0242ac130003",
-                "paidDate": "2021-08-04",
+                "instalmentId": "e7cce722-d4fc-11eb-b8bc-0242ac130003",
+                "paidDate": "2021-08-02",
                 "currency": "BRL",
-                "paidAmount": 220.5870,
+                "paidAmount": 20.0870,
                 "overParcel": {
                     "fees": [
                         {
-                            "feeName": "Taxa de administracao",
-                            "feeCode": "ADMNISTRACAO",
-                            "feeAmount": 200.5000
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
                         }
                     ],
                     "charges": [
                         {
-                            "chargeType": "MULTA_ATRASO_PAGAMENTO",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.9921
+                            "chargeAmount": 0.0000
                         }
                     ]
                 }
