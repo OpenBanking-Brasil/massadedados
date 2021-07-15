@@ -4,7 +4,7 @@
       "currency": "BRL",
       "warrantyType": "CESSAO_DIREITOS_CREDITORIOS",
       "warrantySubType": "APLICACOES_FINANCEIRAS_RENDA_VARIAVEL ",
-      "warrantyAmount": 55170.90,
+      "warrantyAmount": 55170.9000,
     },
     {
       "currency": "BRL",
@@ -22,7 +22,7 @@
       "currency": "BRL",
       "warrantyType": "CESSAO_DIREITOS_CREDITORIOS",
       "warrantySubType": "CHEQUES ",
-      "warrantyAmount": 15000.00,
+      "warrantyAmount": 15000.0000,
     },
     {
       "currency": "BRL",
