@@ -9,9 +9,9 @@
       "pastDueInstalments": 60,
       "balloonPayments": [
         {
-          "dueDate": "NA",
+          "dueDate": "2017-04-01",
           "currency": "BRL",
-          "amount": 0.0000
+          "amount": 2055.0000
         }
       ]
     },

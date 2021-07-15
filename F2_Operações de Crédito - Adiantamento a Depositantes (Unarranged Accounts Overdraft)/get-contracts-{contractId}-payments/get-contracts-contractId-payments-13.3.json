@@ -1,0 +1,40 @@
+{
+    "data": {
+      "paidInstalments": 10,
+      "contractOutstandingBalance": 0.0000,
+      "releases": [
+        {
+          "paymentId": "eeaf670c-f086-37c2-8b8d-dc4af2320b1b",
+          "isOverParcelPayment": false,
+          "instalmentId": "2d2056f8-19e7-3cb4-8bfe-0a002f124d76",
+          "paidDate": "2017-05-01",
+          "currency": "BRL",
+          "paidAmount": 2055.0000,
+          "overParcel": {
+            "fees": [
+              {
+                "feeName": "NA",
+                "feeCode": "NA",
+                "feeAmount": 0.0000
+              },
+            ],
+            "charges": [
+              {
+                "chargeType": "SEM_ENCARGO",
+                "chargeAdditionalInfo": "NA",
+                "chargeAmount": 0.0000
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "links": {
+      "self": "https://opendata.api.bb.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/375c0320-e155-355b-882f-3f82d6c11291/payments"
+    },
+    "meta": {
+      "totalRecords": 10,
+      "totalPages": 1,
+      "requestDateTime": "2021-12-15T5:46:00Z"
+    }
+}
