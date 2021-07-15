@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "currency": "BRL",
+      "warrantyType": "CESSAO_DIREITOS_CREDITORIOS",
+      "warrantySubType": "ACOES_DEBENTURES ",
+      "warrantyAmount": 10000.0000,
+    },
+    {
+      "currency": "BRL",
+      "warrantyType": "PENHOR",
+      "warrantySubType": "VEICULOS",
+      "warrantyAmount": 45500.0000,
+    },
+    {
+      "currency": "BRL",
+      "warrantyType": "GARANTIA_FIDEJUSSORIA",
+      "warrantySubType": "PESSOA_FISICA",
+      "warrantyAmount": 300000.0000,
+    }
+  ],
+  "links": {
+    "self": "https://api.sensedia.com.br/open-banking/financings/v1/contracts/014f9a93-26a3-3899-b483-31370f7f394c/warranties"
+  },
+  "meta": {
+    "totalRecords": 3,
+    "totalPages": 1,
+    "requestDateTime": "2021-09-19T19:14:00Z"
+  }
+} 
