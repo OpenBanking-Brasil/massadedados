@@ -1,21 +1,21 @@
 {
     "data": {
         "paidInstalments": 3,
-        "contractOutstandingBalance": 13824.1438,
+        "contractOutstandingBalance": 14402.3790,
         "releases": [
             {
                 "paymentId": "b60f7c86-d4fc-11eb-b8bc-0242ac130003",
-                "isOverParcelPayment": true,
+                "isOverParcelPayment": false,
                 "instalmentId": "e7cce722-d4fc-11eb-b8bc-0242ac130003",
                 "paidDate": "2021-08-02",
                 "currency": "BRL",
-                "paidAmount": 16.5351,
+                "paidAmount": 20.0870,
                 "overParcel": {
                     "fees": [
                         {
-                            "feeName": "Reavaliação periódica do bem",
-                            "feeCode": "aval_bem",
-                            "feeAmount": 2.4803
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
                         }
                     ],
                     "charges": [
@@ -29,17 +29,17 @@
             },
             {
                 "paymentId": "e7cce9de-d4fc-11eb-b8bc-0242ac130003",
-                "isOverParcelPayment": true,
+                "isOverParcelPayment": false,
                 "instalmentId": "6053ecec-d500-11eb-b8bc-0242ac130003",
                 "paidDate": "2021-08-03",
                 "currency": "BRL",
-                "paidAmount": 16.5351,
+                "paidAmount": 20.0870,
                 "overParcel": {
                     "fees": [
                         {
-                            "feeName": "Reavaliação periódica do bem",
-                            "feeCode": "aval_bem",
-                            "feeAmount": 2.4803
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
                         }
                     ],
                     "charges": [
@@ -53,17 +53,17 @@
             },
             {
                 "paymentId": "6bf425f8-d500-11eb-b8bc-0242ac130003",
-                "isOverParcelPayment": true,
+                "isOverParcelPayment": false,
                 "instalmentId": "6fcf6e8a-d500-11eb-b8bc-0242ac130003",
                 "paidDate": "2021-08-04",
                 "currency": "BRL",
-                "paidAmount": 33.0702,
+                "paidAmount": 220.5870,
                 "overParcel": {
                     "fees": [
                         {
-                            "feeName": "Reavaliação periódica do bem",
-                            "feeCode": "aval_bem",
-                            "feeAmount": 4.9606
+                            "feeName": "Taxa de administracao",
+                            "feeCode": "ADMNISTRACAO",
+                            "feeAmount": 200.5000
                         }
                     ],
                     "charges": [
