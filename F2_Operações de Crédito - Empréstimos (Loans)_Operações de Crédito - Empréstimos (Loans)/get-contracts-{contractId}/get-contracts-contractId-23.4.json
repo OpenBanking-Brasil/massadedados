@@ -1,0 +1,61 @@
+{
+    "data": {
+        "contractNumber": "23001",
+        "ipocCode": "00416968021426066712923001",
+        "productName": "Empréstimo com Conta Garantida",
+        "productType": "EMPRESTIMOS",
+        "productSubType": "CONTA_GARANTIDA",
+        "contractDate": "2018-03-30",
+        "disbursementDate": "2018-03-30",
+        "settlementDate": "2018-12-30",
+        "contractAmount": 150000.0000,
+        "currency": "BRL",
+        "dueDate": "2018-12-30",
+        "instalmentPeriodicity": "BIMESTRAL",
+        "instalmentPeriodicityAdditionalInfo": "NA",
+        "firstInstalmentDueDate": "2018-05-30",
+        "CET": 0.0452,
+        "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
+        "amortizationScheduledAdditionalInfo": "NA",
+        "cnpjConsignee": "NA",
+        "interestRates": [
+            {
+                "taxType": "EFETIVA",
+                "interestRateType": "SIMPLES",
+                "taxPeriodicity": "AA",
+                "calculation": "30/360",
+                "referentialRateIndexerType": "FLUTUANTES",
+                "referentialRateIndexerSubType": "CDI",
+                "referentialRateIndexerAdditionalInfo": "NA",
+                "preFixedRate": 0.0452,
+                "postFixedRate": 0.0000,
+                "additionalInfo": "NA"
+            }
+        ],
+        "contractedFees": [
+            {
+                "feeName": "Taxa de manutenção",
+                "feeCode": "MANUTENCAO",
+                "feeChargeType": "UNICA",
+                "feeCharge": "PERCENTUAL",
+                "feeAmount": 0.0000,
+                "feeRate": 0.0560
+            }
+        ],
+        "contractedFinanceCharges": [
+            {
+                "chargeType": "SEM_ENCARGO",
+                "chargeAdditionalInfo": "Programa de incentivo ao empréstimo.",
+                "chargeRate": 0.0000
+            }
+        ]
+    },
+    "links": {
+        "self": "https://api.baninter.com/open-banking/loans/v1/contracts/82cd3d66-f6d7-3e47-a4f9-131d297f16db"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-09-27T14:15:00Z"
+    }
+}
