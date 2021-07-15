@@ -1,16 +1,16 @@
 {
     "data": {
         "contractNumber": "648900003",
-        "ipocCode": "00000000010120583091605325304303450054",
+        "ipocCode": "00000000010120583091600043095834511113",
         "productName": "AD",
         "productType": "ADIANTAMENTO_A_DEPOSITANTES",
         "productSubType": "ADIANTAMENTO_A_DEPOSITANTES",
-        "contractDate": "2017-02-01",
+        "contractDate": "2015-02-01",
         "settlementDate": "NA",
         "contractAmount": 25000.0000,
         "currency": "BRL",
-        "dueDate": "2022-02-01",
-        "instalmentPeriodicity": "TRIMESTRAL",
+        "dueDate": "2026-01-01",
+        "instalmentPeriodicity": "MENSAL",
         "instalmentPeriodicityAdditionalInfo": "NA",
         "firstInstalmentDueDate": "2017-05-01",
         "CET": 0.0099,
@@ -21,37 +21,21 @@
                 "taxType": "EFETIVA",
                 "interestRateType": "SIMPLES",
                 "taxPeriodicity": "AA",
-                "calculation": "21/252",
+                "calculation": "30/365",
                 "referentialRateIndexerType": "PRE_FIXADO",
                 "referentialRateIndexerSubType": "PRE_FIXADO",
-                "preFixedRate": 0.0099,
+                "preFixedRate": 0.0097,
                 "postFixedRate": 0.0000,
                 "additionalInfo": "NA"
             }
         ],
         "contractedFees": [
             {
-                "feeName": "Manutenção de Contrato",
-                "feeCode": "MANUTENCAO_CONTRATO",
-                "feeChargeType": "UNICA",
-                "feeCharge": "FIXO",
-                "feeAmount": 300.0000,
-                "feeRate": 0.0000
-            },
-            {
-                "feeName": "Manutenção de Conta",
-                "feeCode": "MANUTENCAO_CONTA",
-                "feeChargeType": "UNICA",
-                "feeCharge": "MAXIMO",
-                "feeAmount": 420.6000,
-                "feeRate": 0.0000
-            },
-            {
                 "feeName": "Taxa de Adesão",
                 "feeCode": "ADESAO",
                 "feeChargeType": "UNICA",
                 "feeCharge": "FIXO",
-                "feeAmount": 500.0000,
+                "feeAmount": 780.0000,
                 "feeRate": 0.0000
             }
         ],
@@ -59,16 +43,16 @@
             {
                 "chargeType": "MULTA_ATRASO_PAGAMENTO",
                 "chargeAdditionalInfo": "NA",
-                "chargeRate": 0.0100
+                "chargeRate": 0.0700
             }
         ]
     },
     "links": {
-        "self": "https://opendata.api.bb.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/1437e266-ed9b-3b0f-98c5-072ce011dd06"
+        "self": "https://opendata.api.bb.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/375c0320-e155-355b-882f-3f82d6c11291"
     },
     "meta": {
-        "totalRecords": 3,
+        "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-12-15T13:45:00Z"
+        "requestDateTime": "2021-12-15T5:45:00Z"
     }
 }
