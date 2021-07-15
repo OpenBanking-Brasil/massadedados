@@ -105,7 +105,7 @@
       "self": "https://api.baninter.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/5ef4185e-f1e5-n196-q51w-d5fv1e51f51s/payments"
     },
     "meta": {
-      "totalRecords": 1,
+      "totalRecords": 4,
       "totalPages": 1,
       "requestDateTime": "2021-03-15T10:00:00Z"
     }

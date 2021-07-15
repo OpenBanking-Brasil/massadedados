@@ -31,8 +31,8 @@
       ],
       "contractedFees": [
         {
-          "feeName": "Taxa de manutenção",
-          "feeCode": "MANUTENCAO",
+          "feeName": "Manutenção de Contrato",
+          "feeCode": "MANUTENCAO_CONTRATO",
           "feeChargeType": "POR_PARCELA",
           "feeCharge": "Percentual",
           "feeAmount": 0.0000,
