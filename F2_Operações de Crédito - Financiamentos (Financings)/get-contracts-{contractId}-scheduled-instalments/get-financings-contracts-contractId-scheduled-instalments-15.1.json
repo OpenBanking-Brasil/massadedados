@@ -5,7 +5,7 @@
     "typeContractRemaining": "DIA ",
     "contractRemainingNumber": 725,
     "paidInstalments": 3,
-    "dueInstalments": 2,
+    "dueInstalments": 725,
     "pastDueInstalments": 1,
     "balloonPayments": [
       {
@@ -16,11 +16,11 @@
     ]
   },
   "links": {
-    "self": "https://api.sicredi.com.br/open-banking/financings/v1/contracts/958613430001107921187517400344985558749658/scheduled-instalments"
+    "self": "https://api.sicredi.com.br/open-banking/financings/v1/contracts/014f9a93-26a3-3899-b483-31370f7f394c/scheduled-instalments"
   },
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2021-08-24T18:05:13Z"
+    "requestDateTime": "2021-09-15T19:48:00Z"
   }
 } 

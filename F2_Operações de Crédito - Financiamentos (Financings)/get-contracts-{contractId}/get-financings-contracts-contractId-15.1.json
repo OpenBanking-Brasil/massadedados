@@ -20,7 +20,7 @@
       {
         "taxType": "NOMINAL",
         "interestRateType": "SIMPLES",
-        "taxPeriodicity": "AA",
+        "taxPeriodicity": "AM",
         "calculation": "21/252",
         "referentialRateIndexerType": "PRE_FIXADO",
         "referentialRateIndexerSubType": "PRE_FIXADO",
@@ -33,8 +33,8 @@
       {
         "feeName": "Taxa de administração",
         "feeCode": "ADMINISTRACAO",
-        "feeChargeType": "POR_PARCELA",
-        "feeCharge": "MINIMO",
+        "feeChargeType": "UNICA",
+        "feeCharge": "FIXO",
         "feeAmount": 75.2500,
         "feeRate": 0.0000
       }
