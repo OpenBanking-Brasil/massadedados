@@ -24,6 +24,7 @@
         "calculation": "30/360",
         "referentialRateIndexerType": "POS_FIXADO",
         "referentialRateIndexerSubType": "OUTRAS_TAXAS_POS_FIXADAS",
+        "referentialRateIndexerAdditionalInfo": "CAIXA INS",
         "preFixedRate": 0.0000,
         "postFixedRate": 0.0610,
         "additionalInfo": "NA"
