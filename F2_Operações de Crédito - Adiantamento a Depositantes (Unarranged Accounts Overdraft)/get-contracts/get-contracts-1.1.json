@@ -2,15 +2,15 @@
     "data": [
         {
             "contractId": "5e57608a-9053-4613-b28c-cc5ee139b554",
-            "brandName": "Sib Bank S.A",
-            "companyCnpj": "40156018000100",
+            "brandName": "Banco do Brasil S.A",
+            "companyCnpj": "00000000000191",
             "productType": "ADIANTAMENTO_A_DEPOSITANTES",
             "productSubType": "ADIANTAMENTO_A_DEPOSITANTES",
-            "ipocCode": "4015601802021875174004441321300"
+            "ipocCode": "000000000101187517400444651651"
         }
     ],
     "links": {
-        "self": "https://api.banco.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts"
+        "self": "https://opendata.api.bb.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts"
     },
     "meta": {
         "totalRecords": 1,
