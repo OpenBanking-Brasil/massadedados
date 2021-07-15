@@ -1,10 +1,10 @@
 {
     "data": {
-        "overdraftContractedLimit": 14500.0000,
+        "overdraftContractedLimit": 19500.0000,
         "overdraftContractedLimitCurrency": "BRL",
-        "overdraftUsedLimit": 0.0000,
+        "overdraftUsedLimit": 17859.9400,
         "overdraftUsedLimitCurrency": "BRL",
-        "unarrangedOverdraftAmount": 5000.0000,
+        "unarrangedOverdraftAmount": 1640.0600,
         "unarrangedOverdraftAmountCurrency": "BRL"
     },
     "links": {
