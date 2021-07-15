@@ -25,7 +25,6 @@
                 "calculation": "30/360",
                 "referentialRateIndexerType": "PRE_FIXADO",
                 "referentialRateIndexerSubType": "PRE_FIXADO",
-                "referentialRateIndexerAdditionalInfo": "NA",
                 "preFixedRate": 0.0615,
                 "postFixedRate": 0.0000,
                 "additionalInfo": "NA"
