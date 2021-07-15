@@ -5,7 +5,7 @@
     "productName": "Aquisição de equipamentos",
     "productType": "FINANCIAMENTOS",
     "productSubType": "AQUISICAO_BENS_OUTROS_BENS",
-    "contractDate": "2018-08-01",
+    "contractDate": "2021-08-01",
     "disbursementDate": "2021-08-01",
     "settlementDate": "2021-08-01",
     "contractAmount": 12070.6000,
@@ -49,7 +49,7 @@
     ]
   },
   "links": {
-    "self": "https://api.sicredi.com.br/open-banking/financings/v1/contracts/958613430001107921187517400344985558749658"
+    "self": "https://api.sicredi.com.br/open-banking/financings/v1/contracts/3a74427a-9c10-3779-a5ac-3f65c3e815aa"
   },
   "meta": {
     "totalRecords": 1,

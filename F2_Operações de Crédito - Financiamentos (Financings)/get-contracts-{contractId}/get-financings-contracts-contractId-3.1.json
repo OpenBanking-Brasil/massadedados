@@ -49,7 +49,7 @@
     ]
   },
   "links": {
-    "self": "https://api.sicredi.com.br/open-banking/financings/v1/contracts/958613430001107921187517400344985558749658"
+    "self": "https://api.sicredi.com.br/open-banking/financings/v1/contracts/3a74427a-9c10-3779-a5ac-3f65c3e815aa"
   },
   "meta": {
     "totalRecords": 1,
