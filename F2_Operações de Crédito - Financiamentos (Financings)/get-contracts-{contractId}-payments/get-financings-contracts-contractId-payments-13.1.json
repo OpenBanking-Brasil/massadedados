@@ -7,9 +7,9 @@
                 "paymentId": "5599831b-78e0-4874-9426-a76afa25d31b",
                 "isOverParcelPayment": false,
                 "instalmentId": "ccca1c0b-fa68-48a4-a83c-ab4c21c150da",
-                "paidDate": "2021-12-01",
+                "paidDate": "2021-12-02",
                 "currency": "BRL",
-                "paidAmount": 6061.4000,
+                "paidAmount": 6212.9350,
                 "overParcel": {
                     "fees": [
                         {
@@ -20,9 +20,9 @@
                     ],
                     "charges": [
                         {
-                            "chargeType": "SEM_ENCARGO",
+                            "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
                             "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
+                            "chargeAmount": 151.5350
                         }
                     ]
                 }
