@@ -9,14 +9,14 @@
           "instalmentId": "53e9d383-0b87-35e2-8973-c3eb23627b9a",
           "paidDate": "2021-05-05",
           "currency": "BRL",
-          "paidAmount": 1675.0200,
+          "paidAmount": 1678.3700,
           "overParcel": {
             "fees": [
               {
                 "feeName": "Manutenção de Contrato",
                 "feeCode": "MANUTENCAO_CONTRATO",
                 "feeAmount": 3.3500
-              },
+              }
             ],
             "charges": [
               {
@@ -33,14 +33,14 @@
           "instalmentId": "34c88273-a28e-3fbe-8e54-30b56941f2ba",
           "paidDate": "2021-04-05",
           "currency": "BRL",
-          "paidAmount": 1675.0200,
+          "paidAmount": 1678.3700,
           "overParcel": {
             "fees": [
               {
                 "feeName": "Manutenção de Contrato",
                 "feeCode": "MANUTENCAO_CONTRATO",
                 "feeAmount": 3.3500
-              },
+              }
             ],
             "charges": [
               {
@@ -57,14 +57,14 @@
           "instalmentId": "7efc8c1a-3757-303e-816a-45385c70f9cf",
           "paidDate": "2021-03-05",
           "currency": "BRL",
-          "paidAmount": 1675.0200,
+          "paidAmount": 1678.3700,
           "overParcel": {
             "fees": [
               {
                 "feeName": "Manutenção de Contrato",
                 "feeCode": "MANUTENCAO_CONTRATO",
                 "feeAmount": 3.3500
-              },
+              }
             ],
             "charges": [
               {
@@ -81,14 +81,14 @@
           "instalmentId": "8f916840-053e-3de6-833e-db9d6e0e18e1",
           "paidDate": "2021-02-05",
           "currency": "BRL",
-          "paidAmount": 1675.0200,
+          "paidAmount": 1678.3700,
           "overParcel": {
             "fees": [
               {
                 "feeName": "Manutenção de Contrato",
                 "feeCode": "MANUTENCAO_CONTRATO",
                 "feeAmount": 3.3500
-              },
+              }
             ],
             "charges": [
               {
