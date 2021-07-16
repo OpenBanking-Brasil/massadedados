@@ -14,7 +14,7 @@
     "instalmentPeriodicity": "MENSAL",
     "instalmentPeriodicityAdditionalInfo": "NA",
     "firstInstalmentDueDate": "2021-08-02",
-    "CET": 0.0629,
+    "CET": 0.0625,
     "amortizationScheduled": "PRICE",
     "amortizationScheduledAdditionalInfo": "NA",
     "interestRates": [
@@ -23,10 +23,10 @@
         "interestRateType": "SIMPLES",
         "taxPeriodicity": "AA",
         "calculation": "21/252",
-        "referentialRateIndexerType": "PRE_FIXADO",
+        "referentialRateIndexerType": "FLUTUANTES",
         "referentialRateIndexerSubType": "SELIC",
         "referentialRateIndexerAdditionalInfo": "NA",
-        "preFixedRate": 0.0425,
+        "preFixedRate": 0.0000,
         "postFixedRate": 0.0425,
         "additionalInfo": "NA"
       }

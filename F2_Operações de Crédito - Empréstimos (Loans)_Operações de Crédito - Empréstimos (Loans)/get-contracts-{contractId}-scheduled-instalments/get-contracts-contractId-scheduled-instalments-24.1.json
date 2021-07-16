@@ -5,8 +5,8 @@
         "typeContractRemaining": "SEMANA",
         "contractRemainingNumber": 74,
         "paidInstalments": 4,
-        "dueInstalments": 3,
-        "pastDueInstalments": 2,
+        "dueInstalments": 74,
+        "pastDueInstalments": 0,
         "balloonPayments": [
             {
                 "dueDate": "NA",

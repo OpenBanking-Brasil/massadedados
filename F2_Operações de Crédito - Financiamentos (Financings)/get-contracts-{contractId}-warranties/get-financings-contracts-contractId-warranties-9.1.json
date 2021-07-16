@@ -4,11 +4,11 @@
       "currency": "BRL",
       "warrantyType": "CESSAO_DIREITOS_CREDITORIOS",
       "warrantySubType": "APLICACOES_FINANCEIRAS_RENDA_VARIAVEL",
-      "warrantyAmount": 90000.0000
+      "warrantyAmount": 120000.0000
     }
   ],
   "links": {
-    "self": "https://api.itau.com.br/open-banking/financings/v1/contracts/18061493403110792119751740044492525769252/warranties"
+    "self": "https://api.itau.com.br/open-banking/financings/v1/contracts/5965115d-fb63-3303-896c-9fe089427e22/warranties"
   },
   "meta": {
     "totalRecords": 1,

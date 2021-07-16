@@ -2,7 +2,7 @@
   "data": {
     "typeNumberOfInstalments": "ANO",
     "totalNumberOfInstalments": 16,
-    "typeContractRemaining": "SEM_PRAZO_REMANESCENTE ",
+    "typeContractRemaining": "SEM_PRAZO_REMANESCENTE",
     "contractRemainingNumber": 6,
     "paidInstalments": 10,
     "dueInstalments": 6,
@@ -16,7 +16,7 @@
     ]
   },
   "links": {
-    "self": "https://api.itau.com.br/open-banking/financings/v1/contracts/18061493403110792119751740044492525769252/scheduled-instalments"
+    "self": "https://api.itau.com.br/open-banking/financings/v1/contracts/5965115d-fb63-3303-896c-9fe089427e22/scheduled-instalments"
   },
   "meta": {
     "totalRecords": 1,
