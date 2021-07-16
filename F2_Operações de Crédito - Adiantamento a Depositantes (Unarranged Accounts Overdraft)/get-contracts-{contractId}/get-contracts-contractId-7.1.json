@@ -43,7 +43,7 @@
         {
           "chargeType": "MULTA_ATRASO_PAGAMENTO",
           "chargeAdditionalInfo": "NA",
-          "chargeRate": 0.07
+          "chargeRate": 0.0700
         }
       ]
     },
