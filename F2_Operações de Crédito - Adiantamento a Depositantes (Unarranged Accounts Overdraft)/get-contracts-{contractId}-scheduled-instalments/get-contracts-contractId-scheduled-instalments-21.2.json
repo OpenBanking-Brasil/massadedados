@@ -1,26 +1,31 @@
 {
     "data": {
-      "typeNumberOfInstalments": "DIA",
-      "totalNumberOfInstalments": 28,
-      "typeContractRemaining": "DIA",
-      "contractRemainingNumber": 0,
-      "paidInstalments": 28,
-      "dueInstalments": 0,
+      "typeNumberOfInstalments": "SEMANA",
+      "totalNumberOfInstalments": 10,
+      "typeContractRemaining": "SEMANA",
+      "contractRemainingNumber": 8,
+      "paidInstalments": 2,
+      "dueInstalments": 8,
       "pastDueInstalments": 0,
       "balloonPayments": [
         {
-          "dueDate": "2022-05-08",
+          "dueDate": "2022-07-19",
           "currency": "BRL",
-          "amount": 4873.1176
+          "amount": 900.0000
+        },
+        {
+            "dueDate": "2022-07-10",
+            "currency": "BRL",
+            "amount": 1520.33
         }
       ]
     },
     "links": {
-      "self": "https://api.itau/open-banking/unarranged-accounts-overdraft/v1/contracts/a41a1fdf-18f0-35ac-98ac-8a6b592b980a/scheduled-instalments"
+      "self": "https://api.itau/open-banking/unarranged-accounts-overdraft/v1/contracts/33e70dfb-68a8-3ef1-9553-8481ae8c1bca/scheduled-instalments"
     },
     "meta": {
-      "totalRecords": 1,
+      "totalRecords": 2,
       "totalPages": 1,
-      "requestDateTime": "2022-06-10T08:10:00Z"
+      "requestDateTime": "2022-07-20T46:04:00Z"
     }
 }

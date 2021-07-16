@@ -1,0 +1,112 @@
+{
+    "data": {
+        "paidInstalments": 4,
+        "contractOutstandingBalance": 0.0000,
+        "releases": [
+            {
+                "paymentId": "bbe7400a-da76-388b-8ddf-7dd32978f401",
+                "isOverParcelPayment": false,
+                "instalmentId": "1d207849-88cf-3adf-937e-c91110094576",
+                "paidDate": "2022-04-16",
+                "currency": "BRL",
+                "paidAmount": 2280.9000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "Taxa de Adesao",
+                            "feeCode": "ADESAO",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "85f1e1c5-bf24-39db-8153-f4196de07e66",
+                "isOverParcelPayment": true,
+                "instalmentId": "98a56a4a-fdc2-39a7-bb09-e0e232521cae",
+                "paidDate": "2022-03-16",
+                "currency": "BRL",
+                "paidAmount": 2280.9000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "Taxa de Adesao",
+                            "feeCode": "ADESAO",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "156f3adf-bafd-33ae-b4f9-52b395dd4f9f",
+                "isOverParcelPayment": false,
+                "instalmentId": "6d955810-4772-3308-9e54-9286d1c221fd",
+                "paidDate": "2022-02-16",
+                "currency": "BRL",
+                "paidAmount": 2930.9000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "Taxa de Adesao",
+                            "feeCode": "ADESAO",
+                            "feeAmount": 650.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "dc57c9fd-a889-3939-b4d0-e97309a88089",
+                "isOverParcelPayment": true,
+                "instalmentId": "d2844e35-ecaa-375e-be60-b761dd473f0e",
+                "paidDate": "2022-01-16",
+                "currency": "BRL",
+                "paidAmount": 2280.9000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "Taxa de Adesao",
+                            "feeCode": "ADESAO",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "links": {
+        "self": "https://api.itau/open-banking/unarranged-accounts-overdraft/v1/contracts/b57dff62-92aa-3fdc-9e2f-0cfb8db1ce41/payments"
+    },
+    "meta": {
+        "totalRecords": 4,
+        "totalPages": 1,
+        "requestDateTime": "2022-06-23T23:36:00Z"
+    }
+}
