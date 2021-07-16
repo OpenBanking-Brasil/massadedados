@@ -1,0 +1,136 @@
+{
+    "data": {
+        "paidInstalments": 5,
+        "contractOutstandingBalance": 0.0000,
+        "releases": [
+            {
+                "paymentId": "96eff9e6-79fe-37ea-ac5a-6e68d456aa19",
+                "isOverParcelPayment": false,
+                "instalmentId": "96eff9e6-79fe-37ea-ac5a-6e68d456aa19",
+                "paidDate": "2021-06-01",
+                "currency": "BRL",
+                "paidAmount": 13568.0300,
+                "overParcel": {
+                    "fees": [
+                        {
+                          "feeName": "NA",
+                          "feeCode": "NA",
+                          "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "46eff9e6-79fe-37ea-ac5a-6e68d456aa19",
+                "isOverParcelPayment": false,
+                "instalmentId": "46eff9e6-79fe-37ea-ac5a-6e68d456aa19",
+                "paidDate": "2021-03-01",
+                "currency": "BRL",
+                "paidAmount": 13568.0300,
+                "overParcel": {
+                    "fees": [
+                        {
+                          "feeName": "NA",
+                          "feeCode": "NA",
+                          "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "36eff9e6-79fe-37ea-ac5a-6e68d456aa19",
+                "isOverParcelPayment": false,
+                "instalmentId": "36eff9e6-79fe-37ea-ac5a-6e68d456aa19",
+                "paidDate": "2020-12-01",
+                "currency": "BRL",
+                "paidAmount": 13568.0300,
+                "overParcel": {
+                    "fees": [
+                        {
+                          "feeName": "NA",
+                          "feeCode": "NA",
+                          "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "26eff9e6-79fe-37ea-ac5a-6e68d456aa19",
+                "isOverParcelPayment": false,
+                "instalmentId": "26eff9e6-79fe-37ea-ac5a-6e68d456aa19",
+                "paidDate": "2020-09-01",
+                "currency": "BRL",
+                "paidAmount": 13580.0200,
+                "overParcel": {
+                    "fees": [
+                        {
+                          "feeName": "Taxa de manutenção",
+                          "feeCode": "MANUTENCAO",
+                          "feeAmount": 11.9900
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "16eff9e6-79fe-37ea-ac5a-6e68d456aa19",
+                "isOverParcelPayment": true,
+                "instalmentId": "16eff9e6-79fe-37ea-ac5a-6e68d456aa19",
+                "paidDate": "2020-06-01",
+                "currency": "BRL",
+                "paidAmount": 2000.0000,
+                "overParcel": {
+                    "fees": [
+                        {
+                          "feeName": "NA",
+                          "feeCode": "NA",
+                          "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "links": {
+        "self": "https://api.caixa.gov.br/open-banking/financings/v1/contracts/cf7555e6-d629-33ce-8cf9-ee95e92241a0/payments"
+    },
+    "meta": {
+        "totalRecords": 5,
+        "totalPages": 1,
+        "requestDateTime": "2021-08-26T13:15:00Z"
+    }
+}
