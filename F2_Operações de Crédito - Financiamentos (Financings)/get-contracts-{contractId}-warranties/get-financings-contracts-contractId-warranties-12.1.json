@@ -4,13 +4,13 @@
       "currency": "BRL",
       "warrantyType": "HIPOTECA",
       "warrantySubType": "PRIMEIRO_GRAU_IMOVEIS_RESIDENCIAIS",
-      "warrantyAmount": 200700.4500,
+      "warrantyAmount": 200700.4500
     },
     {
       "currency": "BRL",
       "warrantyType": "PENHOR",
       "warrantySubType": "VEICULO",
-      "warrantyAmount": 48500.5000,
+      "warrantyAmount": 48500.5000
     },
     {
       "currency": "BRL",
