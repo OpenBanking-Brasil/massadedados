@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "currency": "BRL",
+            "warrantyType": "CESSAO_DIREITOS_CREDITORIOS",
+            "warrantySubType": "APLICACOES_FINANCEIRAS_RENDA_VARIAVEL",
+            "warrantyAmount": 6300.0000
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "PENHOR",
+            "warrantySubType": "VEICULO",
+            "warrantyAmount": 30200.0000
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "GARANTIA_FIDEJUSSORIA",
+            "warrantySubType": "PESSOA_FISICA",
+            "warrantyAmount": 12000.0000
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "PENHOR",
+            "warrantySubType": "EQUIPAMENTOS",
+            "warrantyAmount": 8000.0000
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "GARANTIA_FIDEJUSSORIA",
+            "warrantySubType": "PESSOA_FISICA",
+            "warrantyAmount": 10000.0000
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "GARANTIA_FIDEJUSSORIA",
+            "warrantySubType": "PESSOA_FISICA",
+            "warrantyAmount": 5600.0000
+        }
+    ],
+    "links": {
+        "self": "https://api.itau/open-banking/unarranged-accounts-overdraft/v1/contracts/09111ff2-b903-3552-bdba-44b48d626b78"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-08-10T15:56:00Z"
+    }
+}
