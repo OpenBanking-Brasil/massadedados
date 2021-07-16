@@ -3,9 +3,9 @@
         {
             "billId": "cbe82101-404c-4f52-b5e6-788a692f0945",
             "dueDate": "2021-06-05",
-            "billTotalAmount": 12512.20,
+            "billTotalAmount": 12512.2000,
             "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 1049.18,
+            "billMinimumAmount": 1049.1800,
             "billMinimumAmountCurrency": "BRL",
             "isInstalment": true,
             "financeCharges": [
@@ -29,9 +29,9 @@
 		{
             "billId": "63627e5f-4376-4fce-a094-458ed002c820",
             "dueDate": "2021-05-05",
-            "billTotalAmount": 9560.25,
+            "billTotalAmount": 9560.2500,
             "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 1822.05,
+            "billMinimumAmount": 1822.0500,
             "billMinimumAmountCurrency": "BRL",
             "isInstalment": true,
             "financeCharges": [
@@ -55,7 +55,7 @@
 		{
 			"billId": "92d534e6-c4ca-4783-9041-c065823d90f3",
 			"dueDate": "2021-04-05",
-			"billTotalAmount": 10022.22,
+			"billTotalAmount": 10022.2200,
 			"billTotalAmountCurrency": "BRL",
 			"billMinimumAmount": 2084.4240,
 			"billMinimumAmountCurrency": "BRL",

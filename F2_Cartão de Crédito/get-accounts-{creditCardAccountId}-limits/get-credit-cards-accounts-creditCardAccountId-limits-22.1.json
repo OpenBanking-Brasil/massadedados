@@ -2,15 +2,15 @@
     "data": [
         {
             "creditLineLimitType": "LIMITE_CREDITO_TOTAL",
-            "consolidationType": "CONSOLIDADO",
+            "consolidationType": "INDIVIDUAL",
             "identificationNumber": "2205",
             "lineName": "CREDITO_PARCELADO",
             "lineNameAdditionalInfo": "NA",
             "isLimitFlexible": true,
             "limitAmountCurrency": "BRL",
-            "limitAmount": 25000.0000,
+            "limitAmount": 35022.2200,
             "usedAmountCurrency": "BRL",
-            "usedAmount": 12512.20,
+            "usedAmount": 12512.2000,
             "availableAmountCurrency": "BRL",
             "availableAmount": 22510.0200
         }
