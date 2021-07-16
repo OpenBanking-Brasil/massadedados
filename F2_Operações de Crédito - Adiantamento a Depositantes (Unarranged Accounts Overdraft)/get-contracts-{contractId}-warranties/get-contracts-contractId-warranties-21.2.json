@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "currency": "BRL",
+            "warrantyType": "CAUCAO",
+            "warrantySubType": "CHEQUES",
+            "warrantyAmount": 22000.0000
+        }
+    ],
+    "links": {
+        "self": "https://api.itau/open-banking/unarranged-accounts-overdraft/v1/contracts/33e70dfb-68a8-3ef1-9553-8481ae8c1bca"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-07-11T45:56:00Z"
+    }
+}

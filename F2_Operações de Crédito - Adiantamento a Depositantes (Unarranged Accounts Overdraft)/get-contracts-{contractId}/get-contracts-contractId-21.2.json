@@ -1,30 +1,30 @@
 {
     "data": {
-        "contractNumber": "2555587410025",
-        "ipocCode": "607011900101243053510073250370278278352173",
+        "contractNumber": "165485123000054644",
+        "ipocCode": "6070119001012430535100420707207523070000737",
         "productName": "AD",
         "productType": "ADIANTAMENTO_A_DEPOSITANTES",
         "productSubType": "ADIANTAMENTO_A_DEPOSITANTES",
-        "contractDate": "2022-06-05",
+        "contractDate": "2022-07-01",
         "settlementDate": "NA",
-        "contractAmount": 60000.0000,
+        "contractAmount": 18000.0000,
         "currency": "BRL",
-        "dueDate": "2024-07-30",
-        "instalmentPeriodicity": "MENSAL",
+        "dueDate": "2022-09-09",
+        "instalmentPeriodicity": "SEMANAL",
         "instalmentPeriodicityAdditionalInfo": "NA",
-        "firstInstalmentDueDate": "2022-07-05",
-        "CET": 0.01400,
+        "firstInstalmentDueDate": "2022-07-08",
+        "CET": 0.03510,
         "amortizationScheduled": "PRICE",
         "amortizationScheduledAdditionalInfo": "NA",
         "interestRates": [
             {
-                "taxType": "EFETIVA",
+                "taxType": "NOMINAL",
                 "interestRateType": "SIMPLES",
-                "taxPeriodicity": "AA",
-                "calculation": "21/252",
+                "taxPeriodicity": "AM",
+                "calculation": "30/365",
                 "referentialRateIndexerType": "PRE_FIXADO",
                 "referentialRateIndexerSubType": "PRE_FIXADO",
-                "preFixedRate": 0.01400,
+                "preFixedRate": 0.03510,
                 "postFixedRate": 0.0000,
                 "additionalInfo": "NA"
             }
@@ -34,8 +34,8 @@
                 "feeName": "Manutenção de Contrato",
                 "feeCode": "MANUTENCAO_CONTRATO",
                 "feeChargeType": "POR_PARCELA",
-                "feeCharge": "FIXO",
-                "feeAmount": 59.9000,
+                "feeCharge": "MAXIMO",
+                "feeAmount": 158.0000,
                 "feeRate": 0.0000
             },
             {
@@ -44,8 +44,16 @@
                 "feeChargeType": "UNICA",
                 "feeCharge": "PERCENTUAL",
                 "feeAmount": 0.0000,
-                "feeRate": 0.2000
-            }
+                "feeRate": 0.3200
+            },
+            {
+                "feeName": "Taxa de administração",
+                "feeCode": "ADMINISTRACAO",
+                "feeChargeType": "POR_PARCELA",
+                "feeCharge": "MAXIMO",
+                "feeAmount": 109.0000,
+                "feeRate": 0.0000
+              }
         ],
         "contractedFinanceCharges": [
             {
@@ -56,11 +64,11 @@
         ]
     },
     "links": {
-        "self": "https://api.itau/open-banking/unarranged-accounts-overdraft/v1/contracts/09111ff2-b903-3552-bdba-44b48d626b78"
+        "self": "https://api.itau/open-banking/unarranged-accounts-overdraft/v1/contracts/33e70dfb-68a8-3ef1-9553-8481ae8c1bca"
     },
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2022-08-10T15:47:00Z"
+        "requestDateTime": "2022-07-11T45:48:00Z"
     }
 }

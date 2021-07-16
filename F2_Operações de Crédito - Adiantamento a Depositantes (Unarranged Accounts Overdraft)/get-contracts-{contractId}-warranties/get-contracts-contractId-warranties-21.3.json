@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "currency": "BRL",
+            "warrantyType": "GARANTIA_FIDEJUSSORIA",
+            "warrantySubType": "PESSOA_FISICA",
+            "warrantyAmount": 12000.0000
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "PENHOR",
+            "warrantySubType": "EQUIPAMENTOS",
+            "warrantyAmount": 2300.0000
+        }
+    ],
+    "links": {
+        "self": "https://api.itau/open-banking/unarranged-accounts-overdraft/v1/contracts/a41a1fdf-18f0-35ac-98ac-8a6b592b980a"
+    },
+    "meta": {
+        "totalRecords": 2,
+        "totalPages": 1,
+        "requestDateTime": "2022-06-10T08:17:00Z"
+    }
+}

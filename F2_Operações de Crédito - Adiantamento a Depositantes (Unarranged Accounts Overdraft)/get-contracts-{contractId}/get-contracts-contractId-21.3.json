@@ -1,0 +1,71 @@
+{
+    "data": {
+        "contractNumber": "2121554111645800",
+        "ipocCode": "60701190010124305351051785711712185770820200",
+        "productName": "AD",
+        "productType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "productSubType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "contractDate": "2022-05-01",
+        "settlementDate": "2022-05-08",
+        "contractAmount": 5500.0000,
+        "currency": "BRL",
+        "dueDate": "2022-05-29",
+        "instalmentPeriodicity": "QUINZENAL",
+        "instalmentPeriodicityAdditionalInfo": "NA",
+        "firstInstalmentDueDate": "2022-05-15",
+        "CET": 0.0200,
+        "amortizationScheduled": "PRICE",
+        "amortizationScheduledAdditionalInfo": "NA",
+        "interestRates": [
+            {
+                "taxType": "NOMINAL",
+                "interestRateType": "SIMPLES",
+                "taxPeriodicity": "AM",
+                "calculation": "30/365",
+                "referentialRateIndexerType": "FLUTUANTES",
+                "referentialRateIndexerSubType": "SELIC",
+                "preFixedRate": 0.0000,
+                "postFixedRate": 0.0490,
+                "additionalInfo": "NA"
+            }
+        ],
+        "contractedFees": [
+            {
+                "feeName": "Taxa de Adesao",
+                "feeCode": "ADESAO",
+                "feeChargeType": "UNICA",
+                "feeCharge": "PERCENTUAL",
+                "feeAmount": 0.0000,
+                "feeRate": 0.3800
+            },
+            {
+                "feeName": "Taxa de administração",
+                "feeCode": "ADMINISTRACAO",
+                "feeChargeType": "POR_PARCELA",
+                "feeCharge": "MINIMO",
+                "feeAmount": 26.0000,
+                "feeRate": 0.0000
+              }
+        ],
+        "contractedFinanceCharges": [
+            {
+                "chargeType": "MULTA_ATRASO_PAGAMENTO",
+                "chargeAdditionalInfo": "NA",
+                "chargeRate": 0.0960
+            },
+            {
+                "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
+                "chargeAdditionalInfo": "NA",
+                "chargeRate": 0.0700
+            }
+        ]
+    },
+    "links": {
+        "self": "https://api.itau/open-banking/unarranged-accounts-overdraft/v1/contracts/a41a1fdf-18f0-35ac-98ac-8a6b592b980a"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-06-10T08:12:00Z"
+    }
+}

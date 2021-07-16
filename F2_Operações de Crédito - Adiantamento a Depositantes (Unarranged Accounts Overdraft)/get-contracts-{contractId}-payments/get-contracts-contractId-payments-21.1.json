@@ -1,16 +1,45 @@
 {
     "data": {
-      "paidInstalments": 0,
-      "contractOutstandingBalance": 11720.4000,
-      "releases": [
-      ]
+        "paidInstalments": 1,
+        "contractOutstandingBalance": 69475.4100,
+        "releases": [
+            {
+                "paymentId": "1378b3f8-03be-3c7a-9894-bb5ae3ad47f4",
+                "isOverParcelPayment": false,
+                "instalmentId": "3ce54635-5e53-3a24-b914-31078dafc801",
+                "paidDate": "2022-07-05",
+                "currency": "BRL",
+                "paidAmount": 3026.5915,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "Manutenção de Contrato",
+                            "feeCode": "MANUTENCAO_CONTRATO",
+                            "feeAmount": 59.9000
+                        },
+                        {
+                            "feeName": "Taxa de Adesao",
+                            "feeCode": "ADESAO",
+                            "feeAmount": 5.9215
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            }
+        ]
     },
     "links": {
-      "self": "https://openbanking.banrisul.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/902d4fff-ad6f-339e-8fcf-dc5cc4fe6487/payments"
+        "self": "https://api.itau/open-banking/unarranged-accounts-overdraft/v1/contracts/09111ff2-b903-3552-bdba-44b48d626b78/payments"
     },
     "meta": {
-      "totalRecords": 0,
-      "totalPages": 1,
-      "requestDateTime": "2021-07-02T08:54:00Z"
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-08-10T16:09:00Z"
     }
 }
