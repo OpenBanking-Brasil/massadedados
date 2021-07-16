@@ -1,0 +1,4 @@
+POST /payments/v1/consents
+GET /payments/v1/consents/{consentId}
+POST /payments/v1/pix/payments
+GET /payments/v1/pix/payments/{paymentId}
