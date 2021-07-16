@@ -1,0 +1,573 @@
+{
+    "data": {
+        "paidInstalments": 23,
+        "contractOutstandingBalance": 0.0000,
+        "releases": [
+            {
+                "paymentId": "6a67e60a-f625-3e04-b32d-adcd8b1c1350",
+                "isOverParcelPayment": true,
+                "instalmentId": "4dea1302-bebc-3786-a3a7-31876ccb07ea",
+                "paidDate": "2020-02-04",
+                "currency": "BRL",
+                "paidAmount": 4460.1000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "e2461b2c-1d9c-3315-866a-d48daa646e85",
+                "isOverParcelPayment": false,
+                "instalmentId": "3edc3f72-df1a-3432-9afd-0396f6bbf3ef",
+                "paidDate": "2020-01-04",
+                "currency": "BRL",
+                "paidAmount": 4460.1000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "02e3e434-be30-33eb-9a65-84b4d2a3448d",
+                "isOverParcelPayment": true,
+                "instalmentId": "e0b8fa02-daa0-31ac-b5bc-8f3b725aa8dc",
+                "paidDate": "2019-12-04",
+                "currency": "BRL",
+                "paidAmount": 8920.2000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "d7c4ee8c-65fb-34a6-95cd-fc8eb84ed4e9",
+                "isOverParcelPayment": false,
+                "instalmentId": "67897230-79ef-349f-b8d0-1b7112bc8c59",
+                "paidDate": "2019-10-04",
+                "currency": "BRL",
+                "paidAmount": 4460.1000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "751a7719-26c6-31a9-a222-ad9744809d7a",
+                "isOverParcelPayment": true,
+                "instalmentId": "d4e27806-b227-347e-80c6-30363187aa98",
+                "paidDate": "2019-08-04",
+                "currency": "BRL",
+                "paidAmount": 8920.2000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "59811978-36f3-318d-97f8-b7c10b90ad37",
+                "isOverParcelPayment": false,
+                "instalmentId": "e59605fd-38c1-3d84-ac47-05e52582d7d7",
+                "paidDate": "2019-07-04",
+                "currency": "BRL",
+                "paidAmount": 4460.1000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "99f44ecf-17d6-36ed-bba2-0720a213ffd2",
+                "isOverParcelPayment": true,
+                "instalmentId": "b6e43cde-fa1f-35dc-b0c6-6f2ba71154ac",
+                "paidDate": "2019-06-04",
+                "currency": "BRL",
+                "paidAmount": 4460.1000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "8e8cf467-0bd7-3892-9dc7-b070a6fa2625",
+                "isOverParcelPayment": true,
+                "instalmentId": "2441082c-2553-3757-9b96-7c0e299327f5",
+                "paidDate": "2019-05-04",
+                "currency": "BRL",
+                "paidAmount": 4460.1000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "4d967744-4c60-3f26-a998-5ae9379db464",
+                "isOverParcelPayment": false,
+                "instalmentId": "e7923123-88ec-3e2d-a674-e8dbbd5502cc",
+                "paidDate": "2019-04-12",
+                "currency": "BRL",
+                "paidAmount": 4772.3070,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "MULTA_ATRASO_PAGAMENTO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 312.2070
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "2ffe58ff-68a4-3729-9757-44e5a09a339c",
+                "isOverParcelPayment": true,
+                "instalmentId": "30ba9beb-fceb-3802-939e-d7ba26976962",
+                "paidDate": "2019-03-04",
+                "currency": "BRL",
+                "paidAmount": 4460.1000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "6ab7da33-0eb9-3718-84f4-693f620b8420",
+                "isOverParcelPayment": true,
+                "instalmentId": "0513e2aa-2646-328e-aad6-6632d6a86655",
+                "paidDate": "2019-02-04",
+                "currency": "BRL",
+                "paidAmount": 4460.1000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "b72c233b-a91a-3895-8763-a6038010e2c0",
+                "isOverParcelPayment": false,
+                "instalmentId": "68455b70-b33f-3d96-9704-ad8bda4759e1",
+                "paidDate": "2019-01-04",
+                "currency": "BRL",
+                "paidAmount": 4460.1000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "ee272a5f-19b6-332e-a4da-7f6de689f94c",
+                "isOverParcelPayment": true,
+                "instalmentId": "9a6f4e15-281c-383b-8643-deff55605ba9",
+                "paidDate": "2018-12-04",
+                "currency": "BRL",
+                "paidAmount": 4460.1000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "273f0a53-16dc-3a7f-90da-7b94bd872cd3",
+                "isOverParcelPayment": true,
+                "instalmentId": "f9559796-984d-3546-8800-59eb3ab90b6c",
+                "paidDate": "2018-11-04",
+                "currency": "BRL",
+                "paidAmount": 4460.1000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "b72c233b-a91a-3895-8763-a6038010e2c0",
+                "isOverParcelPayment": false,
+                "instalmentId": "68455b70-b33f-3d96-9704-ad8bda4759e1",
+                "paidDate": "2018-10-04",
+                "currency": "BRL",
+                "paidAmount": 4460.1000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "245b7895-1290-387f-95af-5996ed3f5f72",
+                "isOverParcelPayment": true,
+                "instalmentId": "ffcf74e0-7af6-3fd4-b8e3-a1254c67db7c",
+                "paidDate": "2018-09-04",
+                "currency": "BRL",
+                "paidAmount": 4460.1000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "25c35f41-dedf-3009-ba41-db968ab013a7",
+                "isOverParcelPayment": true,
+                "instalmentId": "b8d56678-f64c-309d-88a8-ac2b80f9cd79",
+                "paidDate": "2018-08-04",
+                "currency": "BRL",
+                "paidAmount": 4460.1000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "4d29161a-72e7-338b-928a-0ffc9aa3fc87",
+                "isOverParcelPayment": false,
+                "instalmentId": "17cf0d0f-6c95-3742-be5d-2cc9b46bbc75",
+                "paidDate": "2018-07-20",
+                "currency": "BRL",
+                "paidAmount": 4772.3070,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "MULTA_ATRASO_PAGAMENTO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 312.2070
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "4d29161a-72e7-338b-928a-0ffc9aa3fc87",
+                "isOverParcelPayment": true,
+                "instalmentId": "17cf0d0f-6c95-3742-be5d-2cc9b46bbc75",
+                "paidDate": "2018-06-04",
+                "currency": "BRL",
+                "paidAmount": 4460.1000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "0c1c503b-c854-3850-b501-54cd7a7287f6",
+                "isOverParcelPayment": true,
+                "instalmentId": "1b033084-9465-38f8-a210-27153d714ce3",
+                "paidDate": "2018-05-04",
+                "currency": "BRL",
+                "paidAmount": 4460.1000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "afa3aaf0-57f7-3bfc-a6d5-10923d8e8cfa",
+                "isOverParcelPayment": false,
+                "instalmentId": "c85ec9db-ad6d-3044-9900-d759aaf20506",
+                "paidDate": "2018-04-04",
+                "currency": "BRL",
+                "paidAmount": 5580.3000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "Taxa de Adesão",
+                            "feeCode": "ADESAO",
+                            "feeAmount": 470.0000
+                        },
+                        {
+                            "feeName": "Manutenção de Conta",
+                            "feeCode": "MANUTENCAO_CONTA",
+                            "feeAmount": 650.2000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "bdbb2028-0aa3-3667-b9b1-b49e63fb4b75",
+                "isOverParcelPayment": true,
+                "instalmentId": "dfd3afd0-16c2-3c11-9762-2a3c28a478db",
+                "paidDate": "2018-03-04",
+                "currency": "BRL",
+                "paidAmount": 4460.1000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "c51a9358-936a-36d8-aac4-d16080b30719",
+                "isOverParcelPayment": true,
+                "instalmentId": "281de035-a680-3549-b236-e75f1ca8dd50",
+                "paidDate": "2018-02-04",
+                "currency": "BRL",
+                "paidAmount": 4460.1000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "links": {
+        "self": "https://api.itau/open-banking/unarranged-accounts-overdraft/v1/contracts/ff7e0fe1-bd0f-3592-9af3-5e890160dc2f/payments"
+    },
+    "meta": {
+        "totalRecords": 23,
+        "totalPages": 1,
+        "requestDateTime": "2021-06-19T15:02:00Z"
+    }
+}

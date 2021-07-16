@@ -1,0 +1,58 @@
+{
+    "data": {
+        "contractNumber": "98988441100054",
+        "ipocCode": "60701190010120712328865498487032587777100",
+        "productName": "AD",
+        "productType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "productSubType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "contractDate": "2014-08-23",
+        "settlementDate": "2018-08-23",
+        "contractAmount": 75000.0000,
+        "currency": "BRL",
+        "dueDate": "2018-08-23",
+        "instalmentPeriodicity": "ANUAL",
+        "instalmentPeriodicityAdditionalInfo": "NA",
+        "firstInstalmentDueDate": "2015-08-23",
+        "CET": 0.0230,
+        "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
+        "amortizationScheduledAdditionalInfo": "NA",
+        "interestRates": [
+            {
+                "taxType": "EFETIVA",
+                "interestRateType": "SIMPLES",
+                "taxPeriodicity": "AA",
+                "calculation": "30/365",
+                "referentialRateIndexerType": "FLUTUANTES",
+                "referentialRateIndexerSubType": "SELIC",
+                "preFixedRate": 0.0230,
+                "postFixedRate": 0.0000,
+                "additionalInfo": "NA"
+            }
+        ],
+        "contractedFees": [
+            {
+                "feeName": "Taxa de Adesão",
+                "feeCode": "ADESAO",
+                "feeChargeType": "UNICO",
+                "feeCharge": "FIXO",
+                "feeAmount": 220.0000,
+                "feeRate": 0.0000
+            }
+        ],
+        "contractedFinanceCharges": [
+            {
+                "chargeType": "MULTA_ATRASO_PAGAMENTO",
+                "chargeAdditionalInfo": "NA",
+                "chargeRate": 0.0700
+            }
+        ]
+    },
+    "links": {
+        "self": "https://api.itau/open-banking/unarranged-accounts-overdraft/v1/contracts/8ef28a76-af16-3b68-9385-1ea1ccbc84eb"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-05-20T16:58:00Z"
+    }
+}
