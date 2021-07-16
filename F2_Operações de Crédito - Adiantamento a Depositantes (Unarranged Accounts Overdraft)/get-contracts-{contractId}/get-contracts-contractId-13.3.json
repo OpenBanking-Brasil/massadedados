@@ -13,7 +13,7 @@
         "instalmentPeriodicity": "MENSAL",
         "instalmentPeriodicityAdditionalInfo": "NA",
         "firstInstalmentDueDate": "2015-03-01",
-        "CET": 0.0099,
+        "CET": 0.0097,
         "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
         "amortizationScheduledAdditionalInfo": "NA",
         "interestRates": [
