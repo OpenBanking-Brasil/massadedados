@@ -40,7 +40,7 @@
             ],
             "charges": [
               {
-                "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
+                "chargeType": "MULTA_ATRASO_PAGAMENTO",
                 "chargeAdditionalInfo": "NA",
                 "chargeAmount": 100000.0474
               }

@@ -91,7 +91,7 @@
         "self": "https://opendata.api.bb.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/50232104-cd22-36aa-9a6f-725afdd55288"
     },
     "meta": {
-        "totalRecords": 6,
+        "totalRecords": 1,
         "totalPages": 1,
         "requestDateTime": "2021-12-15T13:40:00Z"
     }
