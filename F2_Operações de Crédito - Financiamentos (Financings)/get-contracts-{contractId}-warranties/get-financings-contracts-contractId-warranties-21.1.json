@@ -3,32 +3,32 @@
     {
       "currency": "BRL",
       "warrantyType": "CESSAO_DIREITOS_CREDITORIOS",
-      "warrantySubType": "APLICACOES_FINANCEIRAS_RENDA_VARIAVEL ",
-      "warrantyAmount": 55170.9000,
+      "warrantySubType": "APLICACOES_FINANCEIRAS_RENDA_VARIAVEL",
+      "warrantyAmount": 55170.9000
     },
     {
       "currency": "BRL",
       "warrantyType": "GARANTIA_FIDEJUSSORIA",
       "warrantySubType": "PESSOA_FISICA",
-      "warrantyAmount": 170000.0000,
+      "warrantyAmount": 170000.0000
     },
     {
       "currency": "BRL",
       "warrantyType": "PENHOR",
       "warrantySubType": "VEICULOS",
-      "warrantyAmount": 58000.0000,
+      "warrantyAmount": 58000.0000
     },
     {
       "currency": "BRL",
       "warrantyType": "CESSAO_DIREITOS_CREDITORIOS",
-      "warrantySubType": "CHEQUES ",
-      "warrantyAmount": 15000.0000,
+      "warrantySubType": "CHEQUES",
+      "warrantyAmount": 15000.0000
     },
     {
       "currency": "BRL",
       "warrantyType": "GARANTIA_FIDEJUSSORIA",
       "warrantySubType": "PESSOA_FISICA",
-      "warrantyAmount": 80000.0000,
+      "warrantyAmount": 80000.0000
     }
   ],
   "links": {
