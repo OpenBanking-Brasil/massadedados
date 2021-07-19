@@ -1,82 +1,33 @@
 {
     "data": {
-        "contractNumber": "15876348557412300151",
-        "ipocCode": "004169680211184154817728148231",
+        "contractNumber": "842914380442",
+        "ipocCode": "0041696802111841548177280002",
         "productName": "Crédito Pessoal",
         "productType": "EMPRESTIMOS",
         "productSubType": "HOME_EQUITY",
-        "contractDate": "2020-01-01",
-        "disbursementDate": "2020-01-02",
-        "settlementDate": "NA",
-        "contractAmount": 50000.0000,
+        "contractDate": "2005-01-01",
+        "settlementDate": "2006-01-01",
+        "contractAmount": 120000.0000,
         "currency": "BRL",
-        "dueDate": "2021-01-01",
-        "instalmentPeriodicity": "SEMESTRAL",
+        "dueDate": "2006-01-01",
+        "instalmentPeriodicity": "ANUAL",
         "instalmentPeriodicityAdditionalInfo": "NA",
-        "firstInstalmentDueDate": "2020-06-01",
-        "CET": 0.46000,
-        "amortizationScheduled": "SAC",
+        "firstInstalmentDueDate": "2005-02-01",
+        "CET": 0.1000,
+        "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
         "amortizationScheduledAdditionalInfo": "NA",
         "cnpjConsignee": "00416968000101",
         "interestRates": [
-            {
-                "taxType": "NOMINAL",
-                "interestRateType": "SIMPLES",
-                "taxPeriodicity": "AA",
-                "calculation": "30/365",
-                "referentialRateIndexerType": "PRE_FIXADO",
-                "referentialRateIndexerSubType": "PRE_FIXADO",
-                "referentialRateIndexerAdditionalInfo": "NA",
-                "preFixedRate": 0.1000,
-                "postFixedRate": 0.0000,
-                "additionalInfo": "NA"
-            },
-            {
-                "taxType": "EFETIVA",
-                "interestRateType": "COMPOSTO",
-                "taxPeriodicity": "AA",
-                "calculation": "21/252",
-                "referentialRateIndexerType": "FLUTUANTES",
-                "referentialRateIndexerSubType": "SELIC",
-                "referentialRateIndexerAdditionalInfo": "NA",
-                "preFixedRate": 0.0000,
-                "postFixedRate": 0.0800,
-                "additionalInfo": "NA"
-            },
             {
                 "taxType": "EFETIVA",
                 "interestRateType": "COMPOSTO",
                 "taxPeriodicity": "AA",
                 "calculation": "30/360",
-                "referentialRateIndexerType": "FLUTUANTES",
-                "referentialRateIndexerSubType": "CDI",
+                "referentialRateIndexerType": "PRE_FIXADO",
+                "referentialRateIndexerSubType": "PRE_FIXADO",
                 "referentialRateIndexerAdditionalInfo": "NA",
-                "preFixedRate": 0.0000,
-                "postFixedRate": 0.0800,
-                "additionalInfo": "NA"
-            },
-            {
-                "taxType": "NOMINAL",
-                "interestRateType": "SIMPLES",
-                "taxPeriodicity": "AA",
-                "calculation": "30/365",
-                "referentialRateIndexerType": "POS_FIXADO",
-                "referentialRateIndexerSubType": "TJLP",
-                "referentialRateIndexerAdditionalInfo": "NA",
-                "preFixedRate": 0.0000,
-                "postFixedRate": 0.0500,
-                "additionalInfo": "NA"
-            },
-            {
-                "taxType": "NOMINAL",
-                "interestRateType": "SIMPLES",
-                "taxPeriodicity": "AA",
-                "calculation": "30/365",
-                "referentialRateIndexerType": "POS_FIXADO",
-                "referentialRateIndexerSubType": "TR_TBF",
-                "referentialRateIndexerAdditionalInfo": "NA",
-                "preFixedRate": 0.0000,
-                "postFixedRate": 0.0500,
+                "preFixedRate": 0.1000,
+                "postFixedRate": 0.0000,
                 "additionalInfo": "NA"
             }
         ],
@@ -93,17 +44,17 @@
         "contractedFinanceCharges": [
             {
                 "chargeType": "JUROS_MORA_ATRASO",
-                "chargeAdditionalInfo": "",
-                "chargeRate": 0.1000
+                "chargeAdditionalInfo": "NA",
+                "chargeRate": 0.0100
             }
         ]
     },
     "links": {
-        "self": "https://api.baninter.com/open-banking/loans/v1/contracts/12wee35x-ba69-3a9e-a343-tbe36paw07go"
+        "self": "https://api.baninter.com/open-banking/loans/v1/contracts/rurjqnkh-6pub-x5qc-3dtr-2qad4n74i3cu"
     },
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-06-15T09:54:00Z"
+        "requestDateTime": "2021-12-10T00:00:00Z"
     }
 }

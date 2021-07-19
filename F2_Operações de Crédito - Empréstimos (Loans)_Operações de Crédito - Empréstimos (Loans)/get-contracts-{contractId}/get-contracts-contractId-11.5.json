@@ -1,23 +1,22 @@
 {
     "data": {
-        "contractNumber": "15876348557412300155",
-        "ipocCode": "004169680211184154817728148232",
+        "contractNumber": "663718908090",
+        "ipocCode": "0041696802111841548177280005",
         "productName": "Crédito Pessoal",
         "productType": "EMPRESTIMOS",
         "productSubType": "CAPITAL_GIRO_PRAZO_VENCIMENTO_SUPERIOR_365_DIAS",
-        "contractDate": "2020-01-01",
-        "disbursementDate": "2018-01-15",
-        "settlementDate": "NA",
-        "contractAmount": 12000.000,
+        "contractDate": "2009-01-01",
+        "settlementDate": "2009-03-01",
+        "contractAmount": 15000.000,
         "currency": "BRL",
-        "dueDate": "2022-01-01",
-        "instalmentPeriodicity": "ANUAL",
+        "dueDate": "2009-03-01",
+        "instalmentPeriodicity": "MENSAL",
         "instalmentPeriodicityAdditionalInfo": "NA",
-        "firstInstalmentDueDate": "2022-01-01",
-        "CET": 0.2000,
-        "amortizationScheduled": "SAC",
+        "firstInstalmentDueDate": "2009-02-01",
+        "CET": 0.1000,
+        "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
         "amortizationScheduledAdditionalInfo": "NA",
-        "cnpjConsignee": "60500998000135",
+        "cnpjConsignee": "00416968000101",
         "interestRates": [
             {
                 "taxType": "NOMINAL",
@@ -44,18 +43,18 @@
         ],
         "contractedFinanceCharges": [
             {
-                "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
+                "chargeType": "JUROS_MORA_ATRASO",
                 "chargeAdditionalInfo": "NA",
-                "chargeRate": 0.1000
+                "chargeRate": 0.0100
             }
         ]
     },
     "links": {
-        "self": "https://api.baninter.com/open-banking/loans/v1/contracts/b4n473rr-ba69-3a9e-a343-tbe36paw07go"
+        "self": "https://api.baninter.com/open-banking/loans/v1/contracts/fcpuj4d1-3ape-oka6-ubxw-y5d6yfr2s446"
     },
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-06-15T09:54:00Z"
+        "requestDateTime": "2021-12-10T00:00:00Z"
     }
 }

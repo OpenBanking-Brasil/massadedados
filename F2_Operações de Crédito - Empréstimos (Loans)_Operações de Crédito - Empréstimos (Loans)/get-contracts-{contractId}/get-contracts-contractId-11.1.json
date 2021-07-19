@@ -1,21 +1,20 @@
 {
     "data": {
-        "contractNumber": "15876348557412300151",
-        "ipocCode": "004169680211184154817728148231",
+        "contractNumber": "389381157451",
+        "ipocCode": "0041696802111841548177280001",
         "productName": "Crédito Pessoal",
         "productType": "EMPRESTIMOS",
         "productSubType": "HOME_EQUITY",
-        "contractDate": "2020-01-01",
-        "disbursementDate": "2020-01-02",
+        "contractDate": "2021-12-01",
         "settlementDate": "NA",
-        "contractAmount": 50000.0000,
+        "contractAmount": 800000.0000,
         "currency": "BRL",
-        "dueDate": "2021-01-01",
-        "instalmentPeriodicity": "SEMESTRAL",
+        "dueDate": "2022-12-01",
+        "instalmentPeriodicity": "MENSAL",
         "instalmentPeriodicityAdditionalInfo": "NA",
-        "firstInstalmentDueDate": "2020-06-01",
-        "CET": 0.20000,
-        "amortizationScheduled": "SAC",
+        "firstInstalmentDueDate": "2022-01-01",
+        "CET": 0.1000,
+        "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
         "amortizationScheduledAdditionalInfo": "NA",
         "cnpjConsignee": "00416968000101",
         "interestRates": [
@@ -23,7 +22,7 @@
                 "taxType": "NOMINAL",
                 "interestRateType": "SIMPLES",
                 "taxPeriodicity": "AA",
-                "calculation": "30/365",
+                "calculation": "21/252",
                 "referentialRateIndexerType": "PRE_FIXADO",
                 "referentialRateIndexerSubType": "PRE_FIXADO",
                 "referentialRateIndexerAdditionalInfo": "NA",
@@ -37,25 +36,25 @@
                 "feeName": "Taxa de Cadastro",
                 "feeCode": "CADASTRO",
                 "feeChargeType": "UNICA",
-                "feeCharge": "FIXO",
-                "feeAmount": 500.0000,
+                "feeCharge": "MINIMO",
+                "feeAmount": 200.0000,
                 "feeRate": 0.0000
             }
         ],
         "contractedFinanceCharges": [
             {
                 "chargeType": "JUROS_MORA_ATRASO",
-                "chargeAdditionalInfo": "",
-                "chargeRate": 0.1000
+                "chargeAdditionalInfo": "NA",
+                "chargeRate": 0.0100
             }
         ]
     },
     "links": {
-        "self": "https://api.baninter.com/open-banking/loans/v1/contracts/12wee35x-ba69-3a9e-a343-tbe36paw07go"
+        "self": "https://api.baninter.com/open-banking/loans/v1/contracts/jte9ogns-swxg-365m-cndh-us42iko0r7ni"
     },
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-06-15T09:54:00Z"
+        "requestDateTime": "2021-12-10T00:00:00Z"
     }
 }

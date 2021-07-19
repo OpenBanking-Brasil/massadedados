@@ -2,21 +2,41 @@
     "data": [
         {
             "currency": "BRL",
-            "warrantyType": "CESSAO_DIREITOS_CREDITORIOS",
-            "warrantySubType": "NOTAS_PROMISSORIAS_OUTROS_DIREITOS_CREDITO",
-            "warrantyAmount": 200.0001
+            "warrantyType": "HIPOTECA",
+            "warrantySubType": "IMOVEIS_RESIDENCIAIS",
+            "warrantyAmount": 180000.0000
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "BENS_ARRENDADOS",
+            "warrantySubType": "OUTROS_IMOVEIS",
+            "warrantyAmount": 155000.0000
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "BENS_ARRENDADOS",
+            "warrantySubType": "OUTROS_IMOVEIS",
+            "warrantyAmount": 150000.0000
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "BENS_ARRENDADOS",
+            "warrantySubType": "OUTROS_IMOVEIS",
+            "warrantyAmount": 145000.0000
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "BENS_ARRENDADOS",
+            "warrantySubType": "OUTROS_IMOVEIS",
+            "warrantyAmount": 140000.0000
         }
     ],
     "links": {
-        "self": "https://api.banco.com.br/open-banking/api/v1/resource",
-        "first": "https://api.banco.com.br/open-banking/api/v1/resource",
-        "prev": "https://api.banco.com.br/open-banking/api/v1/resource",
-        "next": "https://api.banco.com.br/open-banking/api/v1/resource",
-        "last": "https://api.banco.com.br/open-banking/api/v1/resource"
+        "self": "https://api.baninter.com/open-banking/loans/v1/contracts/jte9ogns-swxg-365m-cndh-us42iko0r7ni/warranties"
     },
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-05-21T08:30:00Z"
+        "requestDateTime": "2021-12-10T00:00:00Z"
     }
 }

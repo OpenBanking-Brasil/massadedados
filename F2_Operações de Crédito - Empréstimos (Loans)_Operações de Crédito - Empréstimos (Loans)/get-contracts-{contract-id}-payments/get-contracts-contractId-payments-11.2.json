@@ -1,21 +1,21 @@
 {
     "data": {
-        "paidInstalments": 0,
-        "contractOutstandingBalance": 880200.0000,
+        "paidInstalments": 1,
+        "contractOutstandingBalance": 0.0000,
         "releases": [
             {
-                "paymentId": "gb7ijcg1-b7cd-4729-89c1-mxmhs5ia4hlp",
+                "paymentId": "amie6cpf-b7cd-4729-89c1-h2jdfk6qjzs5",
                 "isOverParcelPayment": false,
-                "instalmentId": "ji9l6aow-b064-4f60-9f27-91ndj61nz8ot",
-                "paidDate": "2021-12-01",
+                "instalmentId": "dj5etki3-b064-4f60-9f27-qooznd1yojfi",
+                "paidDate": "2006-01-01",
                 "currency": "BRL",
-                "paidAmount": 0.0000,
+                "paidAmount": 132500.0000,
                 "overParcel": {
                     "fees": [
                         {
-                            "feeName": "NA",
-                            "feeCode": "NA",
-                            "feeAmount": 0
+                            "feeName": "Taxa de Cadastro",
+                            "feeCode": "CADASTRO",
+                            "feeAmount": 500.0000
                         }
                     ],
                     "charges": [
@@ -30,7 +30,7 @@
         ]
     },
     "links": {
-        "self": "https://api.baninter.com/open-banking/loans/v1/contracts/jte9ogns-swxg-365m-cndh-us42iko0r7ni/payments"
+        "self": "https://api.baninter.com/open-banking/loans/v1/contracts/rurjqnkh-6pub-x5qc-3dtr-2qad4n74i3cu/payments"
     },
     "meta": {
         "totalRecords": 1,
