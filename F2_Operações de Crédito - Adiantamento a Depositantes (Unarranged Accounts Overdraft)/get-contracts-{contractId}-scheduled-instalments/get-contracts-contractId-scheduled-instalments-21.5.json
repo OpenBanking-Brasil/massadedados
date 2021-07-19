@@ -1,0 +1,26 @@
+{
+    "data": {
+      "typeNumberOfInstalments": "ANO",
+      "totalNumberOfInstalments": 2,
+      "typeContractRemaining": "ANO",
+      "contractRemainingNumber": 0,
+      "paidInstalments": 2,
+      "dueInstalments": 0,
+      "pastDueInstalments": 0,
+      "balloonPayments": [
+        {
+          "dueDate": "NA",
+          "currency": "BRL",
+          "amount": 0.0000
+        }
+      ]
+    },
+    "links": {
+      "self": "https://api.itau/open-banking/unarranged-accounts-overdraft/v1/contracts/27d1e77d-0284-36b6-8ace-2c597305dfb7/scheduled-instalments"
+    },
+    "meta": {
+      "totalRecords": 1,
+      "totalPages": 1,
+      "requestDateTime": "2022-06-29T09:34:00Z"
+    }
+}
