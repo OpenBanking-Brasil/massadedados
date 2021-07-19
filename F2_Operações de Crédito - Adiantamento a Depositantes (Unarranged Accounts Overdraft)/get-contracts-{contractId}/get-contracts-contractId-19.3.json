@@ -48,7 +48,7 @@
         ]
     },
     "links": {
-        "self": "https://api.itau/open-banking/unarranged-accounts-overdraft/v1/contracts/8ef28a76-af16-3b68-9385-1ea1ccbc84eb"
+        "self": "https://super.api.santander.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/8ef28a76-af16-3b68-9385-1ea1ccbc84eb"
     },
     "meta": {
         "totalRecords": 1,

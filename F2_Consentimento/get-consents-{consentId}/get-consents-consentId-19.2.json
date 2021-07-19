@@ -1,6 +1,6 @@
 {
     "data": {
-        "consentId": "urn:baninter:BIT29498011028",
+        "consentId": "urn:santander:BSB0266587124",
         "creationDateTime": "2021-05-28T10:30:00Z",
         "status": "AUTHORISED",
         "statusUpdateDateTime": "2021-05-28T10:45:00Z",
@@ -19,7 +19,7 @@
         "transactionToDateTime": "2021-10-01T00:00:00Z"
     },
     "links": {
-        "self": "https://api.baninter.com/open-banking/consents/v1/consents/urn:bb:BIT29498011028"
+        "self": "https://super.api.santander.com.br/open-banking/consents/v1/consents/urn:santander:BSB0266587124"
     },
     "meta": {
         "totalRecords": 1,

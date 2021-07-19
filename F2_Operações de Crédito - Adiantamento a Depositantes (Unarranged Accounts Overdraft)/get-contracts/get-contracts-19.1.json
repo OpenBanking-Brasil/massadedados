@@ -26,7 +26,7 @@
       }
     ],
     "links": {
-      "self": "https://api.itau/open-banking/unarranged-accounts-overdraft/v1/contracts"
+      "self": "https://super.api.santander.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts"
     },
     "meta": {
       "totalRecords": 3,
