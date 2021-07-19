@@ -1,0 +1,69 @@
+{
+    "data": {
+        "contractNumber": "6980001248877",
+        "ipocCode": "60701190010120712328865498450006884113001",
+        "productName": "AD",
+        "productType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "productSubType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "contractDate": "2021-01-12",
+        "settlementDate": "NA",
+        "contractAmount": 89400.0000,
+        "currency": "BRL",
+        "dueDate": "2022-01-12",
+        "instalmentPeriodicity": "BIMESTRAL",
+        "instalmentPeriodicityAdditionalInfo": "NA",
+        "firstInstalmentDueDate": "2021-03-12",
+        "CET": 0.0210,
+        "amortizationScheduled": "PRICE",
+        "amortizationScheduledAdditionalInfo": "NA",
+        "interestRates": [
+            {
+                "taxType": "EFETIVA",
+                "interestRateType": "SIMPLES",
+                "taxPeriodicity": "AA",
+                "calculation": "30/365",
+                "referentialRateIndexerType": "FLUTUANTES",
+                "referentialRateIndexerSubType": "CDI",
+                "preFixedRate": 0.0110,
+                "postFixedRate": 0.0000,
+                "additionalInfo": "NA"
+            },
+            {
+                "taxType": "EFETIVA",
+                "interestRateType": "SIMPLES",
+                "taxPeriodicity": "AA",
+                "calculation": "30/365",
+                "referentialRateIndexerType": "FLUTUANTES",
+                "referentialRateIndexerSubType": "SELIC",
+                "preFixedRate": 0.0100,
+                "postFixedRate": 0.0000,
+                "additionalInfo": "NA"
+            }
+        ],
+        "contractedFees": [
+            {
+                "feeName": "Taxa de Adesão",
+                "feeCode": "ADESAO",
+                "feeChargeType": "UNICO",
+                "feeCharge": "MINIMO",
+                "feeAmount": 430.0000,
+                "feeRate": 0.0000
+            }
+        ],
+        "contractedFinanceCharges": [
+            {
+                "chargeType": "MULTA_ATRASO_PAGAMENTO",
+                "chargeAdditionalInfo": "NA",
+                "chargeRate": 0.0900
+            }
+        ]
+    },
+    "links": {
+        "self": "https://super.api.santander.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/bc679050-515e-3cd8-9cc2-ed9c60725862"
+    },
+    "meta": {
+        "totalRecords": 2,
+        "totalPages": 1,
+        "requestDateTime": "2021-05-19T10:47:00Z"
+    }
+}

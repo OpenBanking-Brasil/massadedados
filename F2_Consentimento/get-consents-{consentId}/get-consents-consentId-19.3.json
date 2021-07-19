@@ -1,6 +1,6 @@
 {
     "data": {
-        "consentId": "urn:baninter:BIT94470087",
+        "consentId": "urn:bradesco:BDC3698863254",
         "creationDateTime": "2021-05-28T10:30:00Z",
         "status": "AUTHORISED",
         "statusUpdateDateTime": "2021-05-28T10:45:00Z",
@@ -15,7 +15,7 @@
         "transactionToDateTime": "2022-01-12T00:00:00Z"
     },
     "links": {
-        "self": "https://api.baninter.com/open-banking/consents/v1/consents/urn:bb:BIT94470087"
+        "self": "https://api.bradesco.com/open-banking/consents/v1/consents/urn:bradesco:BDC3698863254"
     },
     "meta": {
         "totalRecords": 1,

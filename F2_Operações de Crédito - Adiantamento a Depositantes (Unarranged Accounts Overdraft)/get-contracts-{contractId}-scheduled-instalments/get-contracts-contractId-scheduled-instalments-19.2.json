@@ -1,0 +1,96 @@
+{
+    "data": {
+      "typeNumberOfInstalments": "MES",
+      "totalNumberOfInstalments": 8,
+      "typeContractRemaining": "MES",
+      "contractRemainingNumber": 0,
+      "paidInstalments": 8,
+      "dueInstalments": 0,
+      "pastDueInstalments": 0,
+      "balloonPayments": [ 
+        {
+            "dueDate": "2020-02-04",
+            "currency": "BRL",
+            "amount": 4460.1000
+        },
+        {
+            "dueDate": "2019-12-04",
+            "currency": "BRL",
+            "amount": 8920.2000
+        },
+        {
+            "dueDate": "2019-08-04",
+            "currency": "BRL",
+            "amount": 8920.2000
+        },
+        {
+            "dueDate": "2019-06-04",
+            "currency": "BRL",
+            "amount": 4460.1000
+        },
+        {
+            "dueDate": "2019-05-04",
+            "currency": "BRL",
+            "amount": 4460.1000
+        },
+        {
+            "dueDate": "2019-03-04",
+            "currency": "BRL",
+            "amount": 4460.1000
+        },
+        {
+            "dueDate": "2019-02-04",
+            "currency": "BRL",
+            "amount": 4460.1000
+        },
+        {
+            "dueDate": "2018-12-04",
+            "currency": "BRL",
+            "amount": 4460.1000
+        },
+        {
+            "dueDate": "2018-11-04",
+            "currency": "BRL",
+            "amount": 4460.1000
+        },
+        {
+            "dueDate": "2018-09-04",
+            "currency": "BRL",
+            "amount": 4460.1000
+        },
+        {
+            "dueDate": "2018-08-04",
+            "currency": "BRL",
+            "amount": 4460.1000
+        },
+        {
+            "dueDate": "2018-06-04",
+            "currency": "BRL",
+            "amount": 4460.1000
+        },
+        {
+            "dueDate": "2018-05-04",
+            "currency": "BRL",
+            "amount": 4460.1000
+        },
+        {
+            "dueDate": "2018-03-04",
+            "currency": "BRL",
+            "amount": 4460.1000
+        },
+        {
+            "dueDate": "2018-02-04",
+            "currency": "BRL",
+            "amount": 4460.1000
+        }
+      ]
+    },
+    "links": {
+      "self": "https://super.api.santander.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/ff7e0fe1-bd0f-3592-9af3-5e890160dc2f/scheduled-instalments"
+    },
+    "meta": {
+      "totalRecords": 15,
+      "totalPages": 1,
+      "requestDateTime": "2021-05-19T14:12:00Z"
+    }
+}

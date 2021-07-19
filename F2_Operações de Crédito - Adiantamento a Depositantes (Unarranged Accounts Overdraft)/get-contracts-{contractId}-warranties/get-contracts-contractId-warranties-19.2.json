@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "currency": "BRL",
+            "warrantyType": "GARANTIA_FIDEJUSSORIA",
+            "warrantySubType": "PESSOA_JURIDICA",
+            "warrantyAmount": 123889.4500
+        }
+    ],
+    "links": {
+        "self": "https://super.api.santander.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/ff7e0fe1-bd0f-3592-9af3-5e890160dc2f"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-05-19T13:15:00Z"
+    }
+}
