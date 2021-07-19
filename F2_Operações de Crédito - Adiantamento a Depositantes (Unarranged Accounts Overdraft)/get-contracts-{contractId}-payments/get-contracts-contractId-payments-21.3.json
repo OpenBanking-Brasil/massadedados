@@ -13,13 +13,8 @@
                 "overParcel": {
                     "fees": [
                         {
-                            "feeName": "Taxa de Adesao",
-                            "feeCode": "ADESAO",
-                            "feeAmount": 0.0000
-                        },
-                        {
-                            "feeName": "Taxa de administração",
-                            "feeCode": "ADMINISTRACAO",
+                            "feeName": "NA",
+                            "feeCode": "NA",
                             "feeAmount": 0.0000
                         }
                     ],
@@ -41,11 +36,6 @@
                 "paidAmount": 232.0532,
                 "overParcel": {
                     "fees": [
-                        {
-                            "feeName": "Taxa de Adesao",
-                            "feeCode": "ADESAO",
-                            "feeAmount": 0.0000
-                        },
                         {
                             "feeName": "Taxa de administração",
                             "feeCode": "ADMINISTRACAO",
@@ -71,11 +61,6 @@
                 "overParcel": {
                     "fees": [
                         {
-                            "feeName": "Taxa de Adesao",
-                            "feeCode": "ADESAO",
-                            "feeAmount": 0.0000
-                        },
-                        {
                             "feeName": "Taxa de administração",
                             "feeCode": "ADMINISTRACAO",
                             "feeAmount": 26.0000
@@ -99,11 +84,6 @@
                 "paidAmount": 232.0532,
                 "overParcel": {
                     "fees": [
-                        {
-                            "feeName": "Taxa de Adesao",
-                            "feeCode": "ADESAO",
-                            "feeAmount": 0.0000
-                        },
                         {
                             "feeName": "Taxa de administração",
                             "feeCode": "ADMINISTRACAO",
@@ -129,11 +109,6 @@
                 "overParcel": {
                     "fees": [
                         {
-                            "feeName": "Taxa de Adesao",
-                            "feeCode": "ADESAO",
-                            "feeAmount": 0.0000
-                        },
-                        {
                             "feeName": "Taxa de administração",
                             "feeCode": "ADMINISTRACAO",
                             "feeAmount": 26.0000
@@ -158,11 +133,6 @@
                 "overParcel": {
                     "fees": [
                         {
-                            "feeName": "Taxa de Adesao",
-                            "feeCode": "ADESAO",
-                            "feeAmount": 0.0000
-                        },
-                        {
                             "feeName": "Taxa de administração",
                             "feeCode": "ADMINISTRACAO",
                             "feeAmount": 26.0000
@@ -186,11 +156,6 @@
                 "paidAmount": 232.0532,
                 "overParcel": {
                     "fees": [
-                        {
-                            "feeName": "Taxa de Adesao",
-                            "feeCode": "ADESAO",
-                            "feeAmount": 0.0000
-                        },
                         {
                             "feeName": "Taxa de administração",
                             "feeCode": "ADMINISTRACAO",

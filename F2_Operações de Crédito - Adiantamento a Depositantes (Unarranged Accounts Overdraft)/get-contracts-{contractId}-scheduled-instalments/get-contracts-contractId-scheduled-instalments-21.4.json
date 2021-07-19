@@ -1,17 +1,22 @@
 {
     "data": {
       "typeNumberOfInstalments": "SEM_PRAZO_TOTAL",
-      "totalNumberOfInstalments": 4,
+      "totalNumberOfInstalments": 2,
       "typeContractRemaining": "SEM_PRAZO_REMANESCENTE",
       "contractRemainingNumber": 0,
-      "paidInstalments": 4,
+      "paidInstalments": 2,
       "dueInstalments": 0,
       "pastDueInstalments": 0,
       "balloonPayments": [
         {
-          "dueDate": "2022-05-08",
+          "dueDate": "2022-03-16",
           "currency": "BRL",
-          "amount": 4873.1176
+          "amount": 2280.9000
+        },
+        {
+          "dueDate": "2022-01-16",
+          "currency": "BRL",
+          "amount": 2280.9000
         }
       ]
     },

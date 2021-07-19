@@ -13,7 +13,7 @@
         "instalmentPeriodicity": "SEMANAL",
         "instalmentPeriodicityAdditionalInfo": "NA",
         "firstInstalmentDueDate": "2022-07-08",
-        "CET": 0.03510,
+        "CET": 0.0351,
         "amortizationScheduled": "PRICE",
         "amortizationScheduledAdditionalInfo": "NA",
         "interestRates": [
@@ -24,7 +24,7 @@
                 "calculation": "30/365",
                 "referentialRateIndexerType": "PRE_FIXADO",
                 "referentialRateIndexerSubType": "PRE_FIXADO",
-                "preFixedRate": 0.03510,
+                "preFixedRate": 0.0351,
                 "postFixedRate": 0.0000,
                 "additionalInfo": "NA"
             }

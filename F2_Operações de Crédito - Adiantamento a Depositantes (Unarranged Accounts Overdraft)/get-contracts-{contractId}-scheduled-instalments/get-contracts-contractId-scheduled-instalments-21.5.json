@@ -19,7 +19,7 @@
       "self": "https://api.itau/open-banking/unarranged-accounts-overdraft/v1/contracts/27d1e77d-0284-36b6-8ace-2c597305dfb7/scheduled-instalments"
     },
     "meta": {
-      "totalRecords": 2,
+      "totalRecords": 1,
       "totalPages": 1,
       "requestDateTime": "2022-06-29T09:34:00Z"
     }
