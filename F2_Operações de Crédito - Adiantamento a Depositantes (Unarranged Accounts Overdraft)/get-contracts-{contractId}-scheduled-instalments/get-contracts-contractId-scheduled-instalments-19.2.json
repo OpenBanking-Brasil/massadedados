@@ -1,60 +1,30 @@
 {
     "data": {
       "typeNumberOfInstalments": "MES",
-      "totalNumberOfInstalments": 7,
+      "totalNumberOfInstalments": 8,
       "typeContractRemaining": "MES",
       "contractRemainingNumber": 0,
-      "paidInstalments": 7,
+      "paidInstalments": 8,
       "dueInstalments": 0,
       "pastDueInstalments": 0,
       "balloonPayments": [ 
         {
-          "dueDate": "2018-02-04",
-          "currency": "BRL",
-          "amount": 4460.1000
-        },
-        {
-            "dueDate": "2018-03-04",
+            "dueDate": "2020-02-04",
             "currency": "BRL",
             "amount": 4460.1000
         },
         {
-            "dueDate": "2018-05-04",
+            "dueDate": "2019-12-04",
             "currency": "BRL",
-            "amount": 4460.1000
+            "amount": 8920.2000
         },
         {
-            "dueDate": "2018-06-04",
+            "dueDate": "2019-08-04",
             "currency": "BRL",
-            "amount": 4460.1000
+            "amount": 8920.2000
         },
         {
-            "dueDate": "2018-08-04",
-            "currency": "BRL",
-            "amount": 4460.1000
-        },
-        {
-            "dueDate": "2018-09-04",
-            "currency": "BRL",
-            "amount": 4460.1000
-        },
-        {
-            "dueDate": "2018-11-04",
-            "currency": "BRL",
-            "amount": 4460.1000
-        },
-        {
-            "dueDate": "2018-12-04",
-            "currency": "BRL",
-            "amount": 4460.1000
-        },
-        {
-            "dueDate": "2019-02-04",
-            "currency": "BRL",
-            "amount": 4460.1000
-        },
-        {
-            "dueDate": "2019-03-04",
+            "dueDate": "2019-06-04",
             "currency": "BRL",
             "amount": 4460.1000
         },
@@ -64,22 +34,52 @@
             "amount": 4460.1000
         },
         {
-            "dueDate": "2019-06-04",
+            "dueDate": "2019-03-04",
             "currency": "BRL",
             "amount": 4460.1000
         },
         {
-            "dueDate": "2019-08-04",
+            "dueDate": "2019-02-04",
             "currency": "BRL",
-            "amount": 8920.2000
+            "amount": 4460.1000
         },
         {
-            "dueDate": "2019-12-04",
+            "dueDate": "2018-12-04",
             "currency": "BRL",
-            "amount": 8920.2000
+            "amount": 4460.1000
         },
         {
-            "dueDate": "2020-02-04",
+            "dueDate": "2018-11-04",
+            "currency": "BRL",
+            "amount": 4460.1000
+        },
+        {
+            "dueDate": "2018-09-04",
+            "currency": "BRL",
+            "amount": 4460.1000
+        },
+        {
+            "dueDate": "2018-08-04",
+            "currency": "BRL",
+            "amount": 4460.1000
+        },
+        {
+            "dueDate": "2018-06-04",
+            "currency": "BRL",
+            "amount": 4460.1000
+        },
+        {
+            "dueDate": "2018-05-04",
+            "currency": "BRL",
+            "amount": 4460.1000
+        },
+        {
+            "dueDate": "2018-03-04",
+            "currency": "BRL",
+            "amount": 4460.1000
+        },
+        {
+            "dueDate": "2018-02-04",
             "currency": "BRL",
             "amount": 4460.1000
         }

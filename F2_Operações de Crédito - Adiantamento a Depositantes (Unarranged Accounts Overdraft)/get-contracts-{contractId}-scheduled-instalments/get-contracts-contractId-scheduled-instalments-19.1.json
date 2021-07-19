@@ -3,9 +3,9 @@
       "typeNumberOfInstalments": "MES",
       "totalNumberOfInstalments": 12,
       "typeContractRemaining": "MES",
-      "contractRemainingNumber": 7,
+      "contractRemainingNumber": 10,
       "paidInstalments": 2,
-      "dueInstalments": 7,
+      "dueInstalments": 10,
       "pastDueInstalments": 0,
       "balloonPayments": [ 
         {

@@ -5,7 +5,7 @@
         "releases": [
             {
                 "paymentId": "85d5f57d-ecff-39fb-9cd1-07b92e4fe510",
-                "isOverParcelPayment": true,
+                "isOverParcelPayment": false,
                 "instalmentId": "53ccf997-4e4c-372e-8fdb-d51803ca76d3",
                 "paidDate": "2018-08-23",
                 "currency": "BRL",
@@ -29,7 +29,7 @@
             },
             {
                 "paymentId": "ff43db28-ae71-33c2-846d-a51642ad8bfb",
-                "isOverParcelPayment": true,
+                "isOverParcelPayment": false,
                 "instalmentId": "86498e08-4622-3db8-a568-02d767ca8e0f",
                 "paidDate": "2017-08-23",
                 "currency": "BRL",
@@ -53,7 +53,7 @@
             },
             {
                 "paymentId": "d24c5cd0-38c3-3932-9107-2fb6a69120ea",
-                "isOverParcelPayment": true,
+                "isOverParcelPayment": false,
                 "instalmentId": "8d51002e-3f7d-3542-b88d-6a91bec6ec63",
                 "paidDate": "2016-08-23",
                 "currency": "BRL",
@@ -77,7 +77,7 @@
             },
             {
                 "paymentId": "93e2721d-9058-3118-be16-cce7e61cd893",
-                "isOverParcelPayment": true,
+                "isOverParcelPayment": false,
                 "instalmentId": "ccede267-a52e-3d1c-a045-bc8ebb9af2ae",
                 "paidDate": "2015-08-23",
                 "currency": "BRL",

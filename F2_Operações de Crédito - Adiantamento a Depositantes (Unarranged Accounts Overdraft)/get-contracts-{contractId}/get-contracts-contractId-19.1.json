@@ -62,7 +62,7 @@
         "self": "https://api.itau/open-banking/unarranged-accounts-overdraft/v1/contracts/bc679050-515e-3cd8-9cc2-ed9c60725862"
     },
     "meta": {
-        "totalRecords": 1,
+        "totalRecords": 2,
         "totalPages": 1,
         "requestDateTime": "2021-05-19T10:47:00Z"
     }
