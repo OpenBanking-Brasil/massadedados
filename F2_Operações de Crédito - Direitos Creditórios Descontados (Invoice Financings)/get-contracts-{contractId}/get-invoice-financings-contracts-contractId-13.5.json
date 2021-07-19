@@ -1,0 +1,57 @@
+{
+  "data": {
+    "contractNumber": "26161616160",
+    "ipocCode": "00000000030220583091626161616160",
+    "productName": "Direitos Creditórios Descontados",
+    "productType": "DIREITOS_CREDITORIOS_DESCONTADOS",
+    "productSubType": "DESCONTO_CHEQUES",
+    "contractDate": "2018-11-28",
+    "settlementDate": "2019-03-28",
+    "contractAmount": 20000.0000,
+    "currency": "BRL",
+    "dueDate": "2019-03-28",
+    "instalmentPeriodicity": "BIMESTRAL",
+    "firstInstalmentDueDate": "2019-01-28",
+    "CET": 0.0125,
+    "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
+    "amortizationScheduledAdditionalInfo": "NA",
+    "interestRates": [
+      {
+        "taxType": "EFETIVA",
+        "interestRateType": "SIMPLES",
+        "taxPeriodicity": "AM",
+        "calculation": "30/365",
+        "referentialRateIndexerType": "FLUTUANTES",
+        "referentialRateIndexerSubType": "CDI",
+        "preFixedRate": 0.0000,
+        "postFixedRate": 0.0100,
+        "additionalInfo": "NA"
+      }
+    ],
+    "contractedFees": [
+      {
+        "feeName": "Manutenção de Serviço",
+        "feeCode": "MANUTENCAO",
+        "feeChargeType": "POR_PARCELA",
+        "feeCharge": "PERCENTUAL",
+        "feeAmount": 0.0000,
+        "feeRate": 0.0025
+      }
+    ],
+    "contractedFinanceCharges": [
+      {
+        "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
+        "chargeAdditionalInfo": "NA",
+        "chargeRate": 0.0210
+      }
+    ]
+  },
+  "links": {
+    "self": "https://opendata.api.bb.com.br/open-banking/invoice-financings/v1/contracts/9ec8fbe4-09e4-305d-bf8c-cdae1c298183"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-12-24T09:20:00Z"
+  }
+}

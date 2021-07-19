@@ -1,0 +1,31 @@
+{
+  "data": {
+    "typeNumberOfInstalments": "SEM_PRAZO_TOTAL",
+    "totalNumberOfInstalments": 2,
+    "typeContractRemaining": "SEM_PRAZO_REMANESCENTE",
+    "contractRemainingNumber": 0,
+    "paidInstalments": 2,
+    "dueInstalments": 0,
+    "pastDueInstalments": 0,
+    "balloonPayments": [
+      {
+        "dueDate": "2020-03-13",
+        "currency": "BRL",
+        "amount": 10000.0000
+      },
+      {
+        "dueDate": "2020-02-28",
+        "currency": "BRL",
+        "amount": 10000.0000
+      }
+    ]
+  },
+  "links": {
+    "self": "https://opendata.api.bb.com.br/open-banking/invoice-financings/v1/contracts/eec8fbe4-09e4-305d-bf8c-cdae1c298183/scheduled-instalments"
+  },
+  "meta": {
+    "totalRecords": 2,
+    "totalPages": 1,
+    "requestDateTime": "2021-12-24T10:01:00Z"
+  }
+}

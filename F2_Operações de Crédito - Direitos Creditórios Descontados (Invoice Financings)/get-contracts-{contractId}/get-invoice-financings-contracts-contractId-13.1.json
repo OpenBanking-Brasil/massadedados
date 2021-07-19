@@ -1,0 +1,69 @@
+{
+  "data": {
+    "contractNumber": "26161616164",
+    "ipocCode": "00000000030220583091626161616164",
+    "productName": "Direitos Creditórios Descontados",
+    "productType": "DIREITOS_CREDITORIOS_DESCONTADOS",
+    "productSubType": "DESCONTO_CHEQUES",
+    "contractDate": "2021-11-28",
+    "disbursementDate": "2021-11-28",
+    "settlementDate": "NA",
+    "contractAmount": 100000.0000,
+    "currency": "BRL",
+    "dueDate": "2022-12-28",
+    "instalmentPeriodicity": "ANUAL",
+    "firstInstalmentDueDate": "2022-12-28",
+    "CET": 0.0690,
+    "amortizationScheduled": "SAC",
+    "amortizationScheduledAdditionalInfo": "NA",
+    "interestRates": [
+      {
+        "taxType": "EFETIVA",
+        "interestRateType": "COMPOSTO",
+        "taxPeriodicity": "AA",
+        "calculation": "30/365",
+        "referentialRateIndexerType": "PRE_FIXADO",
+        "referentialRateIndexerSubType": "PRE_FIXADO",
+        "referentialRateIndexerAdditionalInfo": "NA",
+        "preFixedRate": 0.0690,
+        "postFixedRate": 0.0000,
+        "additionalInfo": "NA"
+      }
+    ],
+    "contractedFees": [
+      {
+        "feeName": "Manutenção de Serviço",
+        "feeCode": "MANUTENCAO",
+        "feeChargeType": "UNICA",
+        "feeCharge": "MAXIMO",
+        "feeAmount": 165.0000,
+        "feeRate": 0.0000
+      }
+    ],
+    "contractedFinanceCharges": [
+      {
+        "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
+        "chargeAdditionalInfo": "NA",
+        "chargeRate": 0.0210
+      },
+      {
+        "chargeType": "JUROS_MORA_ATRASO",
+        "chargeAdditionalInfo": "NA",
+        "chargeRate": 0.0710
+      },
+      {
+        "chargeType": "IOF_POR_ATRASO",
+        "chargeAdditionalInfo": "NA",
+        "chargeRate": 0.0180
+      }
+    ]
+  },
+  "links": {
+    "self": "https://opendata.api.bb.com.br/open-banking/invoice-financings/v1/contracts/3ec8fbe4-09e4-305d-bf8c-cdae1c298183"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-12-24T09:20:00Z"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "data": {
+    "contractNumber": "26161616162",
+    "ipocCode": "00000000030320583091626161616162",
+    "productName": "Direitos Creditórios Descontados",
+    "productType": "DIREITOS_CREDITORIOS_DESCONTADOS",
+    "productSubType": "ANTECIPACAO_FATURA_CARTAO_CREDITO",
+    "contractDate": "2020-02-28",
+    "settlementDate": "2020-08-28",
+    "contractAmount": 50000.0000,
+    "currency": "BRL",
+    "dueDate": "2020-08-28",
+    "instalmentPeriodicity": "TRIMESTRAL",
+    "firstInstalmentDueDate": "2020-05-28",
+    "CET": 0.0175,
+    "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
+    "amortizationScheduledAdditionalInfo": "NA",
+    "interestRates": [
+      {
+        "taxType": "EFETIVA",
+        "interestRateType": "SIMPLES",
+        "taxPeriodicity": "AM",
+        "calculation": "30/365",
+        "referentialRateIndexerType": "POS_FIXADO",
+        "referentialRateIndexerSubType": "OUTRAS_TAXAS_POS_FIXADAS",
+        "referentialRateIndexerAdditionalInfo": "CDB BB",
+        "preFixedRate": 0.0000,
+        "postFixedRate": 0.0175,
+        "additionalInfo": "NA"
+      }
+    ],
+    "contractedFees": [
+      {
+        "feeName": "Manutenção de Serviço",
+        "feeCode": "MANUTENCAO",
+        "feeChargeType": "UNICA",
+        "feeCharge": "FIXO",
+        "feeAmount": 120.0000,
+        "feeRate": 0.0000
+      }
+    ],
+    "contractedFinanceCharges": [
+      {
+        "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
+        "chargeAdditionalInfo": "NA",
+        "chargeRate": 0.0210
+      },
+      {
+        "chargeType": "JUROS_MORA_ATRASO",
+        "chargeAdditionalInfo": "NA",
+        "chargeRate": 0.0710
+      },
+      {
+        "chargeType": "IOF_POR_ATRASO",
+        "chargeAdditionalInfo": "NA",
+        "chargeRate": 0.0180
+      }
+    ]
+  },
+  "links": {
+    "self": "https://opendata.api.bb.com.br/open-banking/invoice-financings/v1/contracts/eec8fbe4-09e4-305d-bf8c-cdae1c298183"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-12-24T09:20:00Z"
+  }
+}

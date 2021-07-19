@@ -3,24 +3,24 @@
     "typeNumberOfInstalments": "SEM_PRAZO_TOTAL",
     "totalNumberOfInstalments": 4,
     "typeContractRemaining": "SEM_PRAZO_REMANESCENTE",
-    "contractRemainingNumber": 4,
-    "paidInstalments": 0,
-    "dueInstalments": 4,
+    "contractRemainingNumber": 0,
+    "paidInstalments": 4,
+    "dueInstalments": 0,
     "pastDueInstalments": 0,
     "balloonPayments": [
       {
         "dueDate": "NA",
-        "currency": "NA",
+        "currency": "BRL",
         "amount": 0.0000
       }
     ]
   },
   "links": {
-    "self": "https://api.bradesco.com/open-banking/invoice-financings/v1/contracts/2ec8fbe4-09e4-305d-bf8c-cdae1c298183/scheduled-instalments"
+    "self": "https://opendata.api.bb.com.br/open-banking/invoice-financings/v1/contracts/4ec8fbe4-09e4-305d-bf8c-cdae1c298183/scheduled-instalments"
   },
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2021-10-01T00:00:00Z"
+    "requestDateTime": "2021-12-24T10:01:00Z"
   }
 }
