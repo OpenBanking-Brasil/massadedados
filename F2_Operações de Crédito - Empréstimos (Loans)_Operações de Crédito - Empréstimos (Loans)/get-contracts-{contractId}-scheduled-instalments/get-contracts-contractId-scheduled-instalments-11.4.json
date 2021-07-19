@@ -9,14 +9,14 @@
         "pastDueInstalments": 0,
         "balloonPayments": [
             {
-                "dueDate": "NA",
+                "dueDate": "2007-06-25",
                 "currency": "BRL",
-                "amount": 0.0000
+                "amount": 44916.6667
             },
             {
-                "dueDate": "NA",
+                "dueDate": "2007-06-15",
                 "currency": "BRL",
-                "amount": 0.0000
+                "amount": 44916.6667
             }
         ]
     },

@@ -29,13 +29,19 @@
             "warrantyType": "BENS_ARRENDADOS",
             "warrantySubType": "OUTROS_IMOVEIS",
             "warrantyAmount": 140000.0000
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "BENS_ARRENDADOS",
+            "warrantySubType": "OUTROS_IMOVEIS",
+            "warrantyAmount": 135000.0000
         }
     ],
     "links": {
         "self": "https://api.baninter.com/open-banking/loans/v1/contracts/jte9ogns-swxg-365m-cndh-us42iko0r7ni/warranties"
     },
     "meta": {
-        "totalRecords": 1,
+        "totalRecords": 6,
         "totalPages": 1,
         "requestDateTime": "2021-12-10T00:00:00Z"
     }

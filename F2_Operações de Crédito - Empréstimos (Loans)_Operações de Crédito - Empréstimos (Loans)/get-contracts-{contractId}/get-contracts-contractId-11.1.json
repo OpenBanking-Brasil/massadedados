@@ -21,11 +21,10 @@
             {
                 "taxType": "NOMINAL",
                 "interestRateType": "SIMPLES",
-                "taxPeriodicity": "AA",
+                "taxPeriodicity": "AM",
                 "calculation": "21/252",
                 "referentialRateIndexerType": "PRE_FIXADO",
                 "referentialRateIndexerSubType": "PRE_FIXADO",
-                "referentialRateIndexerAdditionalInfo": "NA",
                 "preFixedRate": 0.1000,
                 "postFixedRate": 0.0000,
                 "additionalInfo": "NA"

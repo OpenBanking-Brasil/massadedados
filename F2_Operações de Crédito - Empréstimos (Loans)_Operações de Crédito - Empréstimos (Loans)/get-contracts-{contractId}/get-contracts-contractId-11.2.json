@@ -12,7 +12,7 @@
         "dueDate": "2006-01-01",
         "instalmentPeriodicity": "ANUAL",
         "instalmentPeriodicityAdditionalInfo": "NA",
-        "firstInstalmentDueDate": "2005-02-01",
+        "firstInstalmentDueDate": "2006-01-01",
         "CET": 0.1000,
         "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
         "amortizationScheduledAdditionalInfo": "NA",
@@ -25,7 +25,6 @@
                 "calculation": "30/360",
                 "referentialRateIndexerType": "PRE_FIXADO",
                 "referentialRateIndexerSubType": "PRE_FIXADO",
-                "referentialRateIndexerAdditionalInfo": "NA",
                 "preFixedRate": 0.1000,
                 "postFixedRate": 0.0000,
                 "additionalInfo": "NA"

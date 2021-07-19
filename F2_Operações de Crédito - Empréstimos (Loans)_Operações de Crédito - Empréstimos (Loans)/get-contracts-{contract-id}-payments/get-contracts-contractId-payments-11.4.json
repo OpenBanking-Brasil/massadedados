@@ -15,14 +15,14 @@
                         {
                             "feeName": "NA",
                             "feeCode": "NA",
-                            "feeAmount": 0
+                            "feeAmount": 0.0000
                         }
                     ],
                     "charges": [
                         {
                             "chargeType": "NA",
                             "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0
+                            "chargeAmount": 0.0000
                         }
                     ]
                 }
@@ -182,7 +182,7 @@
         "self": "https://api.baninter.com/open-banking/loans/v1/contracts/okangw8q-m4ma-tb08-rcem-tftbc8j4pk8j/payments"
     },
     "meta": {
-        "totalRecords": 5,
+        "totalRecords": 7,
         "totalPages": 1,
         "requestDateTime": "2021-05-21T08:30:00Z"
     }

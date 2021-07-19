@@ -21,11 +21,10 @@
             {
                 "taxType": "NOMINAL",
                 "interestRateType": "SIMPLES",
-                "taxPeriodicity": "AA",
+                "taxPeriodicity": "AM",
                 "calculation": "30/365",
                 "referentialRateIndexerType": "FLUTUANTES",
                 "referentialRateIndexerSubType": "CDI",
-                "referentialRateIndexerAdditionalInfo": "NA",
                 "preFixedRate": 0.0000,
                 "postFixedRate": 0.1000,
                 "additionalInfo": "NA"
