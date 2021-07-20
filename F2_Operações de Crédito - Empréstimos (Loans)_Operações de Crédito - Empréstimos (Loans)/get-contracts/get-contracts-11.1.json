@@ -1,23 +1,52 @@
 {
     "data": [
         {
-            "contractId": "e4132a2d-9607-e911-80e0-d4ae52aa818f",
-            "brandName": "Banco do Brasil S.A",
-            "companyCnpj": "00000000000191",
+            "contractId": "jte9ogns-swxg-365m-cndh-us42iko0r7ni",
+            "brandName": "Banco Inter S.A.",
+            "companyCnpj": "00416968000101",
             "productType": "EMPRESTIMOS",
-            "productSubType": "CONTA_GARANTIDA",
-            "ipocCode": "000000000020216425821701864258217037"
+            "productSubType": "HOME_EQUITY",
+            "ipocCode": "0041696802111841548177280001"
+        },
+        {
+            "contractId": "rurjqnkh-6pub-x5qc-3dtr-2qad4n74i3cu",
+            "brandName": "Banco Inter S.A.",
+            "companyCnpj": "00416968000101",
+            "productType": "EMPRESTIMOS",
+            "productSubType": "HOME_EQUITY",
+            "ipocCode": "0041696802111841548177280002"
+        },
+        {
+            "contractId": "k6tkha3a-f8uf-w1z9-k1an-dmlcnco8wj04",
+            "brandName": "Banco Inter S.A.",
+            "companyCnpj": "00416968000101",
+            "productType": "EMPRESTIMOS",
+            "productSubType": "HOME_EQUITY",
+            "ipocCode": "0041696802111841548177280003"
+        },
+        {
+            "contractId": "okangw8q-m4ma-tb08-rcem-tftbc8j4pk8j",
+            "brandName": "Banco Inter S.A.",
+            "companyCnpj": "00416968000101",
+            "productType": "EMPRESTIMOS",
+            "productSubType": "HOME_EQUITY",
+            "ipocCode": "0041696802111841548177280004"
+        },
+        {
+            "contractId": "fcpuj4d1-3ape-oka6-ubxw-y5d6yfr2s446",
+            "brandName": "Banco Inter S.A.",
+            "companyCnpj": "00416968000101",
+            "productType": "EMPRESTIMOS",
+            "productSubType": "CAPITAL_GIRO_PRAZO_VENCIMENTO_SUPERIOR_365_DIAS",
+            "ipocCode": "0041696802161841548177280005"
         }
-        
     ],
     "links": {
-        "self": "https://api.banco.com.br/open-banking/loans/v1/contracts?page=2&page-size=25",
-        "first": "https://api.banco.com.br/open-banking/loans/v1/contracts?page=1&page-size=25",
-        "prev": "https://api.banco.com.br/open-banking/loans/v1/contracts?page=1&page-size=25"
+        "self": "https://api.baninter.com/open-banking/loans/v1/contracts"
     },
     "meta": {
-        "totalRecords": 26,
-        "totalPages": 2,
-        "requestDateTime": "2021-06-02T16:52:00Z"
+        "totalRecords": 5,
+        "totalPages": 1,
+        "requestDateTime": "2021-12-10T00:00:00Z"
     }
 }

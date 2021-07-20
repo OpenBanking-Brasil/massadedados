@@ -1,0 +1,88 @@
+{
+    "data": {
+        "paidInstalments": 3,
+        "contractOutstandingBalance": 0.0000,
+        "releases": [
+            {
+                "paymentId": "lbk1zqbb-b7cd-4729-89c1-s9ys2tzunck2",
+                "isOverParcelPayment": false,
+                "instalmentId": "xds81rsi-b064-4f60-9f27-4eaqlgh441gy",
+                "paidDate": "2006-04-01",
+                "currency": "BRL",
+                "paidAmount": 45958.9700,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "NA",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "rqyaza6s-b7cd-4729-89c1-pscjyfy7k2c5",
+                "isOverParcelPayment": false,
+                "instalmentId": "fxlx5lsh-b064-4f60-9f27-88um6xtdx5tx",
+                "paidDate": "2006-03-01",
+                "currency": "BRL",
+                "paidAmount": 45958.9700,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "NA",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "kbn4l2rg-b7cd-4729-89c1-s22rr5qa5fsx",
+                "isOverParcelPayment": false,
+                "instalmentId": "0u0eu7ba-b064-4f60-9f27-q0q41p0wt1d6",
+                "paidDate": "2006-02-01",
+                "currency": "BRL",
+                "paidAmount": 46458.9700,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "Taxa de Cadastro",
+                            "feeCode": "CADASTRO",
+                            "feeAmount": 500.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "NA",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "links": {
+        "self": "https://api.baninter.com/open-banking/loans/v1/contracts/k6tkha3a-f8uf-w1z9-k1an-dmlcnco8wj04/payments"
+    },
+    "meta": {
+        "totalRecords": 3,
+        "totalPages": 1,
+        "requestDateTime": "2021-05-21T08:30:00Z"
+    }
+}

@@ -2,59 +2,47 @@
     "data": [
         {
             "currency": "BRL",
-            "warrantyType": "OUTRAS_GARANTIAS_NAO_FIDEJUSSORIAS",
-            "warrantySubType": "VEICULOS",
-            "warrantyAmount": 80000.00
-        },
-        {
-            "currency": "BRL",
             "warrantyType": "HIPOTECA",
             "warrantySubType": "IMOVEIS_RESIDENCIAIS",
-            "warrantyAmount": 220000.00
+            "warrantyAmount": 180000.0000
         },
         {
             "currency": "BRL",
             "warrantyType": "BENS_ARRENDADOS",
-            "warrantySubType": "OUTROS",
-            "warrantyAmount": 25000.00
+            "warrantySubType": "OUTROS_IMOVEIS",
+            "warrantyAmount": 155000.0000
         },
         {
             "currency": "BRL",
-            "warrantyType": "CAUCAO",
-            "warrantySubType": "FATURA_CARTAO_CREDITO",
-            "warrantyAmount": 10000.00
+            "warrantyType": "BENS_ARRENDADOS",
+            "warrantySubType": "OUTROS_IMOVEIS",
+            "warrantyAmount": 150000.0000
         },
         {
             "currency": "BRL",
-            "warrantyType": "GARANTIAS_INTERNACIONAIS",
-            "warrantySubType": "PESSOA_JURIDICA_EXTERIOR",
-            "warrantyAmount": 100000.00
+            "warrantyType": "BENS_ARRENDADOS",
+            "warrantySubType": "OUTROS_IMOVEIS",
+            "warrantyAmount": 145000.0000
         },
         {
             "currency": "BRL",
-            "warrantyType": "GARANTIA_FIDEJUSSORIA",
-            "warrantySubType": "PESSOA_FISICA",
-            "warrantyAmount": 30000.00
+            "warrantyType": "BENS_ARRENDADOS",
+            "warrantySubType": "OUTROS_IMOVEIS",
+            "warrantyAmount": 140000.0000
         },
         {
             "currency": "BRL",
-            "warrantyType": "GARANTIA_FIDEJUSSORIA",
-            "warrantySubType": "PESSOA_FISICA",
-            "warrantyAmount": 20000.00
-        },
-        {
-            "currency": "BRL",
-            "warrantyType": "GARANTIA_FIDEJUSSORIA",
-            "warrantySubType": "PESSOA_JURIDICA",
-            "warrantyAmount": 15000.00
+            "warrantyType": "BENS_ARRENDADOS",
+            "warrantySubType": "OUTROS_IMOVEIS",
+            "warrantyAmount": 135000.0000
         }
     ],
     "links": {
-        "self": "https://api.banco.com.br/open-banking/loans/v1/contracts/d07b6b27-9aba-39d3-92b5-cb7135567022/warranties"
+        "self": "https://api.baninter.com/open-banking/loans/v1/contracts/jte9ogns-swxg-365m-cndh-us42iko0r7ni/warranties"
     },
     "meta": {
-        "totalRecords": 8,
+        "totalRecords": 6,
         "totalPages": 1,
-        "requestDateTime": "2021-06-08T09:48:00Z"
+        "requestDateTime": "2021-12-10T00:00:00Z"
     }
 }
