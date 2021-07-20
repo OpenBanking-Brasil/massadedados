@@ -2,9 +2,9 @@
     "data": [
         {
             "currency": "BRL",
-            "warrantyType": "HIPOTECA",
-            "warrantySubType": "IMOVEIS_RESIDENCIAIS",
-            "warrantyAmount": 200000.0000
+            "warrantyType": "SEGUROS_ASSEMELHADOS",
+            "warrantySubType": "FGTS_FUNDO_GARANTIA_TEMPO_SERVICO",
+            "warrantyAmount": 145054.0000
         }
     ],
     "links": {

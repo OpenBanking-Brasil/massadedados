@@ -9,7 +9,7 @@
                 "instalmentId": "dj5etki3-b064-4f60-9f27-qooznd1yojfi",
                 "paidDate": "2006-01-01",
                 "currency": "BRL",
-                "paidAmount": 132500.0000,
+                "paidAmount": 12555.4600,
                 "overParcel": {
                     "fees": [
                         {
@@ -22,7 +22,7 @@
                         {
                             "chargeType": "NA",
                             "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
+                            "chargeAmount": 0
                         }
                     ]
                 }

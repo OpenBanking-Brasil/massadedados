@@ -2,9 +2,15 @@
     "data": [
         {
             "currency": "BRL",
-            "warrantyType": "HIPOTECA",
-            "warrantySubType": "IMOVEIS_RESIDENCIAIS",
-            "warrantyAmount": 200000.0000
+            "warrantyType": "PENHOR",
+            "warrantySubType": "VEICULOS",
+            "warrantyAmount": 83239.0000
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "PENHOR",
+            "warrantySubType": "VEICULOS",
+            "warrantyAmount": 86400.0000
         }
     ],
     "links": {

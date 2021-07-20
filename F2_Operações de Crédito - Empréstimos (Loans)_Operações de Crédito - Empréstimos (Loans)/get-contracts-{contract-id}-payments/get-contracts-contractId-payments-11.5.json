@@ -7,22 +7,22 @@
                 "paymentId": "i8hndeb0-b7cd-4729-89c1-q88kw9p36nb2",
                 "isOverParcelPayment": false,
                 "instalmentId": "jt71iaot-b064-4f60-9f27-e3gb5r94i8zb",
-                "paidDate": "2009-03-01",
+                "paidDate": "2011-01-01",
                 "currency": "BRL",
-                "paidAmount": 8500.0000,
+                "paidAmount": 10628.5200,
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "NA",
                             "feeCode": "NA",
-                            "feeAmount": 0
+                            "feeAmount": 0.0000
                         }
                     ],
                     "charges": [
                         {
                             "chargeType": "NA",
                             "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0
+                            "chargeAmount": 0.0000
                         }
                     ]
                 }
@@ -31,9 +31,9 @@
                 "paymentId": "10cnk7k8-b7cd-4729-89c1-l92buhi76s1y",
                 "isOverParcelPayment": false,
                 "instalmentId": "oz1fsfx8-b064-4f60-9f27-jlsr3lq0ez2l",
-                "paidDate": "2009-02-01",
+                "paidDate": "2010-01-01",
                 "currency": "BRL",
-                "paidAmount": 8750.0000,
+                "paidAmount": 11128.5200,
                 "overParcel": {
                     "fees": [
                         {

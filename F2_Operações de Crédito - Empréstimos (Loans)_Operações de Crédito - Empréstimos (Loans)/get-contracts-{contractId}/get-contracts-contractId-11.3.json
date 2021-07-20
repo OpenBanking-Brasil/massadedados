@@ -13,7 +13,7 @@
         "instalmentPeriodicity": "MENSAL",
         "instalmentPeriodicityAdditionalInfo": "NA",
         "firstInstalmentDueDate": "2006-02-01",
-        "CET": 0.1000,
+        "CET": 0.0300,
         "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
         "amortizationScheduledAdditionalInfo": "NA",
         "cnpjConsignee": "00416968000101",
@@ -26,7 +26,7 @@
                 "referentialRateIndexerType": "FLUTUANTES",
                 "referentialRateIndexerSubType": "CDI",
                 "preFixedRate": 0.0000,
-                "postFixedRate": 0.1000,
+                "postFixedRate": 0.0300,
                 "additionalInfo": "NA"
             }
         ],

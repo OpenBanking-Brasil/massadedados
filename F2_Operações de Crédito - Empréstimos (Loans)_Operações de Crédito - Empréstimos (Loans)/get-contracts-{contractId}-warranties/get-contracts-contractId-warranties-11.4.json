@@ -2,9 +2,15 @@
     "data": [
         {
             "currency": "BRL",
-            "warrantyType": "HIPOTECA",
-            "warrantySubType": "IMOVEIS_RESIDENCIAIS",
-            "warrantyAmount": 200000.0000
+            "warrantyType": "BENS_ARRENDADOS",
+            "warrantySubType": "VEICULOS_AUTOMOTORES",
+            "warrantyAmount": 74563.0000
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "BENS_ARRENDADOS",
+            "warrantySubType": "VEICULOS_AUTOMOTORES",
+            "warrantyAmount": 79653.0000
         }
     ],
     "links": {

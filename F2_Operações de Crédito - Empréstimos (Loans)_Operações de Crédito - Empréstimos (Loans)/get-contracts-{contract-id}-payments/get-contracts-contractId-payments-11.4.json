@@ -9,7 +9,7 @@
                 "instalmentId": "01to9syg-b064-4f60-9f27-uqzd0gyy4s4r",
                 "paidDate": "2007-06-25",
                 "currency": "BRL",
-                "paidAmount": 44916.6667,
+                "paidAmount": 49221.4500,
                 "overParcel": {
                     "fees": [
                         {
@@ -33,20 +33,20 @@
                 "instalmentId": "tg4xll05-b064-4f60-9f27-s1ozlm80c0k1",
                 "paidDate": "2007-06-15",
                 "currency": "BRL",
-                "paidAmount": 44916.6667,
+                "paidAmount": 49221.4500,
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "NA",
                             "feeCode": "NA",
-                            "feeAmount": 0
+                            "feeAmount": 0.0000
                         }
                     ],
                     "charges": [
                         {
                             "chargeType": "NA",
                             "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0
+                            "chargeAmount": 0.0000
                         }
                     ]
                 }
@@ -57,20 +57,20 @@
                 "instalmentId": "acb1s8pf-b064-4f60-9f27-8k02b7pa5bm1",
                 "paidDate": "2007-06-01",
                 "currency": "BRL",
-                "paidAmount": 12833.3333,
+                "paidAmount": 14064.7000,
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "NA",
                             "feeCode": "NA",
-                            "feeAmount": 0
+                            "feeAmount": 0.0000
                         }
                     ],
                     "charges": [
                         {
                             "chargeType": "NA",
                             "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0
+                            "chargeAmount": 0.0000
                         }
                     ]
                 }
@@ -81,20 +81,20 @@
                 "instalmentId": "c9e3rycx-b064-4f60-9f27-z65l1o8ieoc6",
                 "paidDate": "2007-05-01",
                 "currency": "BRL",
-                "paidAmount": 12833.3333,
+                "paidAmount": 14064.7000,
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "NA",
                             "feeCode": "NA",
-                            "feeAmount": 0
+                            "feeAmount": 0.0000
                         }
                     ],
                     "charges": [
                         {
                             "chargeType": "NA",
                             "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0
+                            "chargeAmount": 0.0000
                         }
                     ]
                 }
@@ -105,20 +105,20 @@
                 "instalmentId": "lnkg04oq-b064-4f60-9f27-53spuwls7bk8",
                 "paidDate": "2007-04-01",
                 "currency": "BRL",
-                "paidAmount": 12833.3333,
+                "paidAmount": 14064.7000,
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "NA",
                             "feeCode": "NA",
-                            "feeAmount": 0
+                            "feeAmount": 0.0000
                         }
                     ],
                     "charges": [
                         {
                             "chargeType": "NA",
                             "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0
+                            "chargeAmount": 0.0000
                         }
                     ]
                 }
@@ -129,20 +129,20 @@
                 "instalmentId": "pewacxbc-b064-4f60-9f27-91852lwqhr39",
                 "paidDate": "2007-03-01",
                 "currency": "BRL",
-                "paidAmount": 12833.3333,
+                "paidAmount": 14064.7000,
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "NA",
                             "feeCode": "NA",
-                            "feeAmount": 0
+                            "feeAmount": 0.0000
                         }
                     ],
                     "charges": [
                         {
                             "chargeType": "NA",
                             "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0
+                            "chargeAmount": 0.0000
                         }
                     ]
                 }
@@ -153,7 +153,7 @@
                 "instalmentId": "0c4jbkpe-b064-4f60-9f27-72hchk8cdrry",
                 "paidDate": "2007-02-01",
                 "currency": "BRL",
-                "paidAmount": 13348.3333,
+                "paidAmount": 14579.7000,
                 "overParcel": {
                     "fees": [
                         {
@@ -171,7 +171,7 @@
                         {
                             "chargeType": "NA",
                             "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0
+                            "chargeAmount": 0.0000
                         }
                     ]
                 }
