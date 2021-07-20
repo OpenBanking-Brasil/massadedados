@@ -45,7 +45,7 @@
                 "feeChargeType": "UNICA",
                 "feeCharge": "MINIMO",
                 "feeAmount": 15.0000,
-                "feeRate": 0.000
+                "feeRate": 0.0000
             }
         ],
         "contractedFinanceCharges": [
