@@ -17,7 +17,7 @@
         "self": "https://api.baninter.com/open-banking/loans/v1/contracts/okangw8q-m4ma-tb08-rcem-tftbc8j4pk8j/warranties"
     },
     "meta": {
-        "totalRecords": 1,
+        "totalRecords": 2,
         "totalPages": 1,
         "requestDateTime": "2021-12-10T00:00:00Z"
     }
