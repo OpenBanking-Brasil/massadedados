@@ -1,7 +1,7 @@
 {
   "data": {
-    "name": "Black Elo",
-    "productType": "BLACK",
+    "name": "Nanquim Elo",
+    "productType": "NANQUIM",
     "creditCardNetwork": "ELO",
     "paymentMethod": {
       "identificationNumber": "5489",

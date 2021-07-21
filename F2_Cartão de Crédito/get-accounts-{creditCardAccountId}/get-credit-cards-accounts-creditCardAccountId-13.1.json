@@ -1,9 +1,9 @@
 {
   "data": {
-    "name": "Dinners Club Grafite",
-    "productType": "GRAFITE",
+    "name": "Diners Club Empresarial",
+    "productType": "EMPRESARIAL",
     "productAdditionalInfo": "NA",
-    "creditCardNetwork": "DINNERS_CLUB",
+    "creditCardNetwork": "DINERS_CLUB",
     "networkAdditionalInfo": "NA",
     "paymentMethod": {
       "identificationNumber": "1250",
