@@ -15,9 +15,7 @@
             "CREDIT_CARDS_ACCOUNTS_LIMITS_READ",
             "CREDIT_CARDS_ACCOUNTS_TRANSACTIONS_READ"
         ],
-        "expirationDateTime": "2022-05-19T10:00:00Z",
-        "transactionFromDateTime": "2021-11-19T00:00:00Z",
-        "transactionToDateTime": "2022-05-19T10:00:00Z"
+        "expirationDateTime": "2022-05-19T10:00:00Z"
     },
     "links": {
         "self": "https://api.itau/open-banking/consents/v1/consents/urn:itau:ITU984616618"

@@ -10,9 +10,7 @@
             "ACCOUNTS_BALANCES_READ",
             "ACCOUNTS_OVERDRAFT_LIMITS_READ"
         ],
-        "expirationDateTime": "2021-10-10T00:00:00Z",
-        "transactionFromDateTime": "2021-04-01T00:00:00Z",
-        "transactionToDateTime": "2021-10-01T00:00:00Z"
+        "expirationDateTime": "2021-10-10T00:00:00Z"
     },
     "links": {
         "self": "https://api.itau/open-banking/consents/v1/consents/urn:itau:ITU200147892"

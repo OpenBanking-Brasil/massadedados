@@ -12,11 +12,9 @@
             "LOANS_READ",
             "LOANS_SCHEDULED_INSTALMENTS_READ",
             "LOANS_PAYMENTS_READ",
-            "LOANS_WARRANTIES_READ"  
+            "LOANS_WARRANTIES_READ"
         ],
-        "expirationDateTime": "2022-04-16T15:00:00Z",
-        "transactionFromDateTime": "2021-10-16T00:00:00Z",
-        "transactionToDateTime": "2022-04-16T15:00:00Z"
+        "expirationDateTime": "2022-04-16T15:00:00Z"
     },
     "links": {
         "self": "https://api.caixa.gov.br/open-banking/consents/v1/consents/urn:caixa:CEF918246490"
@@ -24,6 +22,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-11-15T09:46:00Z"
+        "requestDateTime": "2021-07-12T15:00:00Z"
     }
 }

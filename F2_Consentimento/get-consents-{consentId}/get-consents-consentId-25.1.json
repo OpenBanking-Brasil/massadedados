@@ -5,14 +5,12 @@
         "status": "AUTHORISED",
         "statusUpdateDateTime": "2021-07-02T10:45:00Z",
         "permissions": [
-			"LOANS_READ", 
-			"LOANS_SCHEDULED_INSTALMENTS_READ",
-			"LOANS_PAYMENTS_READ", 
-			"LOANS_WARRANTIES_READ"
+            "LOANS_READ",
+            "LOANS_SCHEDULED_INSTALMENTS_READ",
+            "LOANS_PAYMENTS_READ",
+            "LOANS_WARRANTIES_READ"
         ],
-        "expirationDateTime": "2022-08-01T10:00:00Z",
-        "transactionFromDateTime": "2021-08-01T10:00:00Z",
-        "transactionToDateTime": "2022-08-01T10:00:00Z"
+        "expirationDateTime": "2022-08-01T10:00:00Z"
     },
     "links": {
         "self": "https://opendata.api.bb.com.br/open-banking/consents/v1/consents/urn:bb:BB84595719"

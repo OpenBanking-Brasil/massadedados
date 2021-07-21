@@ -19,9 +19,7 @@
       "FINANCINGS_PAYMENTS_READ",
       "FINANCINGS_WARRANTIES_READ"
     ],
-    "expirationDateTime": "2022-10-12T00:00:00Z",
-    "transactionFromDateTime": "2021-10-12T00:00:00Z",
-    "transactionToDateTime": "2022-04-12T00:00:00Z"
+    "expirationDateTime": "2022-10-12T00:00:00Z"
   },
   "links": {
     "self": "https://opendata.api.bb.com.br/open-banking/consents/v1/consents/urn:bb:BB96458695"

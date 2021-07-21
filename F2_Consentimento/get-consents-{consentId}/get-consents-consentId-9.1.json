@@ -9,12 +9,10 @@
             "FINANCINGS_SCHEDULED_INSTALMENTS_READ",
             "FINANCINGS_PAYMENTS_READ",
             "FINANCINGS_WARRANTIES_READ",
-			"CUSTOMERS_PERSONAL_IDENTIFICATIONS_READ",
+            "CUSTOMERS_PERSONAL_IDENTIFICATIONS_READ",
             "CUSTOMERS_PERSONAL_ADITTIONALINFO_READ"
         ],
-        "expirationDateTime": "2021-08-01T23:59:59Z",
-        "transactionFromDateTime": "2021-02-01T00:00:00Z",
-        "transactionToDateTime": "2021-08-01T23:59:59Z"
+        "expirationDateTime": "2021-08-01T23:59:59Z"
     },
     "links": {
         "self": "https://api.itau/open-banking/consents/v1/consents/urn:itau:ITU112336558"
@@ -22,6 +20,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-06-15T09:50:00Z"
+        "requestDateTime": "2021-07-13T23:59:59Z"
     }
 }
