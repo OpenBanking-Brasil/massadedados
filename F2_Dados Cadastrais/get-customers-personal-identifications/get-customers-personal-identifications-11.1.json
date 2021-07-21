@@ -8,7 +8,7 @@
       "socialName": "NA",
       "birthDate": "1994-04-08",
       "maritalStatusCode": "SOLTEIRO",
-      "sex": "FEMININO",
+      "sex": "NAO_DISPONIVEL",
       "companyCnpj": [
         "00416968000101"
       ],
@@ -29,7 +29,6 @@
           "expirationDate": "2023-03-28"	
         }
       ],
-      "hasBrazilianNationality": true,
       "nationality": [
         {
           "otherNationalitiesInfo": "",
