@@ -15,7 +15,7 @@
                                     "identification": {
                                         "corporationName": "Correspondente Alto Paraíso",
                                         "groupName": "Alto Paraíso",
-                                        "cnpjNumber": "11265372000166",
+                                        "cnpjNumber": "00000000440167",
                                         "isUnderestablishment": true
                                     },
                                     "locations": [
@@ -97,14 +97,14 @@
                                     "identification": {
                                         "corporationName": "Correspondente Maringá",
                                         "groupName": "Maringá",
-                                        "cnpjNumber": "64484714000103",
+                                        "cnpjNumber": "00000000397210",
                                         "isUnderestablishment": true
                                     },
                                     "locations": [
                                         {
                                             "postalAddress": {
                                                 "address": "Av. Pedro Taques, 434",
-                                                "districtName": "Zona 7",
+                                                "districtName": "Zona 07",
                                                 "townName": "Maringá",
                                                 "countrySubDivision": "PR",
                                                 "postCode": "87030000",

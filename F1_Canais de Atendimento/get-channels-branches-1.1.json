@@ -1,0 +1,97 @@
+{
+    "data": {
+        "brand": {
+            "name": "Banco do Brasil S.A",
+            "companies": [
+                {
+                    "name": "Agencia Alto do Paraisa do Banco do Brasil",
+                    "cnpjNumber": "00000000440167",
+                    "urlComplementaryList": "https://www36.bb.com.br/encontreobb/s001t026p001,500830,500831,1,1,1,1.bb#/",
+                    "branches": [
+                        {
+                            "identification": {
+                                "type": "AGENCIA",
+                                "code": "3997",
+                                "checkDigit": "0",
+                                "name": "Filial",
+                                "relatedBranch": "0001",
+                                "openingDate": "1998-08-20"
+                            },
+                            "postalAddress": {
+                                "address": "Rua Mario Luiz Barbosa",
+                                "districtName": "Centro",
+                                "townName": "Alto Paraíso",
+                                "countrySubDivision": "RO",
+                                "postCode": "76862000",
+                                "country": "Brasil",
+                                "countryCode": "BRA"
+                            },
+                            "availability": {
+                                "standards": [
+                                    {
+                                        "weekday": "SEGUNDA_FEIRA",
+                                        "openingTime": "08:00:00Z",
+                                        "closingTime": "13:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "TERCA_FEIRA",
+                                        "openingTime": "08:00:00Z",
+                                        "closingTime": "13:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "QUARTA_FEIRA",
+                                        "openingTime": "08:00:00Z",
+                                        "closingTime": "13:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "QUINTA_FEIRA",
+                                        "openingTime": "08:00:00Z",
+                                        "closingTime": "13:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "SEXTA_FEIRA",
+                                        "openingTime": "08:00:00Z",
+                                        "closingTime": "13:00:00Z"
+                                    }
+                                ]
+                            },
+                            "phones": [
+                                {
+                                    "type": "FIXO",
+                                    "countryCallingCode": "55",
+                                    "areaCode": "69",
+                                    "number": "35343175"
+                                }
+                            ],
+                            "services": [
+                                {
+                                    "name": "RECEPCAO_ENCAMINHAMENTO_PROPOSTAS_ABERTURA_CONTAS_DEPOSITOS_VISTA_PRAZO_POUPANCA_MANTIDOS_INSTITUICAO_CONTRATANTE",
+                                    "code": "RECEBE_ENCAMINHA_PROPOSTAS_ABERTURA_CONTAS"
+                                },
+                                {
+                                    "name": "REALIZACAO_RECEBIMENTOS_PAGAMENTOS_TRANSFERENCIAS_ELETRONICAS_VISANDO_MOVIMENTACAO_CONTAS_DEPOSITOS_TITULARIDADE_CLIENTES_MANTIDAS_INSTITUICAO_CONTRATANTE",
+                                    "code": "REALIZA_RECEBIMENTOS_PAGAMENTOS_TRANSFERENCIAS_ELETRONICAS"
+                                },
+                                {
+                                    "name": "RECEPCAO_ENCAMINHAMENTO_PROPOSTAS_FORNECIMENTO_CARTAO_CREDITO_RESPONSABILIDADE_INSTITUICAO_CONTRATANTE",
+                                    "code": "RECEBE_ENCAMINHA_PROPOSTAS_FORNECIMENTO_CARTAO_CREDITO"
+                                },
+                                {
+                                    "name": "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_CURSADAS_INTERMEDIO_INSTITUICAO_CONTRATANTE_SOLICITACAO_CLIENTES_USUARIOS",
+                                    "code": "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "links": {
+        "self": "https://api.baninter.com/open-banking/channels/v1/branches"
+    },
+    "meta": {
+        "totalRecords": 2,
+        "totalPages": 1
+    }
+}
