@@ -8,7 +8,8 @@
             "ACCOUNTS_READ",
             "ACCOUNTS_TRANSACTIONS_READ",
             "ACCOUNTS_BALANCES_READ",
-            "ACCOUNTS_OVERDRAFT_LIMITS_READ"
+            "ACCOUNTS_OVERDRAFT_LIMITS_READ",
+            "RESOURCES_READ"
         ],
         "expirationDateTime": "2021-10-10T00:00:00Z"
     },

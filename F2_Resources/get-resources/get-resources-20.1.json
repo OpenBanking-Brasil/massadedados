@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "resourceId": "e7b8af3a-3d7e-351c-a83a-07254a8b838a",
+            "type": "ACCOUNT",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "NA",
+            "type": "CREDIT_CARD_ACCOUNT",
+            "status": "UNAVAILABLE"
+        },
+        {
+            "resourceId": "fd55f0e2-6680-3806-bafb-9f900066f554",
+            "type": "LOAN",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "NA",
+            "type": "FINANCING",
+            "status": "UNAVAILABLE"
+        },
+        {
+            "resourceId": "NA",
+            "type": "UNARRANGED_ACCOUNT_OVERDRAFT",
+            "status": "UNAVAILABLE"
+        },
+        {
+            "resourceId": "NA",
+            "type": "INVOICE_FINANCING",
+            "status": "UNAVAILABLE"
+        }
+    ],
+    "links": {
+        "self": "https://super.api.santander.com.br/open-banking/resources/v1/resources"
+    },
+    "meta": {
+        "totalRecords": 6,
+        "totalPages": 1,
+        "requestDateTime": "2021-09-12T15:24:00Z"
+    }
+}

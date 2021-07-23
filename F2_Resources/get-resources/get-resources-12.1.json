@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "resourceId": "NA",
+            "type": "ACCOUNT",
+            "status": "UNAVAILABLE"
+        },
+        {
+            "resourceId": "cd2948d7-36c0-3b82-b643-ebbc43ea996c",
+            "type": "CREDIT_CARD_ACCOUNT",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "cb22d29a-f2e8-3e0f-af2c-866021ba0882",
+            "type": "LOAN",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "1f99c1d8-c4dd-3cce-b375-70a0d1d4a1db",
+            "type": "FINANCING",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "NA",
+            "type": "UNARRANGED_ACCOUNT_OVERDRAFT",
+            "status": "UNAVAILABLE"
+        },
+        {
+            "resourceId": "NA",
+            "type": "INVOICE_FINANCING",
+            "status": "UNAVAILABLE"
+        }
+    ],
+    "links": {
+        "self": "https://api.caixa.gov.br/open-banking/resources/v1/resources"
+    },
+    "meta": {
+        "totalRecords": 6,
+        "totalPages": 1,
+        "requestDateTime": "2021-06-15T09:56:00Z"
+    }
+}

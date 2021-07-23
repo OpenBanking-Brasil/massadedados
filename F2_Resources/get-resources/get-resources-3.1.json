@@ -35,7 +35,7 @@
         "self": "https://api.sicredi.com.br/open-banking/resources/v1/resources"
     },
     "meta": {
-        "totalRecords": 1,
+        "totalRecords": 6,
         "totalPages": 1,
         "requestDateTime": "2021-05-28T11:40:00Z"
     }

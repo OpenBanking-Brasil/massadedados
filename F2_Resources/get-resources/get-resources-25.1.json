@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "resourceId": "NA",
+            "type": "ACCOUNT",
+            "status": "UNAVAILABLE"
+        },
+        {
+            "resourceId": "NA",
+            "type": "CREDIT_CARD_ACCOUNT",
+            "status": "UNAVAILABLE"
+        },
+        {
+            "resourceId": "ae1432c5-48a2-312d-9a72-e6b09e00cb07",
+            "type": "LOAN",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "NA",
+            "type": "FINANCING",
+            "status": "UNAVAILABLE"
+        },
+        {
+            "resourceId": "NA",
+            "type": "UNARRANGED_ACCOUNT_OVERDRAFT",
+            "status": "UNAVAILABLE"
+        },
+        {
+            "resourceId": "NA",
+            "type": "INVOICE_FINANCING",
+            "status": "UNAVAILABLE"
+        }
+    ],
+    "links": {
+        "self": "https://opendata.api.bb.com.br/open-banking/resources/v1/resources"
+    },
+    "meta": {
+        "totalRecords": 6,
+        "totalPages": 1,
+        "requestDateTime": "2021-10-28T11:04:00Z"
+    }
+}
