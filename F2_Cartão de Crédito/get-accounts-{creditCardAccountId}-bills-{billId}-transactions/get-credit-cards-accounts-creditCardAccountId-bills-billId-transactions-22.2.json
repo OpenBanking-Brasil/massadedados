@@ -189,7 +189,7 @@
         "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/27daf004-7a54-43e6-acef-3180d26c025d/bills/63627e5f-4376-4fce-a094-458ed002c820/transactions"
     },
     "meta": {
-        "totalRecords": 7,
+        "totalRecords": 8,
         "totalPages": 1,
         "requestDateTime": "2021-05-30T15:11:21Z"
     }

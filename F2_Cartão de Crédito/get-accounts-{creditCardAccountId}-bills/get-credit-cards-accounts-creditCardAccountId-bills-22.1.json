@@ -36,7 +36,7 @@
             "isInstalment": true,
             "financeCharges": [
                 {
-                    "type": "JUROS_REMUNERATORIOS_ATRASO_PAGAMENTO_FATURA",
+                    "type": "SEM_ENCARGO",
                     "additionalInfo": "NA",
                     "amount": 0.0000,
                     "currency": "BRL"
