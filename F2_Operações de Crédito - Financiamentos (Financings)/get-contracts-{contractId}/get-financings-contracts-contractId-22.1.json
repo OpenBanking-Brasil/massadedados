@@ -1,43 +1,43 @@
 {
   "data": {
     "contractNumber": "92525769252",
-    "ipocCode": "60701190000128544392651740044492525769252",
+    "ipocCode": "60701190080228544392618610000658897741002",
     "productName": "INVESTIMENTO",
     "productType": "FINANCIAMENTOS",
     "productSubType": "INVESTIMENTO",
     "contractDate": "2021-01-10",
     "disbursementDate": "2021-01-15",
     "settlementDate": "NA",
-    "contractAmount": 110000.00,
+    "contractAmount": 110000.0000,
     "currency": "BRL",
     "dueDate": "2028-01-15",
     "instalmentPeriodicity": "MENSAL",
     "instalmentPeriodicityAdditionalInfo": "NA",
     "firstInstalmentDueDate": "2021-02-15",
-    "CET": 0.156100,
+    "CET": 0.0099,
     "amortizationScheduled": "SAC",
     "amortizationScheduledAdditionalInfo": "NA",
     "interestRates": [
       {
         "taxType": "EFETIVA",
         "interestRateType": "COMPOSTO",
-        "taxPeriodicity": "AA",
+        "taxPeriodicity": "AM",
         "calculation": "21/252",
         "referentialRateIndexerType": "PRE_FIXADO",
         "referentialRateIndexerSubType": "PRE_FIXADO",
         "referentialRateIndexerAdditionalInfo": "NA",
-        "preFixedRate": 0.6,
-        "postFixedRate": 0.55,
+        "preFixedRate": 0.0099,
+        "postFixedRate": 0.0000,
         "additionalInfo": "NA"
       }
     ],
     "contractedFees": [
       {
-        "feeName": "Adiantamento",
-        "feeCode": "Adiantamento",
+        "feeName": "Taxa de Adesao",
+        "feeCode": "ADESAO",
         "feeChargeType": "UNICA",
-        "feeCharge": "PERCENTUAL ",
-        "feeAmount": 13186.24,
+        "feeCharge": "PERCENTUAL",
+        "feeAmount": 0.0000,
         "feeRate": 0.1567
       }
     ],

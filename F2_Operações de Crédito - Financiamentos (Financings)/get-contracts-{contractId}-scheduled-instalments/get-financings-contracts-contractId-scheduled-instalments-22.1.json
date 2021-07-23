@@ -1,12 +1,12 @@
 {
   "data": {
     "typeNumberOfInstalments": "MES",
-    "totalNumberOfInstalments": 18,
-    "typeContractRemaining": "MES ",
-    "contractRemainingNumber": 14,
+    "totalNumberOfInstalments": 84,
+    "typeContractRemaining": "MES",
+    "contractRemainingNumber": 80,
     "paidInstalments": 4,
-    "dueInstalments": 14,
-    "pastDueInstalments": 4,
+    "dueInstalments": 80,
+    "pastDueInstalments": 0,
     "balloonPayments": [
       {
         "dueDate": "NA",

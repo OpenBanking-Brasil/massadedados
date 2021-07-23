@@ -6,7 +6,7 @@
       "companyCnpj": "60701190000104",
       "productType": "FINANCIAMENTOS",
       "productSubType": "INVESTIMENTO",
-      "ipocCode": "60701190000128544392651740044492525769252"
+      "ipocCode": "60701190080228544392618610000658897741002"
     }
   ],
   "links": {
@@ -17,4 +17,4 @@
     "totalPages": 1,
     "requestDateTime": "2021-06-21T08:30:00Z"
   }
-}
+} 

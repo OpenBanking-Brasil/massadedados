@@ -176,7 +176,6 @@
             "partieNumber": "125",
             "partieCheckDigit": "4"
         },
-		,
 		{
             "transactionId": "a86cfb31-9dc5-4ebc-b5c1-70f29873a24b",
             "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",

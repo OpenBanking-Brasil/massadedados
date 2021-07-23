@@ -1,7 +1,7 @@
 {
     "data": {
         "paidInstalments": 4,
-        "contractOutstandingBalance": 95811.5200,
+        "contractOutstandingBalance": 154779.2000,
         "releases": [
             {
                 "paymentId": "7851daf7-285a-40e3-814a-4ad5bf5df140",
@@ -9,7 +9,7 @@
                 "instalmentId": "d6b727f8-4f6b-477c-936e-96baab2df876",
                 "paidDate": "2021-05-10",
                 "currency": "BRL",
-                "paidAmount": 6843.68,
+                "paidAmount": 1934.7400,
                 "overParcel": {
                     "fees": [
                         {
@@ -33,7 +33,7 @@
                 "instalmentId": "214b6317-33ed-42b5-99a5-c1a7899b9361",
                 "paidDate": "2021-04-10",
                 "currency": "BRL",
-                "paidAmount": 6843.68,
+                "paidAmount": 1934.7400,
                 "overParcel": {
                     "fees": [
                         {
@@ -57,7 +57,7 @@
                 "instalmentId": "1b1045a1-adf2-4ae5-97b0-1c2bf8f305b5",
                 "paidDate": "2021-03-10",
                 "currency": "BRL",
-                "paidAmount": 6843.68,
+                "paidAmount": 1934.7400,
                 "overParcel": {
                     "fees": [
                         {
@@ -81,13 +81,13 @@
                 "instalmentId": "524ed787-f7b6-42b4-8685-b7de809f8bc8",
                 "paidDate": "2021-02-10",
                 "currency": "BRL",
-                "paidAmount": 6843.68,
+                "paidAmount": 2237.9138,
                 "overParcel": {
                     "fees": [
                         {
-                            "feeName": "taxa_fixa",
-                            "feeCode": "taxa_fixa",
-                            "feeAmount": 732.5688
+                            "feeName": "Taxa de Adesao",
+                            "feeCode": "ADESAO",
+                            "feeAmount": 303.1738
                         }
                     ],
                     "charges": [
@@ -105,7 +105,7 @@
         "self": "https://api.itau/open-banking/financings/v1/contracts/8a90b69e-327a-467e-95f2-970b68e40f34/payments"
     },
     "meta": {
-        "totalRecords": 1,
+        "totalRecords": 4,
         "totalPages": 1,
         "requestDateTime": "2021-05-26T19:35:01Z"
     }
