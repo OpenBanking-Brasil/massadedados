@@ -1,0 +1,186 @@
+{
+    "data": {
+        "brand": {
+            "name": "Banco do Brasil S.A",
+            "companies": [
+                {
+                    "name": "Banco do Brasil S.A",
+                    "cnpjNumber": "00000000000191",
+                    "contractors": [
+                        {
+                            "name": "Banco do Brasil Rondonia",
+                            "cnpjNumber": "92860611000128",
+                            "bankingAgents": [
+                                {
+                                    "identification": {
+                                        "corporationName": "Correspondente Alto Paraíso",
+                                        "groupName": "Alto Paraíso",
+                                        "cnpjNumber": "11265372000166",
+                                        "isUnderestablishment": true
+                                    },
+                                    "locations": [
+                                        {
+                                            "postalAddress": {
+                                                "address": "Rua Mario Luiz Barbosa",
+                                                "districtName": "Centro",
+                                                "townName": "Alto Paraíso",
+                                                "countrySubDivision": "RO",
+                                                "postCode": "76862000",
+                                                "country": "Brasil",
+                                                "countryCode": "BRA"
+                                            },
+                                            "phones": [
+                                                {
+                                                    "type": "FIXO",
+                                                    "countryCallingCode": "55",
+                                                    "areaCode": "69",
+                                                    "number": "35343175"
+                                                }
+                                            ],
+                                            "availability": {
+                                                "standards": [
+                                                    {
+                                                        "weekday": "SEGUNDA_FEIRA",
+                                                        "openingTime": "08:00:00Z",
+                                                        "closingTime": "13:00:00Z"
+                                                    },
+                                                    {
+                                                        "weekday": "TERCA_FEIRA",
+                                                        "openingTime": "08:00:00Z",
+                                                        "closingTime": "13:00:00Z"
+                                                    },
+                                                    {
+                                                        "weekday": "QUARTA_FEIRA",
+                                                        "openingTime": "08:00:00Z",
+                                                        "closingTime": "13:00:00Z"
+                                                    },
+                                                    {
+                                                        "weekday": "QUINTA_FEIRA",
+                                                        "openingTime": "08:00:00Z",
+                                                        "closingTime": "13:00:00Z"
+                                                    },
+                                                    {
+                                                        "weekday": "SEXTA_FEIRA",
+                                                        "openingTime": "08:00:00Z",
+                                                        "closingTime": "13:00:00Z"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    ],
+                                    "services": [
+                                        {
+                                            "name": "RECEPCAO_ENCAMINHAMENTO_PROPOSTAS_ABERTURA_CONTAS_DEPOSITOS_VISTA_PRAZO_POUPANCA_MANTIDOS_INSTITUICAO_CONTRATANTE",
+                                            "code": "RECEBE_ENCAMINHA_PROPOSTAS_ABERTURA_CONTAS"
+                                        },
+                                        {
+                                            "name": "REALIZACAO_RECEBIMENTOS_PAGAMENTOS_TRANSFERENCIAS_ELETRONICAS_VISANDO_MOVIMENTACAO_CONTAS_DEPOSITOS_TITULARIDADE_CLIENTES_MANTIDAS_INSTITUICAO_CONTRATANTE",
+                                            "code": "REALIZA_RECEBIMENTOS_PAGAMENTOS_TRANSFERENCIAS_ELETRONICAS"
+                                        },
+                                        {
+                                            "name": "RECEPCAO_ENCAMINHAMENTO_PROPOSTAS_FORNECIMENTO_CARTAO_CREDITO_RESPONSABILIDADE_INSTITUICAO_CONTRATANTE",
+                                            "code": "RECEBE_ENCAMINHA_PROPOSTAS_FORNECIMENTO_CARTAO_CREDITO"
+                                        },
+                                        {
+                                            "name": "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_CURSADAS_INTERMEDIO_INSTITUICAO_CONTRATANTE_SOLICITACAO_CLIENTES_USUARIOS",
+                                            "code": "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Banco do Brasil Paraná",
+                            "cnpjNumber": "45128331000140",
+                            "bankingAgents": [ 
+                                {
+                                    "identification": {
+                                        "corporationName": "Correspondente Maringá",
+                                        "groupName": "Maringá",
+                                        "cnpjNumber": "64484714000103",
+                                        "isUnderestablishment": true
+                                    },
+                                    "locations": [
+                                        {
+                                            "postalAddress": {
+                                                "address": "Av. Pedro Taques, 434",
+                                                "districtName": "Zona 7",
+                                                "townName": "Maringá",
+                                                "countrySubDivision": "PR",
+                                                "postCode": "87030000",
+                                                "country": "Brasil",
+                                                "countryCode": "BRA"
+                                            },
+                                            "phones": [
+                                                {
+                                                    "type": "FIXO",
+                                                    "countryCallingCode": "55",
+                                                    "areaCode": "44",
+                                                    "number": "40033001"
+                                                }
+                                            ],
+                                            "availability": {
+                                                "standards": [
+                                                    {
+                                                        "weekday": "SEGUNDA_FEIRA",
+                                                        "openingTime": "10:00:00Z",
+                                                        "closingTime": "14:00:00Z"
+                                                    },
+                                                    {
+                                                        "weekday": "TERCA_FEIRA",
+                                                        "openingTime": "10:00:00Z",
+                                                        "closingTime": "14:00:00Z"
+                                                    },
+                                                    {
+                                                        "weekday": "QUARTA_FEIRA",
+                                                        "openingTime": "10:00:00Z",
+                                                        "closingTime": "14:00:00Z"
+                                                    },
+                                                    {
+                                                        "weekday": "QUINTA_FEIRA",
+                                                        "openingTime": "10:00:00Z",
+                                                        "closingTime": "14:00:00Z"
+                                                    },
+                                                    {
+                                                        "weekday": "SEXTA_FEIRA",
+                                                        "openingTime": "10:00:00Z",
+                                                        "closingTime": "14:00:00Z"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    ],
+                                    "services": [
+                                        {
+                                            "name": "RECEPCAO_ENCAMINHAMENTO_PROPOSTAS_ABERTURA_CONTAS_DEPOSITOS_VISTA_PRAZO_POUPANCA_MANTIDOS_INSTITUICAO_CONTRATANTE",
+                                            "code": "RECEBE_ENCAMINHA_PROPOSTAS_ABERTURA_CONTAS"
+                                        },
+                                        {
+                                            "name": "REALIZACAO_RECEBIMENTOS_PAGAMENTOS_TRANSFERENCIAS_ELETRONICAS_VISANDO_MOVIMENTACAO_CONTAS_DEPOSITOS_TITULARIDADE_CLIENTES_MANTIDAS_INSTITUICAO_CONTRATANTE",
+                                            "code": "REALIZA_RECEBIMENTOS_PAGAMENTOS_TRANSFERENCIAS_ELETRONICAS"
+                                        },
+                                        {
+                                            "name": "RECEPCAO_ENCAMINHAMENTO_PROPOSTAS_FORNECIMENTO_CARTAO_CREDITO_RESPONSABILIDADE_INSTITUICAO_CONTRATANTE",
+                                            "code": "RECEBE_ENCAMINHA_PROPOSTAS_FORNECIMENTO_CARTAO_CREDITO"
+                                        },
+                                        {
+                                            "name": "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_CURSADAS_INTERMEDIO_INSTITUICAO_CONTRATANTE_SOLICITACAO_CLIENTES_USUARIOS",
+                                            "code": "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "links": {
+            "self": "https://api.baninter.com/open-banking/channels/v1/banking-agents"
+        },
+        "meta": {
+            "totalRecords": 2,
+            "totalPages": 1
+        }
+    }
+}
