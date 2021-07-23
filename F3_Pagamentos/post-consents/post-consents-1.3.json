@@ -1,0 +1,40 @@
+{
+    "data": {
+      "consentId": "urn:bradesco:BDC764377432",
+      "creationDateTime": "2021-07-13T12:46:00Z",
+      "expirationDateTime": "2021-07-13T13:51:00Z",
+      "statusUpdateDateTime": "2021-07-13T13:51:00Z",
+      "status": "AUTHORISED",
+      "loggedUser": {
+        "document": {
+          "identification": "26640064367",
+          "rel": "CPF"
+        }
+      },
+      "creditor": {
+        "personType": "PESSOA_NATURAL",
+        "cpfCnpj": "35622091004",
+        "name": "Brenda Daiane Mendes"
+      },
+      "payment": {
+        "type": "PIX",
+        "date": "2021-07-16",
+        "currency": "BRL",
+        "amount": "99.50"
+      },
+      "debtorAccount": {
+        "ispb": "60701190",
+        "issuer": "5496",
+        "number": "755777",
+        "accountType": "SVGS"
+      }
+    },
+    "links": {
+      "self": "https://banco.bradesco/open-banking/payments/v1/consents/urn:bradesco:BDC764377432"
+    },
+    "meta": {
+      "totalRecords": 1,
+      "totalPages": 1,
+      "requestDateTime": "2021-07-13T13:51:00Z"
+    }
+  }
