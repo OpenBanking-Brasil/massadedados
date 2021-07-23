@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "contractId": "8a90b69e-327a-467e-95f2-970b68e40f34",
+      "brandName": "Banco Itaú Unibanco S.A.",
+      "companyCnpj": "60701190000104",
+      "productType": "FINANCIAMENTOS",
+      "productSubType": "INVESTIMENTO",
+      "ipocCode": "60701190080228544392618610000658897741002"
+    }
+  ],
+  "links": {
+    "self": "https://api.itau/open-banking/financings/v1/contracts"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-06-21T08:30:00Z"
+  }
+} 

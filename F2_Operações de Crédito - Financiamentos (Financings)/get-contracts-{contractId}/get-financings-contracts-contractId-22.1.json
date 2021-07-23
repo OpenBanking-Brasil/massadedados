@@ -1,0 +1,60 @@
+{
+  "data": {
+    "contractNumber": "92525769252",
+    "ipocCode": "60701190080228544392618610000658897741002",
+    "productName": "INVESTIMENTO",
+    "productType": "FINANCIAMENTOS",
+    "productSubType": "INVESTIMENTO",
+    "contractDate": "2021-01-10",
+    "disbursementDate": "2021-01-15",
+    "settlementDate": "NA",
+    "contractAmount": 110000.0000,
+    "currency": "BRL",
+    "dueDate": "2028-01-15",
+    "instalmentPeriodicity": "MENSAL",
+    "instalmentPeriodicityAdditionalInfo": "NA",
+    "firstInstalmentDueDate": "2021-02-15",
+    "CET": 0.0099,
+    "amortizationScheduled": "SAC",
+    "amortizationScheduledAdditionalInfo": "NA",
+    "interestRates": [
+      {
+        "taxType": "EFETIVA",
+        "interestRateType": "COMPOSTO",
+        "taxPeriodicity": "AM",
+        "calculation": "21/252",
+        "referentialRateIndexerType": "PRE_FIXADO",
+        "referentialRateIndexerSubType": "PRE_FIXADO",
+        "referentialRateIndexerAdditionalInfo": "NA",
+        "preFixedRate": 0.0099,
+        "postFixedRate": 0.0000,
+        "additionalInfo": "NA"
+      }
+    ],
+    "contractedFees": [
+      {
+        "feeName": "Taxa de Adesao",
+        "feeCode": "ADESAO",
+        "feeChargeType": "UNICA",
+        "feeCharge": "PERCENTUAL",
+        "feeAmount": 0.0000,
+        "feeRate": 0.1567
+      }
+    ],
+    "contractedFinanceCharges": [
+      {
+        "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
+        "chargeAdditionalInfo": "NA",
+        "chargeRate": 0.0100
+      }
+    ]
+  },
+  "links": {
+    "self": "https://api.itau/open-banking/financings/v1/contracts/8a90b69e-327a-467e-95f2-970b68e40f34"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-05-21T08:30:00Z"
+  }
+}
