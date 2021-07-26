@@ -1,0 +1,159 @@
+{
+    "data": {
+        "brand": {
+            "name": "Banco Inter S.A.",
+            "companies": [
+                {
+                    "name": "Banco Inter S.A.",
+                    "cnpjNumber": "00416968000101",
+                    "sharedAutomatedTellerMachines": [
+                        {
+                            "identification": {
+                                "ownerName": "Drogaria Mais Popular - Taquaralto"
+                            },
+                            "postalAddress": {
+                                "address": "Av. Tocantins S/N",
+                                "districtName": "Taquaralto",
+                                "townName": "Palmas",
+                                "ibgeCode": "1721000",
+                                "countrySubDivision": "TO",
+                                "postCode": "77064580",
+                                "country": "Brasil",
+                                "countryCode": "BRA",
+                                "geographicCoordinates": {
+                                    "latitude": "-10.3329",
+                                    "longitude": "-48.2971"
+                                }
+                            },
+                            "availability": {
+                                "standards": [
+                                    {
+                                        "weekday": "SEGUNDA_FEIRA",
+                                        "openingTime": "07:00:00Z",
+                                        "closingTime": "22:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "TERCA_FEIRA",
+                                        "openingTime": "07:00:00Z",
+                                        "closingTime": "22:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "QUARTA_FEIRA",
+                                        "openingTime": "07:00:00Z",
+                                        "closingTime": "22:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "QUINTA_FEIRA",
+                                        "openingTime": "07:00:00Z",
+                                        "closingTime": "22:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "SEXTA_FEIRA",
+                                        "openingTime": "07:00:00Z",
+                                        "closingTime": "22:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "SABADO",
+                                        "openingTime": "07:00:00Z",
+                                        "closingTime": "22:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "DOMINGO",
+                                        "openingTime": "07:00:00Z",
+                                        "closingTime": "12:00:00Z"
+                                    }
+                                ],
+                                "exception": "NA",
+                                "isPublicAccessAllowed": true
+                            },
+                            "services": [
+                                {
+                                    "name": "SAQUE_MOEDA_EM_ESPECIE",
+                                    "code": "SAQUE_MOEDA_EM_ESPECIE"
+                                }
+                            ]
+                        },
+                        {
+                            "identification": {
+                                "ownerName": "Villa Nova Shopping"
+                            },
+                            "postalAddress": {
+                                "address": "Av. Pres. Vargas, 341",
+                                "additionalInfo": "NA",
+                                "districtName": "Central",
+                                "townName": "Macapa",
+                                "ibgeCode": "1600303",
+                                "countrySubDivision": "AP",
+                                "postCode": "68900070",
+                                "country": "Brasil",
+                                "countryCode": "BRA",
+                                "geographicCoordinates": {
+                                    "latitude": "0.0382",
+                                    "longitude": "-51.0527"
+                                }
+                            },
+                            "availability": {
+                                "standards": [
+                                    {
+                                        "weekday": "SEGUNDA_FEIRA",
+                                        "openingTime": "08:00:00Z",
+                                        "closingTime": "20:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "TERCA_FEIRA",
+                                        "openingTime": "08:00:00Z",
+                                        "closingTime": "20:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "QUARTA_FEIRA",
+                                        "openingTime": "08:00:00Z",
+                                        "closingTime": "20:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "QUINTA_FEIRA",
+                                        "openingTime": "08:00:00Z",
+                                        "closingTime": "20:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "SEXTA_FEIRA",
+                                        "openingTime": "08:00:00Z",
+                                        "closingTime": "20:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "SABADO",
+                                        "openingTime": "08:00:00Z",
+                                        "closingTime": "20:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "DOMINGO",
+                                        "openingTime": "08:00:00Z",
+                                        "closingTime": "20:00:00Z"
+                                    }
+                                ],
+                                "exception": "NA",
+                                "isPublicAccessAllowed": true
+                            },
+                            "services": [
+                                {
+                                    "name": "SAQUE_MOEDA_EM_ESPECIE",
+                                    "code": "SAQUE_MOEDA_EM_ESPECIE"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "links": {
+        "self": "https://api.baninter.com/open-banking/channels/v1/shared-automated-teller-machines?page=421&page-size=2",
+        "first": "https://api.baninter.com/open-banking/channels/v1/banking-agents?page=1&page-size=2",
+        "prev": "https://api.baninter.com/open-banking/channels/v1/banking-agents?page=420&page-size=2",
+        "next": "https://api.baninter.com/open-banking/channels/v1/banking-agents?page=422&page-size=2",
+        "last": "https://api.baninter.com/open-banking/channels/v1/banking-agents?page=9087&page-size=2"
+    },
+    "meta": {
+        "totalRecords": 18174,
+        "totalPages": 9087
+    }
+}

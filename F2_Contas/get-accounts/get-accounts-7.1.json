@@ -5,9 +5,9 @@
         "companyCnpj": "00416968000101",
         "type": "CONTA_POUPANCA",
         "compeCode": "77",
-        "branchCode": "8522",
+        "branchCode": "0001",
         "number": "25663125",
-        "checkDigit": "1",
+        "checkDigit": "9",
         "accountId": "92792126019929279212650822221989319252576"
       }
     ],

@@ -22,9 +22,9 @@
     "accounts": [
       {
           "compeCode": "077",
-          "branchCode": "8522",
+          "branchCode": "0001",
           "number": "25663125",
-          "checkDigit": "1",
+          "checkDigit": "9",
           "type": "CONTA_POUPANCA",
           "subtype": "INDIVIDUAL"
       }

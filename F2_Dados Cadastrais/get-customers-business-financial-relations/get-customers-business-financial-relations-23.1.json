@@ -32,23 +32,23 @@
     "accounts": [
       {
         "compeCode": "77",
-        "branchCode": "2645",
+        "branchCode": "0001",
         "number": "87870785",
-        "checkDigit": "5",
+        "checkDigit": "9",
         "type": "CONTA_DEPOSITO_A_VISTA"
       },
       {
         "compeCode": "77",
-        "branchCode": "2645",
+        "branchCode": "0001",
         "number": "87870785",
-        "checkDigit": "00",
+        "checkDigit": "9",
         "type": "CONTA_POUPANCA"
       },
       {
         "compeCode": "77",
-        "branchCode": "2647",
+        "branchCode": "0001",
         "number": "78877844",
-        "checkDigit": "4",
+        "checkDigit": "9",
         "type": "CONTA_SALARIO"
       }
     ]

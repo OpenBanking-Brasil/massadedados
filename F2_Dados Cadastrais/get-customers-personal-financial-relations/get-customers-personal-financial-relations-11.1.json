@@ -22,9 +22,9 @@
     "accounts": [
       {
         "compeCode": "77",
-        "branchCode": "5887",
+        "branchCode": "0001",
         "number": "58745896",
-        "checkDigit": "5",
+        "checkDigit": "9",
         "type": "CONTA_DEPOSITO_A_VISTA",
         "subtype": "INDIVIDUAL"
       }
