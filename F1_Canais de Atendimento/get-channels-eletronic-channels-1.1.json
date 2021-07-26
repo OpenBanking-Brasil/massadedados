@@ -149,7 +149,8 @@
                             "identification": {
                                 "type": "MOBILE_BANKING",
                                 "urls": [
-                                    "https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/contas/facilidades/autoatendimento-bb-pelo-celular#/"
+                                    "https://play.google.com/store/apps/details?id=br.com.bb.android&hl=en&gl=US",
+                                    "https://apps.apple.com/br/app/banco-do-brasil/id330984271"
                                 ]
                             },
                             "services": [
