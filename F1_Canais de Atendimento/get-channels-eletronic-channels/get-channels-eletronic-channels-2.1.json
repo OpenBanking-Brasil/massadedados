@@ -1,0 +1,175 @@
+{
+    "data": {
+        "brand": {
+            "name": "Banco do Estado do Rio Grande do Sul S.A",
+            "companies": [
+                {
+                    "name": "Banrifone",
+                    "cnpjNumber": "92702067000196",
+                    "urlComplementaryList": "https://www.banrisul.com.br/bob/link/bobw00hn_conteudo_detalhe2_lista.aspx?secao_id=2450",
+                    "electronicChannels": [
+                        {
+                            "identification": {
+                                "type": "MOBILE_BANKING",
+                                "urls": [
+                                    "https://play.google.com/store/apps/details?id=br.com.banrisul&hl=en&gl=US",
+                                    "https://apps.apple.com/br/app/banrisul-digital/id1177452393"
+                                ]
+                            },
+                            "services": [
+                                {
+                                    "name": "TRANSFERENCIAS_ELETRONICAS_VISANDO_MOVIMENTACAO_CONTAS_DEPOSITOS_OU_PAGAMENTO_TITULARIDADE_CLIENTES",
+                                    "code": "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES"
+                                },
+                                {
+                                    "name": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+                                    "code": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_PAGTOS"
+                                },
+                                {
+                                    "name": "CARTAO_CREDITO",
+                                    "code": "CARTAO_CREDITO"
+                                },
+                                {
+                                    "name": "INFORMACOES",
+                                    "code": "INFORMACOES"
+                                },
+                                {
+                                    "name": "RECLAMACOES",
+                                    "code": "RECLAMACOES"
+                                },
+                                {
+                                    "name": "CANCELAMENTO",
+                                    "code": "CANCELAMENTO"
+                                }
+                            ]
+                        },
+                        {
+                            "identification": {
+                                "type": "SAC",
+                                "urls": [
+                                    "https://www.banrisul.com.br/bob/link/seg/bobw00hn_sac_seg.aspx?secao_id=35"
+                                ]
+                            },
+                            "services": [
+                                {
+                                    "name": "OUTROS_PRODUTOS_SERVICOS",
+                                    "code": "OUTROS_PRODUTOS_SERVICOS",
+                                    "additionalInfo": "Informações referentes a produtos e serviços"
+                                },
+                                {
+                                    "name": "CARTAO_CREDITO",
+                                    "code": "CARTAO_CREDITO"
+                                },
+                                {
+                                    "name": "INFORMACOES",
+                                    "code": "INFORMACOES"
+                                },
+                                {
+                                    "name": "RECLAMACOES",
+                                    "code": "RECLAMACOES"
+                                },
+                                {
+                                    "name": "CANCELAMENTO",
+                                    "code": "CANCELAMENTO"
+                                }
+                            ]
+                        },
+                        {
+                            "identification": {
+                                "type": "OUVIDORIA",
+                                "urls": [
+                                    "https://www.banrisul.com.br/bob/link/seg/bobw00hn_ouvidoria_seg.aspx?secao_id=35"
+                                ]
+                            },
+                            "services": [
+                                {
+                                    "name": "RECLAMACOES",
+                                    "code": "RECLAMACOES"
+                                }
+                            ]
+                        },
+                        {
+                            "identification": {
+                                "type": "CHAT",
+                                "urls": [
+                                    "NA"
+                                ]
+                            },
+                            "services": [
+                                {
+                                    "name": "INFORMACOES",
+                                    "code": "INFORMACOES"
+                                },
+                                {
+                                    "name": "RECLAMACOES",
+                                    "code": "RECLAMACOES"
+                                },
+                                {
+                                    "name": "OUTROS_PRODUTOS_SERVICOS",
+                                    "code": "OUTROS_PRODUTOS_SERVICOS",
+                                    "additionalInfo": "Consórcio, Suporte às maquininhas Vero"
+                                }
+                            ]
+                        },
+                        {
+                            "identification": {
+                                "type": "OUTROS",
+                                "additionalInfo": "Canal de Denúncias para indícios de ilicitude relacionadas às atividades do Grupo Banrisul",
+                                "urls": [
+                                    "https://www.banrisul.com.br/bob/link/seg/bobw00hn_denuncia.aspx"
+                                ]
+                            },
+                            "services": [
+                                {
+                                    "name": "RECLAMACOES",
+                                    "code": "RECLAMACOES"
+                                }
+                            ]
+                        },
+                        {
+                            "identification": {
+                                "type": "INTERNET_BANKING",
+                                "urls": [
+                                    "https://ww8.banrisul.com.br/brb/link/brbwe4hw.aspx?Largura=1366&Altura=683&Sistema=Home"
+                                ]
+                            },
+                            "services": [
+                                {
+                                    "name": "TRANSFERENCIAS_ELETRONICAS_VISANDO_MOVIMENTACAO_CONTAS_DEPOSITOS_OU_PAGAMENTO_TITULARIDADE_CLIENTES",
+                                    "code": "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES"
+                                },
+                                {
+                                    "name": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+                                    "code": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_PAGTOS"
+                                },
+                                {
+                                    "name": "CARTAO_CREDITO",
+                                    "code": "CARTAO_CREDITO"
+                                },
+                                {
+                                    "name": "INFORMACOES",
+                                    "code": "INFORMACOES"
+                                },
+                                {
+                                    "name": "RECLAMACOES",
+                                    "code": "RECLAMACOES"
+                                },
+                                {
+                                    "name": "CANCELAMENTO",
+                                    "code": "CANCELAMENTO"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "links": {
+        "self": "https://openbanking.banrisul.com.br/open-banking/channels/v1/electronic-channels"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1
+    }
+}

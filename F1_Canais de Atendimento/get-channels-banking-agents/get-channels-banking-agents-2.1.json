@@ -1,0 +1,204 @@
+{
+  "data": {
+    "brand": {
+      "name": "Banco do Estado do Rio Grande do Sul S.A",
+      "companies": [
+        {
+          "name": "Bem Promotora",
+          "cnpjNumber": "10397031000181",
+          "contractors": [
+            {
+              "name": "Bem Promotora Porto Alegre | Centro",
+              "cnpjNumber": "10397031000181",
+              "bankingAgents": [
+                {
+                  "identification": {
+                    "corporationName": "Bem Promotora",
+                    "groupName": "Banco do Estado do Rio Grande do Sul S.A",
+                    "cnpjNumber": "10397031000181",
+                    "isUnderestablishment": false
+                  },
+                  "locations": [
+                    {
+                      "postalAddress": {
+                        "address": "Rua Siqueira Campos, 1163",
+                        "districtName": "Centro Histórico",
+                        "townName": "Porto Alegre",
+                        "countrySubDivision": "RS",
+                        "postCode": "90010001",
+                        "additionalInfo": "NA",
+                        "ibgeCode": "4314902",
+                        "country": "Brasil",
+                        "countryCode": "BRA",
+                        "geographicCoordinates": {
+                          "latitude": "-30.028477481888128",
+                          "longitude": "-51.23019681953224"
+                        }
+                      },
+                      "phones": [
+                        {
+                          "type": "FIXO",
+                          "countryCallingCode": "55",
+                          "areaCode": "51",
+                          "number": "32065168"
+                        },
+                        {
+                          "type": "FIXO",
+                          "countryCallingCode": "55",
+                          "areaCode": "51",
+                          "number": "32065266"
+                        }
+                      ],
+                      "availability": {
+                        "standards": [
+                          {
+                            "weekday": "SEGUNDA_FEIRA",
+                            "openingTime": "09:00:00Z",
+                            "closingTime": "18:00:00Z"
+                          },
+                          {
+                            "weekday": "TERCA_FEIRA",
+                            "openingTime": "09:00:00Z",
+                            "closingTime": "18:00:00Z"
+                          },
+                          {
+                            "weekday": "QUARTA_FEIRA",
+                            "openingTime": "09:00:00Z",
+                            "closingTime": "18:00:00Z"
+                          },
+                          {
+                            "weekday": "QUINTA_FEIRA",
+                            "openingTime": "09:00:00Z",
+                            "closingTime": "18:00:00Z"
+                          },
+                          {
+                            "weekday": "SEXTA_FEIRA",
+                            "openingTime": "09:00:00Z",
+                            "closingTime": "18:00:00Z"
+                          }
+                        ],
+                        "exception": "Exceto feriados municipais, estaduais e nacionais",
+                        "isPublicAccessAllowed": true
+                      }
+                    }
+                  ],
+                  "services": [
+                    {
+                      "name": "RECEPCAO_ENCAMINHAMENTO_PROPOSTAS_OPERACAO_CREDITO_ARRENDAMENTO_MERCANTIL_CONCESSAO_INSTITUICAO_CONTRATANTE",
+                      "code": "RECEBE_ENCAMINHA_PROPOSTAS_CREDITO_ARRENDAMENTO_MERCANTIL"
+                    },
+                    {
+                      "name": "RECEPCAO_ENCAMINHAMENTO_PROPOSTAS_FORNECIMENTO_CARTAO_CREDITO_RESPONSABILIDADE_INSTITUICAO_CONTRATANTE",
+                      "code": "RECEBE_ENCAMINHA_PROPOSTAS_FORNECIMENTO_CARTAO_CREDITO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Banriponto",
+          "cnpjNumber": "10397031000181",
+          "contractors": [
+            {
+              "name": "BEM PROMOTORA DE VENDAS E SERVICOS",
+              "cnpjNumber": "10397031000181",
+              "bankingAgents": [
+                {
+                  "identification": {
+                    "corporationName": "Bem Promotora",
+                    "groupName": "Banco do Estado do Rio Grande do Sul S.A",
+                    "cnpjNumber": "10397031000181",
+                    "isUnderestablishment": false
+                  },
+                  "locations": [
+                    {
+                      "postalAddress": {
+                        "address": "Rua Siqueira Campos, 1163",
+                        "districtName": "Centro Histórico",
+                        "townName": "Porto Alegre",
+                        "countrySubDivision": "RS",
+                        "postCode": "90010001",
+                        "additionalInfo": "9 Andar",
+                        "ibgeCode": "4314902",
+                        "country": "Brasil",
+                        "countryCode": "BRA",
+                        "geographicCoordinates": {
+                          "latitude": "-30.028477481888128",
+                          "longitude": "-51.23019681953224"
+                        }
+                      },
+                      "phones": [
+                        {
+                          "type": "FIXO",
+                          "countryCallingCode": "55",
+                          "areaCode": "51",
+                          "number": "32065168"
+                        },
+                        {
+                          "type": "FIXO",
+                          "countryCallingCode": "55",
+                          "areaCode": "51",
+                          "number": "32065266"
+                        }
+                      ],
+                      "availability": {
+                        "standards": [
+                          {
+                            "weekday": "SEGUNDA_FEIRA",
+                            "openingTime": "09:00:00Z",
+                            "closingTime": "18:00:00Z"
+                          },
+                          {
+                            "weekday": "TERCA_FEIRA",
+                            "openingTime": "09:00:00Z",
+                            "closingTime": "18:00:00Z"
+                          },
+                          {
+                            "weekday": "QUARTA_FEIRA",
+                            "openingTime": "09:00:00Z",
+                            "closingTime": "18:00:00Z"
+                          },
+                          {
+                            "weekday": "QUINTA_FEIRA",
+                            "openingTime": "09:00:00Z",
+                            "closingTime": "18:00:00Z"
+                          },
+                          {
+                            "weekday": "SEXTA_FEIRA",
+                            "openingTime": "09:00:00Z",
+                            "closingTime": "18:00:00Z"
+                          }
+                        ],
+                        "exception": "Exceto feriados municipais, estaduais e nacionais",
+                        "isPublicAccessAllowed": true
+                      }
+                    }
+                  ],
+                  "services": [
+                    {
+                      "name": "RECEPCAO_ENCAMINHAMENTO_PROPOSTAS_ABERTURA_CONTAS_DEPOSITOS_VISTA_PRAZO_POUPANCA_MANTIDOS_INSTITUICAO_CONTRATANTE",
+                      "code": "RECEBE_ENCAMINHA_PROPOSTAS_ABERTURA_CONTAS"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "links": {
+    "first": "https://openbanking.banrisul.com.br/open-banking/channels/v1/banking-agents?page=1&page-size=2",
+    "prev": "https://openbanking.banrisul.com.br/open-banking/channels/v1/banking-agents?page=49&page-size=2",
+    "self": "https://openbanking.banrisul.com.br/open-banking/channels/v1/banking-agents?page=50&page-size=2",
+    "next": "https://openbanking.banrisul.com.br/open-banking/channels/v1/banking-agents?page=51&page-size=2",
+    "last": "https://openbanking.banrisul.com.br/open-banking/channels/v1/banking-agents?page=213&page-size=2"
+  },
+  "meta": {
+    "totalRecords": 425,
+    "totalPages": 213
+  }
+}
