@@ -281,11 +281,11 @@
         }
     },
     "links": {
-        "self": "https://api.banco.com.br/open-banking/channels/v1/phone-channels?page=987&page-size=2",
-        "first": "https://api.banco.com.br/open-banking/channels/v1/phone-channels?page=1&page-size=2",
-        "prev": "https://api.banco.com.br/open-banking/channels/v1/phone-channels?page=987&page-size=2",
-        "next": "https://api.banco.com.br/open-banking/channels/v1/phone-channels?page=987&page-size=2",
-        "last": "https://api.banco.com.br/open-banking/channels/v1/phone-channels?page=1990&page-size=2"
+        "self": "https://opendata.api.bb.com.br/open-banking/channels/v1/phone-channels?page=987&page-size=2",
+        "first": "https://opendata.api.bb.com.br/open-banking/channels/v1/phone-channels?page=1&page-size=2",
+        "prev": "https://opendata.api.bb.com.br/open-banking/channels/v1/phone-channels?page=987&page-size=2",
+        "next": "https://opendata.api.bb.com.br/open-banking/channels/v1/phone-channels?page=987&page-size=2",
+        "last": "https://opendata.api.bb.com.br/open-banking/channels/v1/phone-channels?page=1990&page-size=2"
     },
     "meta": {
         "totalRecords": 3979,

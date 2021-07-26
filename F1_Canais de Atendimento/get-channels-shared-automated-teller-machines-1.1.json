@@ -155,11 +155,11 @@
         }
     },
     "links": {
-        "self": "https://api.banco.com.br/open-banking/channels/v1/shared-automated-teller-machines?page=32110&page-size=1",
-        "first": "https://api.banco.com.br/open-banking/channels/v1/shared-automated-teller-machines?page=1&page-size=1",
-        "prev": "https://api.banco.com.br/open-banking/channels/v1/shared-automated-teller-machines?page=32109&page-size=1",
-        "next": "https://api.banco.com.br/open-banking/channels/v1/shared-automated-teller-machines?page=32111&page-size=1",
-        "last": "https://api.banco.com.br/open-banking/channels/v1/shared-automated-teller-machines?page=56722&page-size=1"
+        "self": "https://opendata.api.bb.com.br/open-banking/channels/v1/shared-automated-teller-machines?page=32110&page-size=1",
+        "first": "https://opendata.api.bb.com.br/open-banking/channels/v1/shared-automated-teller-machines?page=1&page-size=1",
+        "prev": "https://opendata.api.bb.com.br/open-banking/channels/v1/shared-automated-teller-machines?page=32109&page-size=1",
+        "next": "https://opendata.api.bb.com.br/open-banking/channels/v1/shared-automated-teller-machines?page=32111&page-size=1",
+        "last": "https://opendata.api.bb.com.br/open-banking/channels/v1/shared-automated-teller-machines?page=56722&page-size=1"
     },
     "meta": {
         "totalRecords": 56722,
