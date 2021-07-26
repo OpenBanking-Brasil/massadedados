@@ -1,0 +1,284 @@
+{
+    "data": {
+        "brand": {
+            "name": "Banco Cooperativo Sicredi S.A. – Bansicredi",
+            "companies": [
+                {
+                    "name": "Banco24Horas",
+                    "cnpjNumber": "51427102007808",
+                    "urlComplementaryList": "https://www.sicredi.com.br/site/atendimento/canais",
+                    "sharedAutomatedTellerMachines": [
+                        {
+                            "identification": {
+                                "ownerName": "Banco24Horas"
+                            },
+                            "postalAddress": {
+                                "address": "RUA NOVE DE JULHO, 1001",
+                                "additionalInfo": "N° do equipamento 45715",
+                                "districtName": "Centro",
+                                "townName": "Marília",
+                                "ibgeCode": "3529005",
+                                "countrySubDivision": "SP",
+                                "postCode": "17500120",
+                                "country": "Brasil",
+                                "countryCode": "BRA",
+                                "geographicCoordinates": {
+                                    "latitude": "-22.2172096",
+                                    "longitude": "-22.2172096"
+                                }
+                            },
+                            "availability": {
+                                "standards": [
+                                    {
+                                        "weekday": "SEGUNDA_FEIRA",
+                                        "openingTime": "09:00:00Z",
+                                        "closingTime": "18:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "TERCA_FEIRA",
+                                        "openingTime": "09:00:00Z",
+                                        "closingTime": "18:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "QUARTA_FEIRA",
+                                        "openingTime": "09:00:00Z",
+                                        "closingTime": "18:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "QUINTA_FEIRA",
+                                        "openingTime": "09:00:00Z",
+                                        "closingTime": "18:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "SEXTA_FEIRA",
+                                        "openingTime": "09:00:00Z",
+                                        "closingTime": "18:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "DOMINGO",
+                                        "openingTime": "00:00:00Z",
+                                        "closingTime": "00:00:00Z"
+                                    }
+                                ],
+                                "exception": "Sujeito a alteração pelo estabelecimento sem prévio aviso",
+                                "isPublicAccessAllowed": true
+                            },
+                            "services": [
+                                {
+                                    "name": "SAQUE_MOEDA_EM_ESPECIE",
+                                    "code": "SAQUE_MOEDA_ESPECIE"
+                                },
+                                {
+                                    "name": "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+                                    "code": "RECEBE_PAGA_QUALQUER_NATUREZA"
+                                },
+                                {
+                                    "name": "TRANSFERENCIAS_ELETRONICAS_VISANDO_MOVIMENTACAO",
+                                    "code": "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGA_TITULARES_CLIENTES"
+                                },
+                                {
+                                    "name": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_E_CONTAS",
+                                    "code": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS"
+                                },
+                                {
+                                    "name": "CARTAO_CREDITO",
+                                    "code": "CARTAO_CREDITO"
+                                },
+                                {
+                                    "name": "SEGUROS",
+                                    "code": "SEGUROS"
+                                },
+                                {
+                                    "name": "OUTROS_PRODUTOS_SERVICOS",
+                                    "code": "OUTROS_PRODUTOS_SERVICOS",
+                                    "additionalInfo": "Serviços complementares de atendimento via terminais de autoatendimento."
+                                }
+                            ]
+                        },
+                        {
+                            "identification": {
+                                "ownerName": "Banco24Horas"
+                            },
+                            "postalAddress": {
+                                "address": "R. Bandeirantes, 430",
+                                "additionalInfo": "EQUIPAMENTO Nº 7394",
+                                "districtName": "Barbosa",
+                                "townName": "Marília",
+                                "ibgeCode": "3529005",
+                                "countrySubDivision": "SP",
+                                "postCode": "17501090",
+                                "country": "Brasil",
+                                "countryCode": "BRA",
+                                "geographicCoordinates": {
+                                    "latitude": "-22.2197099",
+                                    "longitude": "-49.9460077"
+                                }
+                            },
+                            "availability": {
+                                "standards": [
+                                    {
+                                        "weekday": "SEGUNDA_FEIRA",
+                                        "openingTime": "08:00:00Z",
+                                        "closingTime": "01:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "TERCA_FEIRA",
+                                        "openingTime": "08:00:00Z",
+                                        "closingTime": "01:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "QUARTA_FEIRA",
+                                        "openingTime": "08:00:00Z",
+                                        "closingTime": "01:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "QUINTA_FEIRA",
+                                        "openingTime": "08:00:00Z",
+                                        "closingTime": "01:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "SEXTA_FEIRA",
+                                        "openingTime": "08:00:00Z",
+                                        "closingTime": "01:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "DOMINGO",
+                                        "openingTime": "08:00:00Z",
+                                        "closingTime": "20:00:00Z"
+                                    }
+                                ],
+                                "exception": "Sujeito a alteração pelo estabelecimento sem prévio aviso",
+                                "isPublicAccessAllowed": true
+                            },
+                            "services": [
+                                {
+                                    "name": "SAQUE_MOEDA_EM_ESPECIE",
+                                    "code": "SAQUE_MOEDA_ESPECIE"
+                                },
+                                {
+                                    "name": "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+                                    "code": "RECEBE_PAGA_QUALQUER_NATUREZA"
+                                },
+                                {
+                                    "name": "TRANSFERENCIAS_ELETRONICAS_VISANDO_MOVIMENTACAO",
+                                    "code": "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGA_TITULARES_CLIENTES"
+                                },
+                                {
+                                    "name": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_E_CONTAS",
+                                    "code": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS"
+                                },
+                                {
+                                    "name": "CARTAO_CREDITO",
+                                    "code": "CARTAO_CREDITO"
+                                },
+                                {
+                                    "name": "SEGUROS",
+                                    "code": "SEGUROS"
+                                },
+                                {
+                                    "name": "OUTROS_PRODUTOS_SERVICOS",
+                                    "code": "OUTROS_PRODUTOS_SERVICOS",
+                                    "additionalInfo": "Serviços complementares de atendimento via terminais de autoatendimento."
+                                }
+                            ]
+                        },
+                        {
+                            "identification": {
+                                "ownerName": "Banco24Horas"
+                            },
+                            "postalAddress": {
+                                "address": "Av. Vicente Ferreira, 543",
+                                "additionalInfo": "EQUIPAMENTO Nº 7394",
+                                "districtName": "Cascata",
+                                "townName": "Marília",
+                                "ibgeCode": "3529005",
+                                "countrySubDivision": "SP",
+                                "postCode": "17514000",
+                                "country": "Brasil",
+                                "countryCode": "BRA",
+                                "geographicCoordinates": {
+                                    "latitude": "-22.2157025",
+                                    "longitude": "-49.94194,17"
+                                }
+                            },
+                            "availability": {
+                                "standards": [
+                                    {
+                                        "weekday": "SEGUNDA_FEIRA",
+                                        "openingTime": "08:00:00Z",
+                                        "closingTime": "01:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "TERCA_FEIRA",
+                                        "openingTime": "08:00:00Z",
+                                        "closingTime": "01:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "QUARTA_FEIRA",
+                                        "openingTime": "08:00:00Z",
+                                        "closingTime": "01:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "QUINTA_FEIRA",
+                                        "openingTime": "08:00:00Z",
+                                        "closingTime": "01:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "SEXTA_FEIRA",
+                                        "openingTime": "08:00:00Z",
+                                        "closingTime": "01:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "DOMINGO",
+                                        "openingTime": "08:00:00Z",
+                                        "closingTime": "20:00:00Z"
+                                    }
+                                ],
+                                "exception": "Sujeito a alteração pelo estabelecimento sem prévio aviso",
+                                "isPublicAccessAllowed": true
+                            },
+                            "services": [
+                                {
+                                    "name": "SAQUE_MOEDA_EM_ESPECIE",
+                                    "code": "SAQUE_MOEDA_ESPECIE"
+                                },
+                                {
+                                    "name": "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+                                    "code": "RECEBE_PAGA_QUALQUER_NATUREZA"
+                                },
+                                {
+                                    "name": "TRANSFERENCIAS_ELETRONICAS_VISANDO_MOVIMENTACAO",
+                                    "code": "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGA_TITULARES_CLIENTES"
+                                },
+                                {
+                                    "name": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_E_CONTAS",
+                                    "code": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS"
+                                },
+                                {
+                                    "name": "CARTAO_CREDITO",
+                                    "code": "CARTAO_CREDITO"
+                                },
+                                {
+                                    "name": "OUTROS_PRODUTOS_SERVICOS",
+                                    "code": "OUTROS_PRODUTOS_SERVICOS",
+                                    "additionalInfo": "Serviços complementares de atendimento via terminais de autoatendimento."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "links": {
+        "self": "https://api.sicredi.com.br/open-banking/channels/v1/shared-automated-teller-machines?page=2&page-size=1",
+        "next": "https://api.sicredi.com.br/open-banking/channels/v1/shared-automated-teller-machines?page=3&page-size=1",
+        "first": "https://api.sicredi.com.br/open-banking/channels/v1/shared-automated-teller-machines?page=1&page-size=1",
+        "prev": "https://api.sicredi.com.br/open-banking/channels/v1/shared-automated-teller-machines?page=1&page-size=1",
+        "last": "https://api.sicredi.com.br/open-banking/channels/v1/shared-automated-teller-machines?page=100&page-size=1"
+    },
+    "meta": {
+        "totalRecords": 100,
+        "totalPages": 100
+    }
+}
