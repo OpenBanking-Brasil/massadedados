@@ -4,7 +4,7 @@
             "name": "Banco do Brasil S.A",
             "companies": [
                 {
-                    "name": "Agencia Alto do Paraisa do Banco do Brasil",
+                    "name": "Agencia Rondonia do Banco do Brasil",
                     "cnpjNumber": "00000000440167",
                     "urlComplementaryList": "https://www36.bb.com.br/encontreobb/s001t026p001,500830,500831,1,1,1,1.bb#/",
                     "branches": [
@@ -83,15 +83,172 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "name": "Agencia Paraná do Banco do Brasil",
+                    "cnpjNumber": "00000000397210",
+                    "urlComplementaryList": "https://www36.bb.com.br/encontreobb/s001t026p001,500830,500831,1,1,1,1.bb#/",
+                    "branches": [
+                        {
+                            "identification": {
+                                "type": "AGENCIA",
+                                "code": "3512",
+                                "checkDigit": "0",
+                                "name": "Filial",
+                                "relatedBranch": "0001",
+                                "openingDate": "1991-04-01"
+                            },
+                            "postalAddress": {
+                                "address": "Av. Pedro Taques, 434",
+                                "districtName": "Zona 07",
+                                "townName": "Maringá",
+                                "countrySubDivision": "PR",
+                                "postCode": "87030000",
+                                "country": "Brasil",
+                                "countryCode": "BRA"
+                            },
+                            "availability": {
+                                "standards": [
+                                    {
+                                        "weekday": "SEGUNDA_FEIRA",
+                                        "openingTime": "10:00:00Z",
+                                        "closingTime": "14:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "TERCA_FEIRA",
+                                        "openingTime": "10:00:00Z",
+                                        "closingTime": "14:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "QUARTA_FEIRA",
+                                        "openingTime": "10:00:00Z",
+                                        "closingTime": "14:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "QUINTA_FEIRA",
+                                        "openingTime": "10:00:00Z",
+                                        "closingTime": "14:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "SEXTA_FEIRA",
+                                        "openingTime": "10:00:00Z",
+                                        "closingTime": "14:00:00Z"
+                                    }
+                                ]
+                            },
+                            "phones": [
+                                {
+                                    "type": "FIXO",
+                                    "countryCallingCode": "55",
+                                    "areaCode": "44",
+                                    "number": "32939600"
+                                }
+                            ],
+                            "services": [
+                                {
+                                    "name": "RECEPCAO_ENCAMINHAMENTO_PROPOSTAS_ABERTURA_CONTAS_DEPOSITOS_VISTA_PRAZO_POUPANCA_MANTIDOS_INSTITUICAO_CONTRATANTE",
+                                    "code": "RECEBE_ENCAMINHA_PROPOSTAS_ABERTURA_CONTAS"
+                                },
+                                {
+                                    "name": "REALIZACAO_RECEBIMENTOS_PAGAMENTOS_TRANSFERENCIAS_ELETRONICAS_VISANDO_MOVIMENTACAO_CONTAS_DEPOSITOS_TITULARIDADE_CLIENTES_MANTIDAS_INSTITUICAO_CONTRATANTE",
+                                    "code": "REALIZA_RECEBIMENTOS_PAGAMENTOS_TRANSFERENCIAS_ELETRONICAS"
+                                },
+                                {
+                                    "name": "RECEPCAO_ENCAMINHAMENTO_PROPOSTAS_FORNECIMENTO_CARTAO_CREDITO_RESPONSABILIDADE_INSTITUICAO_CONTRATANTE",
+                                    "code": "RECEBE_ENCAMINHA_PROPOSTAS_FORNECIMENTO_CARTAO_CREDITO"
+                                },
+                                {
+                                    "name": "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_CURSADAS_INTERMEDIO_INSTITUICAO_CONTRATANTE_SOLICITACAO_CLIENTES_USUARIOS",
+                                    "code": "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO"
+                                }
+                            ]
+                        },
+                        {
+                            "identification": {
+                                "type": "POSTO_ATENDIMENTO",
+                                "code": "8053",
+                                "checkDigit": "0",
+                                "name": "Posto de atendimento"
+                            },
+                            "postalAddress": {
+                                "address": "Rua Raimundo Corrêa, 36",
+                                "districtName": "Zona 06",
+                                "townName": "Maringá",
+                                "countrySubDivision": "PR",
+                                "postCode": "87015400",
+                                "country": "Brasil",
+                                "countryCode": "BRA"
+                            },
+                            "availability": {
+                                "standards": [
+                                    {
+                                        "weekday": "SEGUNDA_FEIRA",
+                                        "openingTime": "10:00:00Z",
+                                        "closingTime": "14:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "TERCA_FEIRA",
+                                        "openingTime": "10:00:00Z",
+                                        "closingTime": "14:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "QUARTA_FEIRA",
+                                        "openingTime": "10:00:00Z",
+                                        "closingTime": "14:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "QUINTA_FEIRA",
+                                        "openingTime": "10:00:00Z",
+                                        "closingTime": "14:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "SEXTA_FEIRA",
+                                        "openingTime": "10:00:00Z",
+                                        "closingTime": "14:00:00Z"
+                                    }
+                                ]
+                            },
+                            "phones": [
+                                {
+                                    "type": "FIXO",
+                                    "countryCallingCode": "55",
+                                    "areaCode": "44",
+                                    "number": "40033001"
+                                }
+                            ],
+                            "services": [
+                                {
+                                    "name": "RECEPCAO_ENCAMINHAMENTO_PROPOSTAS_ABERTURA_CONTAS_DEPOSITOS_VISTA_PRAZO_POUPANCA_MANTIDOS_INSTITUICAO_CONTRATANTE",
+                                    "code": "RECEBE_ENCAMINHA_PROPOSTAS_ABERTURA_CONTAS"
+                                },
+                                {
+                                    "name": "REALIZACAO_RECEBIMENTOS_PAGAMENTOS_TRANSFERENCIAS_ELETRONICAS_VISANDO_MOVIMENTACAO_CONTAS_DEPOSITOS_TITULARIDADE_CLIENTES_MANTIDAS_INSTITUICAO_CONTRATANTE",
+                                    "code": "REALIZA_RECEBIMENTOS_PAGAMENTOS_TRANSFERENCIAS_ELETRONICAS"
+                                },
+                                {
+                                    "name": "RECEPCAO_ENCAMINHAMENTO_PROPOSTAS_FORNECIMENTO_CARTAO_CREDITO_RESPONSABILIDADE_INSTITUICAO_CONTRATANTE",
+                                    "code": "RECEBE_ENCAMINHA_PROPOSTAS_FORNECIMENTO_CARTAO_CREDITO"
+                                },
+                                {
+                                    "name": "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_CURSADAS_INTERMEDIO_INSTITUICAO_CONTRATANTE_SOLICITACAO_CLIENTES_USUARIOS",
+                                    "code": "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         }
     },
     "links": {
-        "self": "https://api.baninter.com/open-banking/channels/v1/branches"
+        "self": "https://opendata.api.bb.com.br/open-banking/channels/v1/branches?page=987&page-size=2",
+        "first": "https://opendata.api.bb.com.br/open-banking/channels/v1/branches?page=1&page-size=2",
+        "prev": "https://opendata.api.bb.com.br/open-banking/channels/v1/branches?page=986&page-size=2",
+        "next": "https://opendata.api.bb.com.br/open-banking/channels/v1/branches?page=988&page-size=2",
+        "last": "https://opendata.api.bb.com.br/open-banking/channels/v1/branches?page=1990&page-size=2"
     },
     "meta": {
-        "totalRecords": 2,
-        "totalPages": 1
+        "totalRecords": 3979,
+        "totalPages": 1990
     }
 }
