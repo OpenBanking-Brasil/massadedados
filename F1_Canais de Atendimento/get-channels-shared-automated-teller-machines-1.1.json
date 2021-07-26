@@ -9,6 +9,9 @@
                     "urlComplementaryList": "https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/contas/todos-os-servicos/banco24horas#/",
                     "sharedAutomatedTellerMachines": [
                         {
+                            "identification": {
+                                "ownerName": "Banco24Horas"
+                            },
                             "postalAddress": {
                                 "address": "Av. Paraná, 1600",
                                 "districtName": "Zona 7",
@@ -77,6 +80,9 @@
                             ]
                         },
                         {
+                            "identification": {
+                                "ownerName": "Banco24Horas"
+                            },
                             "postalAddress": {
                                 "address": "Av. Tuiuti, 1672",
                                 "districtName": "Vila Morangueira",
