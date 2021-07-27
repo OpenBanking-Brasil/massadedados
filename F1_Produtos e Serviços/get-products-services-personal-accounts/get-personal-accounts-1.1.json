@@ -207,34 +207,34 @@
                                         "prices": [
                                             {
                                                 "interval": "1_FAIXA",
-                                                "value": "10.4500",
+                                                "value": "10.45",
                                                 "currency": "BRL",
                                                 "customers": {
-                                                    "rate": "0.20"
+                                                    "rate": "0.2000"
                                                 }
                                             },
                                             {
                                                 "interval": "2_FAIXA",
-                                                "value": "13.7500",
+                                                "value": "13.75",
                                                 "currency": "BRL",
                                                 "customers": {
-                                                    "rate": "0.60"
+                                                    "rate": "0.6000"
                                                 }
                                             },
                                             {
                                                 "interval": "3_FAIXA",
-                                                "value": "16.40000",
+                                                "value": "16.40",
                                                 "currency": "BRL",
                                                 "customers": {
-                                                    "rate": "0.15"
+                                                    "rate": "0.1500"
                                                 }
                                             },
                                             {
                                                 "interval": "4_FAIXA",
-                                                "value": "20.9900",
+                                                "value": "20.99",
                                                 "currency": "BRL",
                                                 "customers": {
-                                                    "rate": "0.05"
+                                                    "rate": "0.0500"
                                                 }
                                             }
                                         ],
