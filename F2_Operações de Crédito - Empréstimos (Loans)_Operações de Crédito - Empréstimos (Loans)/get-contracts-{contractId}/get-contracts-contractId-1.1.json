@@ -5,16 +5,16 @@
         "productName": "Crédito Pessoal Consignado",
         "productType": "EMPRESTIMOS",
         "productSubType": "CREDITO_PESSOAL_COM_CONSIGNACAO",
-        "contractDate": "2021-04-05",
-        "disbursementDate": "2021-06-15",
+        "contractDate": "2021-05-18",
+        "disbursementDate": "NA",
         "settlementDate": "NA",
-        "contractAmount": 20000.00,
+        "contractAmount": 20000.0000,
         "currency": "BRL",
-        "dueDate": "2022-07-15",
+        "dueDate": "2021-08-03",
         "instalmentPeriodicity": "SEMANAL",
         "instalmentPeriodicityAdditionalInfo": "NA",
-        "firstInstalmentDueDate": "2021-07-15",
-        "CET": 0.09,
+        "firstInstalmentDueDate": "2021-05-25",
+        "CET": 0.0600,
         "amortizationScheduled": "PRICE",
         "amortizationScheduledAdditionalInfo": "NA",
         "cnpjConsignee": "00000000000191",
@@ -25,10 +25,10 @@
                 "taxPeriodicity": "AA",
                 "calculation": "21/252",
                 "referentialRateIndexerType": "PRE_FIXADO",
-                "referentialRateIndexerSubType": "SEM_SUB_TIPO_INDEXADOR",
+                "referentialRateIndexerSubType": "PRE_FIXADO",
                 "referentialRateIndexerAdditionalInfo": "NA",
                 "preFixedRate": 0.0600,
-                "postFixedRate": 0.0550,
+                "postFixedRate": 0.0000,
                 "additionalInfo": "NA"
             }
         ],
@@ -38,8 +38,8 @@
                 "feeCode": "CADASTRO",
                 "feeChargeType": "UNICA",
                 "feeCharge": "FIXO",
-                "feeAmount": 75,
-                "feeRate": 0.0150
+                "feeAmount": 75.0000,
+                "feeRate": 0.0000
             }
         ],
         "contractedFinanceCharges": [
@@ -51,7 +51,7 @@
         ]
     },
     "links": {
-        "self": "https://api.banco.com.br/open-banking/loans/v1/contracts/d8a6b20e-94a8-42e7-9a4a-6987164a5a2c"
+        "self": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts/d8a6b20e-94a8-42e7-9a4a-6987164a5a2c"
     },
     "meta": {
         "totalRecords": 1,

@@ -1,0 +1,127 @@
+{
+    "data": {
+        "brand": {
+            "name": "Banco do Brasil S.A",
+            "companies": [
+                {
+                    "name": "Banco do Brasil S.A",
+                    "cnpjNumber": "00000000000191",
+                    "urlComplementaryList": "https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/cessao-de-creditos#/",
+                    "personalInvoiceFinancings": [
+                        {
+                            "type": "DESCONTO_DUPLICATAS",
+                            "fees": {
+                                "services": [
+                                    {
+                                        "name": "Taxa de Cadastro",
+                                        "code": "NA",
+                                        "chargingTriggerInfo": "NA",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "55.4000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.6000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "78.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.2000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "95.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.1500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "112.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0500"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "50.0000",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "139.0000",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "referentialRateIndexer": "PRE_FIXADO",
+                                    "rate": "0.0150",
+                                    "applications": [
+                                        {
+                                            "interval": "1_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0150"
+                                            },
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "2_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0210"
+                                            },
+                                            "customers": {
+                                                "rate": "0.4680"
+                                            }
+                                        },
+                                        {
+                                            "interval": "3_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0289"
+                                            },
+                                            "customers": {
+                                                "rate": "0.2170"
+                                            }
+                                        },
+                                        {
+                                            "interval": "4_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0310"
+                                            },
+                                            "customers": {
+                                                "rate": "0.1150"
+                                            }
+                                        }
+                                    ],
+                                    "minimumRate": "0.0120",
+                                    "maximumRate": "0.0455"
+                                }
+                            ],
+                            "requiredWarranties": [
+                                "ALIENACAO_FIDUCIARIA"
+                            ],
+                            "termsConditions": "https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/cessao-de-creditos#/"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "links": {
+        "self": "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-invoice-financings"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1
+    }
+}

@@ -20,7 +20,7 @@
                     ],
                     "charges": [
                         {
-                            "chargeType": "NA",
+                            "chargeType": "SEM_ENCARGOS",
                             "chargeAdditionalInfo": "NA",
                             "chargeAmount": 0.0000
                         }
@@ -44,7 +44,7 @@
                     ],
                     "charges": [
                         {
-                            "chargeType": "NA",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
                             "chargeAmount": 0.0000
                         }
@@ -68,7 +68,7 @@
                     ],
                     "charges": [
                         {
-                            "chargeType": "NA",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
                             "chargeAmount": 0.0000
                         }

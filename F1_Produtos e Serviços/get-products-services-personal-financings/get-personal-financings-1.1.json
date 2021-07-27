@@ -1,0 +1,127 @@
+{
+    "data": {
+        "brand": {
+            "name": "Banco do Brasil S.A",
+            "companies": [
+                {
+                    "cnpjNumber": "00000000000191",
+                    "name": "Banco do Brasil S.A",
+                    "urlComplementaryList": "https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/financiamentos#/",
+                    "personalFinancings": [
+                        {
+                            "type": "FINANCIAMENTO_AQUISICAO_BENS_VEICULOS_AUTOMOTORES",
+                            "fees": {
+                                "services": [
+                                    {
+                                        "name": "Taxa de administração",
+                                        "code": "NA",
+                                        "chargingTriggerInfo": "R$ 80.0000 Por Parcela",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "23.7000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "80.0000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.6000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "150.8900",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "200.1000",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0500"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "20.9000",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "278.0000",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "referentialRateIndexer": "POS_FIXADO_TJLP",
+                                    "rate": "0.0185",
+                                    "applications": [
+                                        {
+                                            "interval": "1_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0136"
+                                            },
+                                            "customers": {
+                                                "rate": "0.1500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "2_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0185"
+                                            },
+                                            "customers": {
+                                                "rate": "0.3500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "3_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0405"
+                                            },
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "4_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0560"
+                                            },
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            }
+                                        }
+                                    ],
+                                    "minimumRate": "0.01270",
+                                    "maximumRate": "0.0600"
+                                }
+                            ],
+                            "requiredWarranties": [
+                                "NAO_APLICAVEL"
+                            ],
+                            "termsConditions": "https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/financiamentos#/"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "links": {
+        "self": "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-financings"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1
+    }
+}

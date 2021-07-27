@@ -1,9 +1,9 @@
 {
   "data": {
-    "name": "Dinners Grafite",
-    "productType": "GRAFITE",
-    "productAdditionalInfo": "Dinners Elo Grafite",
-    "creditCardNetwork": "DINERS_CLUB",
+    "name": "Ourocard Elo Nanquim",
+    "productType": "NANQUIM",
+    "productAdditionalInfo": "Ourocard Elo Nanquim",
+    "creditCardNetwork": "ELO",
     "networkAdditionalInfo": "NA",
     "paymentMethod": {
       "identificationNumber": "8921",

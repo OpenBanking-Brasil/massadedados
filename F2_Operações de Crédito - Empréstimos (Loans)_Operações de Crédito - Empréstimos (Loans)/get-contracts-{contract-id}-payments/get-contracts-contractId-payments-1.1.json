@@ -1,28 +1,52 @@
 {
     "data": {
-        "paidInstalments": 1,
-        "contractOutstandingBalance": 18333.33,
+        "paidInstalments": 2,
+        "contractOutstandingBalance": 17075.0825,
         "releases": [
+            {
+                "paymentId": "8a68db88-6d80-301e-b5db-7106fb208437",
+                "isOverParcelPayment": true,
+                "instalmentId": "a6012baa-53ba-3627-9b3f-4bb3a0bae0b9",
+                "paidDate": "2022-05-26",
+                "currency": "BRL",
+                "paidAmount": 3500.9400,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
             {
                 "paymentId": "00c33b70-69ef-4bc0-84db-57b3635534aa",
                 "isOverParcelPayment": false,
                 "instalmentId": "685618a0-e8bd-4a49-b4e1-f6bfe9d52073",
-                "paidDate": "2021-05-14",
+                "paidDate": "2021-05-25",
                 "currency": "BRL",
-                "paidAmount": 1666.67,
+                "paidAmount": 1945.5475,
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "Taxa de cadastro",
                             "feeCode": "CADASTRO",
-                            "feeAmount": 75
+                            "feeAmount": 75.0000
                         }
                     ],
                     "charges": [
                         {
-                            "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
-                            "chargeAdditionalInfo": "Informações adicionais",
-                            "chargeAmount": 33.33
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
                         }
                     ]
                 }
@@ -33,7 +57,7 @@
         "self": "https://api.banco.com.br/open-banking/loans/v1/contracts/d8a6b20e-94a8-42e7-9a4a-6987164a5a2c/payments"
     },
     "meta": {
-        "totalRecords": 1,
+        "totalRecords": 2,
         "totalPages": 1,
         "requestDateTime": "2021-05-27T14:49:00Z"
     }
