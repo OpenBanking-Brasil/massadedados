@@ -1,0 +1,131 @@
+{
+  "data": {
+    "brand": {
+      "name": "Banco do Estado do Rio Grande do Sul S.A",
+      "companies": [
+        {
+          "cnpjNumber": "92702067000196",
+          "name": "Banco do Estado do Rio Grande do Sul S.A",
+          "urlComplementaryList": "https://www.banrisul.com.br/bob/link/bobw02hn_conteudo_lista.aspx?secao_id=36",
+          "personalLoans": [
+            {
+              "type": "EMPRESTIMO_MICROCREDITO_PRODUTIVO_ORIENTADO",
+              "fees": {
+                "services": [
+                  {
+                    "name": "Taxa de Abertura",
+                    "code": "TAXA_ABERTURA",
+                    "chargingTriggerInfo": "2% do valor do contrato.",
+                    "prices": [
+                      {
+                        "interval": "1_FAIXA",
+                        "value": "0.00",
+                        "currency": "BRL",
+                        "customers": {
+                          "rate": "0.0500"
+                        }
+                      },
+                      {
+                        "interval": "2_FAIXA",
+                        "value": "100.00",
+                        "currency": "BRL",
+                        "customers": {
+                          "rate": "0.5000"
+                        }
+                      },
+                      {
+                        "interval": "3_FAIXA",
+                        "value": "1000.00",
+                        "currency": "BRL",
+                        "customers": {
+                          "rate": "0.3500"
+                        }
+                      },
+                      {
+                        "interval": "4_FAIXA",
+                        "value": "10000.00",
+                        "currency": "BRL",
+                        "customers": {
+                          "rate": "0.1000"
+                        }
+                      }
+                    ],
+                    "minimum": {
+                      "value": "0.00",
+                      "currency": "BRL"
+                    },
+                    "maximum": {
+                      "value": "10000.00",
+                      "currency": "BRL"
+                    }
+                  }
+                ]
+              },
+              "interestRates": [
+                {
+                  "referentialRateIndexer": "OUTRAS_TAXAS_FLUTUANTES",
+                  "rate": "0.15",
+                  "applications": [
+                    {
+                      "interval": "1_FAIXA",
+                      "indexer": {
+                        "rate": "0.0000"
+                      },
+                      "customers": {
+                        "rate": "0.0000"
+                      }
+                    },
+                    {
+                      "interval": "2_FAIXA",
+                      "indexer": {
+                        "rate": "0.0200"
+                      },
+                      "customers": {
+                        "rate": "0.2000"
+                      }
+                    },
+                    {
+                      "interval": "3_FAIXA",
+                      "indexer": {
+                        "rate": "0.0395"
+                      },
+                      "customers": {
+                        "rate": "0.5000"
+                      }
+                    },
+                    {
+                      "interval": "4_FAIXA",
+                      "indexer": {
+                        "rate": "0.0500"
+                      },
+                      "customers": {
+                        "rate": "0.3000"
+                      }
+                    }
+                  ],
+                  "minimumRate": "0.0000",
+                  "maximumRate": "0.0500"
+                }
+              ],
+              "requiredWarranties": [
+                "NAO_APLICAVEL"
+              ],
+              "termsConditions": "https://www.banrisul.com.br/bob/link/bobw02hn_conteudo_detalhe2.aspx?secao_id=3789"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "links": {
+    "self": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-loans?page=2&page-size=1",
+    "first": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-loans?page=1&page-size=1",
+    "prev": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-loans?page=1&page-size=1",
+    "next": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-loans?page=3&page-size=1",
+    "last": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-loans?page=100&page-size=1"
+  },
+  "meta": {
+    "totalRecords": 100,
+    "totalPages": 100
+  }
+}
