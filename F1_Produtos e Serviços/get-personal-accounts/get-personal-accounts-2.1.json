@@ -434,9 +434,7 @@
                                             "value": "1.30",
                                             "currency": "BRL"
                                         }
-                                    }
-                                ],
-                                "otherServices": [
+                                    },
                                     {
                                         "name": "CONFECCAO_CADASTRO_INICIO_RELACIONAMENTO",
                                         "code": "CADASTRO",
@@ -718,7 +716,9 @@
                                             "value": "19.50",
                                             "currency": "BRL"
                                         }
-                                    },
+                                    }
+                                ],
+                                "otherServices": [
                                     {
                                         "name": "UTILIZACAO_CANAIS_ATENDIMENTO_RETIRADA_ESPECIE_BRASIL",
                                         "code": "SAQUE_CARTAO_BRASIL",
@@ -1447,9 +1447,7 @@
                                             "value": "1.30",
                                             "currency": "BRL"
                                         }
-                                    }
-                                ],
-                                "otherServices": [
+                                    },
                                     {
                                         "name": "CONFECCAO_CADASTRO_INICIO_RELACIONAMENTO",
                                         "code": "CADASTRO",
@@ -1731,7 +1729,9 @@
                                             "value": "19.50",
                                             "currency": "BRL"
                                         }
-                                    },
+                                    }
+                                ],
+                                "otherServices": [
                                     {
                                         "name": "UTILIZACAO_CANAIS_ATENDIMENTO_RETIRADA_ESPECIE_BRASIL",
                                         "code": "SAQUE_CARTAO_BRASIL",
@@ -1991,7 +1991,7 @@
         "self": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-accounts?page=1&page-size=1",
         "first": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-accounts?page=1&page-size=1",
         "next": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-accounts?page=2&page-size=1",
-        "last": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-accounts?page=2&page-size=1",
+        "last": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-accounts?page=2&page-size=1"
     },
     "meta": {
         "totalRecords": 2,

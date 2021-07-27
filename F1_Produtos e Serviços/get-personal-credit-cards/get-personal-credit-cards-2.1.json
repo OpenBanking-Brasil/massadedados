@@ -79,7 +79,7 @@
                 "rates": [
                   {
                     "referentialRateIndexer": "SEM_INDEXADOR_TAXA",
-                    "rate": "0.15",
+                    "rate": "0.1500",
                     "applications": [
                       {
                         "interval": "1_FAIXA",
@@ -181,7 +181,6 @@
               },
               "termsConditions": {
                 "minimumFeeRate": "0.25",
-                "additionalInfo": "NA",
                 "elegibilityCriteriaInfo": "https://www.banrisul.com.br/bob/link/bobw27hn_conteudo_detalhe_cartoes_credito_ss.aspx?secao_id=2134",
                 "closingProcessInfo": "https://www.banrisul.com.br/bob/link/bobw27hn_conteudo_detalhe_cartoes_credito_ss.aspx?secao_id=2134"
               }

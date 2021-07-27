@@ -114,9 +114,7 @@
     }
   },
   "links": {
-    "self": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-unarranged-account-overdraft?page=1&page-size=1",
-    "first": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-unarranged-account-overdraft?page=1&page-size=1",
-    "last": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-unarranged-account-overdraft?page=1&page-size=1"
+    "self": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-unarranged-account-overdraft"
   },
   "meta": {
     "totalRecords": 1,

@@ -14,7 +14,7 @@
                 "services": [
                   {
                     "name": "Programa de modernização da frota agrícola",
-                    "code": "Moderfrota",
+                    "code": "MODERFROTA",
                     "chargingTriggerInfo": "Máximo: até 5% do valor dos bens objeto do financiamento, sendo de até 0% para produtores enquadrados no Pronamp.",
                     "prices": [
                       {
