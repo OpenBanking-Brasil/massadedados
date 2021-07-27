@@ -19,7 +19,7 @@
                                         "prices": [
                                             {
                                                 "interval": "1_FAIXA",
-                                                "value": "75.0000",
+                                                "value": "75.00",
                                                 "currency": "BRL",
                                                 "customers": {
                                                     "rate": "0.2000"
@@ -27,7 +27,7 @@
                                             },
                                             {
                                                 "interval": "2_FAIXA",
-                                                "value": "120.0000",
+                                                "value": "120.00",
                                                 "currency": "BRL",
                                                 "customers": {
                                                     "rate": "0.3500"
@@ -35,7 +35,7 @@
                                             },
                                             {
                                                 "interval": "3_FAIXA",
-                                                "value": "260.0000",
+                                                "value": "260.00",
                                                 "currency": "BRL",
                                                 "customers": {
                                                     "rate": "0.2000"
@@ -43,7 +43,7 @@
                                             },
                                             {
                                                 "interval": "4_FAIXA",
-                                                "value": "354.0000",
+                                                "value": "354.00",
                                                 "currency": "BRL",
                                                 "customers": {
                                                     "rate": "0.2500"

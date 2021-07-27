@@ -54,7 +54,7 @@
         ]
     },
     "links": {
-        "self": "https://api.banco.com.br/open-banking/loans/v1/contracts/d8a6b20e-94a8-42e7-9a4a-6987164a5a2c/payments"
+        "self": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts/d8a6b20e-94a8-42e7-9a4a-6987164a5a2c/payments"
     },
     "meta": {
         "totalRecords": 2,

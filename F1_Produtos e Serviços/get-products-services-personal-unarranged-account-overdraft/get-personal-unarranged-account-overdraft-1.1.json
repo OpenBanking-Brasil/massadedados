@@ -18,7 +18,7 @@
                                         "prices": [
                                             {
                                                 "interval": "1_FAIXA",
-                                                "value": "140.0000",
+                                                "value": "140.00",
                                                 "currency": "BRL",
                                                 "customers": {
                                                     "rate": "0.2130"
@@ -26,7 +26,7 @@
                                             },
                                             {
                                                 "interval": "2_FAIXA",
-                                                "value": "560.1300",
+                                                "value": "560.13",
                                                 "currency": "BRL",
                                                 "customers": {
                                                     "rate": "0.4193"
@@ -34,15 +34,15 @@
                                             },
                                             {
                                                 "interval": "3_FAIXA",
-                                                "value": "800.4000",
+                                                "value": "800.40",
                                                 "currency": "BRL",
                                                 "customers": {
-                                                    "rate": "0.2699"
+                                                    "rate": "0.3405"
                                                 }
                                             },
                                             {
                                                 "interval": "4_FAIXA",
-                                                "value": "1687.1500",
+                                                "value": "1687.15",
                                                 "currency": "BRL",
                                                 "customers": {
                                                     "rate": "0.0272"

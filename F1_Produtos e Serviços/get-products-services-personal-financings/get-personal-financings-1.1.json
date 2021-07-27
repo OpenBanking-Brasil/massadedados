@@ -19,7 +19,7 @@
                                         "prices": [
                                             {
                                                 "interval": "1_FAIXA",
-                                                "value": "23.7000",
+                                                "value": "23.70",
                                                 "currency": "BRL",
                                                 "customers": {
                                                     "rate": "0.0500"
@@ -27,7 +27,7 @@
                                             },
                                             {
                                                 "interval": "2_FAIXA",
-                                                "value": "80.0000",
+                                                "value": "80.00",
                                                 "currency": "BRL",
                                                 "customers": {
                                                     "rate": "0.6000"
@@ -35,7 +35,7 @@
                                             },
                                             {
                                                 "interval": "3_FAIXA",
-                                                "value": "150.8900",
+                                                "value": "150.89",
                                                 "currency": "BRL",
                                                 "customers": {
                                                     "rate": "0.3000"
@@ -43,7 +43,7 @@
                                             },
                                             {
                                                 "interval": "4_FAIXA",
-                                                "value": "200.1000",
+                                                "value": "200.10",
                                                 "currency": "BRL",
                                                 "customers": {
                                                     "rate": "0.0500"
@@ -51,11 +51,11 @@
                                             }
                                         ],
                                         "minimum": {
-                                            "value": "20.9000",
+                                            "value": "20.90",
                                             "currency": "BRL"
                                         },
                                         "maximum": {
-                                            "value": "278.0000",
+                                            "value": "278.00",
                                             "currency": "BRL"
                                         }
                                     }
@@ -103,7 +103,7 @@
                                             }
                                         }
                                     ],
-                                    "minimumRate": "0.01270",
+                                    "minimumRate": "0.0127",
                                     "maximumRate": "0.0600"
                                 }
                             ],

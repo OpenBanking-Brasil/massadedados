@@ -20,7 +20,7 @@
                     ],
                     "charges": [
                         {
-                            "chargeType": "SEM_ENCARGOS",
+                            "chargeType": "SEM_ENCARGO",
                             "chargeAdditionalInfo": "NA",
                             "chargeAmount": 0.0000
                         }
