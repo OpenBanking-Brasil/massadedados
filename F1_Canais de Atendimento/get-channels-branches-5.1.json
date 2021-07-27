@@ -1,0 +1,295 @@
+{
+    "data": {
+        "brand": {
+            "name": "Banco Bradesco S.A",
+            "companies": [
+                {
+                    "name": "Banco Bradesco S.A",
+                    "cnpjNumber": "60746948000112",
+                    "urlComplementaryList": "https://banco.bradesco/html/classic/atendimento/rede-de-atendimento/index.shtm",
+                    "branches": [
+                        {
+                            "identification": {
+                                "type": "AGENCIA",
+                                "code": "0278",
+                                "checkDigit": "0",
+                                "name": "AGÊNCIA BRADESCO GASOMETRO-USP",
+                                "relatedBranch": "NA",
+                                "openingDate": "2010-01-02"
+                            },
+                            "postalAddress": {
+                                "address": "Rua Assunção, ESQ.C/R.LUCAS 111",
+                                "additionalInfo": "NA",
+                                "districtName": "Brás",
+                                "townName": "São Paulo",
+                                "ibgeCode": "3550308",
+                                "countrySubDivision": "SP",
+                                "postCode": "03005020",
+                                "country": "Brasil",
+                                "countryCode": "BRA",
+                                "geograficCoordinates": {
+                                    "latitude": "-23.5392346",
+                                    "longitude": "-46.6322987"
+                                }
+                            },
+                            "availability": {
+                                "standards": [
+                                    {
+                                        "weekday": "SEGUNDA_FEIRA",
+                                        "openingTime": "10:00:00Z",
+                                        "closingTime": "16:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "TERCA_FEIRA",
+                                        "openingTime": "10:00:00Z",
+                                        "closingTime": "16:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "QUARTA_FEIRA",
+                                        "openingTime": "10:00:00Z",
+                                        "closingTime": "16:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "QUINTA_FEIRA",
+                                        "openingTime": "10:00:00Z",
+                                        "closingTime": "16:00:57Z"
+                                    },
+                                    {
+                                        "weekday": "SEXTA_FEIRA",
+                                        "openingTime": "10:00:00Z",
+                                        "closingTime": "16:00:00Z"
+                                    }
+                                ],
+                                "exception": "Exceto feriados municipais, estaduais e nacionais",
+                                "isPublicAccessAllowed": true
+                            },
+                            "phones": [
+                                {
+                                    "type": "FIXO",
+                                    "countryCallingCode": "55",
+                                    "areaCode": "11",
+                                    "number": "330037545"
+                                }
+                            ],
+                            "services": [
+                                {
+                                    "name": "ABERTURA_CONTAS_DEPOSITOS_OU_PAGAMENTO_PRE_PAGA",
+                                    "code": "ABRE_CONTA_DEPOSITO_OU_PRE_PAGA"
+                                },
+                                {
+                                    "name": "SAQUE_MOEDA_EM_ESPECIE",
+                                    "code": "SAQUE_MOEDA_ESPECIE"
+                                },
+                                {
+                                    "name": "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+                                    "code": "RECEBE_PAGA_QUALQUER_NATUREZA"
+                                },
+                                {
+                                    "name": "TRANSFERENCIAS_ELETRONICAS_VISANDO_MOVIMENTACAO_CONTAS_DEPOSITOS_OU_PAGAMENTO_TITULARIDADE_CLIENTES",
+                                    "code": "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES"
+                                },
+                                {
+                                    "name": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+                                    "code": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_PAGTOS"
+                                },
+                                {
+                                    "name": "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_SOLICITACAO_CLIENTES_USUARIOS",
+                                    "code": "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGTO"
+                                },
+                                {
+                                    "name": "DEPOSITOS_MOEDA_ESPECIE_CHEQUE",
+                                    "code": "DEPOSITO_MOEDA_ESPECIE_CHEQUE"
+                                },
+                                {
+                                    "name": "OPERACOES_CREDITO_BEM_COMO_OUTROS_SERVICOS_PRESTADOS_ACOMPANHAMENTO_OPERACAO",
+                                    "code": "OPERA_CREDITO_OUTROS_SERVICOS_ACOMPANHA_OPERACAO"
+                                },
+                                {
+                                    "name": "CARTAO_CREDITO",
+                                    "code": "CARTAO_CREDITO"
+                                },
+                                {
+                                    "name": "SEGUROS",
+                                    "code": "SEGUROS"
+                                },
+                                {
+                                    "name": "OPERACOES_ARRENDAMENTO_MERCANTIL",
+                                    "code": "OPERA_ARRENDAMENTO_MERCANTIL"
+                                },
+                                {
+                                    "name": "ABERTURA_CONTA_PAGAMENTO_POS_PAGA",
+                                    "code": "ABERTURA_CONTA_PAGAMENTO_POS_PAGA"
+                                },
+                                {
+                                    "name": "COMPRA_VENDA_MOEDA_ESTRANGEIRA_ESPECIE",
+                                    "code": "COMPRA_VENDA_MOEDA_ESTRANGEIRA_ESPECIE"
+                                },
+                                {
+                                    "name": "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_BEM_COMO_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO",
+                                    "code": "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO"
+                                },
+                                {
+                                    "name": "CANCELAMENTO",
+                                    "code": "CANCELAMENTO"
+                                },
+                                {
+                                    "name": "INFORMACOES",
+                                    "code": "INFORMACOES"
+                                },
+                                {
+                                    "name": "RECLAMACOES",
+                                    "code": "RECLAMACOES"
+                                }
+                            ]
+                        },
+                        {
+                            "identification": {
+                                "type": "AGENCIA",
+                                "code": "0296",
+                                "checkDigit": "8",
+                                "name": "AGÊNCIA BRADESCO BARAO LIMEIRA-USP",
+                                "relatedBranch": "NA",
+                                "openingDate": "2010-01-02"
+                            },
+                            "postalAddress": {
+                                "address": "Alameda Barão de Limeira, 966",
+                                "additionalInfo": "NA",
+                                "districtName": "Centro",
+                                "townName": "Campos Elíseos",
+                                "ibgeCode": "3550308",
+                                "countrySubDivision": "SP",
+                                "postCode": "01202002 ",
+                                "country": "Brasil",
+                                "countryCode": "BRA",
+                                "geograficCoordinates": {
+                                    "latitude": "-23.5343218",
+                                    "longitude": "-46.6547988"
+                                }
+                            },
+                            "availability": {
+                                "standards": [
+                                    {
+                                        "weekday": "SEGUNDA_FEIRA",
+                                        "openingTime": "10:00:00Z",
+                                        "closingTime": "16:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "TERCA_FEIRA",
+                                        "openingTime": "10:00:00Z",
+                                        "closingTime": "16:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "QUARTA_FEIRA",
+                                        "openingTime": "10:00:00Z",
+                                        "closingTime": "16:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "QUINTA_FEIRA",
+                                        "openingTime": "10:00:00Z",
+                                        "closingTime": "16:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "SEXTA_FEIRA",
+                                        "openingTime": "10:00:00Z",
+                                        "closingTime": "16:00:00Z"
+                                    }
+                                ],
+                                "exception": "Exceto feriados municipais, estaduais e nacionais",
+                                "isPublicAccessAllowed": true
+                            },
+                            "phones": [
+                                {
+                                    "type": "FIXO",
+                                    "countryCallingCode": "55",
+                                    "areaCode": "11",
+                                    "number": "330037553"
+                                }
+                            ],
+                            "services": [
+                                {
+                                    "name": "ABERTURA_CONTAS_DEPOSITOS_OU_PAGAMENTO_PRE_PAGA",
+                                    "code": "ABRE_CONTA_DEPOSITO_OU_PRE_PAGA"
+                                },
+                                {
+                                    "name": "SAQUE_MOEDA_EM_ESPECIE",
+                                    "code": "SAQUE_MOEDA_ESPECIE"
+                                },
+                                {
+                                    "name": "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+                                    "code": "RECEBE_PAGA_QUALQUER_NATUREZA"
+                                },
+                                {
+                                    "name": "TRANSFERENCIAS_ELETRONICAS_VISANDO_MOVIMENTACAO_CONTAS_DEPOSITOS_OU_PAGAMENTO_TITULARIDADE_CLIENTES",
+                                    "code": "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES"
+                                },
+                                {
+                                    "name": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+                                    "code": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_PAGTOS"
+                                },
+                                {
+                                    "name": "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_SOLICITACAO_CLIENTES_USUARIOS",
+                                    "code": "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGTO"
+                                },
+                                {
+                                    "name": "DEPOSITOS_MOEDA_ESPECIE_CHEQUE",
+                                    "code": "DEPOSITO_MOEDA_ESPECIE_CHEQUE"
+                                },
+                                {
+                                    "name": "OPERACOES_CREDITO_BEM_COMO_OUTROS_SERVICOS_PRESTADOS_ACOMPANHAMENTO_OPERACAO",
+                                    "code": "OPERA_CREDITO_OUTROS_SERVICOS_ACOMPANHA_OPERACAO"
+                                },
+                                {
+                                    "name": "CARTAO_CREDITO",
+                                    "code": "CARTAO_CREDITO"
+                                },
+                                {
+                                    "name": "SEGUROS",
+                                    "code": "SEGUROS"
+                                },
+                                {
+                                    "name": "OPERACOES_ARRENDAMENTO_MERCANTIL",
+                                    "code": "OPERA_ARRENDAMENTO_MERCANTIL"
+                                },
+                                {
+                                    "name": "ABERTURA_CONTA_PAGAMENTO_POS_PAGA",
+                                    "code": "ABERTURA_CONTA_PAGAMENTO_POS_PAGA"
+                                },
+                                {
+                                    "name": "COMPRA_VENDA_MOEDA_ESTRANGEIRA_ESPECIE",
+                                    "code": "COMPRA_VENDA_MOEDA_ESTRANGEIRA_ESPECIE"
+                                },
+                                {
+                                    "name": "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_BEM_COMO_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO",
+                                    "code": "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO"
+                                },
+                                {
+                                    "name": "CANCELAMENTO",
+                                    "code": "CANCELAMENTO"
+                                },
+                                {
+                                    "name": "INFORMACOES",
+                                    "code": "INFORMACOES"
+                                },
+                                {
+                                    "name": "RECLAMACOES",
+                                    "code": "RECLAMACOES"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "links": {
+        "first": "https://api.bradesco.com/open-banking/channels/v1/branches?page=1&page-size=2",
+        "prev": "https://api.bradesco.com/open-banking/channels/v1/branches?page=347&page-size=2",
+        "self": "https://api.bradesco.com/open-banking/channels/v1/branches?page=348&page-size=2",
+        "next": "https://api.bradesco.com/open-banking/channels/v1/branches?page=349&page-size=2",
+        "last": "https://api.bradesco.com/open-banking/channels/v1/branches?page=4922&page-size=2"
+    },
+    "meta": {
+        "totalRecords": 9843,
+        "totalPages": 4922
+    }
+}
