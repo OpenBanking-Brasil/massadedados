@@ -1,0 +1,130 @@
+{
+  "data": {
+    "brand": {
+      "name": "Banco do Estado do Rio Grande do Sul S.A",
+      "companies": [
+        {
+          "cnpjNumber": "92702067000196",
+          "name": "Banco do Estado do Rio Grande do Sul S.A",
+          "urlComplementaryList": "https://www.banrisul.com.br/bob/link/bobw06hn_conteudo_lista2.aspx?secao_id=417",
+          "personalFinancings": [
+            {
+              "type": "FINANCIAMENTO_RURAL_INVESTIMENTO",
+              "fees": {
+                "services": [
+                  {
+                    "name": "Programa de modernização da frota agrícola",
+                    "code": "Moderfrota",
+                    "chargingTriggerInfo": "Máximo: até 5% do valor dos bens objeto do financiamento, sendo de até 0% para produtores enquadrados no Pronamp.",
+                    "prices": [
+                      {
+                        "interval": "1_FAIXA",
+                        "value": "0.00",
+                        "currency": "BRL",
+                        "customers": {
+                          "rate": "0.5000"
+                        }
+                      },
+                      {
+                        "interval": "2_FAIXA",
+                        "value": "160.00",
+                        "currency": "BRL",
+                        "customers": {
+                          "rate": "0.1500"
+                        }
+                      },
+                      {
+                        "interval": "3_FAIXA",
+                        "value": "500.00",
+                        "currency": "BRL",
+                        "customers": {
+                          "rate": "0.1500"
+                        }
+                      },
+                      {
+                        "interval": "4_FAIXA",
+                        "value": "1000.00",
+                        "currency": "BRL",
+                        "customers": {
+                          "rate": "0.2000"
+                        }
+                      }
+                    ],
+                    "minimum": {
+                      "value": "0.00",
+                      "currency": "BRL"
+                    },
+                    "maximum": {
+                      "value": "1000.00",
+                      "currency": "BRL"
+                    }
+                  }
+                ]
+              },
+              "interestRates": [
+                {
+                  "referentialRateIndexer": "CREDITO_RURAL_TCR_POS",
+                  "rate": "0.15",
+                  "applications": [
+                    {
+                      "interval": "1_FAIXA",
+                      "indexer": {
+                        "rate": "0.0025"
+                      },
+                      "customers": {
+                        "rate": "0.0300"
+                      }
+                    },
+                    {
+                      "interval": "2_FAIXA",
+                      "indexer": {
+                        "rate": "0.0350"
+                      },
+                      "customers": {
+                        "rate": "0.4700"
+                      }
+                    },
+                    {
+                      "interval": "3_FAIXA",
+                      "indexer": {
+                        "rate": "0.4500"
+                      },
+                      "customers": {
+                        "rate": "0.2000"
+                      }
+                    },
+                    {
+                      "interval": "4_FAIXA",
+                      "indexer": {
+                        "rate": "0.5000"
+                      },
+                      "customers": {
+                        "rate": "0.3000"
+                      }
+                    }
+                  ],
+                  "minimumRate": "0.0000",
+                  "maximumRate": "0.5000"
+                }
+              ],
+              "requiredWarranties": [
+                "BENS_ARRENDADOS"
+              ],
+              "termsConditions": "https://www.banrisul.com.br/bob/link/bobw06hn_conteudo_detalhe2.aspx?secao_id=456"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "links": {
+    "self": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-financings?page=1&page-size=1",
+    "first": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-financings?page=1&page-size=1",
+    "next": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-financings?page=2&page-size=1",
+    "last": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-financings?page=10&page-size=1"
+  },
+  "meta": {
+    "totalRecords": 10,
+    "totalPages": 10
+  }
+}
