@@ -26,7 +26,6 @@
                                                 "townName": "São Caetano do Sul",
                                                 "countrySubDivision": "SP",
                                                 "postCode": "09521040 ",
-                                                "additionalInfo": "NA",
                                                 "ibgeCode": "3548807",
                                                 "country": "Brasil",
                                                 "countryCode": "BRA",
@@ -85,7 +84,8 @@
                                     "services": [
                                         {
                                             "name": "Financiamento e Arrendamento de Veículos",
-                                            "code": "OUTROS"
+                                            "code": "OUTROS",
+                                            "additionalInfo": "Financiamento e Arrendamento de Veículos"
                                         }
                                     ]
                                 }
@@ -109,7 +109,6 @@
                                                 "townName": "São Caetano do Sul",
                                                 "countrySubDivision": "SP",
                                                 "postCode": "09510010",
-                                                "additionalInfo": "NA",
                                                 "ibgeCode": "3548807",
                                                 "country": "Brasil",
                                                 "countryCode": "BRA",
@@ -168,7 +167,8 @@
                                     "services": [
                                         {
                                             "name": "Financiamento e Arrendamento de Veículos",
-                                            "code": "OUTROS"
+                                            "code": "OUTROS",
+                                            "additionalInfo": "Financiamento e Arrendamento de Veículos"
                                         }
                                     ]
                                 }
@@ -180,10 +180,14 @@
         }
     },
     "links": {
-        "self": "https://api.bradesco.com/open-banking/channels/v1/banking-agents"
+        "first": "https://api.bradesco.com/open-banking/channels/v1/banking-agents?page=1&page-size=1",
+        "prev": "https://api.bradesco.com/open-banking/channels/v1/banking-agents?page=407&page-size=1",
+        "self": "https://api.bradesco.com/open-banking/channels/v1/banking-agents?page=408&page-size=1",
+        "next": "https://api.bradesco.com/open-banking/channels/v1/banking-agents?page=409&page-size=1",
+        "last": "https://api.bradesco.com/open-banking/channels/v1/banking-agents?page=9843&page-size=1"
     },
     "meta": {
-        "totalRecords": 2,
-        "totalPages": 1
+        "totalRecords": 9843,
+        "totalPages": 9843
     }
 }

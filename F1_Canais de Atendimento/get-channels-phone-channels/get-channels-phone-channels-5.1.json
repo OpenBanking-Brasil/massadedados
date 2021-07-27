@@ -163,10 +163,14 @@
         }
     },
     "links": {
-        "self": "https://api.bradesco.com/open-banking/channels/v1/phone-channels"
+        "first": "https://api.bradesco.com/open-banking/channels/v1/phone-channels?page=1&page-size=1",
+        "prev": "https://api.bradesco.com/open-banking/channels/v1/phone-channels?page=941&page-size=1",
+        "self": "https://api.bradesco.com/open-banking/channels/v1/phone-channels?page=942&page-size=1",
+        "next": "https://api.bradesco.com/open-banking/channels/v1/phone-channels?page=943&page-size=1",
+        "last": "https://api.bradesco.com/open-banking/channels/v1/phone-channels?page=9843&page-size=1"
     },
     "meta": {
-        "totalRecords": 3,
-        "totalPages": 1
+        "totalRecords": 9843,
+        "totalPages": 9843
     }
 }

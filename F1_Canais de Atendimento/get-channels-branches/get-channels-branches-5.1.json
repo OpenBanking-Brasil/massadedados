@@ -19,7 +19,6 @@
                             },
                             "postalAddress": {
                                 "address": "Rua Assunção, ESQ.C/R.LUCAS 111",
-                                "additionalInfo": "NA",
                                 "districtName": "Brás",
                                 "townName": "São Paulo",
                                 "ibgeCode": "3550308",
@@ -153,7 +152,6 @@
                             },
                             "postalAddress": {
                                 "address": "Alameda Barão de Limeira, 966",
-                                "additionalInfo": "NA",
                                 "districtName": "Centro",
                                 "townName": "Campos Elíseos",
                                 "ibgeCode": "3550308",
@@ -282,14 +280,14 @@
         }
     },
     "links": {
-        "first": "https://api.bradesco.com/open-banking/channels/v1/branches?page=1&page-size=2",
-        "prev": "https://api.bradesco.com/open-banking/channels/v1/branches?page=347&page-size=2",
-        "self": "https://api.bradesco.com/open-banking/channels/v1/branches?page=348&page-size=2",
-        "next": "https://api.bradesco.com/open-banking/channels/v1/branches?page=349&page-size=2",
-        "last": "https://api.bradesco.com/open-banking/channels/v1/branches?page=4922&page-size=2"
+        "first": "https://api.bradesco.com/open-banking/channels/v1/branches?page=1&page-size=1",
+        "prev": "https://api.bradesco.com/open-banking/channels/v1/branches?page=347&page-size=1",
+        "self": "https://api.bradesco.com/open-banking/channels/v1/branches?page=348&page-size=1",
+        "next": "https://api.bradesco.com/open-banking/channels/v1/branches?page=349&page-size=1",
+        "last": "https://api.bradesco.com/open-banking/channels/v1/branches?page=9843&page-size=1"
     },
     "meta": {
         "totalRecords": 9843,
-        "totalPages": 4922
+        "totalPages": 9843
     }
 }
