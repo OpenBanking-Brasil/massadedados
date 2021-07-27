@@ -1,0 +1,172 @@
+{
+    "data": {
+        "brand": {
+            "name": "Banco Bradesco S.A",
+            "companies": [
+                {
+                    "name": "Banco Bradesco S.A",
+                    "cnpjNumber": "60746948000112",
+                    "urlComplementaryList": "https://banco.bradesco/html/classic/canais-digitais/index.shtm",
+                    "phoneChannels": [
+                        {
+                            "identification": {
+                                "type": "CENTRAL_TELEFONICA",
+                                "phones": [
+                                    {
+                                        "countryCallingCode": "55",
+                                        "areaCode": "NA",
+                                        "number": "40020022",
+                                        "additionalInfo": "Capitais e regiões metropolitanas"
+                                    },
+                                    {
+                                        "countryCallingCode": "55",
+                                        "areaCode": "NA",
+                                        "number": "08005700022",
+                                        "additionalInfo": "Outras regiões"
+                                    },
+                                    {
+                                        "countryCallingCode": "55",
+                                        "areaCode": "11",
+                                        "number": "40020022",
+                                        "additionalInfo": "Acesso do exterior"
+                                    },
+                                    {
+                                        "countryCallingCode": "55",
+                                        "areaCode": "NA",
+                                        "number": "08007220099",
+                                        "additionalInfo": "Deficiência Auditiva/Fala"
+                                    }
+                                ]
+                            },
+                            "services": [
+                                {
+                                    "name": "RECLAMACOES",
+                                    "code": "RECLAMACOES"
+                                },
+                                {
+                                    "name": "CANCELAMENTO",
+                                    "code": "CANCELAMENTO"
+                                },
+                                {
+                                    "name": "INFORMACOES",
+                                    "code": "INFORMACOES"
+                                }
+                            ]
+                        },
+                        {
+                            "identification": {
+                                "type": "SAC",
+                                "phones": [
+                                    {
+                                        "countryCallingCode": "55",
+                                        "areaCode": "NA",
+                                        "number": "08007048383",
+                                        "additionalInfo": "Alô Bradesco"
+                                    },
+                                    {
+                                        "countryCallingCode": "55",
+                                        "areaCode": "NA",
+                                        "number": "08007211155",
+                                        "additionalInfo": "Bradesco Capitalização"
+                                    },
+                                    {
+                                        "countryCallingCode": "55",
+                                        "areaCode": "NA",
+                                        "number": "08007211166",
+                                        "additionalInfo": "Bradesco Consórcios"
+                                    },
+                                    {
+                                        "countryCallingCode": "55",
+                                        "areaCode": "NA",
+                                        "number": "08007279977",
+                                        "additionalInfo": "Bradesco Financiamentos"
+                                    },
+                                    {
+                                        "countryCallingCode": "55",
+                                        "areaCode": "NA",
+                                        "number": "08007279966",
+                                        "additionalInfo": "Bradesco Seguros"
+                                    },
+                                    {
+                                        "countryCallingCode": "55",
+                                        "areaCode": "NA",
+                                        "number": "08007211144",
+                                        "additionalInfo": "Bradesco Vida e Previdência"
+                                    },
+                                    {
+                                        "countryCallingCode": "55",
+                                        "areaCode": "NA",
+                                        "number": "08007279988",
+                                        "additionalInfo": "Cartões de Crédito Elo, Visa e Mastercard"
+                                    },
+                                    {
+                                        "countryCallingCode": "55",
+                                        "areaCode": "NA",
+                                        "number": "08007211188",
+                                        "additionalInfo": "Cartões de Crédito e de Compras American Express"
+                                    },
+                                    {
+                                        "countryCallingCode": "55",
+                                        "areaCode": "NA",
+                                        "number": "08007220099",
+                                        "additionalInfo": "Deficiência auditiva ou de fala"
+                                    }
+                                ]
+                            },
+                            "services": [
+                                {
+                                    "name": "RECLAMACOES",
+                                    "code": "RECLAMACOES"
+                                },
+                                {
+                                    "name": "CANCELAMENTO",
+                                    "code": "CANCELAMENTO"
+                                },
+                                {
+                                    "name": "INFORMACOES",
+                                    "code": "INFORMACOES"
+                                }
+                            ]
+                        },
+                        {
+                            "identification": {
+                                "type": "OUVIDORIA",
+                                "phones": [
+                                    {
+                                        "countryCallingCode": "55",
+                                        "areaCode": "NA",
+                                        "number": "08007279933",
+                                        "additionalInfo": "NA"
+                                    },
+                                    {
+                                        "countryCallingCode": "55",
+                                        "areaCode": "NA",
+                                        "number": "08007220099",
+                                        "additionalInfo": "NA"
+                                    }
+                                ]
+                            },
+                            "services": [
+                                {
+                                    "name": "RECLAMACOES",
+                                    "code": "RECLAMACOES"
+                                },
+                                {
+                                    "name": "INFORMACOES",
+                                    "code": "INFORMACOES"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "links": {
+        "self": "https://api.bradesco.com/open-banking/channels/v1/phone-channels"
+    },
+    "meta": {
+        "totalRecords": 3,
+        "totalPages": 1
+    }
+}
