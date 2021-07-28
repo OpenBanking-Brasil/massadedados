@@ -1,130 +1,573 @@
 {
-  "data": {
-    "brand": {
-      "name": "Banco do Estado do Rio Grande do Sul S.A",
-      "companies": [
-        {
-          "cnpjNumber": "92702067000196",
-          "name": "Banco do Estado do Rio Grande do Sul S.A",
-          "urlComplementaryList": "https://www.banrisul.com.br/bob/link/bobw06hn_conteudo_lista2.aspx?secao_id=417",
-          "personalFinancings": [
-            {
-              "type": "FINANCIAMENTO_RURAL_INVESTIMENTO",
-              "fees": {
-                "services": [
-                  {
-                    "name": "Programa de modernização da frota agrícola",
-                    "code": "MODERFROTA",
-                    "chargingTriggerInfo": "Máximo: até 5% do valor dos bens objeto do financiamento, sendo de até 0% para produtores enquadrados no Pronamp.",
-                    "prices": [
-                      {
-                        "interval": "1_FAIXA",
-                        "value": "0.00",
-                        "currency": "BRL",
-                        "customers": {
-                          "rate": "0.5000"
-                        }
-                      },
-                      {
-                        "interval": "2_FAIXA",
-                        "value": "160.00",
-                        "currency": "BRL",
-                        "customers": {
-                          "rate": "0.1500"
-                        }
-                      },
-                      {
-                        "interval": "3_FAIXA",
-                        "value": "500.00",
-                        "currency": "BRL",
-                        "customers": {
-                          "rate": "0.1500"
-                        }
-                      },
-                      {
-                        "interval": "4_FAIXA",
-                        "value": "1000.00",
-                        "currency": "BRL",
-                        "customers": {
-                          "rate": "0.2000"
-                        }
-                      }
-                    ],
-                    "minimum": {
-                      "value": "0.00",
-                      "currency": "BRL"
-                    },
-                    "maximum": {
-                      "value": "1000.00",
-                      "currency": "BRL"
-                    }
-                  }
-                ]
-              },
-              "interestRates": [
+    "data": {
+        "brand": {
+            "name": "Banco do Estado do Rio Grande do Sul S.A",
+            "companies": [
                 {
-                  "referentialRateIndexer": "CREDITO_RURAL_TCR_POS",
-                  "rate": "0.15",
-                  "applications": [
-                    {
-                      "interval": "1_FAIXA",
-                      "indexer": {
-                        "rate": "0.0025"
-                      },
-                      "customers": {
-                        "rate": "0.0300"
-                      }
-                    },
-                    {
-                      "interval": "2_FAIXA",
-                      "indexer": {
-                        "rate": "0.0350"
-                      },
-                      "customers": {
-                        "rate": "0.4700"
-                      }
-                    },
-                    {
-                      "interval": "3_FAIXA",
-                      "indexer": {
-                        "rate": "0.4500"
-                      },
-                      "customers": {
-                        "rate": "0.2000"
-                      }
-                    },
-                    {
-                      "interval": "4_FAIXA",
-                      "indexer": {
-                        "rate": "0.5000"
-                      },
-                      "customers": {
-                        "rate": "0.3000"
-                      }
-                    }
-                  ],
-                  "minimumRate": "0.0000",
-                  "maximumRate": "0.5000"
+                    "cnpjNumber": "92702067000196",
+                    "name": "Banco do Estado do Rio Grande do Sul S.A",
+                    "urlComplementaryList": "https://www.banrisul.com.br/bob/link/bobw06hn_conteudo_lista2.aspx?secao_id=417",
+                    "personalFinancings": [
+                        {
+                            "type": "FINANCIAMENTO_RURAL_INVESTIMENTO",
+                            "fees": {
+                                "services": [
+                                    {
+                                        "name": "Programa de modernização da frota agrícola",
+                                        "code": "MODERFROTA",
+                                        "chargingTriggerInfo": "Máximo: até 5% do valor dos bens objeto do financiamento, sendo de até 0% para produtores enquadrados no Pronamp.",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.5000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "160.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.1500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "500.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.1500"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "1000.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.2000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "1000.00",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "referentialRateIndexer": "CREDITO_RURAL_TCR_POS",
+                                    "rate": "0.15",
+                                    "applications": [
+                                        {
+                                            "interval": "1_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0025"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0300"
+                                            }
+                                        },
+                                        {
+                                            "interval": "2_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0350"
+                                            },
+                                            "customers": {
+                                                "rate": "0.4700"
+                                            }
+                                        },
+                                        {
+                                            "interval": "3_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.4500"
+                                            },
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "4_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.5000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            }
+                                        }
+                                    ],
+                                    "minimumRate": "0.0000",
+                                    "maximumRate": "0.5000"
+                                }
+                            ],
+                            "requiredWarranties": [
+                                "BENS_ARRENDADOS"
+                            ],
+                            "termsConditions": "https://www.banrisul.com.br/bob/link/bobw06hn_conteudo_detalhe2.aspx?secao_id=456"
+                        },
+                        {
+                            "type": "FINANCIAMENTO_IMOBILIARIO_SISTEMA_FINANCEIRO_HABITACAO_SFI",
+                            "fees": {
+                                "services": [
+                                    {
+                                        "name": "TAXA_EXPED.HABIT",
+                                        "code": "TAXA_EXPED.HABIT",
+                                        "chargingTriggerInfo": "Tarifa cobrada por servico prestado ao cliente durante o mes",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "2000.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "2000.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "2000.00",
+                                            "currency": "BRL"
+                                        }
+                                    },
+                                    {
+                                        "name": "TAXA_SERV_ADM",
+                                        "code": "TAXA_SERV_ADM",
+                                        "chargingTriggerInfo": "Tarifa cobrada por servico prestado ao cliente durante o mes",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "25.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "25.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "25.00",
+                                            "currency": "BRL"
+                                        }
+                                    },
+                                    {
+                                        "name": "EXTR.IMOBILIARIO",
+                                        "code": "EXTR.IMOBILIARIO",
+                                        "chargingTriggerInfo": "Tarifa cobrada por servico prestado ao cliente durante o mes",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "referentialRateIndexer": "POS_FIXADO_TR_TBF",
+                                    "rate": "1.0000",
+                                    "applications": [
+                                        {
+                                            "interval": "1_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0050"
+                                            },
+                                            "customers": {
+                                                "rate": "0.1111"
+                                            }
+                                        },
+                                        {
+                                            "interval": "2_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0058"
+                                            },
+                                            "customers": {
+                                                "rate": "0.7778"
+                                            }
+                                        },
+                                        {
+                                            "interval": "3_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0063"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0556"
+                                            }
+                                        },
+                                        {
+                                            "interval": "4_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0076"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0556"
+                                            }
+                                        }
+                                    ],
+                                    "minimumRate": "0.0050",
+                                    "maximumRate": "0.0076"
+                                }
+                            ],
+                            "requiredWarranties": [
+                                "ALIENACAO_FIDUCIARIA"
+                            ],
+                            "termsConditions": "http://banrisul.com.br/bob/link/bobw02hn_conteudo_lista.aspx?secao_id=980"
+                        },
+                        {
+                            "type": "FINANCIAMENTO_IMOBILIARIO_SISTEMA_FINANCEIRO_HABITACAO_SFH",
+                            "fees": {
+                                "services": [
+                                    {
+                                        "name": "TAXA_EXPED.HABIT",
+                                        "code": "TAXA_EXPED.HABIT",
+                                        "chargingTriggerInfo": "Tarifa cobrada por servico prestado ao cliente durante o mes",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0049"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "1000.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.1194"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "1500.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "2000.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.8757"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "2000.00",
+                                            "currency": "BRL"
+                                        }
+                                    },
+                                    {
+                                        "name": "TAXA_SERV_ADM",
+                                        "code": "TAXA_SERV_ADM",
+                                        "chargingTriggerInfo": "Tarifa cobrada por servico prestado ao cliente durante o mes",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "25.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.9998"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "137.50",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "200.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0002"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "25.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "200.00",
+                                            "currency": "BRL"
+                                        }
+                                    },
+                                    {
+                                        "name": "EXTR.IMOBILIARIO",
+                                        "code": "EXTR.IMOBILIARIO",
+                                        "chargingTriggerInfo": "Tarifa cobrada por servico prestado ao cliente durante o mes",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        }
+                                    },
+                                    {
+                                        "name": "TARIFA_ALT.VENCTO",
+                                        "code": "TARIFA_ALT.VENCTO",
+                                        "chargingTriggerInfo": "Tarifa cobrada por servico prestado ao cliente durante o mes",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "50.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "50.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "50.00",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "referentialRateIndexer": "POS_FIXADO_TR_TBF",
+                                    "rate": "1.0000",
+                                    "applications": [
+                                        {
+                                            "interval": "1_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0050"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0106"
+                                            }
+                                        },
+                                        {
+                                            "interval": "2_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0058"
+                                            },
+                                            "customers": {
+                                                "rate": "0.4488"
+                                            }
+                                        },
+                                        {
+                                            "interval": "3_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0062"
+                                            },
+                                            "customers": {
+                                                "rate": "0.5088"
+                                            }
+                                        },
+                                        {
+                                            "interval": "4_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0066"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0318"
+                                            }
+                                        }
+                                    ],
+                                    "minimumRate": "0.0050",
+                                    "maximumRate": "0.0070"
+                                }
+                            ],
+                            "requiredWarranties": [
+                                "ALIENACAO_FIDUCIARIA"
+                            ],
+                            "termsConditions": "http://banrisul.com.br/bob/link/bobw02hn_conteudo_lista.aspx?secao_id=980"
+                        }
+                    ]
                 }
-              ],
-              "requiredWarranties": [
-                "BENS_ARRENDADOS"
-              ],
-              "termsConditions": "https://www.banrisul.com.br/bob/link/bobw06hn_conteudo_detalhe2.aspx?secao_id=456"
-            }
-          ]
+            ]
         }
-      ]
+    },
+    "links": {
+        "self": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-financings?page=1&page-size=1",
+        "first": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-financings?page=1&page-size=1",
+        "next": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-financings?page=2&page-size=1",
+        "last": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-financings?page=10&page-size=1"
+    },
+    "meta": {
+        "totalRecords": 10,
+        "totalPages": 10
     }
-  },
-  "links": {
-    "self": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-financings?page=1&page-size=1",
-    "first": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-financings?page=1&page-size=1",
-    "next": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-financings?page=2&page-size=1",
-    "last": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-financings?page=10&page-size=1"
-  },
-  "meta": {
-    "totalRecords": 10,
-    "totalPages": 10
-  }
 }
