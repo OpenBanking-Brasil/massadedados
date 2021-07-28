@@ -1,0 +1,393 @@
+{
+    "data": {
+        "brand": {
+            "name": "Banco do Brasil S/A",
+            "companies": [
+                {
+                    "name": "Banco do Brasil S/A",
+                    "cnpjNumber": "00000000000191",
+                    "urlComplementaryList": null,
+                    "businessCreditCards": [
+                        {
+                            "name": "OUROCARD EMPRESARIAL VISA",
+                            "identification": {
+                                "product": {
+                                    "type": "EMPRESARIAL",
+                                    "additionalInfo": null
+                                },
+                                "creditCard": {
+                                    "network": "VISA",
+                                    "additionalInfo": null
+                                }
+                            },
+                            "rewardsProgram": {
+                                "hasRewardProgram": true,
+                                "rewardProgramInfo": "https://www.bb.com.br/pbb/pagina-inicial/empresas/produtos-e-servicos/ponto-pra-sua-empresa"
+                            },
+                            "fees": {
+                                "services": [
+                                    {
+                                        "name": "FORNECIMENTO_SEGUNDA_VIA_FUNCAO_CREDITO",
+                                        "code": "EMISSAO_SEGUNDA_VIA",
+                                        "chargingTriggerInfo": "Confec/emissao de novo cartao c/funcao credito, restrito a pedidos de reposicao do detentor do cartao, decorrente de perda,roubo, furto, danificacao e outros motivos nao imputaveis a instit.emitente.",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "10.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "10.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "10.00",
+                                            "currency": "BRL"
+                                        }
+                                    },
+                                    {
+                                        "name": "UTILIZACAO_CANAIS_ATENDIMENTO_RETIRADA_ESPECIE_BRASIL",
+                                        "code": "SAQUE_CARTAO_BRASIL",
+                                        "chargingTriggerInfo": "Utilizacao de canais de atendimento disponiveis no Pais para retirada em especie na funcao credito.",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "8.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "8.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "8.00",
+                                            "currency": "BRL"
+                                        }
+                                    },
+                                    {
+                                        "name": "PAGAMENTO_CONTAS_UTILIZANDO_FUNCAO_CREDITO",
+                                        "code": "TARIFA_PAGAMENTO_CONTAS",
+                                        "chargingTriggerInfo": "Realizacao de procedimentos operacionais para o pagamento de contas (agua, luz, telefone, gas, tributos, boletos de cobranca, etc.), utilizando a funcao credito do cartao.",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "7.50",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "7.50",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "7.50",
+                                            "currency": "BRL"
+                                        }
+                                    },
+                                    {
+                                        "name": "ANUIDADE_DIFERENCIADA",
+                                        "code": "ANUIDADE_DIFERENCIADA",
+                                        "chargingTriggerInfo": "Utilizacao de rede de estabelecimentos afiliados, instalada no Pais e no exterior, para pagamentos de bens e servicos, cobrada no maximo uma vez a cada 12 meses, admitido o parcelamento da cobranca.",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.4182"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "96.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0151"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "128.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0013"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "192.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.5654"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "192.00",
+                                            "currency": "BRL"
+                                        }
+                                    },
+                                    {
+                                        "name": "UTILIZACAO_CANAIS_ATENDIMENTO_RETIRADA_ESPECIE_EXTERIOR",
+                                        "code": "SAQUE_CARTAO_EXTERIOR",
+                                        "chargingTriggerInfo": "Utilizacao de canais de atendimento disponiveis no exterior para retirada em especie na funcao credito ou debito.",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "12.50",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.5386"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "15.66",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0384"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "22.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.4230"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "12.50",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "22.00",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
+                            },
+                            "interest": {
+                                "rates": [
+                                    {
+                                        "referentialRateIndexer": "PRE_FIXADO",
+                                        "rate": "NA",
+                                        "applications": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0264"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0071"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0403"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0105"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0676"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0015"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0990"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.9809"
+                                                }
+                                            }
+                                        ],
+                                        "minimumRate": "0.0011",
+                                        "maximumRate": "0.1090"
+                                    }
+                                ],
+                                "instalmentRates": [
+                                    {
+                                        "referentialRateIndexer": "PRE_FIXADO",
+                                        "rate": "NA",
+                                        "applications": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0950"
+                                                },
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimumRate": "0.0950",
+                                        "maximumRate": "0.0950"
+                                    }
+                                ],
+                                "otherCredits": [
+                                    {
+                                        "code": "SAQUE_A_CREDITO",
+                                        "additionalInfo": null
+                                    },
+                                    {
+                                        "code": "PAGAMENTOS_CONTAS",
+                                        "additionalInfo": null
+                                    }
+                                ]
+                            },
+                            "termsConditions": {
+                                "minimumFeeRate": "0.15",
+                                "additionalInfo": null,
+                                "elegibilityCriteriaInfo": "https://www.bb.com.br/pbb/pagina-inicial/empresas/produtos-e-servicos/cartoes/cartoes-para-pagar-despesas-do-dia-a-dia-da-empresa/cartao-de-credito-ourocard-empresarial",
+                                "closingProcessInfo": "https://www.bb.com.br/pbb/pagina-inicial/perguntas-frequentes#/"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "links": {
+        "self": "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-credit-cards?page=1",
+        "first": null,
+        "prev": null,
+        "next": "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-credit-cards?page=2",
+        "last": "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-credit-cards?page=10"
+    },
+    "meta": {
+        "totalRecords": 10,
+        "totalPages": 10
+    }
+}
