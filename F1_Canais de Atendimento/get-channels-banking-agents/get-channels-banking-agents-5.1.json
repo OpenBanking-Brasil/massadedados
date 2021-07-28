@@ -1,0 +1,193 @@
+{
+    "data": {
+        "brand": {
+            "name": "Banco Bradesco S.A",
+            "companies": [
+                {
+                    "name": "Banco Bradesco S.A",
+                    "cnpjNumber": "60746948000112",
+                    "urlComplementaryList": "https://banco.bradesco/html/classic/atendimento/correspondentes-no-pais/index.shtm",
+                    "contractors": [
+                        {
+                            "name": "ABC MOTORS LTDA",
+                            "cnpjNumber": "001979916000106",
+                            "bankingAgents": [
+                                {
+                                    "identification": {
+                                        "corporationName": "ABC",
+                                        "cnpjNumber": "001979916000106",
+                                        "isUnderestablishment": false
+                                    },
+                                    "locations": [
+                                        {
+                                            "postalAddress": {
+                                                "address": "Avenida Guido Aliberti, 00331",
+                                                "districtName": "Centro",
+                                                "townName": "São Caetano do Sul",
+                                                "countrySubDivision": "SP",
+                                                "postCode": "09521040 ",
+                                                "ibgeCode": "3548807",
+                                                "country": "Brasil",
+                                                "countryCode": "BRA",
+                                                "geographicCoordinates": {
+                                                    "latitude": "-23.6248835",
+                                                    "longitude": "-46.5824175"
+                                                }
+                                            },
+                                            "phones": [
+                                                {
+                                                    "type": "FIXO",
+                                                    "countryCallingCode": "55",
+                                                    "areaCode": "11",
+                                                    "number": "326703974"
+                                                },
+                                                {
+                                                    "type": "MOVEL",
+                                                    "countryCallingCode": "55",
+                                                    "areaCode": "11",
+                                                    "number": "983601958"
+                                                }
+                                            ],
+                                            "availability": {
+                                                "standards": [
+                                                    {
+                                                        "weekday": "SEGUNDA_FEIRA",
+                                                        "openingTime": "10:00:00Z",
+                                                        "closingTime": "17:00:00Z"
+                                                    },
+                                                    {
+                                                        "weekday": "TERCA_FEIRA",
+                                                        "openingTime": "10:00:00Z",
+                                                        "closingTime": "17:00:00Z"
+                                                    },
+                                                    {
+                                                        "weekday": "QUARTA_FEIRA",
+                                                        "openingTime": "10:00:00Z",
+                                                        "closingTime": "17:00:00Z"
+                                                    },
+                                                    {
+                                                        "weekday": "QUINTA_FEIRA",
+                                                        "openingTime": "10:00:00Z",
+                                                        "closingTime": "17:00:00Z"
+                                                    },
+                                                    {
+                                                        "weekday": "SEXTA_FEIRA",
+                                                        "openingTime": "10:00:00Z",
+                                                        "closingTime": "17:00:00Z"
+                                                    }
+                                                ],
+                                                "exception": "Exceto feriados municipais, estaduais e nacionais",
+                                                "isPublicAccessAllowed": true
+                                            }
+                                        }
+                                    ],
+                                    "services": [
+                                        {
+                                            "name": "Financiamento e Arrendamento de Veículos",
+                                            "code": "OUTROS",
+                                            "additionalInfo": "Financiamento e Arrendamento de Veículos"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "LEANDRINI BLINDAGEM LTDA",
+                            "cnpjNumber": "018705742000188",
+                            "bankingAgents": [
+                                {
+                                    "identification": {
+                                        "corporationName": "LEANDRINI BLINDAGEM",
+                                        "cnpjNumber": "018705742000188",
+                                        "isUnderestablishment": false
+                                    },
+                                    "locations": [
+                                        {
+                                            "postalAddress": {
+                                                "address": "Rua Baraldi, 00399",
+                                                "districtName": "Centro",
+                                                "townName": "São Caetano do Sul",
+                                                "countrySubDivision": "SP",
+                                                "postCode": "09510010",
+                                                "ibgeCode": "3548807",
+                                                "country": "Brasil",
+                                                "countryCode": "BRA",
+                                                "geographicCoordinates": {
+                                                    "latitude": "-23.6248835",
+                                                    "longitude": "-46.5824175"
+                                                }
+                                            },
+                                            "phones": [
+                                                {
+                                                    "type": "FIXO",
+                                                    "countryCallingCode": "55",
+                                                    "areaCode": "11",
+                                                    "number": "368800293"
+                                                },
+                                                {
+                                                    "type": "MOVEL",
+                                                    "countryCallingCode": "55",
+                                                    "areaCode": "11",
+                                                    "number": "980438256"
+                                                }
+                                            ],
+                                            "availability": {
+                                                "standards": [
+                                                    {
+                                                        "weekday": "SEGUNDA_FEIRA",
+                                                        "openingTime": "10:00:00Z",
+                                                        "closingTime": "17:00:00Z"
+                                                    },
+                                                    {
+                                                        "weekday": "TERCA_FEIRA",
+                                                        "openingTime": "10:00:00Z",
+                                                        "closingTime": "17:00:00Z"
+                                                    },
+                                                    {
+                                                        "weekday": "QUARTA_FEIRA",
+                                                        "openingTime": "10:00:00Z",
+                                                        "closingTime": "17:00:00Z"
+                                                    },
+                                                    {
+                                                        "weekday": "QUINTA_FEIRA",
+                                                        "openingTime": "10:00:00Z",
+                                                        "closingTime": "17:00:00Z"
+                                                    },
+                                                    {
+                                                        "weekday": "SEXTA_FEIRA",
+                                                        "openingTime": "10:00:00Z",
+                                                        "closingTime": "17:00:00Z"
+                                                    }
+                                                ],
+                                                "exception": "Exceto feriados municipais, estaduais e nacionais",
+                                                "isPublicAccessAllowed": true
+                                            }
+                                        }
+                                    ],
+                                    "services": [
+                                        {
+                                            "name": "Financiamento e Arrendamento de Veículos",
+                                            "code": "OUTROS",
+                                            "additionalInfo": "Financiamento e Arrendamento de Veículos"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "links": {
+        "first": "https://api.bradesco.com/open-banking/channels/v1/banking-agents?page=1&page-size=1",
+        "prev": "https://api.bradesco.com/open-banking/channels/v1/banking-agents?page=407&page-size=1",
+        "self": "https://api.bradesco.com/open-banking/channels/v1/banking-agents?page=408&page-size=1",
+        "next": "https://api.bradesco.com/open-banking/channels/v1/banking-agents?page=409&page-size=1",
+        "last": "https://api.bradesco.com/open-banking/channels/v1/banking-agents?page=9843&page-size=1"
+    },
+    "meta": {
+        "totalRecords": 9843,
+        "totalPages": 9843
+    }
+}
