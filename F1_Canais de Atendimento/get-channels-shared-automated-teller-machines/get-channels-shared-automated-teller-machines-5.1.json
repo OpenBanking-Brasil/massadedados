@@ -1,0 +1,199 @@
+{
+    "data": {
+        "brand": {
+            "name": "Banco Bradesco S.A",
+            "companies": [
+                {
+                    "name": "Banco Bradesco S.A",
+                    "cnpjNumber": "60746948000112",
+                    "urlComplementaryList": "https://banco.bradesco/html/classic/canais-digitais/index.shtm",
+                    "sharedAutomatedTellerMachines": [
+                        {
+                            "identification": {
+                                "ownerName": "Banco Bradesco S.A"
+                            },
+                            "postalAddress": {
+                                "address": "Viela Agenor de Oliveira, 878",
+                                "districtName": "Vila Alayde",
+                                "townName": "Ferraz de Vasconcelos",
+                                "ibgeCode": "3515707",
+                                "countrySubDivision": "SP",
+                                "postCode": "08534325",
+                                "country": "Brasil",
+                                "countryCode": "BRA",
+                                "geographicCoordinates": {
+                                    "latitude": "-23.5403636",
+                                    "longitude": "-46.3781093"
+                                }
+                            },
+                            "availability": {
+                                "standards": [
+                                    {
+                                        "weekday": "SEGUNDA_FEIRA",
+                                        "openingTime": "06:00:00Z",
+                                        "closingTime": "22:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "TERCA_FEIRA",
+                                        "openingTime": "06:00:00Z",
+                                        "closingTime": "22:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "QUARTA_FEIRA",
+                                        "openingTime": "06:00:00Z",
+                                        "closingTime": "22:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "QUINTA_FEIRA",
+                                        "openingTime": "06:00:00Z",
+                                        "closingTime": "22:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "SEXTA_FEIRA",
+                                        "openingTime": "06:00:00Z",
+                                        "closingTime": "22:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "SABADO",
+                                        "openingTime": "06:00:00Z",
+                                        "closingTime": "22:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "DOMINGO",
+                                        "openingTime": "06:00:00Z",
+                                        "closingTime": "22:00:00Z"
+                                    }
+                                ],
+                                "exception": "Exceto feriados municipais, nacionais e estaduais",
+                                "isPublicAccessAllowed": true
+                            },
+                            "services": [
+                                {
+                                    "name": "SAQUE_MOEDA_EM_ESPECIE",
+                                    "code": "SAQUE_MOEDA_ESPECIE"
+                                },
+                                {
+                                    "name": "TRANSFERENCIAS_ELETRONICAS_VISANDO_MOVIMENTACAO",
+                                    "code": "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGA_TITULARES_CLIENTES"
+                                },
+                                {
+                                    "name": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_E_CONTAS",
+                                    "code": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS"
+                                },
+                                {
+                                    "name": "CARTAO_CREDITO",
+                                    "code": "CARTAO_CREDITO"
+                                },
+                                {
+                                    "name": "PAGAMENTOS",
+                                    "code": "PAGAMENTOS"
+                                },
+                                {
+                                    "name": "CANCELAMENTO",
+                                    "code": "CANCELAMENTO"
+                                }
+                            ]
+                        },
+                        {
+                            "identification": {
+                                "ownerName": "Banco Bradesco S.A"
+                            },
+                            "postalAddress": {
+                                "address": "Rua Matias da Cunha, 591",
+                                "districtName": "Travessão",
+                                "townName": "Caraguatatuba",
+                                "ibgeCode": "3510500",
+                                "countrySubDivision": "SP",
+                                "postCode": "11669260",
+                                "country": "Brasil",
+                                "countryCode": "BRA",
+                                "geographicCoordinates": {
+                                    "latitude": "-23.6386442",
+                                    "longitude": "-45.4337783"
+                                }
+                            },
+                            "availability": {
+                                "standards": [
+                                    {
+                                        "weekday": "SEGUNDA_FEIRA",
+                                        "openingTime": "06:00:00Z",
+                                        "closingTime": "22:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "TERCA_FEIRA",
+                                        "openingTime": "06:00:00Z",
+                                        "closingTime": "22:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "QUARTA_FEIRA",
+                                        "openingTime": "06:00:00Z",
+                                        "closingTime": "22:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "QUINTA_FEIRA",
+                                        "openingTime": "06:00:00Z",
+                                        "closingTime": "22:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "SEXTA_FEIRA",
+                                        "openingTime": "06:00:00Z",
+                                        "closingTime": "22:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "SABADO",
+                                        "openingTime": "06:00:00Z",
+                                        "closingTime": "22:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "DOMINGO",
+                                        "openingTime": "06:00:00Z",
+                                        "closingTime": "22:00:00Z"
+                                    }
+                                ],
+                                "exception": "Exceto feriados municipais, nacionais e estaduais",
+                                "isPublicAccessAllowed": true
+                            },
+                            "services": [
+                                {
+                                    "name": "SAQUE_MOEDA_EM_ESPECIE",
+                                    "code": "SAQUE_MOEDA_ESPECIE"
+                                },
+                                {
+                                    "name": "TRANSFERENCIAS_ELETRONICAS_VISANDO_MOVIMENTACAO",
+                                    "code": "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGA_TITULARES_CLIENTES"
+                                },
+                                {
+                                    "name": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_E_CONTAS",
+                                    "code": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS"
+                                },
+                                {
+                                    "name": "CARTAO_CREDITO",
+                                    "code": "CARTAO_CREDITO"
+                                },
+                                {
+                                    "name": "PAGAMENTOS",
+                                    "code": "PAGAMENTOS"
+                                },
+                                {
+                                    "name": "CANCELAMENTO",
+                                    "code": "CANCELAMENTO"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "links": {
+        "first": "https://api.bradesco.com/open-banking/channels/v1/shared-automated-teller-machines?page=1&page-size=2",
+        "prev": "https://api.bradesco.com/open-banking/channels/v1/shared-automated-teller-machines?page=4324&page-size=2",
+        "self": "https://api.bradesco.com/open-banking/channels/v1/shared-automated-teller-machines?page=4325&page-size=2",
+        "next": "https://api.bradesco.com/open-banking/channels/v1/shared-automated-teller-machines?page=4326&page-size=2",
+        "last": "https://api.bradesco.com/open-banking/channels/v1/shared-automated-teller-machines?page=5222&page-size=2"
+    },
+    "meta": {
+        "totalRecords": 10443,
+        "totalPages": 5222
+    }
+}
