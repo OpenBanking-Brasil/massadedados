@@ -515,7 +515,55 @@
                         {
                             "type": "EMPRESTIMO_CHEQUE_ESPECIAL",
                             "fees": {
-                                "services": []
+                                "services": [
+                                    {
+                                        "name": "CADASTRO",
+                                        "code": "CADASTRO",
+                                        "chargingTriggerInfo": "CONTRATO",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
                             },
                             "interestRates": [
                                 {
@@ -1230,7 +1278,55 @@
                         {
                             "type": "EMPRESTIMO_CHEQUE_ESPECIAL",
                             "fees": {
-                                "services": []
+                                "services": [
+                                    {
+                                        "name": "CADASTRO",
+                                        "code": "CADASTRO",
+                                        "chargingTriggerInfo": "CONTRATO",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
                             },
                             "interestRates": [
                                 {
@@ -1945,7 +2041,55 @@
                         {
                             "type": "EMPRESTIMO_CHEQUE_ESPECIAL",
                             "fees": {
-                                "services": []
+                                "services": [
+                                    {
+                                        "name": "CADASTRO",
+                                        "code": "CADASTRO",
+                                        "chargingTriggerInfo": "CONTRATO",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
                             },
                             "interestRates": [
                                 {
@@ -2660,7 +2804,55 @@
                         {
                             "type": "EMPRESTIMO_CHEQUE_ESPECIAL",
                             "fees": {
-                                "services": []
+                                "services": [
+                                    {
+                                        "name": "CADASTRO",
+                                        "code": "CADASTRO",
+                                        "chargingTriggerInfo": "CONTRATO",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
                             },
                             "interestRates": [
                                 {
@@ -3375,7 +3567,55 @@
                         {
                             "type": "EMPRESTIMO_CHEQUE_ESPECIAL",
                             "fees": {
-                                "services": []
+                                "services": [
+                                    {
+                                        "name": "CADASTRO",
+                                        "code": "CADASTRO",
+                                        "chargingTriggerInfo": "CONTRATO",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
                             },
                             "interestRates": [
                                 {
@@ -4090,7 +4330,55 @@
                         {
                             "type": "EMPRESTIMO_CHEQUE_ESPECIAL",
                             "fees": {
-                                "services": []
+                                "services": [
+                                    {
+                                        "name": "CADASTRO",
+                                        "code": "CADASTRO",
+                                        "chargingTriggerInfo": "CONTRATO",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
                             },
                             "interestRates": [
                                 {
@@ -4805,7 +5093,55 @@
                         {
                             "type": "EMPRESTIMO_CHEQUE_ESPECIAL",
                             "fees": {
-                                "services": []
+                                "services": [
+                                    {
+                                        "name": "CADASTRO",
+                                        "code": "CADASTRO",
+                                        "chargingTriggerInfo": "CONTRATO",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
                             },
                             "interestRates": [
                                 {
@@ -5520,7 +5856,55 @@
                         {
                             "type": "EMPRESTIMO_CHEQUE_ESPECIAL",
                             "fees": {
-                                "services": []
+                                "services": [
+                                    {
+                                        "name": "CADASTRO",
+                                        "code": "CADASTRO",
+                                        "chargingTriggerInfo": "CONTRATO",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
                             },
                             "interestRates": [
                                 {
@@ -6235,7 +6619,55 @@
                         {
                             "type": "EMPRESTIMO_CHEQUE_ESPECIAL",
                             "fees": {
-                                "services": []
+                                "services": [
+                                    {
+                                        "name": "CADASTRO",
+                                        "code": "CADASTRO",
+                                        "chargingTriggerInfo": "CONTRATO",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
                             },
                             "interestRates": [
                                 {
@@ -6950,7 +7382,55 @@
                         {
                             "type": "EMPRESTIMO_CHEQUE_ESPECIAL",
                             "fees": {
-                                "services": []
+                                "services": [
+                                    {
+                                        "name": "CADASTRO",
+                                        "code": "CADASTRO",
+                                        "chargingTriggerInfo": "CONTRATO",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA_VALOR",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
                             },
                             "interestRates": [
                                 {
