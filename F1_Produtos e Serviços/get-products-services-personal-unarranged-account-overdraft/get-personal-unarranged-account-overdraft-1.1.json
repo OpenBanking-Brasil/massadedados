@@ -18,43 +18,43 @@
                                         "prices": [
                                             {
                                                 "interval": "1_FAIXA",
-                                                "value": "140.00",
+                                                "value": "59.90",
                                                 "currency": "BRL",
                                                 "customers": {
-                                                    "rate": "0.2130"
+                                                    "rate": "1.0000"
                                                 }
                                             },
                                             {
                                                 "interval": "2_FAIXA",
-                                                "value": "560.13",
+                                                "value": "0.00",
                                                 "currency": "BRL",
                                                 "customers": {
-                                                    "rate": "0.4193"
+                                                    "rate": "0.0000"
                                                 }
                                             },
                                             {
                                                 "interval": "3_FAIXA",
-                                                "value": "800.40",
+                                                "value": "0.00",
                                                 "currency": "BRL",
                                                 "customers": {
-                                                    "rate": "0.3405"
+                                                    "rate": "0.0000"
                                                 }
                                             },
                                             {
                                                 "interval": "4_FAIXA",
-                                                "value": "1687.15",
+                                                "value": "0.00",
                                                 "currency": "BRL",
                                                 "customers": {
-                                                    "rate": "0.0272"
+                                                    "rate": "0.0000"
                                                 }
                                             }
                                         ],
                                         "minimum": {
-                                            "value": "122.0000",
+                                            "value": "59.90",
                                             "currency": "BRL"
                                         },
                                         "maximum": {
-                                            "value": "2400.0000",
+                                            "value": "59.90",
                                             "currency": "BRL"
                                         }
                                     }
@@ -106,7 +106,970 @@
                                     "maximumRate": "0.8100"
                                 }
                             ],
-                            "termsConditions": "https://www.bb.com.br/docs/pub/inst/dwn/ClausulasGeraisPJ.pdf"
+                            "termsConditions": "https://www.bb.com.br/docs/pub/inst/dwn/ClausulasGeraisPF.pdf"
+                        }
+                    ]
+                },
+                {
+                    "name": "Banco do Brasil - MANAUS",
+                    "cnpjNumber": "00000000000272",
+                    "urlComplementaryList": "https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/emprestimo/emprestimo-pessoal/cheque-especial#/",
+                    "personalUnarrangedAccountOverdraft": [
+                        {
+                            "fees": {
+                                "priorityServices": [
+                                    {
+                                        "name": "CONCESSAO_ADIANTAMENTO_DEPOSITANTE",
+                                        "code": "ADIANT_DEPOSITANTE",
+                                        "chargingTriggerInfo": "Levantamento de informações e avaliação de viabilidade e de riscos para a concessão de crédito em caráter emergencial para cobertura de saldo devedor em conta de depósitos à vista e de excesso sobre o limite previamente pactuado de cheque especial, cobrada no máximo uma vez nos últimos trinta dias",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "59.90",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "59.90",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "59.90",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "referentialRateIndexer": "PRE_FIXADO",
+                                    "rate": "0.0600",
+                                    "applications": [
+                                        {
+                                            "interval": "1_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0230"
+                                            },
+                                            "customers": {
+                                                "rate": "0.1500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "2_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0300"
+                                            },
+                                            "customers": {
+                                                "rate": "0.3500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "3_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0600"
+                                            },
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "4_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.8000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            }
+                                        }
+                                    ],
+                                    "minimumRate": "0.0500",
+                                    "maximumRate": "0.8100"
+                                }
+                            ],
+                            "termsConditions": "https://www.bb.com.br/docs/pub/inst/dwn/ClausulasGeraisPF.pdf"
+                        }
+                    ]
+                },
+                {
+                    "name": "Banco do Brasil - PRESIDENTE VARGAS",
+                    "cnpjNumber": "00000000000353",
+                    "urlComplementaryList": "https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/emprestimo/emprestimo-pessoal/cheque-especial#/",
+                    "personalUnarrangedAccountOverdraft": [
+                        {
+                            "fees": {
+                                "priorityServices": [
+                                    {
+                                        "name": "CONCESSAO_ADIANTAMENTO_DEPOSITANTE",
+                                        "code": "ADIANT_DEPOSITANTE",
+                                        "chargingTriggerInfo": "Levantamento de informações e avaliação de viabilidade e de riscos para a concessão de crédito em caráter emergencial para cobertura de saldo devedor em conta de depósitos à vista e de excesso sobre o limite previamente pactuado de cheque especial, cobrada no máximo uma vez nos últimos trinta dias",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "59.90",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "59.90",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "59.90",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "referentialRateIndexer": "PRE_FIXADO",
+                                    "rate": "0.0600",
+                                    "applications": [
+                                        {
+                                            "interval": "1_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0230"
+                                            },
+                                            "customers": {
+                                                "rate": "0.1500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "2_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0300"
+                                            },
+                                            "customers": {
+                                                "rate": "0.3500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "3_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0600"
+                                            },
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "4_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.8000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            }
+                                        }
+                                    ],
+                                    "minimumRate": "0.0500",
+                                    "maximumRate": "0.8100"
+                                }
+                            ],
+                            "termsConditions": "https://www.bb.com.br/docs/pub/inst/dwn/ClausulasGeraisPF.pdf"
+                        }
+                    ]
+                },
+                {
+                    "name": "Banco do Brasil - SANTOS",
+                    "cnpjNumber": "00000000000434",
+                    "urlComplementaryList": "https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/emprestimo/emprestimo-pessoal/cheque-especial#/",
+                    "personalUnarrangedAccountOverdraft": [
+                        {
+                            "fees": {
+                                "priorityServices": [
+                                    {
+                                        "name": "CONCESSAO_ADIANTAMENTO_DEPOSITANTE",
+                                        "code": "ADIANT_DEPOSITANTE",
+                                        "chargingTriggerInfo": "Levantamento de informações e avaliação de viabilidade e de riscos para a concessão de crédito em caráter emergencial para cobertura de saldo devedor em conta de depósitos à vista e de excesso sobre o limite previamente pactuado de cheque especial, cobrada no máximo uma vez nos últimos trinta dias",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "59.90",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "59.90",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "59.90",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "referentialRateIndexer": "PRE_FIXADO",
+                                    "rate": "0.0600",
+                                    "applications": [
+                                        {
+                                            "interval": "1_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0230"
+                                            },
+                                            "customers": {
+                                                "rate": "0.1500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "2_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0300"
+                                            },
+                                            "customers": {
+                                                "rate": "0.3500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "3_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0600"
+                                            },
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "4_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.8000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            }
+                                        }
+                                    ],
+                                    "minimumRate": "0.0500",
+                                    "maximumRate": "0.8100"
+                                }
+                            ],
+                            "termsConditions": "https://www.bb.com.br/docs/pub/inst/dwn/ClausulasGeraisPF.pdf"
+                        }
+                    ]
+                },
+                {
+                    "name": "Banco do Brasil - CAMPOS GOYTACAZES",
+                    "cnpjNumber": "00000000000515",
+                    "urlComplementaryList": "https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/emprestimo/emprestimo-pessoal/cheque-especial#/",
+                    "personalUnarrangedAccountOverdraft": [
+                        {
+                            "fees": {
+                                "priorityServices": [
+                                    {
+                                        "name": "CONCESSAO_ADIANTAMENTO_DEPOSITANTE",
+                                        "code": "ADIANT_DEPOSITANTE",
+                                        "chargingTriggerInfo": "Levantamento de informações e avaliação de viabilidade e de riscos para a concessão de crédito em caráter emergencial para cobertura de saldo devedor em conta de depósitos à vista e de excesso sobre o limite previamente pactuado de cheque especial, cobrada no máximo uma vez nos últimos trinta dias",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "59.90",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "59.90",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "59.90",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "referentialRateIndexer": "PRE_FIXADO",
+                                    "rate": "0.0600",
+                                    "applications": [
+                                        {
+                                            "interval": "1_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0230"
+                                            },
+                                            "customers": {
+                                                "rate": "0.1500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "2_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0300"
+                                            },
+                                            "customers": {
+                                                "rate": "0.3500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "3_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0600"
+                                            },
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "4_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.8000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            }
+                                        }
+                                    ],
+                                    "minimumRate": "0.0500",
+                                    "maximumRate": "0.8100"
+                                }
+                            ],
+                            "termsConditions": "https://www.bb.com.br/docs/pub/inst/dwn/ClausulasGeraisPF.pdf"
+                        }
+                    ]
+                },
+                {
+                    "name": "Banco do Brasil - SALVADOR",
+                    "cnpjNumber": "00000000000604",
+                    "urlComplementaryList": "https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/emprestimo/emprestimo-pessoal/cheque-especial#/",
+                    "personalUnarrangedAccountOverdraft": [
+                        {
+                            "fees": {
+                                "priorityServices": [
+                                    {
+                                        "name": "CONCESSAO_ADIANTAMENTO_DEPOSITANTE",
+                                        "code": "ADIANT_DEPOSITANTE",
+                                        "chargingTriggerInfo": "Levantamento de informações e avaliação de viabilidade e de riscos para a concessão de crédito em caráter emergencial para cobertura de saldo devedor em conta de depósitos à vista e de excesso sobre o limite previamente pactuado de cheque especial, cobrada no máximo uma vez nos últimos trinta dias",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "59.90",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "59.90",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "59.90",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "referentialRateIndexer": "PRE_FIXADO",
+                                    "rate": "0.0600",
+                                    "applications": [
+                                        {
+                                            "interval": "1_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0230"
+                                            },
+                                            "customers": {
+                                                "rate": "0.1500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "2_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0300"
+                                            },
+                                            "customers": {
+                                                "rate": "0.3500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "3_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0600"
+                                            },
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "4_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.8000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            }
+                                        }
+                                    ],
+                                    "minimumRate": "0.0500",
+                                    "maximumRate": "0.8100"
+                                }
+                            ],
+                            "termsConditions": "https://www.bb.com.br/docs/pub/inst/dwn/ClausulasGeraisPF.pdf"
+                        }
+                    ]
+                },
+                {
+                    "name": "Banco do Brasil - RECIFE",
+                    "cnpjNumber": "00000000000787",
+                    "urlComplementaryList": "https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/emprestimo/emprestimo-pessoal/cheque-especial#/",
+                    "personalUnarrangedAccountOverdraft": [
+                        {
+                            "fees": {
+                                "priorityServices": [
+                                    {
+                                        "name": "CONCESSAO_ADIANTAMENTO_DEPOSITANTE",
+                                        "code": "ADIANT_DEPOSITANTE",
+                                        "chargingTriggerInfo": "Levantamento de informações e avaliação de viabilidade e de riscos para a concessão de crédito em caráter emergencial para cobertura de saldo devedor em conta de depósitos à vista e de excesso sobre o limite previamente pactuado de cheque especial, cobrada no máximo uma vez nos últimos trinta dias",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "59.90",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "59.90",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "59.90",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "referentialRateIndexer": "PRE_FIXADO",
+                                    "rate": "0.0600",
+                                    "applications": [
+                                        {
+                                            "interval": "1_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0230"
+                                            },
+                                            "customers": {
+                                                "rate": "0.1500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "2_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0300"
+                                            },
+                                            "customers": {
+                                                "rate": "0.3500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "3_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0600"
+                                            },
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "4_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.8000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            }
+                                        }
+                                    ],
+                                    "minimumRate": "0.0500",
+                                    "maximumRate": "0.8100"
+                                }
+                            ],
+                            "termsConditions": "https://www.bb.com.br/docs/pub/inst/dwn/ClausulasGeraisPF.pdf"
+                        }
+                    ]
+                },
+                {
+                    "name": "Banco do Brasil - SETOR PUBLICO CE",
+                    "cnpjNumber": "00000000000868",
+                    "urlComplementaryList": "https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/emprestimo/emprestimo-pessoal/cheque-especial#/",
+                    "personalUnarrangedAccountOverdraft": [
+                        {
+                            "fees": {
+                                "priorityServices": [
+                                    {
+                                        "name": "CONCESSAO_ADIANTAMENTO_DEPOSITANTE",
+                                        "code": "ADIANT_DEPOSITANTE",
+                                        "chargingTriggerInfo": "Levantamento de informações e avaliação de viabilidade e de riscos para a concessão de crédito em caráter emergencial para cobertura de saldo devedor em conta de depósitos à vista e de excesso sobre o limite previamente pactuado de cheque especial, cobrada no máximo uma vez nos últimos trinta dias",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "59.90",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "59.90",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "59.90",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "referentialRateIndexer": "PRE_FIXADO",
+                                    "rate": "0.0600",
+                                    "applications": [
+                                        {
+                                            "interval": "1_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0230"
+                                            },
+                                            "customers": {
+                                                "rate": "0.1500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "2_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0300"
+                                            },
+                                            "customers": {
+                                                "rate": "0.3500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "3_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0600"
+                                            },
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "4_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.8000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            }
+                                        }
+                                    ],
+                                    "minimumRate": "0.0500",
+                                    "maximumRate": "0.8100"
+                                }
+                            ],
+                            "termsConditions": "https://www.bb.com.br/docs/pub/inst/dwn/ClausulasGeraisPF.pdf"
+                        }
+                    ]
+                },
+                {
+                    "name": "Banco do Brasil - PRACA TIRADENTES - PR",
+                    "cnpjNumber": "00000000000949",
+                    "urlComplementaryList": "https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/emprestimo/emprestimo-pessoal/cheque-especial#/",
+                    "personalUnarrangedAccountOverdraft": [
+                        {
+                            "fees": {
+                                "priorityServices": [
+                                    {
+                                        "name": "CONCESSAO_ADIANTAMENTO_DEPOSITANTE",
+                                        "code": "ADIANT_DEPOSITANTE",
+                                        "chargingTriggerInfo": "Levantamento de informações e avaliação de viabilidade e de riscos para a concessão de crédito em caráter emergencial para cobertura de saldo devedor em conta de depósitos à vista e de excesso sobre o limite previamente pactuado de cheque especial, cobrada no máximo uma vez nos últimos trinta dias",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "59.90",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "59.90",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "59.90",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "referentialRateIndexer": "PRE_FIXADO",
+                                    "rate": "0.0600",
+                                    "applications": [
+                                        {
+                                            "interval": "1_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0230"
+                                            },
+                                            "customers": {
+                                                "rate": "0.1500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "2_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0300"
+                                            },
+                                            "customers": {
+                                                "rate": "0.3500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "3_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0600"
+                                            },
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "4_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.8000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            }
+                                        }
+                                    ],
+                                    "minimumRate": "0.0500",
+                                    "maximumRate": "0.8100"
+                                }
+                            ],
+                            "termsConditions": "https://www.bb.com.br/docs/pub/inst/dwn/ClausulasGeraisPF.pdf"
+                        }
+                    ]
+                },
+                {
+                    "name": "Banco do Brasil - EMPRESA PORTO ALEGRE",
+                    "cnpjNumber": "00000000001082",
+                    "urlComplementaryList": "https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/emprestimo/emprestimo-pessoal/cheque-especial#/",
+                    "personalUnarrangedAccountOverdraft": [
+                        {
+                            "fees": {
+                                "priorityServices": [
+                                    {
+                                        "name": "CONCESSAO_ADIANTAMENTO_DEPOSITANTE",
+                                        "code": "ADIANT_DEPOSITANTE",
+                                        "chargingTriggerInfo": "Levantamento de informações e avaliação de viabilidade e de riscos para a concessão de crédito em caráter emergencial para cobertura de saldo devedor em conta de depósitos à vista e de excesso sobre o limite previamente pactuado de cheque especial, cobrada no máximo uma vez nos últimos trinta dias",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "59.90",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "59.90",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "59.90",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "referentialRateIndexer": "PRE_FIXADO",
+                                    "rate": "0.0600",
+                                    "applications": [
+                                        {
+                                            "interval": "1_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0230"
+                                            },
+                                            "customers": {
+                                                "rate": "0.1500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "2_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0300"
+                                            },
+                                            "customers": {
+                                                "rate": "0.3500"
+                                            }
+                                        },
+                                        {
+                                            "interval": "3_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0600"
+                                            },
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "4_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.8000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            }
+                                        }
+                                    ],
+                                    "minimumRate": "0.0500",
+                                    "maximumRate": "0.8100"
+                                }
+                            ],
+                            "termsConditions": "https://www.bb.com.br/docs/pub/inst/dwn/ClausulasGeraisPF.pdf"
                         }
                     ]
                 }
@@ -114,10 +1077,13 @@
         }
     },
     "links": {
-        "self": "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-unarranged-account-overdraft"
+        "self": "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-unarranged-account-overdraft?page=1&page-size=10",
+        "first": "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-unarranged-account-overdraft?page=1&page-size=10",
+        "next": "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-unarranged-account-overdraft?page=2&page-size=10",
+        "last": "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-unarranged-account-overdraft?page=1360&page-size=10"
     },
     "meta": {
-        "totalRecords": 1,
-        "totalPages": 1
+        "totalRecords": 13595,
+        "totalPages": 1360
     }
 }
