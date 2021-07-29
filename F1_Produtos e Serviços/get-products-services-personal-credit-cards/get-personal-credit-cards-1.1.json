@@ -267,7 +267,7 @@
                                 "rates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -313,7 +313,7 @@
                                 "instalmentRates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -445,7 +445,7 @@
                                 "rates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -491,7 +491,7 @@
                                 "instalmentRates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -817,7 +817,7 @@
                                 "rates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -863,7 +863,7 @@
                                 "instalmentRates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -995,7 +995,7 @@
                                 "rates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -1041,7 +1041,7 @@
                                 "instalmentRates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -1367,7 +1367,7 @@
                                 "rates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -1413,7 +1413,7 @@
                                 "instalmentRates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -1545,7 +1545,7 @@
                                 "rates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -1591,7 +1591,7 @@
                                 "instalmentRates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -1917,7 +1917,7 @@
                                 "rates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -1963,7 +1963,7 @@
                                 "instalmentRates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -2095,7 +2095,7 @@
                                 "rates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -2141,7 +2141,7 @@
                                 "instalmentRates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -2467,7 +2467,7 @@
                                 "rates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -2513,7 +2513,7 @@
                                 "instalmentRates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -2645,7 +2645,7 @@
                                 "rates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -2691,7 +2691,7 @@
                                 "instalmentRates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -3017,7 +3017,7 @@
                                 "rates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -3063,7 +3063,7 @@
                                 "instalmentRates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -3195,7 +3195,7 @@
                                 "rates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -3241,7 +3241,7 @@
                                 "instalmentRates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -3567,7 +3567,7 @@
                                 "rates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -3613,7 +3613,7 @@
                                 "instalmentRates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -3745,7 +3745,7 @@
                                 "rates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -3791,7 +3791,7 @@
                                 "instalmentRates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -4117,7 +4117,7 @@
                                 "rates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -4163,7 +4163,7 @@
                                 "instalmentRates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -4295,7 +4295,7 @@
                                 "rates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -4341,7 +4341,7 @@
                                 "instalmentRates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -4667,7 +4667,7 @@
                                 "rates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -4713,7 +4713,7 @@
                                 "instalmentRates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -4845,7 +4845,7 @@
                                 "rates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -4891,7 +4891,7 @@
                                 "instalmentRates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -5217,7 +5217,7 @@
                                 "rates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -5263,7 +5263,7 @@
                                 "instalmentRates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -5395,7 +5395,7 @@
                                 "rates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -5441,7 +5441,7 @@
                                 "instalmentRates": [
                                     {
                                         "referentialRateIndexer": "PRE_FIXADO",
-                                        "rate": "0.0000",
+                                        "rate": "0.00",
                                         "applications": [
                                             {
                                                 "interval": "1_FAIXA",

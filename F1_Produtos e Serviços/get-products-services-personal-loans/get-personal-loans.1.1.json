@@ -108,7 +108,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_CDI",
-                                    "rate": "100.0000",
+                                    "rate": "100.00",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -455,7 +455,7 @@
                                             "currency": "BRL"
                                         },
                                         "maximum": {
-                                            "value": "630.0000",
+                                            "value": "630.00",
                                             "currency": "BRL"
                                         }
                                     }
@@ -871,7 +871,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_CDI",
-                                    "rate": "100.0000",
+                                    "rate": "100.00",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -1218,7 +1218,7 @@
                                             "currency": "BRL"
                                         },
                                         "maximum": {
-                                            "value": "630.0000",
+                                            "value": "630.00",
                                             "currency": "BRL"
                                         }
                                     }
@@ -1634,7 +1634,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_CDI",
-                                    "rate": "100.0000",
+                                    "rate": "100.00",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -1981,7 +1981,7 @@
                                             "currency": "BRL"
                                         },
                                         "maximum": {
-                                            "value": "630.0000",
+                                            "value": "630.00",
                                             "currency": "BRL"
                                         }
                                     }
@@ -2397,7 +2397,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_CDI",
-                                    "rate": "100.0000",
+                                    "rate": "100.00",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -2744,7 +2744,7 @@
                                             "currency": "BRL"
                                         },
                                         "maximum": {
-                                            "value": "630.0000",
+                                            "value": "630.00",
                                             "currency": "BRL"
                                         }
                                     }
@@ -3160,7 +3160,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_CDI",
-                                    "rate": "100.0000",
+                                    "rate": "100.00",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -3507,7 +3507,7 @@
                                             "currency": "BRL"
                                         },
                                         "maximum": {
-                                            "value": "630.0000",
+                                            "value": "630.00",
                                             "currency": "BRL"
                                         }
                                     }
@@ -3923,7 +3923,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_CDI",
-                                    "rate": "100.0000",
+                                    "rate": "100.00",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -4270,7 +4270,7 @@
                                             "currency": "BRL"
                                         },
                                         "maximum": {
-                                            "value": "630.0000",
+                                            "value": "630.00",
                                             "currency": "BRL"
                                         }
                                     }
@@ -4686,7 +4686,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_CDI",
-                                    "rate": "100.0000",
+                                    "rate": "100.00",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -5033,7 +5033,7 @@
                                             "currency": "BRL"
                                         },
                                         "maximum": {
-                                            "value": "630.0000",
+                                            "value": "630.00",
                                             "currency": "BRL"
                                         }
                                     }
@@ -5449,7 +5449,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_CDI",
-                                    "rate": "100.0000",
+                                    "rate": "100.00",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -5796,7 +5796,7 @@
                                             "currency": "BRL"
                                         },
                                         "maximum": {
-                                            "value": "630.0000",
+                                            "value": "630.00",
                                             "currency": "BRL"
                                         }
                                     }
@@ -6212,7 +6212,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_CDI",
-                                    "rate": "100.0000",
+                                    "rate": "100.00",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -6559,7 +6559,7 @@
                                             "currency": "BRL"
                                         },
                                         "maximum": {
-                                            "value": "630.0000",
+                                            "value": "630.00",
                                             "currency": "BRL"
                                         }
                                     }
@@ -6975,7 +6975,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_CDI",
-                                    "rate": "100.0000",
+                                    "rate": "100.00",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -7322,7 +7322,7 @@
                                             "currency": "BRL"
                                         },
                                         "maximum": {
-                                            "value": "630.0000",
+                                            "value": "630.00",
                                             "currency": "BRL"
                                         }
                                     }
