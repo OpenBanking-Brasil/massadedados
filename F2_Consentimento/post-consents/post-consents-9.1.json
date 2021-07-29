@@ -10,7 +10,8 @@
             "FINANCINGS_READ",
             "FINANCINGS_SCHEDULED_INSTALMENTS_READ",
             "FINANCINGS_PAYMENTS_READ",
-            "FINANCINGS_WARRANTIES_READ"
+            "FINANCINGS_WARRANTIES_READ",
+            "RESOURCES_READ"
         ],
         "expirationDateTime": "2021-08-01T23:59:59Z"
     }

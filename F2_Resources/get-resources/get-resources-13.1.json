@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            "resourceId": "04eddd8a-da65-11eb-8d19-0242ac130003",
+            "type": "ACCOUNT",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "5hrt1685-3f03-3c4e-b00a-6r8e14r8e6z0",
+            "type": "CREDIT_CARD_ACCOUNT",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "c13daaa1-a83a-36f1-9f50-0e546eb3dc49",
+            "type": "LOAN",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "d13daaa1-a83a-36f1-9f50-0e546eb3dc49",
+            "type": "LOAN",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "e13daaa1-a83a-36f1-9f50-0e546eb3dc49",
+            "type": "LOAN",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "f13daaa1-a83a-36f1-9f50-0e546eb3dc49",
+            "type": "LOAN",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "g13daaa1-a83a-36f1-9f50-0e546eb3dc49",
+            "type": "LOAN",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "94c393aa-82e8-367a-bb3d-3c23c3ccea9c",
+            "type": "FINANCING",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "50232104-cd22-36aa-9a6f-725afdd55288",
+            "type": "UNARRANGED_ACCOUNT_OVERDRAFT",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "1437e266-ed9b-3b0f-98c5-072ce011dd06",
+            "type": "UNARRANGED_ACCOUNT_OVERDRAFT",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "375c0320-e155-355b-882f-3f82d6c11291",
+            "type": "UNARRANGED_ACCOUNT_OVERDRAFT",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "3ec8fbe4-09e4-305d-bf8c-cdae1c298183",
+            "type": "INVOICE_FINANCING",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "1ec8fbe4-09e4-305d-bf8c-cdae1c298183",
+            "type": "INVOICE_FINANCING",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "eec8fbe4-09e4-305d-bf8c-cdae1c298183",
+            "type": "INVOICE_FINANCING",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "4ec8fbe4-09e4-305d-bf8c-cdae1c298183",
+            "type": "INVOICE_FINANCING",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "9ec8fbe4-09e4-305d-bf8c-cdae1c298183",
+            "type": "INVOICE_FINANCING",
+            "status": "AVAILABLE"
+        }
+    ],
+    "links": {
+        "self": "https://opendata.api.bb.com.br/open-banking/resources/v1/resources"
+    },
+    "meta": {
+        "totalRecords": 16,
+        "totalPages": 1,
+        "requestDateTime": "2021-10-22T22:22:00Z"
+    }
+}

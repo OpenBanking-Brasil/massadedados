@@ -13,7 +13,6 @@
             }
         },
         "permissions": [
-            
             "CUSTOMERS_BUSINESS_IDENTIFICATIONS_READ",
             "CUSTOMERS_BUSINESS_ADITTIONALINFO_READ",
             "FINANCINGS_READ",
