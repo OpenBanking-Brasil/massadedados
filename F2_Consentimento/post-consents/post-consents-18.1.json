@@ -25,7 +25,7 @@
             "FINANCINGS_READ",
             "FINANCINGS_SCHEDULED_INSTALMENTS_READ",
             "FINANCINGS_PAYMENTS_READ",
-            "FINANCINGS_WARRANTIES_READ"   ,
+            "FINANCINGS_WARRANTIES_READ",
             "RESOURCES_READ"         
 			],
         "expirationDateTime": "2022-10-12T00:00:00Z"

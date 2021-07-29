@@ -19,13 +19,18 @@
             "resourceId": "okangw8q-m4ma-tb08-rcem-tftbc8j4pk8j",
             "type": "LOAN",
             "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "fcpuj4d1-3ape-oka6-ubxw-y5d6yfr2s446",
+            "type": "LOAN",
+            "status": "AVAILABLE"
         }
     ],
     "links": {
         "self": "https://api.baninter.com/open-banking/resources/v1/resources"
     },
     "meta": {
-        "totalRecords": 4,
+        "totalRecords": 5,
         "totalPages": 1,
         "requestDateTime": "2022-05-07T06:00:00Z"
     }
