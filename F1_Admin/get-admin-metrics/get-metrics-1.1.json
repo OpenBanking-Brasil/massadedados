@@ -1,0 +1,171 @@
+{
+    "data": {
+        "requestTime": "2021-07-29T20:03:27.642Z",
+        "availability": {
+            "uptime": {
+                "generalUptimeRate": "0.9600",
+                "endpoints": [
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/channels/v1/banking-agents",
+                        "uptimeRate": "0,9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/channels/v1/branches",
+                        "uptimeRate": "0,9996"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/channels/v1/electronic-channels",
+                        "uptimeRate": "0,9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/channels/v1/phone-channels",
+                        "uptimeRate": "0,9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/channels/v1/shared-automated-teller-channels",
+                        "uptimeRate": "0,9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-accounts",
+                        "uptimeRate": "0,9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-credit-cards",
+                        "uptimeRate": "0,9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-financings",
+                        "uptimeRate": "0,9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-invoice-financings",
+                        "uptimeRate": "0,9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-loans",
+                        "uptimeRate": "0,9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-unarranged-account-overdraft",
+                        "uptimeRate": "0,9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-accounts",
+                        "uptimeRate": "0,9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-credit-cards",
+                        "uptimeRate": "0,9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-loans",
+                        "uptimeRate": "0,9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-financings",
+                        "uptimeRate": "0,9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-invoice-financings",
+                        "uptimeRate": "0,9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-unarranged-account-overdraft",
+                        "uptimeRate": "0,9997"
+                    }
+                ]
+            },
+            "downtime": {
+                "generalDowntime": 0,
+                "scheduledOutage": 0,
+                "endpoints": {
+                    "url": "string",
+                    "partialDowntime": 0
+                }
+            }
+        },
+        "invocations": {
+            "unauthenticated": {
+                "currentDay": 0,
+                "previousDays": [
+                    0
+                ]
+            },
+            "highPriority": {
+                "currentDay": 0,
+                "previousDays": [
+                    0
+                ]
+            },
+            "mediumPriority": {
+                "currentDay": 0,
+                "previousDays": [
+                    0
+                ]
+            },
+            "unattended": {
+                "currentDay": 0,
+                "previousDays": [
+                    0
+                ]
+            }
+        },
+        "averageResponse": {
+            "unauthenticated": {
+                "currentDay": 0,
+                "previousDays": [
+                    0
+                ]
+            },
+            "highPriority": {
+                "currentDay": 0,
+                "previousDays": [
+                    0
+                ]
+            },
+            "mediumPriority": {
+                "currentDay": 0,
+                "previousDays": [
+                    0
+                ]
+            },
+            "unattended": {
+                "currentDay": 0,
+                "previousDays": [
+                    0
+                ]
+            }
+        },
+        "averageTps": {
+            "currentDay": 0,
+            "previousDays": [
+                0
+            ]
+        },
+        "peakTps": {
+            "currentDay": 0,
+            "previousDays": [
+                0
+            ]
+        },
+        "errors": {
+            "currentDay": 0,
+            "previousDays": [
+                0
+            ]
+        },
+        "rejections": {
+            "currentDay": 0,
+            "previousDays": [
+                0
+            ]
+        }
+    },
+    "links": {
+        "self": "https://opendata.api.bb.com.br/open-banking/admin/v1/metrics?period=ALL"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1
+    }
+}
