@@ -3,17 +3,74 @@
         "status": [
             {
                 "code": "OK",
-                "explanaton": "APIs em funcionamento"
-            }, 
+                "explanaton": "APIs em funcionamento",
+                "updateTime": "2021-05-16T08:00:00Z"
+            },
+            {
+                "code": "UNAVAILABLE",
+                "explanation": "Subida em produção",
+                "detectionTime": "2021-05-16T03:10:42Z",
+                "expectedResolutionTime": "2021-05-16T06:15:00Z",
+                "updateTime": "2021-05-16T03:00:42Z",
+                "unavailableEndpoints": [
+                    "https://api.banco.com.br/open-banking/channels/v1/banking-agents",
+                    "https://api.banco.com.br/open-banking/channels/v1/branches",
+                    "https://api.banco.com.br/open-banking/channels/v1/electronic-channels",
+                    "https://api.banco.com.br/open-banking/channels/v1/phone-channels",
+                    "https://api.banco.com.br/open-banking/channels/v1/sahred-automated-teller-channels"
+                ]
+            },
+            {
+                "code": "SCHEDULED_OUTAGE",
+                "explanation": "Subida em produção",
+                "expectedResolutionTime": "2021-05-16T03:10:00Z",
+                "updateTime": "2021-05-16T03:00:00Z",
+                "unavailableEndpoints": [
+                    "https://api.banco.com.br/open-banking/channels/v1/banking-agents",
+                    "https://api.banco.com.br/open-banking/channels/v1/branches",
+                    "https://api.banco.com.br/open-banking/channels/v1/electronic-channels",
+                    "https://api.banco.com.br/open-banking/channels/v1/phone-channels",
+                    "https://api.banco.com.br/open-banking/channels/v1/sahred-automated-teller-channels"
+                ]
+            },
             {
                 "code": "OK",
-                "explanation": "A implementação é totalmente funcional",
-                "detectionTime": "2021-07-29T02:20:39Z",
-                "expectedResolutionTime": "2020-07-21T08:30:00Z",
-                "updateTime": "2020-01-02T01:00:00Z",
+                "explanaton": "APIs em funcionamento",
+                "updateTime": "2021-05-10T08:00:00Z"
+            },
+            {
+                "code": "PARTIAL_FAILURE",
+                "explanation": "Subida em produção",
+                "detectionTime": "2021-05-10T03:15:16Z",
+                "expectedResolutionTime": "2021-05-10T03:23:00Z",
+                "updateTime": "2021-05-10T03:15:16Z",
                 "unavailableEndpoints": [
-                    "https://api.banco.com.br/open-banking/channels/v1/electronic-channels"
+                    "https://api.banco.com.br/open-banking/products-services/v1/business-accounts",
+                    "https://api.banco.com.br/open-banking/products-services/v1/business-credit-cards",
+                    "https://api.banco.com.br/open-banking/products-services/v1/business-financings",
+                    "https://api.banco.com.br/open-banking/products-services/v1/business-invoice-financings",
+                    "https://api.banco.com.br/open-banking/products-services/v1/business-loans",
+                    "https://api.banco.com.br/open-banking/products-services/v1/business-unarranged-account-overdraft"
                 ]
+            },
+            {
+                "code": "SCHEDULED_OUTAGE",
+                "explanation": "Subida em produção",
+                "expectedResolutionTime": "2021-05-10T03:14:00Z",
+                "updateTime": "2021-05-10T03:00:00Z",
+                "unavailableEndpoints": [
+                    "https://api.banco.com.br/open-banking/products-services/v1/business-accounts",
+                    "https://api.banco.com.br/open-banking/products-services/v1/business-credit-cards",
+                    "https://api.banco.com.br/open-banking/products-services/v1/business-financings",
+                    "https://api.banco.com.br/open-banking/products-services/v1/business-invoice-financings",
+                    "https://api.banco.com.br/open-banking/products-services/v1/business-loans",
+                    "https://api.banco.com.br/open-banking/products-services/v1/business-unarranged-account-overdraft"
+                ]
+            },
+            {
+                "code": "OK",
+                "explanaton": "APIs em funcionamento",
+                "updateTime": "2021-05-01T08:00:00Z"
             }
         ]
     },
@@ -21,7 +78,7 @@
         "self": "https://opendata.api.bb.com.br/open-banking/discovery/v1/status"
     },
     "meta": {
-        "totalRecords": 1,
+        "totalRecords": 7,
         "totalPages": 1
     }
 }
