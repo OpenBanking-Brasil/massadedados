@@ -168,7 +168,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_CDI",
-                                    "rate": "1.0000",
+                                    "rate": "1.00",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -319,7 +319,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "0.0000",
+                                    "rate": "0.00",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
