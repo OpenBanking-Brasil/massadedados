@@ -1,171 +1,841 @@
 {
     "data": {
-        "requestTime": "2021-07-29T20:03:27.642Z",
+        "requestTime": "2021-05-16T10:00:00Z",
         "availability": {
             "uptime": {
-                "generalUptimeRate": "0.9600",
+                "generalUptimeRate": "0.9997",
                 "endpoints": [
                     {
                         "url": "https://opendata.api.bb.com.br/open-banking/channels/v1/banking-agents",
-                        "uptimeRate": "0,9997"
+                        "uptimeRate": "0.9997"
                     },
                     {
                         "url": "https://opendata.api.bb.com.br/open-banking/channels/v1/branches",
-                        "uptimeRate": "0,9996"
+                        "uptimeRate": "0.9996"
                     },
                     {
                         "url": "https://opendata.api.bb.com.br/open-banking/channels/v1/electronic-channels",
-                        "uptimeRate": "0,9997"
+                        "uptimeRate": "0.9997"
                     },
                     {
                         "url": "https://opendata.api.bb.com.br/open-banking/channels/v1/phone-channels",
-                        "uptimeRate": "0,9997"
+                        "uptimeRate": "0.9997"
                     },
                     {
                         "url": "https://opendata.api.bb.com.br/open-banking/channels/v1/shared-automated-teller-channels",
-                        "uptimeRate": "0,9997"
+                        "uptimeRate": "0.9997"
                     },
                     {
                         "url": "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-accounts",
-                        "uptimeRate": "0,9997"
+                        "uptimeRate": "0.9998"
                     },
                     {
                         "url": "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-credit-cards",
-                        "uptimeRate": "0,9997"
+                        "uptimeRate": "0.9998"
                     },
                     {
                         "url": "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-financings",
-                        "uptimeRate": "0,9997"
+                        "uptimeRate": "0.9998"
                     },
                     {
                         "url": "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-invoice-financings",
-                        "uptimeRate": "0,9997"
+                        "uptimeRate": "0.9998"
                     },
                     {
                         "url": "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-loans",
-                        "uptimeRate": "0,9997"
+                        "uptimeRate": "0.9998"
                     },
                     {
                         "url": "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-unarranged-account-overdraft",
-                        "uptimeRate": "0,9997"
+                        "uptimeRate": "0.9998"
                     },
                     {
                         "url": "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-accounts",
-                        "uptimeRate": "0,9997"
+                        "uptimeRate": "0.9997"
                     },
                     {
                         "url": "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-credit-cards",
-                        "uptimeRate": "0,9997"
+                        "uptimeRate": "0.9997"
                     },
                     {
                         "url": "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-loans",
-                        "uptimeRate": "0,9997"
+                        "uptimeRate": "0.9997"
                     },
                     {
                         "url": "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-financings",
-                        "uptimeRate": "0,9997"
+                        "uptimeRate": "0.9999"
                     },
                     {
                         "url": "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-invoice-financings",
-                        "uptimeRate": "0,9997"
+                        "uptimeRate": "0.9997"
                     },
                     {
                         "url": "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-unarranged-account-overdraft",
-                        "uptimeRate": "0,9997"
+                        "uptimeRate": "0.9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/consents/v1/consents",
+                        "uptimeRate": "0.9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/consents/v1/consents/{consentId}",
+                        "uptimeRate": "0.9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/resources/v1/resources",
+                        "uptimeRate": "0.9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/customers/v1/personal/identifications",
+                        "uptimeRate": "0.9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/customers/v1/personal/qualifications",
+                        "uptimeRate": "0.9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/customers/v1/personal/financial-relations",
+                        "uptimeRate": "0.9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/customers/v1/business/identifications",
+                        "uptimeRate": "0.9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/customers/v1/business/qualifications",
+                        "uptimeRate": "0.9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/customers/v1/business/financial-relations",
+                        "uptimeRate": "0.9995"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/credit-cards-accounts/v1/accounts",
+                        "uptimeRate": "0.9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/credit-cards-accounts/v1/accounts/{creditCardAccountId}",
+                        "uptimeRate": "0.9994"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/credit-cards-accounts/v1/accounts/{creditCardAccountId}/bills",
+                        "uptimeRate": "0.9998"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/credit-cards-accounts/v1/accounts​/{creditCardAccountId}​/bills​/{billId}​/transactions",
+                        "uptimeRate": "0.9995"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/credit-cards-accounts/v1/accounts/{creditCardAccountId}/limits",
+                        "uptimeRate": "0.9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/credit-cards-accounts/v1/accounts/{creditCardAccountId}/transactions",
+                        "uptimeRate": "0.9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/accounts/v1/accounts",
+                        "uptimeRate": "0.9995"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/accounts/v1/accounts/{accountId}",
+                        "uptimeRate": "0.9995"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/accounts/v1accounts/{accountId}/balances",
+                        "uptimeRate": "0.9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/accounts/v1accounts/{accountId}/transactions",
+                        "uptimeRate": "0.9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/accounts/v1/accounts/{accountId}/overdraft-limits",
+                        "uptimeRate": "0.9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts",
+                        "uptimeRate": "0.9996"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts/{contractId}",
+                        "uptimeRate": "0.9995"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking​/loans/v1/contracts​/{contractId}​/warranties",
+                        "uptimeRate": "0.9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts/{contractId}/scheduled-instalments",
+                        "uptimeRate": "0.9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts/{contractId}/payments",
+                        "uptimeRate": "0.9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/financings/v1/contracts",
+                        "uptimeRate": "0.9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/financings/v1/contracts/{contractId}",
+                        "uptimeRate": "0.9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/financings/v1/contracts​/{contractId}​/warranties",
+                        "uptimeRate": "0.9998"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/financings/v1/contracts/{contractId}/scheduled-instalments",
+                        "uptimeRate": "0.9998"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/financings/v1/contracts/{contractId}/payments",
+                        "uptimeRate": "0.9999"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts",
+                        "uptimeRate": "0.9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/{contractId}",
+                        "uptimeRate": "0.9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking​/unarranged-accounts-overdraft/v1/contracts/{contractId}/warranties",
+                        "uptimeRate": "0.9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/{contractId}/scheduled-instalments",
+                        "uptimeRate": "0.9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/{contractId}/payments",
+                        "uptimeRate": "0.9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/invoice-financings/v1/contracts",
+                        "uptimeRate": "0.9998"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/invoice-financings/v1/contracts/{contractId}",
+                        "uptimeRate": "0.9999"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/invoice-financings/v1/contracts/{contractId}/warranties",
+                        "uptimeRate": "0.9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/invoice-financings/v1/contracts/{contractId}/payments",
+                        "uptimeRate": "0.9997"
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/invoice-financings/v1/contracts/{contractId}/scheduled-instalments",
+                        "uptimeRate": "0.9997"
                     }
                 ]
             },
             "downtime": {
-                "generalDowntime": 0,
-                "scheduledOutage": 0,
-                "endpoints": {
-                    "url": "string",
-                    "partialDowntime": 0
-                }
+                "generalDowntime": 8956,
+                "scheduledOutage": 493182,
+                "endpoints": [
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/channels/v1/banking-agents",
+                        "partialDowntime": 8510
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/channels/v1/branches",
+                        "partialDowntime": 12333
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/channels/v1/electronic-channels",
+                        "partialDowntime": 1698
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/channels/v1/phone-channels",
+                        "partialDowntime": 8544
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/channels/v1/shared-automated-teller-channels",
+                        "partialDowntime": 9687
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-accounts",
+                        "partialDowntime": 2147
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-credit-cards",
+                        "partialDowntime": 3255
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-financings",
+                        "partialDowntime": 8510
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-invoice-financings",
+                        "partialDowntime": 6588
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-loans",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-unarranged-account-overdraft",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-accounts",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-credit-cards",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-loans",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-financings",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-invoice-financings",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-unarranged-account-overdraft",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/consents/v1/consents",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/consents/v1/consents/{consentId}",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/resources/v1/resources",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/customers/v1/personal/identifications",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/customers/v1/personal/qualifications",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/customers/v1/personal/financial-relations",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/customers/v1/business/identifications",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/customers/v1/business/qualifications",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/customers/v1/business/financial-relations",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/credit-cards-accounts/v1/accounts",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/credit-cards-accounts/v1/accounts/{creditCardAccountId}",
+                        "partialDowntime": 8000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/credit-cards-accounts/v1/accounts/{creditCardAccountId}/bills",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/credit-cards-accounts/v1/accounts​/{creditCardAccountId}​/bills​/{billId}​/transactions",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/credit-cards-accounts/v1/accounts/{creditCardAccountId}/limits",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/credit-cards-accounts/v1/accounts/{creditCardAccountId}/transactions",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/accounts/v1/accounts",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/accounts/v1/accounts/{accountId}",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/accounts/v1accounts/{accountId}/balances",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/accounts/v1accounts/{accountId}/transactions",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/accounts/v1/accounts/{accountId}/overdraft-limits",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts",
+                        "partialDowntime": 9010
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts/{contractId}",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking​/loans/v1/contracts​/{contractId}​/warranties",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts/{contractId}/scheduled-instalments",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts/{contractId}/payments",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/financings/v1/contracts",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/financings/v1/contracts/{contractId}",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/financings/v1/contracts​/{contractId}​/warranties",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/financings/v1/contracts/{contractId}/scheduled-instalments",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/financings/v1/contracts/{contractId}/payments",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/{contractId}",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking​/unarranged-accounts-overdraft/v1/contracts/{contractId}/warranties",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/{contractId}/scheduled-instalments",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/{contractId}/payments",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/invoice-financings/v1/contracts",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/invoice-financings/v1/contracts/{contractId}",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/invoice-financings/v1/contracts/{contractId}/warranties",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/invoice-financings/v1/contracts/{contractId}/payments",
+                        "partialDowntime": 9000
+                    },
+                    {
+                        "url": "https://opendata.api.bb.com.br/open-banking/invoice-financings/v1/contracts/{contractId}/scheduled-instalments",
+                        "partialDowntime": 9000
+                    }
+                ]
             }
         },
         "invocations": {
             "unauthenticated": {
-                "currentDay": 0,
+                "currentDay": 102,
                 "previousDays": [
-                    0
+                    32,
+                    34,
+                    110,
+                    63,
+                    85,
+                    96,
+                    9,
+                    69,
+                    111,
+                    45,
+                    77,
+                    36,
+                    115,
+                    112,
+                    10,
+                    63,
+                    69,
+                    115,
+                    110,
+                    10,
+                    63,
+                    69,
+                    115,
+                    110
                 ]
             },
             "highPriority": {
-                "currentDay": 0,
+                "currentDay": 12,
                 "previousDays": [
-                    0
+                    10,
+                    9,
+                    16,
+                    2,
+                    3,
+                    8,
+                    16,
+                    14,
+                    10,
+                    2,
+                    1,
+                    1,
+                    1,
+                    1,
+                    2,
+                    5,
+                    6,
+                    1,
+                    6,
+                    2,
+                    5,
+                    6,
+                    1,
+                    6
                 ]
             },
             "mediumPriority": {
-                "currentDay": 0,
+                "currentDay": 17,
                 "previousDays": [
-                    0
+                    17,
+                    9,
+                    7,
+                    26,
+                    36,
+                    30,
+                    14,
+                    9,
+                    25,
+                    23,
+                    22,
+                    22,
+                    14,
+                    6,
+                    32,
+                    29,
+                    27,
+                    10,
+                    11,
+                    32,
+                    29,
+                    27,
+                    10,
+                    11
                 ]
             },
             "unattended": {
-                "currentDay": 0,
+                "currentDay": 3,
                 "previousDays": [
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    3,
+                    1,
+                    5,
+                    1,
+                    0,
+                    1,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
                     0
                 ]
             }
         },
         "averageResponse": {
             "unauthenticated": {
-                "currentDay": 0,
+                "currentDay": 1,
                 "previousDays": [
-                    0
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    2,
+                    1,
+                    1,
+                    1,
+                    2,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
                 ]
             },
             "highPriority": {
-                "currentDay": 0,
+                "currentDay": 3,
                 "previousDays": [
-                    0
+                    4,
+                    2,
+                    2,
+                    2,
+                    4,
+                    4,
+                    3,
+                    3,
+                    1,
+                    1,
+                    2,
+                    4,
+                    1,
+                    1,
+                    4,
+                    4,
+                    1,
+                    2,
+                    3,
+                    3,
+                    4,
+                    1,
+                    2,
+                    3,
+                    3
                 ]
             },
             "mediumPriority": {
-                "currentDay": 0,
+                "currentDay": 8,
                 "previousDays": [
-                    0
+                    9,
+                    10,
+                    8,
+                    7,
+                    7,
+                    8,
+                    8,
+                    7,
+                    10,
+                    10,
+                    10,
+                    7,
+                    6,
+                    9,
+                    9,
+                    9,
+                    8,
+                    8,
+                    9,
+                    12,
+                    9,
+                    8,
+                    8,
+                    9,
+                    12
                 ]
             },
             "unattended": {
-                "currentDay": 0,
+                "currentDay": 72,
                 "previousDays": [
-                    0
+                    72,
+                    74,
+                    86,
+                    86,
+                    71,
+                    71,
+                    72,
+                    72,
+                    96,
+                    74,
+                    80,
+                    80,
+                    72,
+                    72,
+                    96,
+                    89,
+                    72,
+                    85,
+                    30,
+                    96,
+                    89,
+                    72,
+                    85,
+                    30
                 ]
             }
         },
         "averageTps": {
-            "currentDay": 0,
+            "currentDay": 1,
             "previousDays": [
-                0
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                2,
+                1,
+                1,
+                1,
+                2,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
             ]
         },
         "peakTps": {
-            "currentDay": 0,
+            "currentDay": 1,
             "previousDays": [
-                0
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                2,
+                1,
+                1,
+                1,
+                2,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
             ]
         },
         "errors": {
-            "currentDay": 0,
+            "currentDay": 72,
             "previousDays": [
-                0
+                72,
+                74,
+                86,
+                86,
+                71,
+                71,
+                72,
+                72,
+                96,
+                74,
+                80,
+                80,
+                72,
+                72,
+                96,
+                89,
+                72,
+                85,
+                30,
+                96,
+                89,
+                72,
+                85,
+                30
             ]
         },
         "rejections": {
-            "currentDay": 0,
+            "currentDay": 8,
             "previousDays": [
-                0
+                9,
+                10,
+                8,
+                7,
+                7,
+                8,
+                8,
+                7,
+                10,
+                10,
+                10,
+                7,
+                6,
+                9,
+                9,
+                9,
+                8,
+                8,
+                9,
+                12,
+                9,
+                8,
+                8,
+                9,
+                12
             ]
         }
     },
     "links": {
-        "self": "https://opendata.api.bb.com.br/open-banking/admin/v1/metrics?period=ALL"
+        "self": "https://opendata.api.bb.com.br/open-banking/admin/v1/metrics?page=1period=ALL",
+        "first": "https://opendata.api.bb.com.br/open-banking/admin/v1/metrics?page=1period=ALL",
+        "next": "https://opendata.api.bb.com.br/open-banking/admin/v1/metrics?page=2period=ALL",
+        "last": "https://opendata.api.bb.com.br/open-banking/admin/v1/metrics?page=5period=ALL"
     },
     "meta": {
-        "totalRecords": 1,
-        "totalPages": 1
+        "totalRecords":125,
+        "totalPages": 5
     }
 }
