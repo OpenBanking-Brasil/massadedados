@@ -704,7 +704,7 @@
                                                 "value": "2.70",
                                                 "currency": "BRL",
                                                 "customers": {
-                                                    "rate": "0.1000"
+                                                    "rate": "0.5000"
                                                 }
                                             }
                                         ],
@@ -798,7 +798,7 @@
                                                 "value": "1.30",
                                                 "currency": "BRL",
                                                 "customers": {
-                                                    "rate": "0.0000"
+                                                    "rate": "0.5000"
                                                 }
                                             }
                                         ],
@@ -1471,7 +1471,7 @@
                                             "code": "EXTRATO_MOVIMENTO_E",
                                             "chargingTriggerInfo": "Fornecimento de extrato com a movimentacao de um periodo em terminal de autoatendimento ou por outras formas de atendimento eletronico automatizado, sem intervencao humana. Nas contas eletronicas nao pode ser cobrada tarifa para este canal de entrega.",
                                             "eventLimitQuantity": "64",
-                                            "freeEventQuantity": "000031"
+                                            "freeEventQuantity": "31"
                                         },
                                         {
                                             "code": "FOLHA_CHEQUE",
@@ -3358,7 +3358,7 @@
                                                 "value": "2.70",
                                                 "currency": "BRL",
                                                 "customers": {
-                                                    "rate": "0.1000"
+                                                    "rate": "0.5000"
                                                 }
                                             }
                                         ],
@@ -3546,7 +3546,7 @@
                                                 "value": "1.30",
                                                 "currency": "BRL",
                                                 "customers": {
-                                                    "rate": "0.0000"
+                                                    "rate": "0.5000"
                                                 }
                                             }
                                         ],
@@ -4191,55 +4191,6 @@
                                             "currency": "BRL"
                                         }
                                     }
-                                ],
-                                "otherServices": [
-                                    {
-                                        "name": "NA",
-                                        "code": "NA",
-                                        "chargingTriggerInfo": "NA",
-                                        "prices": [
-                                            {
-                                                "interval": "1_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "2_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "3_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "4_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            }
-                                        ],
-                                        "minimum": {
-                                            "value": "0.00",
-                                            "currency": "BRL"
-                                        },
-                                        "maximum": {
-                                            "value": "0.00",
-                                            "currency": "BRL"
-                                        }
-                                    }
                                 ]
                             },
                             "serviceBundles": [
@@ -4312,10 +4263,6 @@
                                 },
                                 "elegibilityCriteriaInfo": "http://banrisul.com.br/bob/link/bobw27hn_conteudo_detalhe_cartoes_credito_ss.aspx?secao_id=3454",
                                 "closingProcessInfo": "http://banrisul.com.br/bob/link/bobw27hn_conteudo_detalhe_cartoes_credito_ss.aspx?secao_id=3454"
-                            },
-                            "incomeRate": {
-                                "savingAccount": "NA",
-                                "prepaidPaymentAccount": "NA"
                             }
                         }
                     ]
