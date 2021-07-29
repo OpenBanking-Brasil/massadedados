@@ -1,0 +1,12 @@
+{
+    "data": {
+        "outages": []
+    },
+    "links": {
+        "self": "https://opendata.api.bb.com.br/open-banking/discovery/v1/outages"
+    },
+    "meta": {
+        "totalRecords": 0,
+        "totalPages": 1
+    }
+}

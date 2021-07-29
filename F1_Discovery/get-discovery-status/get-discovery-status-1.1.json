@@ -13,11 +13,11 @@
                 "expectedResolutionTime": "2021-05-16T06:15:00Z",
                 "updateTime": "2021-05-16T03:00:42Z",
                 "unavailableEndpoints": [
-                    "https://api.banco.com.br/open-banking/channels/v1/banking-agents",
-                    "https://api.banco.com.br/open-banking/channels/v1/branches",
-                    "https://api.banco.com.br/open-banking/channels/v1/electronic-channels",
-                    "https://api.banco.com.br/open-banking/channels/v1/phone-channels",
-                    "https://api.banco.com.br/open-banking/channels/v1/sahred-automated-teller-channels"
+                    "https://opendata.api.bb.com.br/open-banking/channels/v1/banking-agents",
+                    "https://opendata.api.bb.com.br/open-banking/channels/v1/branches",
+                    "https://opendata.api.bb.com.br/open-banking/channels/v1/electronic-channels",
+                    "https://opendata.api.bb.com.br/open-banking/channels/v1/phone-channels",
+                    "https://opendata.api.bb.com.br/open-banking/channels/v1/sahred-automated-teller-channels"
                 ]
             },
             {
@@ -26,11 +26,11 @@
                 "expectedResolutionTime": "2021-05-16T03:10:00Z",
                 "updateTime": "2021-05-16T03:00:00Z",
                 "unavailableEndpoints": [
-                    "https://api.banco.com.br/open-banking/channels/v1/banking-agents",
-                    "https://api.banco.com.br/open-banking/channels/v1/branches",
-                    "https://api.banco.com.br/open-banking/channels/v1/electronic-channels",
-                    "https://api.banco.com.br/open-banking/channels/v1/phone-channels",
-                    "https://api.banco.com.br/open-banking/channels/v1/sahred-automated-teller-channels"
+                    "https://opendata.api.bb.com.br/open-banking/channels/v1/banking-agents",
+                    "https://opendata.api.bb.com.br/open-banking/channels/v1/branches",
+                    "https://opendata.api.bb.com.br/open-banking/channels/v1/electronic-channels",
+                    "https://opendata.api.bb.com.br/open-banking/channels/v1/phone-channels",
+                    "https://opendata.api.bb.com.br/open-banking/channels/v1/sahred-automated-teller-channels"
                 ]
             },
             {
@@ -41,16 +41,30 @@
             {
                 "code": "PARTIAL_FAILURE",
                 "explanation": "Subida em produção",
-                "detectionTime": "2021-05-10T03:15:16Z",
-                "expectedResolutionTime": "2021-05-10T03:23:00Z",
-                "updateTime": "2021-05-10T03:15:16Z",
+                "detectionTime": "2021-05-10T03:25:16Z",
+                "expectedResolutionTime": "2021-05-10T03:45:00Z",
+                "updateTime": "2021-05-10T03:25:16Z",
                 "unavailableEndpoints": [
-                    "https://api.banco.com.br/open-banking/products-services/v1/business-accounts",
-                    "https://api.banco.com.br/open-banking/products-services/v1/business-credit-cards",
-                    "https://api.banco.com.br/open-banking/products-services/v1/business-financings",
-                    "https://api.banco.com.br/open-banking/products-services/v1/business-invoice-financings",
-                    "https://api.banco.com.br/open-banking/products-services/v1/business-loans",
-                    "https://api.banco.com.br/open-banking/products-services/v1/business-unarranged-account-overdraft"
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-accounts",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-credit-cards",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-financings",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-invoice-financings",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-loans",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-unarranged-account-overdraft"
+                ]
+            },
+            {
+                "code": "UNAVAILABLE",
+                "explanation": "Sistema",
+                "expectedResolutionTime": "2021-05-10T03:14:01Z",
+                "updateTime": "2021-05-10T03:14:01Z",
+                "unavailableEndpoints": [
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-accounts",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-credit-cards",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-financings",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-invoice-financings",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-loans",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-unarranged-account-overdraft"
                 ]
             },
             {
@@ -59,12 +73,12 @@
                 "expectedResolutionTime": "2021-05-10T03:14:00Z",
                 "updateTime": "2021-05-10T03:00:00Z",
                 "unavailableEndpoints": [
-                    "https://api.banco.com.br/open-banking/products-services/v1/business-accounts",
-                    "https://api.banco.com.br/open-banking/products-services/v1/business-credit-cards",
-                    "https://api.banco.com.br/open-banking/products-services/v1/business-financings",
-                    "https://api.banco.com.br/open-banking/products-services/v1/business-invoice-financings",
-                    "https://api.banco.com.br/open-banking/products-services/v1/business-loans",
-                    "https://api.banco.com.br/open-banking/products-services/v1/business-unarranged-account-overdraft"
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-accounts",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-credit-cards",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-financings",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-invoice-financings",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-loans",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-unarranged-account-overdraft"
                 ]
             },
             {
