@@ -10,7 +10,7 @@
         }
     ],
     "links": {
-        "self": "https://api.banco.com.br/open-banking/loans/v1/contracts"
+        "self": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts"
     },
     "meta": {
         "totalRecords": 1,
