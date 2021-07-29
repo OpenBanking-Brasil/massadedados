@@ -1,41 +1,46 @@
 {
     "data": [
         {
-            "resourceId": "NA",
-            "type": "ACCOUNT",
-            "status": "UNAVAILABLE"
-        },
-        {
-            "resourceId": "cd2948d7-36c0-3b82-b643-ebbc43ea996c",
+            "resourceId": "b22632a4-d8e4-11eb-b8bc-0242ac130003",
             "type": "CREDIT_CARD_ACCOUNT",
             "status": "AVAILABLE"
         },
         {
-            "resourceId": "cb22d29a-f2e8-3e0f-af2c-866021ba0882",
+            "resourceId": "64efa400-db34-11eb-8d19-0242ac130003",
             "type": "LOAN",
             "status": "AVAILABLE"
         },
         {
-            "resourceId": "1f99c1d8-c4dd-3cce-b375-70a0d1d4a1db",
+            "resourceId": "f675a994-7baf-3a5c-bdc5-8d556c36d02f",
             "type": "FINANCING",
             "status": "AVAILABLE"
         },
         {
-            "resourceId": "NA",
-            "type": "UNARRANGED_ACCOUNT_OVERDRAFT",
-            "status": "UNAVAILABLE"
+            "resourceId": "eefef475-c438-3cdf-aaef-1f210a5742bf",
+            "type": "FINANCING",
+            "status": "AVAILABLE"
         },
         {
-            "resourceId": "NA",
-            "type": "INVOICE_FINANCING",
-            "status": "UNAVAILABLE"
+            "resourceId": "83d4007e-7125-36a3-95da-30f1956caecc",
+            "type": "FINANCING",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "b8f7ccd3-4630-34ce-ad5b-733209dd0854",
+            "type": "FINANCING",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "9f0ed4bb-6086-308e-853d-c6dc6669675f",
+            "type": "FINANCING",
+            "status": "AVAILABLE"
         }
     ],
     "links": {
         "self": "https://api.caixa.gov.br/open-banking/resources/v1/resources"
     },
     "meta": {
-        "totalRecords": 6,
+        "totalRecords": 7,
         "totalPages": 1,
         "requestDateTime": "2021-06-15T09:56:00Z"
     }

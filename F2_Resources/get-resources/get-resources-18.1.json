@@ -1,41 +1,26 @@
 {
     "data": [
         {
-            "resourceId": "2408fd27-adfa-3ee1-8303-22984cbecb7c",
+            "resourceId": "0e49a20b-33c3-42ac-876c-567c78673abd",
             "type": "ACCOUNT",
             "status": "AVAILABLE"
         },
         {
-            "resourceId": "9272dbfd-a2da-3ffb-b7ce-715f028ad8a4",
+            "resourceId": "1198c730-9941-4215-8925-95ea536214c3",
             "type": "CREDIT_CARD_ACCOUNT",
             "status": "AVAILABLE"
         },
         {
-            "resourceId": "NA",
-            "type": "LOAN",
-            "status": "UNAVAILABLE"
-        },
-        {
-            "resourceId": "751da16e-5380-3dec-b675-68cde665b780",
+            "resourceId": "9ef33d13-5c12-4d98-b8c1-38d53ffee08e",
             "type": "FINANCING",
             "status": "AVAILABLE"
-        },
-        {
-            "resourceId": "NA",
-            "type": "UNARRANGED_ACCOUNT_OVERDRAFT",
-            "status": "UNAVAILABLE"
-        },
-        {
-            "resourceId": "NA",
-            "type": "INVOICE_FINANCING",
-            "status": "UNAVAILABLE"
         }
     ],
     "links": {
         "self": "https://opendata.api.bb.com.br/open-banking/resources/v1/resources"
     },
     "meta": {
-        "totalRecords": 6,
+        "totalRecords": 3,
         "totalPages": 1,
         "requestDateTime": "2022-03-28T00:00:00Z"
     }

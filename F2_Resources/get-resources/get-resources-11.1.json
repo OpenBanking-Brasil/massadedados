@@ -1,41 +1,31 @@
 {
     "data": [
         {
-            "resourceId": "NA",
-            "type": "ACCOUNT",
-            "status": "UNAVAILABLE"
-        },
-        {
-            "resourceId": "NA",
-            "type": "CREDIT_CARD_ACCOUNT",
-            "status": "UNAVAILABLE"
-        },
-        {
-            "resourceId": "e5a0c79d-d04b-3972-ad91-c7c3c02e10e0",
+            "resourceId": "jte9ogns-swxg-365m-cndh-us42iko0r7ni",
             "type": "LOAN",
             "status": "AVAILABLE"
         },
         {
-            "resourceId": "NA",
-            "type": "FINANCING",
-            "status": "UNAVAILABLE"
+            "resourceId": "rurjqnkh-6pub-x5qc-3dtr-2qad4n74i3cu",
+            "type": "LOAN",
+            "status": "AVAILABLE"
         },
         {
-            "resourceId": "NA",
-            "type": "UNARRANGED_ACCOUNT_OVERDRAFT",
-            "status": "UNAVAILABLE"
+            "resourceId": "k6tkha3a-f8uf-w1z9-k1an-dmlcnco8wj04",
+            "type": "LOAN",
+            "status": "AVAILABLE"
         },
         {
-            "resourceId": "NA",
-            "type": "INVOICE_FINANCING",
-            "status": "UNAVAILABLE"
+            "resourceId": "okangw8q-m4ma-tb08-rcem-tftbc8j4pk8j",
+            "type": "LOAN",
+            "status": "AVAILABLE"
         }
     ],
     "links": {
         "self": "https://api.baninter.com/open-banking/resources/v1/resources"
     },
     "meta": {
-        "totalRecords": 6,
+        "totalRecords": 4,
         "totalPages": 1,
         "requestDateTime": "2022-05-07T06:00:00Z"
     }

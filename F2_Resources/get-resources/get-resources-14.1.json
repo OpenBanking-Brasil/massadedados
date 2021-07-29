@@ -28,7 +28,7 @@
         {
             "resourceId": "NA",
             "type": "INVOICE_FINANCING",
-            "status": "UNAVAILABLE"
+            "status": "UNAVAILABLEs"
         }
     ],
     "links": {

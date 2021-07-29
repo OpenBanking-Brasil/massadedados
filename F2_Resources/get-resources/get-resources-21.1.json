@@ -1,34 +1,34 @@
 {
     "data": [
         {
-            "resourceId": "NA",
-            "type": "ACCOUNT",
-            "status": "UNAVAILABLE"
-        },
-        {
-            "resourceId": "NA",
-            "type": "CREDIT_CARD_ACCOUNT",
-            "status": "UNAVAILABLE"
-        },
-        {
-            "resourceId": "NA",
-            "type": "LOAN",
-            "status": "UNAVAILABLE"
-        },
-        {
-            "resourceId": "81ea316d-3cd1-31e8-88dc-be39e7887c7f",
+            "resourceId": "f96b10e8-5aa7-32fe-b029-3ad7873fdef4",
             "type": "FINANCING",
             "status": "AVAILABLE"
         },
         {
-            "resourceId": "a855fcc8-a911-3dea-a976-4b6fa5e0a55a",
+            "resourceId": "09111ff2-b903-3552-bdba-44b48d626b78",
             "type": "UNARRANGED_ACCOUNT_OVERDRAFT",
             "status": "AVAILABLE"
         },
         {
-            "resourceId": "NA",
-            "type": "INVOICE_FINANCING",
-            "status": "UNAVAILABLE"
+            "resourceId": "33e70dfb-68a8-3ef1-9553-8481ae8c1bca",
+            "type": "UNARRANGED_ACCOUNT_OVERDRAFT",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "a41a1fdf-18f0-35ac-98ac-8a6b592b980a",
+            "type": "UNARRANGED_ACCOUNT_OVERDRAFT",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "27d1e77d-0284-36b6-8ace-2c597305dfb7",
+            "type": "UNARRANGED_ACCOUNT_OVERDRAFT",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "b57dff62-92aa-3fdc-9e2f-0cfb8db1ce41",
+            "type": "UNARRANGED_ACCOUNT_OVERDRAFT",
+            "status": "AVAILABLE"
         }
     ],
     "links": {

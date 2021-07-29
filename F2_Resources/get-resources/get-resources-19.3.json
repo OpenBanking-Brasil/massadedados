@@ -1,41 +1,16 @@
 {
     "data": [
         {
-            "resourceId": "2be5ea20-d7d1-3b27-a6e1-ceb002a28123",
+            "resourceId": "142fb6cc-d995-11eb-b8bc-0242ac130003",
             "type": "ACCOUNT",
             "status": "AVAILABLE"
-        },
-        {
-            "resourceId": "NA",
-            "type": "CREDIT_CARD_ACCOUNT",
-            "status": "UNAVAILABLE"
-        },
-        {
-            "resourceId": "NA",
-            "type": "LOAN",
-            "status": "UNAVAILABLE"
-        },
-        {
-            "resourceId": "NA",
-            "type": "FINANCING",
-            "status": "UNAVAILABLE"
-        },
-        {
-            "resourceId": "NA",
-            "type": "UNARRANGED_ACCOUNT_OVERDRAFT",
-            "status": "UNAVAILABLE"
-        },
-        {
-            "resourceId": "NA",
-            "type": "INVOICE_FINANCING",
-            "status": "UNAVAILABLE"
         }
     ],
     "links": {
         "self": "https://api.bradesco.com/open-banking/resources/v1/resources"
     },
     "meta": {
-        "totalRecords": 6,
+        "totalRecords": 1,
         "totalPages": 1,
         "requestDateTime": "2021-05-28T11:04:00Z"
     }

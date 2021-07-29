@@ -1,41 +1,16 @@
 {
     "data": [
         {
-            "resourceId": "NA",
-            "type": "ACCOUNT",
-            "status": "UNAVAILABLE"
-        },
-        {
-            "resourceId": "NA",
-            "type": "CREDIT_CARD_ACCOUNT",
-            "status": "UNAVAILABLE"
-        },
-        {
-            "resourceId": "NA",
-            "type": "LOAN",
-            "status": "UNAVAILABLE"
-        },
-        {
-            "resourceId": "90ac375e-5a07-3dad-b4d4-69499a9a14cd",
+            "resourceId": "5965115d-fb63-3303-896c-9fe089427e22",
             "type": "FINANCING",
             "status": "AVAILABLE"
-        },
-        {
-            "resourceId": "NA",
-            "type": "UNARRANGED_ACCOUNT_OVERDRAFT",
-            "status": "UNAVAILABLE"
-        },
-        {
-            "resourceId": "NA",
-            "type": "INVOICE_FINANCING",
-            "status": "UNAVAILABLE"
         }
     ],
     "links": {
         "self": "https://api.itau/open-banking/resources/v1/resources"
     },
     "meta": {
-        "totalRecords": 6,
+        "totalRecords": 1,
         "totalPages": 1,
         "requestDateTime": "2021-07-13T23:59:59Z"
     }

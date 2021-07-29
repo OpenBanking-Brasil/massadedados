@@ -1,41 +1,66 @@
 {
     "data": [
         {
-            "resourceId": "NA",
-            "type": "ACCOUNT",
-            "status": "UNAVAILABLE"
-        },
-        {
-            "resourceId": "4db6c673-abef-3bb2-bd98-b04bf4865412",
+            "resourceId": "5cd65564-db2c-11eb-8d19-0242ac130003",
             "type": "CREDIT_CARD_ACCOUNT",
             "status": "AVAILABLE"
         },
         {
-            "resourceId": "a17a8c7a-fa43-398f-a6ec-dfdb5783fd12",
+            "resourceId": "601c977e-db2c-11eb-8d19-0242ac130003",
+            "type": "CREDIT_CARD_ACCOUNT",
+            "status": "AVAILABLE"
+        },
+         {
+            "resourceId": "01b0c9b6-db2d-11eb-8d19-0242ac130003",
+            "type": "CREDIT_CARD_ACCOUNT",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "05d4ef2c-db2d-11eb-8d19-0242ac130003",
+            "type": "CREDIT_CARD_ACCOUNT",
+            "status": "AVAILABLE"
+        },
+         {
+            "resourceId": "0cd8e31e-db2d-11eb-8d19-0242ac130003",
+            "type": "CREDIT_CARD_ACCOUNT",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "befb174b-b96f-381e-9150-effa8dc43c7e",
             "type": "LOAN",
             "status": "AVAILABLE"
         },
         {
-            "resourceId": "09cff081-0162-36fa-a68b-736fd65e8451",
+            "resourceId": "bf7555e6-d629-33ce-8cf9-ee95e92241a0",
             "type": "FINANCING",
             "status": "AVAILABLE"
         },
         {
-            "resourceId": "NA",
-            "type": "UNARRANGED_ACCOUNT_OVERDRAFT",
-            "status": "UNAVAILABLE"
+            "resourceId": "cf7555e6-d629-33ce-8cf9-ee95e92241a0",
+            "type": "FINANCING",
+            "status": "AVAILABLE"
         },
         {
-            "resourceId": "NA",
-            "type": "INVOICE_FINANCING",
-            "status": "UNAVAILABLE"
+            "resourceId": "df7555e6-d629-33ce-8cf9-ee95e92241a0",
+            "type": "FINANCING",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "ef7555e6-d629-33ce-8cf9-ee95e92241a0",
+            "type": "FINANCING",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "ff7555e6-d629-33ce-8cf9-ee95e92241a0",
+            "type": "FINANCING",
+            "status": "AVAILABLE"
         }
     ],
     "links": {
         "self": "https://api.caixa.gov.br/open-banking/resources/v1/resources"
     },
     "meta": {
-        "totalRecords": 6,
+        "totalRecords":11,
         "totalPages": 1,
         "requestDateTime": "2021-09-28T11:04:00Z"
     }
