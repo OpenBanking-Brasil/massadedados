@@ -4,7 +4,7 @@
             {
                 "outageTime": "2021-05-16T03:10:42Z",
                 "duration": "PT3H05M",
-                "isPartial": true,
+                "isPartial": false,
                 "explanation": "Erro na atualização",
                 "unavailableEndpoints": [
                     "https://opendata.api.bb.com.br/open-banking/channels/v1/banking-agents",
@@ -30,7 +30,7 @@
             {
                 "outageTime": "2021-05-16T03:00:00Z",
                 "duration": "PT0H10M",
-                "isPartial": true,
+                "isPartial": false,
                 "explanation": "Atualização em produção",
                 "unavailableEndpoints": [
                     "https://opendata.api.bb.com.br/open-banking/channels/v1/banking-agents",
@@ -56,7 +56,7 @@
             {
                 "outageTime": "2021-05-10T03:10:00Z",
                 "duration": "PT0H30M",
-                "isPartial": false,
+                "isPartial": true,
                 "explanation": "Erro na atualização",
                 "unavailableEndpoints": [
                     "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-accounts",
@@ -70,7 +70,7 @@
             {
                 "outageTime": "2021-05-10T03:08:16Z",
                 "duration": "PT0H02M",
-                "isPartial": false,
+                "isPartial": true,
                 "explanation": "Erro na atualização",
                 "unavailableEndpoints": [
                     "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-accounts",
@@ -84,7 +84,7 @@
             {
                 "outageTime": "2021-05-10T03:00:00Z",
                 "duration": "PT0H14M",
-                "isPartial": false,
+                "isPartial": true,
                 "explanation": "Atualização do API products-services",
                 "unavailableEndpoints": [
                     "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-accounts",
