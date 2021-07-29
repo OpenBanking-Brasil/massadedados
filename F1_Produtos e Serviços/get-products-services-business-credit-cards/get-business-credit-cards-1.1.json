@@ -704,8 +704,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -911,7 +910,7 @@
                             },
                             "termsConditions": {
                                 "minimumFeeRate": "0.15",
-                                "elegibilityCriteriaInfo": "",
+                                "elegibilityCriteriaInfo": "NA",
                                 "closingProcessInfo": "https://www.bb.com.br/pbb/pagina-inicial/perguntas-frequentes#/"
                             }
                         },
@@ -928,8 +927,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -1135,7 +1133,7 @@
                             },
                             "termsConditions": {
                                 "minimumFeeRate": "0.15",
-                                "elegibilityCriteriaInfo": "",
+                                "elegibilityCriteriaInfo": "NA",
                                 "closingProcessInfo": "https://www.bb.com.br/pbb/pagina-inicial/perguntas-frequentes#/"
                             }
                         },
@@ -1152,8 +1150,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -1871,8 +1868,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -2048,8 +2044,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -2915,8 +2910,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -3122,7 +3116,7 @@
                             },
                             "termsConditions": {
                                 "minimumFeeRate": "0.15",
-                                "elegibilityCriteriaInfo": "",
+                                "elegibilityCriteriaInfo": "NA",
                                 "closingProcessInfo": "https://www.bb.com.br/pbb/pagina-inicial/perguntas-frequentes#/"
                             }
                         },
@@ -3139,8 +3133,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -3346,7 +3339,7 @@
                             },
                             "termsConditions": {
                                 "minimumFeeRate": "0.15",
-                                "elegibilityCriteriaInfo": "",
+                                "elegibilityCriteriaInfo": "NA",
                                 "closingProcessInfo": "https://www.bb.com.br/pbb/pagina-inicial/perguntas-frequentes#/"
                             }
                         },
@@ -3363,8 +3356,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -4082,8 +4074,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -4259,8 +4250,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -5126,8 +5116,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -5333,7 +5322,7 @@
                             },
                             "termsConditions": {
                                 "minimumFeeRate": "0.15",
-                                "elegibilityCriteriaInfo": "",
+                                "elegibilityCriteriaInfo": "NA",
                                 "closingProcessInfo": "https://www.bb.com.br/pbb/pagina-inicial/perguntas-frequentes#/"
                             }
                         },
@@ -5350,8 +5339,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -5557,7 +5545,7 @@
                             },
                             "termsConditions": {
                                 "minimumFeeRate": "0.15",
-                                "elegibilityCriteriaInfo": "",
+                                "elegibilityCriteriaInfo": "NA",
                                 "closingProcessInfo": "https://www.bb.com.br/pbb/pagina-inicial/perguntas-frequentes#/"
                             }
                         },
@@ -5574,8 +5562,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -6293,8 +6280,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -6470,8 +6456,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -7337,8 +7322,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -7544,7 +7528,7 @@
                             },
                             "termsConditions": {
                                 "minimumFeeRate": "0.15",
-                                "elegibilityCriteriaInfo": "",
+                                "elegibilityCriteriaInfo": "NA",
                                 "closingProcessInfo": "https://www.bb.com.br/pbb/pagina-inicial/perguntas-frequentes#/"
                             }
                         },
@@ -7561,8 +7545,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -7768,7 +7751,7 @@
                             },
                             "termsConditions": {
                                 "minimumFeeRate": "0.15",
-                                "elegibilityCriteriaInfo": "",
+                                "elegibilityCriteriaInfo": "NA",
                                 "closingProcessInfo": "https://www.bb.com.br/pbb/pagina-inicial/perguntas-frequentes#/"
                             }
                         },
@@ -7785,8 +7768,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -8504,8 +8486,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -8681,8 +8662,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -9548,8 +9528,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -9755,7 +9734,7 @@
                             },
                             "termsConditions": {
                                 "minimumFeeRate": "0.15",
-                                "elegibilityCriteriaInfo": "",
+                                "elegibilityCriteriaInfo": "NA",
                                 "closingProcessInfo": "https://www.bb.com.br/pbb/pagina-inicial/perguntas-frequentes#/"
                             }
                         },
@@ -9772,8 +9751,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -9979,7 +9957,7 @@
                             },
                             "termsConditions": {
                                 "minimumFeeRate": "0.15",
-                                "elegibilityCriteriaInfo": "",
+                                "elegibilityCriteriaInfo": "NA",
                                 "closingProcessInfo": "https://www.bb.com.br/pbb/pagina-inicial/perguntas-frequentes#/"
                             }
                         },
@@ -9996,8 +9974,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -10715,8 +10692,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -10892,8 +10868,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -11759,8 +11734,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -11966,7 +11940,7 @@
                             },
                             "termsConditions": {
                                 "minimumFeeRate": "0.15",
-                                "elegibilityCriteriaInfo": "",
+                                "elegibilityCriteriaInfo": "NA",
                                 "closingProcessInfo": "https://www.bb.com.br/pbb/pagina-inicial/perguntas-frequentes#/"
                             }
                         },
@@ -11983,8 +11957,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -12190,7 +12163,7 @@
                             },
                             "termsConditions": {
                                 "minimumFeeRate": "0.15",
-                                "elegibilityCriteriaInfo": "",
+                                "elegibilityCriteriaInfo": "NA",
                                 "closingProcessInfo": "https://www.bb.com.br/pbb/pagina-inicial/perguntas-frequentes#/"
                             }
                         },
@@ -12207,8 +12180,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -12926,8 +12898,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -13103,8 +13074,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -13970,8 +13940,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -14177,7 +14146,7 @@
                             },
                             "termsConditions": {
                                 "minimumFeeRate": "0.15",
-                                "elegibilityCriteriaInfo": "",
+                                "elegibilityCriteriaInfo": "NA",
                                 "closingProcessInfo": "https://www.bb.com.br/pbb/pagina-inicial/perguntas-frequentes#/"
                             }
                         },
@@ -14194,8 +14163,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -14401,7 +14369,7 @@
                             },
                             "termsConditions": {
                                 "minimumFeeRate": "0.15",
-                                "elegibilityCriteriaInfo": "",
+                                "elegibilityCriteriaInfo": "NA",
                                 "closingProcessInfo": "https://www.bb.com.br/pbb/pagina-inicial/perguntas-frequentes#/"
                             }
                         },
@@ -14418,8 +14386,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -15137,8 +15104,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -15314,8 +15280,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -16181,8 +16146,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -16388,7 +16352,7 @@
                             },
                             "termsConditions": {
                                 "minimumFeeRate": "0.15",
-                                "elegibilityCriteriaInfo": "",
+                                "elegibilityCriteriaInfo": "NA",
                                 "closingProcessInfo": "https://www.bb.com.br/pbb/pagina-inicial/perguntas-frequentes#/"
                             }
                         },
@@ -16405,8 +16369,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -16612,7 +16575,7 @@
                             },
                             "termsConditions": {
                                 "minimumFeeRate": "0.15",
-                                "elegibilityCriteriaInfo": "",
+                                "elegibilityCriteriaInfo": "NA",
                                 "closingProcessInfo": "https://www.bb.com.br/pbb/pagina-inicial/perguntas-frequentes#/"
                             }
                         },
@@ -16629,8 +16592,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -17348,8 +17310,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -17525,8 +17486,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -18392,8 +18352,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -18599,7 +18558,7 @@
                             },
                             "termsConditions": {
                                 "minimumFeeRate": "0.15",
-                                "elegibilityCriteriaInfo": "",
+                                "elegibilityCriteriaInfo": "NA",
                                 "closingProcessInfo": "https://www.bb.com.br/pbb/pagina-inicial/perguntas-frequentes#/"
                             }
                         },
@@ -18616,8 +18575,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -18823,7 +18781,7 @@
                             },
                             "termsConditions": {
                                 "minimumFeeRate": "0.15",
-                                "elegibilityCriteriaInfo": "",
+                                "elegibilityCriteriaInfo": "NA",
                                 "closingProcessInfo": "https://www.bb.com.br/pbb/pagina-inicial/perguntas-frequentes#/"
                             }
                         },
@@ -18840,8 +18798,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -19559,8 +19516,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -19736,8 +19692,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -20603,8 +20558,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -20810,7 +20764,7 @@
                             },
                             "termsConditions": {
                                 "minimumFeeRate": "0.15",
-                                "elegibilityCriteriaInfo": "",
+                                "elegibilityCriteriaInfo": "NA",
                                 "closingProcessInfo": "https://www.bb.com.br/pbb/pagina-inicial/perguntas-frequentes#/"
                             }
                         },
@@ -20827,8 +20781,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -21034,7 +20987,7 @@
                             },
                             "termsConditions": {
                                 "minimumFeeRate": "0.15",
-                                "elegibilityCriteriaInfo": "",
+                                "elegibilityCriteriaInfo": "NA",
                                 "closingProcessInfo": "https://www.bb.com.br/pbb/pagina-inicial/perguntas-frequentes#/"
                             }
                         },
@@ -21051,8 +21004,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -21770,8 +21722,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [
@@ -21947,8 +21898,7 @@
                                 }
                             },
                             "rewardsProgram": {
-                                "hasRewardProgram": false,
-                                "rewardProgramInfo": null
+                                "hasRewardProgram": false
                             },
                             "fees": {
                                 "services": [

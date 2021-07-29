@@ -1580,50 +1580,6 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_CDI",
-                                    "rate": "NA",
-                                    "applications": [
-                                        {
-                                            "interval": "1_FAIXA",
-                                            "indexer": {
-                                                "rate": "2.2500"
-                                            },
-                                            "customers": {
-                                                "rate": "0.0119"
-                                            }
-                                        },
-                                        {
-                                            "interval": "2_FAIXA",
-                                            "indexer": {
-                                                "rate": "4.1000"
-                                            },
-                                            "customers": {
-                                                "rate": "0.0509"
-                                            }
-                                        },
-                                        {
-                                            "interval": "3_FAIXA",
-                                            "indexer": {
-                                                "rate": "7.2500"
-                                            },
-                                            "customers": {
-                                                "rate": "0.1908"
-                                            }
-                                        },
-                                        {
-                                            "interval": "4_FAIXA",
-                                            "indexer": {
-                                                "rate": "7.8400"
-                                            },
-                                            "customers": {
-                                                "rate": "0.7464"
-                                            }
-                                        }
-                                    ],
-                                    "minimumRate": "2.0000",
-                                    "maximumRate": "9.1000"
-                                },
-                                {
-                                    "referentialRateIndexer": "FLUTUANTES_CDI",
                                     "rate": "1.00",
                                     "applications": [
                                         {
@@ -3248,50 +3204,6 @@
                                     ],
                                     "minimumRate": "0.0068",
                                     "maximumRate": "0.0625"
-                                },
-                                {
-                                    "referentialRateIndexer": "FLUTUANTES_CDI",
-                                    "rate": "NA",
-                                    "applications": [
-                                        {
-                                            "interval": "1_FAIXA",
-                                            "indexer": {
-                                                "rate": "2.2500"
-                                            },
-                                            "customers": {
-                                                "rate": "0.0119"
-                                            }
-                                        },
-                                        {
-                                            "interval": "2_FAIXA",
-                                            "indexer": {
-                                                "rate": "4.1000"
-                                            },
-                                            "customers": {
-                                                "rate": "0.0509"
-                                            }
-                                        },
-                                        {
-                                            "interval": "3_FAIXA",
-                                            "indexer": {
-                                                "rate": "7.2500"
-                                            },
-                                            "customers": {
-                                                "rate": "0.1908"
-                                            }
-                                        },
-                                        {
-                                            "interval": "4_FAIXA",
-                                            "indexer": {
-                                                "rate": "7.8400"
-                                            },
-                                            "customers": {
-                                                "rate": "0.7464"
-                                            }
-                                        }
-                                    ],
-                                    "minimumRate": "2.0000",
-                                    "maximumRate": "9.1000"
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_CDI",
@@ -4922,50 +4834,6 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_CDI",
-                                    "rate": "NA",
-                                    "applications": [
-                                        {
-                                            "interval": "1_FAIXA",
-                                            "indexer": {
-                                                "rate": "2.2500"
-                                            },
-                                            "customers": {
-                                                "rate": "0.0119"
-                                            }
-                                        },
-                                        {
-                                            "interval": "2_FAIXA",
-                                            "indexer": {
-                                                "rate": "4.1000"
-                                            },
-                                            "customers": {
-                                                "rate": "0.0509"
-                                            }
-                                        },
-                                        {
-                                            "interval": "3_FAIXA",
-                                            "indexer": {
-                                                "rate": "7.2500"
-                                            },
-                                            "customers": {
-                                                "rate": "0.1908"
-                                            }
-                                        },
-                                        {
-                                            "interval": "4_FAIXA",
-                                            "indexer": {
-                                                "rate": "7.8400"
-                                            },
-                                            "customers": {
-                                                "rate": "0.7464"
-                                            }
-                                        }
-                                    ],
-                                    "minimumRate": "2.0000",
-                                    "maximumRate": "9.1000"
-                                },
-                                {
-                                    "referentialRateIndexer": "FLUTUANTES_CDI",
                                     "rate": "1.00",
                                     "applications": [
                                         {
@@ -6590,50 +6458,6 @@
                                     ],
                                     "minimumRate": "0.0068",
                                     "maximumRate": "0.0625"
-                                },
-                                {
-                                    "referentialRateIndexer": "FLUTUANTES_CDI",
-                                    "rate": "NA",
-                                    "applications": [
-                                        {
-                                            "interval": "1_FAIXA",
-                                            "indexer": {
-                                                "rate": "2.2500"
-                                            },
-                                            "customers": {
-                                                "rate": "0.0119"
-                                            }
-                                        },
-                                        {
-                                            "interval": "2_FAIXA",
-                                            "indexer": {
-                                                "rate": "4.1000"
-                                            },
-                                            "customers": {
-                                                "rate": "0.0509"
-                                            }
-                                        },
-                                        {
-                                            "interval": "3_FAIXA",
-                                            "indexer": {
-                                                "rate": "7.2500"
-                                            },
-                                            "customers": {
-                                                "rate": "0.1908"
-                                            }
-                                        },
-                                        {
-                                            "interval": "4_FAIXA",
-                                            "indexer": {
-                                                "rate": "7.8400"
-                                            },
-                                            "customers": {
-                                                "rate": "0.7464"
-                                            }
-                                        }
-                                    ],
-                                    "minimumRate": "2.0000",
-                                    "maximumRate": "9.1000"
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_CDI",
@@ -8264,50 +8088,6 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_CDI",
-                                    "rate": "NA",
-                                    "applications": [
-                                        {
-                                            "interval": "1_FAIXA",
-                                            "indexer": {
-                                                "rate": "2.2500"
-                                            },
-                                            "customers": {
-                                                "rate": "0.0119"
-                                            }
-                                        },
-                                        {
-                                            "interval": "2_FAIXA",
-                                            "indexer": {
-                                                "rate": "4.1000"
-                                            },
-                                            "customers": {
-                                                "rate": "0.0509"
-                                            }
-                                        },
-                                        {
-                                            "interval": "3_FAIXA",
-                                            "indexer": {
-                                                "rate": "7.2500"
-                                            },
-                                            "customers": {
-                                                "rate": "0.1908"
-                                            }
-                                        },
-                                        {
-                                            "interval": "4_FAIXA",
-                                            "indexer": {
-                                                "rate": "7.8400"
-                                            },
-                                            "customers": {
-                                                "rate": "0.7464"
-                                            }
-                                        }
-                                    ],
-                                    "minimumRate": "2.0000",
-                                    "maximumRate": "9.1000"
-                                },
-                                {
-                                    "referentialRateIndexer": "FLUTUANTES_CDI",
                                     "rate": "1.00",
                                     "applications": [
                                         {
@@ -9932,50 +9712,6 @@
                                     ],
                                     "minimumRate": "0.0068",
                                     "maximumRate": "0.0625"
-                                },
-                                {
-                                    "referentialRateIndexer": "FLUTUANTES_CDI",
-                                    "rate": "NA",
-                                    "applications": [
-                                        {
-                                            "interval": "1_FAIXA",
-                                            "indexer": {
-                                                "rate": "2.2500"
-                                            },
-                                            "customers": {
-                                                "rate": "0.0119"
-                                            }
-                                        },
-                                        {
-                                            "interval": "2_FAIXA",
-                                            "indexer": {
-                                                "rate": "4.1000"
-                                            },
-                                            "customers": {
-                                                "rate": "0.0509"
-                                            }
-                                        },
-                                        {
-                                            "interval": "3_FAIXA",
-                                            "indexer": {
-                                                "rate": "7.2500"
-                                            },
-                                            "customers": {
-                                                "rate": "0.1908"
-                                            }
-                                        },
-                                        {
-                                            "interval": "4_FAIXA",
-                                            "indexer": {
-                                                "rate": "7.8400"
-                                            },
-                                            "customers": {
-                                                "rate": "0.7464"
-                                            }
-                                        }
-                                    ],
-                                    "minimumRate": "2.0000",
-                                    "maximumRate": "9.1000"
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_CDI",
@@ -11606,50 +11342,6 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_CDI",
-                                    "rate": "NA",
-                                    "applications": [
-                                        {
-                                            "interval": "1_FAIXA",
-                                            "indexer": {
-                                                "rate": "2.2500"
-                                            },
-                                            "customers": {
-                                                "rate": "0.0119"
-                                            }
-                                        },
-                                        {
-                                            "interval": "2_FAIXA",
-                                            "indexer": {
-                                                "rate": "4.1000"
-                                            },
-                                            "customers": {
-                                                "rate": "0.0509"
-                                            }
-                                        },
-                                        {
-                                            "interval": "3_FAIXA",
-                                            "indexer": {
-                                                "rate": "7.2500"
-                                            },
-                                            "customers": {
-                                                "rate": "0.1908"
-                                            }
-                                        },
-                                        {
-                                            "interval": "4_FAIXA",
-                                            "indexer": {
-                                                "rate": "7.8400"
-                                            },
-                                            "customers": {
-                                                "rate": "0.7464"
-                                            }
-                                        }
-                                    ],
-                                    "minimumRate": "2.0000",
-                                    "maximumRate": "9.1000"
-                                },
-                                {
-                                    "referentialRateIndexer": "FLUTUANTES_CDI",
                                     "rate": "1.00",
                                     "applications": [
                                         {
@@ -13274,50 +12966,6 @@
                                     ],
                                     "minimumRate": "0.0068",
                                     "maximumRate": "0.0625"
-                                },
-                                {
-                                    "referentialRateIndexer": "FLUTUANTES_CDI",
-                                    "rate": "NA",
-                                    "applications": [
-                                        {
-                                            "interval": "1_FAIXA",
-                                            "indexer": {
-                                                "rate": "2.2500"
-                                            },
-                                            "customers": {
-                                                "rate": "0.0119"
-                                            }
-                                        },
-                                        {
-                                            "interval": "2_FAIXA",
-                                            "indexer": {
-                                                "rate": "4.1000"
-                                            },
-                                            "customers": {
-                                                "rate": "0.0509"
-                                            }
-                                        },
-                                        {
-                                            "interval": "3_FAIXA",
-                                            "indexer": {
-                                                "rate": "7.2500"
-                                            },
-                                            "customers": {
-                                                "rate": "0.1908"
-                                            }
-                                        },
-                                        {
-                                            "interval": "4_FAIXA",
-                                            "indexer": {
-                                                "rate": "7.8400"
-                                            },
-                                            "customers": {
-                                                "rate": "0.7464"
-                                            }
-                                        }
-                                    ],
-                                    "minimumRate": "2.0000",
-                                    "maximumRate": "9.1000"
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_CDI",
@@ -14948,50 +14596,6 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_CDI",
-                                    "rate": "NA",
-                                    "applications": [
-                                        {
-                                            "interval": "1_FAIXA",
-                                            "indexer": {
-                                                "rate": "2.2500"
-                                            },
-                                            "customers": {
-                                                "rate": "0.0119"
-                                            }
-                                        },
-                                        {
-                                            "interval": "2_FAIXA",
-                                            "indexer": {
-                                                "rate": "4.1000"
-                                            },
-                                            "customers": {
-                                                "rate": "0.0509"
-                                            }
-                                        },
-                                        {
-                                            "interval": "3_FAIXA",
-                                            "indexer": {
-                                                "rate": "7.2500"
-                                            },
-                                            "customers": {
-                                                "rate": "0.1908"
-                                            }
-                                        },
-                                        {
-                                            "interval": "4_FAIXA",
-                                            "indexer": {
-                                                "rate": "7.8400"
-                                            },
-                                            "customers": {
-                                                "rate": "0.7464"
-                                            }
-                                        }
-                                    ],
-                                    "minimumRate": "2.0000",
-                                    "maximumRate": "9.1000"
-                                },
-                                {
-                                    "referentialRateIndexer": "FLUTUANTES_CDI",
                                     "rate": "1.00",
                                     "applications": [
                                         {
@@ -16619,50 +16223,6 @@
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_CDI",
-                                    "rate": "NA",
-                                    "applications": [
-                                        {
-                                            "interval": "1_FAIXA",
-                                            "indexer": {
-                                                "rate": "2.2500"
-                                            },
-                                            "customers": {
-                                                "rate": "0.0119"
-                                            }
-                                        },
-                                        {
-                                            "interval": "2_FAIXA",
-                                            "indexer": {
-                                                "rate": "4.1000"
-                                            },
-                                            "customers": {
-                                                "rate": "0.0509"
-                                            }
-                                        },
-                                        {
-                                            "interval": "3_FAIXA",
-                                            "indexer": {
-                                                "rate": "7.2500"
-                                            },
-                                            "customers": {
-                                                "rate": "0.1908"
-                                            }
-                                        },
-                                        {
-                                            "interval": "4_FAIXA",
-                                            "indexer": {
-                                                "rate": "7.8400"
-                                            },
-                                            "customers": {
-                                                "rate": "0.7464"
-                                            }
-                                        }
-                                    ],
-                                    "minimumRate": "2.0000",
-                                    "maximumRate": "9.1000"
-                                },
-                                {
-                                    "referentialRateIndexer": "FLUTUANTES_CDI",
                                     "rate": "1.00",
                                     "applications": [
                                         {
@@ -18287,50 +17847,6 @@
                                     ],
                                     "minimumRate": "0.0068",
                                     "maximumRate": "0.0625"
-                                },
-                                {
-                                    "referentialRateIndexer": "FLUTUANTES_CDI",
-                                    "rate": "NA",
-                                    "applications": [
-                                        {
-                                            "interval": "1_FAIXA",
-                                            "indexer": {
-                                                "rate": "2.2500"
-                                            },
-                                            "customers": {
-                                                "rate": "0.0119"
-                                            }
-                                        },
-                                        {
-                                            "interval": "2_FAIXA",
-                                            "indexer": {
-                                                "rate": "4.1000"
-                                            },
-                                            "customers": {
-                                                "rate": "0.0509"
-                                            }
-                                        },
-                                        {
-                                            "interval": "3_FAIXA",
-                                            "indexer": {
-                                                "rate": "7.2500"
-                                            },
-                                            "customers": {
-                                                "rate": "0.1908"
-                                            }
-                                        },
-                                        {
-                                            "interval": "4_FAIXA",
-                                            "indexer": {
-                                                "rate": "7.8400"
-                                            },
-                                            "customers": {
-                                                "rate": "0.7464"
-                                            }
-                                        }
-                                    ],
-                                    "minimumRate": "2.0000",
-                                    "maximumRate": "9.1000"
                                 },
                                 {
                                     "referentialRateIndexer": "FLUTUANTES_CDI",
