@@ -11,7 +11,7 @@
                     "https://opendata.api.bb.com.br/open-banking/channels/v1/branches",
                     "https://opendata.api.bb.com.br/open-banking/channels/v1/electronic-channels",
                     "https://opendata.api.bb.com.br/open-banking/channels/v1/phone-channels",
-                    "https://opendata.api.bb.com.br/open-banking/channels/v1/sahred-automated-teller-channels",
+                    "https://opendata.api.bb.com.br/open-banking/channels/v1/shared-automated-teller-channels",
                     "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-accounts",
                     "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-credit-cards",
                     "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-financings",
@@ -20,6 +20,7 @@
                     "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-unarranged-account-overdraft",
                     "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-accounts",
                     "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-credit-cards",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-loans",
                     "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-financings",
                     "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-invoice-financings",
                     "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-loans",
@@ -36,7 +37,7 @@
                     "https://opendata.api.bb.com.br/open-banking/channels/v1/branches",
                     "https://opendata.api.bb.com.br/open-banking/channels/v1/electronic-channels",
                     "https://opendata.api.bb.com.br/open-banking/channels/v1/phone-channels",
-                    "https://opendata.api.bb.com.br/open-banking/channels/v1/sahred-automated-teller-channels",
+                    "https://opendata.api.bb.com.br/open-banking/channels/v1/shared-automated-teller-channels",
                     "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-accounts",
                     "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-credit-cards",
                     "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-financings",
@@ -45,6 +46,7 @@
                     "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-unarranged-account-overdraft",
                     "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-accounts",
                     "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-credit-cards",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-loans",
                     "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-financings",
                     "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-invoice-financings",
                     "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-loans",
@@ -96,10 +98,13 @@
         ]
     },
     "links": {
-        "self": "https://opendata.api.bb.com.br/open-banking/discovery/v1/outages"
+        "self": "https://opendata.api.bb.com.br/open-banking/discovery/v1/outages?page=1&page-size=5",
+        "first": "https://opendata.api.bb.com.br/open-banking/discovery/v1/outages?page=1&page-size=5",
+        "next": "https://opendata.api.bb.com.br/open-banking/discovery/v1/outages?page=2&page-size=5",
+        "last": "https://opendata.api.bb.com.br/open-banking/discovery/v1/outages?page=10&page-size=5"
     },
     "meta": {
-        "totalRecords": 5,
-        "totalPages": 1
+        "totalRecords": 50,
+        "totalPages": 10
     }
 }
