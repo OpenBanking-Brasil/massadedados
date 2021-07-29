@@ -60,150 +60,9 @@
                                         }
                                     },
                                     {
-                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "code": "TAR_SUBST_GAR",
-                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "prices": [
-                                            {
-                                                "interval": "1_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "2_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "3_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "4_FAIXA",
-                                                "value": "700.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "1.0000"
-                                                }
-                                            }
-                                        ],
-                                        "minimum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        },
-                                        "maximum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        }
-                                    },
-                                    {
-                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "code": "TAR_SUBST_GAR",
-                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "prices": [
-                                            {
-                                                "interval": "1_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "2_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "3_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "4_FAIXA",
-                                                "value": "700.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "1.0000"
-                                                }
-                                            }
-                                        ],
-                                        "minimum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        },
-                                        "maximum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        }
-                                    },
-                                    {
-                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "code": "TAR_SUBST_GAR",
-                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "prices": [
-                                            {
-                                                "interval": "1_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "2_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "3_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "4_FAIXA",
-                                                "value": "700.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "1.0000"
-                                                }
-                                            }
-                                        ],
-                                        "minimum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        },
-                                        "maximum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        }
-                                    },
-                                    {
                                         "name": "Taxa de administração",
                                         "code": "NA",
-                                        "chargingTriggerInfo": "R$ 80.0000 Por Parcela",
+                                        "chargingTriggerInfo": "R$ 80.00 Por Parcela",
                                         "prices": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -252,7 +111,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "NA",
+                                    "rate": "0.0000",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -296,7 +155,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "POS_FIXADO_TLP",
-                                    "rate": "1.00",
+                                    "rate": "1.0000",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -448,150 +307,9 @@
                                         }
                                     },
                                     {
-                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "code": "TAR_SUBST_GAR",
-                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "prices": [
-                                            {
-                                                "interval": "1_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "2_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "3_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "4_FAIXA",
-                                                "value": "700.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "1.0000"
-                                                }
-                                            }
-                                        ],
-                                        "minimum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        },
-                                        "maximum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        }
-                                    },
-                                    {
-                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "code": "TAR_SUBST_GAR",
-                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "prices": [
-                                            {
-                                                "interval": "1_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "2_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "3_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "4_FAIXA",
-                                                "value": "700.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "1.0000"
-                                                }
-                                            }
-                                        ],
-                                        "minimum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        },
-                                        "maximum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        }
-                                    },
-                                    {
-                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "code": "TAR_SUBST_GAR",
-                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "prices": [
-                                            {
-                                                "interval": "1_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "2_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "3_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "4_FAIXA",
-                                                "value": "700.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "1.0000"
-                                                }
-                                            }
-                                        ],
-                                        "minimum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        },
-                                        "maximum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        }
-                                    },
-                                    {
                                         "name": "Taxa de administração",
                                         "code": "NA",
-                                        "chargingTriggerInfo": "R$ 80.0000 Por Parcela",
+                                        "chargingTriggerInfo": "R$ 80.00 Por Parcela",
                                         "prices": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -640,7 +358,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "NA",
+                                    "rate": "0.0000",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -684,7 +402,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "POS_FIXADO_TLP",
-                                    "rate": "1.00",
+                                    "rate": "1.0000",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -836,150 +554,9 @@
                                         }
                                     },
                                     {
-                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "code": "TAR_SUBST_GAR",
-                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "prices": [
-                                            {
-                                                "interval": "1_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "2_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "3_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "4_FAIXA",
-                                                "value": "700.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "1.0000"
-                                                }
-                                            }
-                                        ],
-                                        "minimum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        },
-                                        "maximum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        }
-                                    },
-                                    {
-                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "code": "TAR_SUBST_GAR",
-                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "prices": [
-                                            {
-                                                "interval": "1_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "2_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "3_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "4_FAIXA",
-                                                "value": "700.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "1.0000"
-                                                }
-                                            }
-                                        ],
-                                        "minimum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        },
-                                        "maximum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        }
-                                    },
-                                    {
-                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "code": "TAR_SUBST_GAR",
-                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "prices": [
-                                            {
-                                                "interval": "1_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "2_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "3_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "4_FAIXA",
-                                                "value": "700.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "1.0000"
-                                                }
-                                            }
-                                        ],
-                                        "minimum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        },
-                                        "maximum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        }
-                                    },
-                                    {
                                         "name": "Taxa de administração",
                                         "code": "NA",
-                                        "chargingTriggerInfo": "R$ 80.0000 Por Parcela",
+                                        "chargingTriggerInfo": "R$ 80.00 Por Parcela",
                                         "prices": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -1028,7 +605,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "NA",
+                                    "rate": "0.0000",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -1072,7 +649,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "POS_FIXADO_TLP",
-                                    "rate": "1.00",
+                                    "rate": "1.0000",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -1224,150 +801,9 @@
                                         }
                                     },
                                     {
-                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "code": "TAR_SUBST_GAR",
-                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "prices": [
-                                            {
-                                                "interval": "1_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "2_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "3_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "4_FAIXA",
-                                                "value": "700.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "1.0000"
-                                                }
-                                            }
-                                        ],
-                                        "minimum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        },
-                                        "maximum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        }
-                                    },
-                                    {
-                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "code": "TAR_SUBST_GAR",
-                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "prices": [
-                                            {
-                                                "interval": "1_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "2_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "3_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "4_FAIXA",
-                                                "value": "700.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "1.0000"
-                                                }
-                                            }
-                                        ],
-                                        "minimum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        },
-                                        "maximum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        }
-                                    },
-                                    {
-                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "code": "TAR_SUBST_GAR",
-                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "prices": [
-                                            {
-                                                "interval": "1_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "2_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "3_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "4_FAIXA",
-                                                "value": "700.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "1.0000"
-                                                }
-                                            }
-                                        ],
-                                        "minimum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        },
-                                        "maximum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        }
-                                    },
-                                    {
                                         "name": "Taxa de administração",
                                         "code": "NA",
-                                        "chargingTriggerInfo": "R$ 80.0000 Por Parcela",
+                                        "chargingTriggerInfo": "R$ 80.00 Por Parcela",
                                         "prices": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -1416,7 +852,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "NA",
+                                    "rate": "0.0000",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -1460,7 +896,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "POS_FIXADO_TLP",
-                                    "rate": "1.00",
+                                    "rate": "1.0000",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -1612,150 +1048,9 @@
                                         }
                                     },
                                     {
-                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "code": "TAR_SUBST_GAR",
-                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "prices": [
-                                            {
-                                                "interval": "1_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "2_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "3_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "4_FAIXA",
-                                                "value": "700.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "1.0000"
-                                                }
-                                            }
-                                        ],
-                                        "minimum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        },
-                                        "maximum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        }
-                                    },
-                                    {
-                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "code": "TAR_SUBST_GAR",
-                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "prices": [
-                                            {
-                                                "interval": "1_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "2_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "3_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "4_FAIXA",
-                                                "value": "700.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "1.0000"
-                                                }
-                                            }
-                                        ],
-                                        "minimum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        },
-                                        "maximum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        }
-                                    },
-                                    {
-                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "code": "TAR_SUBST_GAR",
-                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "prices": [
-                                            {
-                                                "interval": "1_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "2_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "3_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "4_FAIXA",
-                                                "value": "700.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "1.0000"
-                                                }
-                                            }
-                                        ],
-                                        "minimum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        },
-                                        "maximum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        }
-                                    },
-                                    {
                                         "name": "Taxa de administração",
                                         "code": "NA",
-                                        "chargingTriggerInfo": "R$ 80.0000 Por Parcela",
+                                        "chargingTriggerInfo": "R$ 80.00 Por Parcela",
                                         "prices": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -1804,7 +1099,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "NA",
+                                    "rate": "0.0000",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -1848,7 +1143,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "POS_FIXADO_TLP",
-                                    "rate": "1.00",
+                                    "rate": "1.0000",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -2000,150 +1295,9 @@
                                         }
                                     },
                                     {
-                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "code": "TAR_SUBST_GAR",
-                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "prices": [
-                                            {
-                                                "interval": "1_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "2_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "3_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "4_FAIXA",
-                                                "value": "700.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "1.0000"
-                                                }
-                                            }
-                                        ],
-                                        "minimum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        },
-                                        "maximum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        }
-                                    },
-                                    {
-                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "code": "TAR_SUBST_GAR",
-                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "prices": [
-                                            {
-                                                "interval": "1_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "2_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "3_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "4_FAIXA",
-                                                "value": "700.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "1.0000"
-                                                }
-                                            }
-                                        ],
-                                        "minimum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        },
-                                        "maximum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        }
-                                    },
-                                    {
-                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "code": "TAR_SUBST_GAR",
-                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "prices": [
-                                            {
-                                                "interval": "1_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "2_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "3_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "4_FAIXA",
-                                                "value": "700.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "1.0000"
-                                                }
-                                            }
-                                        ],
-                                        "minimum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        },
-                                        "maximum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        }
-                                    },
-                                    {
                                         "name": "Taxa de administração",
                                         "code": "NA",
-                                        "chargingTriggerInfo": "R$ 80.0000 Por Parcela",
+                                        "chargingTriggerInfo": "R$ 80.00 Por Parcela",
                                         "prices": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -2192,7 +1346,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "NA",
+                                    "rate": "0.0000",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -2236,7 +1390,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "POS_FIXADO_TLP",
-                                    "rate": "1.00",
+                                    "rate": "1.0000",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -2388,150 +1542,9 @@
                                         }
                                     },
                                     {
-                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "code": "TAR_SUBST_GAR",
-                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "prices": [
-                                            {
-                                                "interval": "1_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "2_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "3_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "4_FAIXA",
-                                                "value": "700.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "1.0000"
-                                                }
-                                            }
-                                        ],
-                                        "minimum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        },
-                                        "maximum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        }
-                                    },
-                                    {
-                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "code": "TAR_SUBST_GAR",
-                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "prices": [
-                                            {
-                                                "interval": "1_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "2_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "3_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "4_FAIXA",
-                                                "value": "700.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "1.0000"
-                                                }
-                                            }
-                                        ],
-                                        "minimum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        },
-                                        "maximum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        }
-                                    },
-                                    {
-                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "code": "TAR_SUBST_GAR",
-                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "prices": [
-                                            {
-                                                "interval": "1_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "2_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "3_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "4_FAIXA",
-                                                "value": "700.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "1.0000"
-                                                }
-                                            }
-                                        ],
-                                        "minimum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        },
-                                        "maximum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        }
-                                    },
-                                    {
                                         "name": "Taxa de administração",
                                         "code": "NA",
-                                        "chargingTriggerInfo": "R$ 80.0000 Por Parcela",
+                                        "chargingTriggerInfo": "R$ 80.00 Por Parcela",
                                         "prices": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -2580,7 +1593,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "NA",
+                                    "rate": "0.0000",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -2624,7 +1637,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "POS_FIXADO_TLP",
-                                    "rate": "1.00",
+                                    "rate": "1.0000",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -2776,150 +1789,9 @@
                                         }
                                     },
                                     {
-                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "code": "TAR_SUBST_GAR",
-                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "prices": [
-                                            {
-                                                "interval": "1_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "2_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "3_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "4_FAIXA",
-                                                "value": "700.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "1.0000"
-                                                }
-                                            }
-                                        ],
-                                        "minimum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        },
-                                        "maximum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        }
-                                    },
-                                    {
-                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "code": "TAR_SUBST_GAR",
-                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "prices": [
-                                            {
-                                                "interval": "1_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "2_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "3_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "4_FAIXA",
-                                                "value": "700.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "1.0000"
-                                                }
-                                            }
-                                        ],
-                                        "minimum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        },
-                                        "maximum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        }
-                                    },
-                                    {
-                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "code": "TAR_SUBST_GAR",
-                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "prices": [
-                                            {
-                                                "interval": "1_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "2_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "3_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "4_FAIXA",
-                                                "value": "700.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "1.0000"
-                                                }
-                                            }
-                                        ],
-                                        "minimum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        },
-                                        "maximum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        }
-                                    },
-                                    {
                                         "name": "Taxa de administração",
                                         "code": "NA",
-                                        "chargingTriggerInfo": "R$ 80.0000 Por Parcela",
+                                        "chargingTriggerInfo": "R$ 80.00 Por Parcela",
                                         "prices": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -2968,7 +1840,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "NA",
+                                    "rate": "0.0000",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -3012,7 +1884,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "POS_FIXADO_TLP",
-                                    "rate": "1.00",
+                                    "rate": "1.0000",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -3164,150 +2036,9 @@
                                         }
                                     },
                                     {
-                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "code": "TAR_SUBST_GAR",
-                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "prices": [
-                                            {
-                                                "interval": "1_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "2_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "3_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "4_FAIXA",
-                                                "value": "700.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "1.0000"
-                                                }
-                                            }
-                                        ],
-                                        "minimum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        },
-                                        "maximum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        }
-                                    },
-                                    {
-                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "code": "TAR_SUBST_GAR",
-                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "prices": [
-                                            {
-                                                "interval": "1_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "2_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "3_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "4_FAIXA",
-                                                "value": "700.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "1.0000"
-                                                }
-                                            }
-                                        ],
-                                        "minimum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        },
-                                        "maximum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        }
-                                    },
-                                    {
-                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "code": "TAR_SUBST_GAR",
-                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "prices": [
-                                            {
-                                                "interval": "1_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "2_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "3_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "4_FAIXA",
-                                                "value": "700.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "1.0000"
-                                                }
-                                            }
-                                        ],
-                                        "minimum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        },
-                                        "maximum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        }
-                                    },
-                                    {
                                         "name": "Taxa de administração",
                                         "code": "NA",
-                                        "chargingTriggerInfo": "R$ 80.0000 Por Parcela",
+                                        "chargingTriggerInfo": "R$ 80.00 Por Parcela",
                                         "prices": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -3356,7 +2087,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "NA",
+                                    "rate": "0.0000",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -3400,7 +2131,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "POS_FIXADO_TLP",
-                                    "rate": "1.00",
+                                    "rate": "1.0000",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -3552,150 +2283,9 @@
                                         }
                                     },
                                     {
-                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "code": "TAR_SUBST_GAR",
-                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "prices": [
-                                            {
-                                                "interval": "1_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "2_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "3_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "4_FAIXA",
-                                                "value": "700.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "1.0000"
-                                                }
-                                            }
-                                        ],
-                                        "minimum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        },
-                                        "maximum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        }
-                                    },
-                                    {
-                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "code": "TAR_SUBST_GAR",
-                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "prices": [
-                                            {
-                                                "interval": "1_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "2_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "3_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "4_FAIXA",
-                                                "value": "700.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "1.0000"
-                                                }
-                                            }
-                                        ],
-                                        "minimum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        },
-                                        "maximum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        }
-                                    },
-                                    {
-                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "code": "TAR_SUBST_GAR",
-                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
-                                        "prices": [
-                                            {
-                                                "interval": "1_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "2_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "3_FAIXA",
-                                                "value": "0.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "0.0000"
-                                                }
-                                            },
-                                            {
-                                                "interval": "4_FAIXA",
-                                                "value": "700.00",
-                                                "currency": "BRL",
-                                                "customers": {
-                                                    "rate": "1.0000"
-                                                }
-                                            }
-                                        ],
-                                        "minimum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        },
-                                        "maximum": {
-                                            "value": "700.00",
-                                            "currency": "BRL"
-                                        }
-                                    },
-                                    {
                                         "name": "Taxa de administração",
                                         "code": "NA",
-                                        "chargingTriggerInfo": "R$ 80.0000 Por Parcela",
+                                        "chargingTriggerInfo": "R$ 80.00 Por Parcela",
                                         "prices": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -3744,7 +2334,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "NA",
+                                    "rate": "0.0000",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -3788,7 +2378,7 @@
                                 },
                                 {
                                     "referentialRateIndexer": "POS_FIXADO_TLP",
-                                    "rate": "1.00",
+                                    "rate": "1.0000",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",

@@ -51,11 +51,11 @@
                                             }
                                         ],
                                         "minimum": {
-                                            "value": "50.0000",
+                                            "value": "50.00",
                                             "currency": "BRL"
                                         },
                                         "maximum": {
-                                            "value": "139.0000",
+                                            "value": "139.00",
                                             "currency": "BRL"
                                         }
                                     }
@@ -64,7 +64,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "0.0150",
+                                    "rate": "0.01",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -266,11 +266,11 @@
                                             }
                                         ],
                                         "minimum": {
-                                            "value": "50.0000",
+                                            "value": "50.00",
                                             "currency": "BRL"
                                         },
                                         "maximum": {
-                                            "value": "139.0000",
+                                            "value": "139.00",
                                             "currency": "BRL"
                                         }
                                     }
@@ -279,7 +279,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "0.0150",
+                                    "rate": "0.01",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -481,11 +481,11 @@
                                             }
                                         ],
                                         "minimum": {
-                                            "value": "50.0000",
+                                            "value": "50.00",
                                             "currency": "BRL"
                                         },
                                         "maximum": {
-                                            "value": "139.0000",
+                                            "value": "139.00",
                                             "currency": "BRL"
                                         }
                                     }
@@ -494,7 +494,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "0.0150",
+                                    "rate": "0.01",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -696,11 +696,11 @@
                                             }
                                         ],
                                         "minimum": {
-                                            "value": "50.0000",
+                                            "value": "50.00",
                                             "currency": "BRL"
                                         },
                                         "maximum": {
-                                            "value": "139.0000",
+                                            "value": "139.00",
                                             "currency": "BRL"
                                         }
                                     }
@@ -709,7 +709,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "0.0150",
+                                    "rate": "0.01",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -911,11 +911,11 @@
                                             }
                                         ],
                                         "minimum": {
-                                            "value": "50.0000",
+                                            "value": "50.00",
                                             "currency": "BRL"
                                         },
                                         "maximum": {
-                                            "value": "139.0000",
+                                            "value": "139.00",
                                             "currency": "BRL"
                                         }
                                     }
@@ -924,7 +924,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "0.0150",
+                                    "rate": "0.01",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -1126,11 +1126,11 @@
                                             }
                                         ],
                                         "minimum": {
-                                            "value": "50.0000",
+                                            "value": "50.00",
                                             "currency": "BRL"
                                         },
                                         "maximum": {
-                                            "value": "139.0000",
+                                            "value": "139.00",
                                             "currency": "BRL"
                                         }
                                     }
@@ -1139,7 +1139,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "0.0150",
+                                    "rate": "0.01",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -1341,11 +1341,11 @@
                                             }
                                         ],
                                         "minimum": {
-                                            "value": "50.0000",
+                                            "value": "50.00",
                                             "currency": "BRL"
                                         },
                                         "maximum": {
-                                            "value": "139.0000",
+                                            "value": "139.00",
                                             "currency": "BRL"
                                         }
                                     }
@@ -1354,7 +1354,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "0.0150",
+                                    "rate": "0.01",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -1556,11 +1556,11 @@
                                             }
                                         ],
                                         "minimum": {
-                                            "value": "50.0000",
+                                            "value": "50.00",
                                             "currency": "BRL"
                                         },
                                         "maximum": {
-                                            "value": "139.0000",
+                                            "value": "139.00",
                                             "currency": "BRL"
                                         }
                                     }
@@ -1569,7 +1569,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "0.0150",
+                                    "rate": "0.01",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -1771,11 +1771,11 @@
                                             }
                                         ],
                                         "minimum": {
-                                            "value": "50.0000",
+                                            "value": "50.00",
                                             "currency": "BRL"
                                         },
                                         "maximum": {
-                                            "value": "139.0000",
+                                            "value": "139.00",
                                             "currency": "BRL"
                                         }
                                     }
@@ -1784,7 +1784,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "0.0150",
+                                    "rate": "0.01",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -1986,11 +1986,11 @@
                                             }
                                         ],
                                         "minimum": {
-                                            "value": "50.0000",
+                                            "value": "50.00",
                                             "currency": "BRL"
                                         },
                                         "maximum": {
-                                            "value": "139.0000",
+                                            "value": "139.00",
                                             "currency": "BRL"
                                         }
                                     }
@@ -1999,7 +1999,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "0.0150",
+                                    "rate": "0.01",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
