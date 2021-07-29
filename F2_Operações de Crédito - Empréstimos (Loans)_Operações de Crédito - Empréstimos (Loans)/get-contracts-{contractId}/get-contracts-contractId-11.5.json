@@ -4,7 +4,7 @@
         "ipocCode": "0041696802161841548177280005",
         "productName": "Crédito Pessoal",
         "productType": "EMPRESTIMOS",
-        "productSubType": "CAPITAL_GIRO_PRAZO_VENCIMENTO_SUPERIOR_365_DIAS",
+        "productSubType": "CREDITO_PESSOAL_COM_CONSIGNACAO",
         "contractDate": "2009-01-01",
         "settlementDate": "2011-01-01",
         "contractAmount": 15000.0000,
