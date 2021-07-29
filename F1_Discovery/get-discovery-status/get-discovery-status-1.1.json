@@ -1,0 +1,27 @@
+{
+    "data": {
+        "status": [
+            {
+                "code": "OK",
+                "explanaton": "APIs em funcionamento"
+            }, 
+            {
+                "code": "OK",
+                "explanation": "A implementação é totalmente funcional",
+                "detectionTime": "2021-07-29T02:20:39Z",
+                "expectedResolutionTime": "2020-07-21T08:30:00Z",
+                "updateTime": "2020-01-02T01:00:00Z",
+                "unavailableEndpoints": [
+                    "https://api.banco.com.br/open-banking/channels/v1/electronic-channels"
+                ]
+            }
+        ]
+    },
+    "links": {
+        "self": "https://opendata.api.bb.com.br/open-banking/discovery/v1/status"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1
+    }
+}
