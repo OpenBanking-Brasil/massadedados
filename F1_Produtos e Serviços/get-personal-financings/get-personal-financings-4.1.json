@@ -64,7 +64,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "POS_FIXADO",
-                                    "rate": "0.0400",
+                                    "rate": "0.04",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -222,7 +222,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "0.0400",
+                                    "rate": "0.04",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -333,7 +333,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "POS_FIXADO_TJLP",
-                                    "rate": "0.0400",
+                                    "rate": "0.04",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -491,7 +491,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "OUTRAS_TAXAS_FLUTUANTES",
-                                    "rate": "0.0400",
+                                    "rate": "0.04",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -602,7 +602,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "CREDITO_RURAL_TCR_POS",
-                                    "rate": "0.0400",
+                                    "rate": "0.04",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -713,7 +713,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "POS_FIXADO",
-                                    "rate": "0.0400",
+                                    "rate": "0.04",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -872,7 +872,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "PRE_FIXADO",
-                                    "rate": "0.0400",
+                                    "rate": "0.04",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -983,7 +983,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "POS_FIXADO_TJLP",
-                                    "rate": "0.0400",
+                                    "rate": "0.04",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -1142,7 +1142,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "OUTRAS_TAXAS_FLUTUANTES",
-                                    "rate": "0.0400",
+                                    "rate": "0.04",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -1253,7 +1253,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateIndexer": "CREDITO_RURAL_TCR_POS",
-                                    "rate": "0.0400",
+                                    "rate": "0.04",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
