@@ -16,7 +16,7 @@
         ]
     },
     "links": {
-        "self": "https://super.api.santander.com.br/open-banking/loans/v1/contracts/15thr536-9607-e911-80e0-1asoi1p5c650/scheduled-instalments"
+        "self": "https://openbanking.api.santander.com.br/open-banking/loans/v1/contracts/15thr536-9607-e911-80e0-1asoi1p5c650/scheduled-instalments"
     },
     "meta": {
         "totalRecords": 1,

@@ -28,7 +28,7 @@
     }
   ],
   "links": {
-    "self": "https://api.bradesco.com/open-banking/credit-cards-accounts/v1/n7i2bry1-b3nu-lm8o-m4rr-7g6i88n0aodx/bills"
+    "self": "https://api.bradesco.com/bradesco/open-banking/credit-cards-accounts/v1/n7i2bry1-b3nu-lm8o-m4rr-7g6i88n0aodx/bills"
   },
   "meta": {
     "totalRecords": 1,

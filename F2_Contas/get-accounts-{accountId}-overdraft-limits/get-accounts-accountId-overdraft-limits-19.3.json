@@ -8,7 +8,7 @@
         "unarrangedOverdraftAmountCurrency": "BRL"
     },
     "links": {
-        "self": "https://api.bradesco.com/open-banking/accounts/v1/accounts/142fb6cc-d995-11eb-b8bc-0242ac130003/overdraft-limits"
+        "self": "https://api.bradesco.com/bradesco/open-banking/accounts/v1/accounts/142fb6cc-d995-11eb-b8bc-0242ac130003/overdraft-limits"
     },
     "meta": {
         "totalRecords": 1,

@@ -4,13 +4,13 @@
       "currency": "BRL",
       "warrantyType": "PENHOR",
       "warrantySubType": "VEICULO",
-      "warrantyAmount": 70000.0000,
+      "warrantyAmount": 70000.0000
     },
     {
       "currency": "BRL",
       "warrantyType": "PENHOR",
       "warrantySubType": "OUTROS_BENS",
-      "warrantyAmount": 50000.0000,
+      "warrantyAmount": 50000.0000
     },
     {
       "currency": "BRL",

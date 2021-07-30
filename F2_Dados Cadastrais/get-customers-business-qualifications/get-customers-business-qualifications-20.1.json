@@ -20,7 +20,7 @@
         }
     },
     "links": {
-        "self": "https://super.api.santander.com.br/open-banking/customers/v1/business/qualifications"
+        "self": "https://openbanking.api.santander.com.br/open-banking/customers/v1/business/qualifications"
     },
     "meta": {
         "totalRecords": 1,

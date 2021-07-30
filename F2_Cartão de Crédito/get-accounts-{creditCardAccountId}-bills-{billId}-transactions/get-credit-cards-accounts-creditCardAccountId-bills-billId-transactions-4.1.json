@@ -48,7 +48,7 @@
         }
     ],
     "links": {
-        "self": "https://api.bradesco.com/open-banking/credit-cards-accounts/v1/accounts/d2ce265c-5c1f-330d-8f21-c4733e1e614f/bills/794f2d37-dcc5-3b00-a5cb-d10f75d89cbe/transactions"
+        "self": "https://api.bradesco.com/bradesco/open-banking/credit-cards-accounts/v1/accounts/d2ce265c-5c1f-330d-8f21-c4733e1e614f/bills/794f2d37-dcc5-3b00-a5cb-d10f75d89cbe/transactions"
     },
     "meta": {
         "totalRecords": 2,

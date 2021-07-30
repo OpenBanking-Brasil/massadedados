@@ -21,7 +21,7 @@
     }
   },
   "links": {
-    "self": "https://api.bradesco.com/open-banking/customers/v1/business/qualifications"
+    "self": "https://api.bradesco.com/bradesco/open-banking/customers/v1/business/qualifications"
   },
   "meta": {
     "totalRecords": 1,

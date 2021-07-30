@@ -7,9 +7,8 @@
 	  "SEGURO",
 	  "PREVIDENCIA",
 	  "INVESTIMENTO",
-	  "CONTA_SALARIO",
+	  "CONTA_SALARIO"
 	  ],
-    "productsServicesTypeAdditionalInfo": "",
     "procurators": [
       {
         "type": "",

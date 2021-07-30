@@ -13,7 +13,7 @@
 
     ],
     "links": {
-        "self": "https://api.bradesco.com/open-banking/accounts/v1/accounts"
+        "self": "https://api.bradesco.com/bradesco/open-banking/accounts/v1/accounts"
     },
     "meta": {
         "totalRecords": 1,

@@ -10,7 +10,7 @@
     }
   ],
   "links": {
-    "self": "https://api.bradesco.com/open-banking/invoice-financings/v1/contracts"
+    "self": "https://api.bradesco.com/bradesco/open-banking/invoice-financings/v1/contracts"
   },
   "meta": {
     "totalRecords": 1,

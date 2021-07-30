@@ -10,13 +10,13 @@
             "limitAmountCurrency": "BRL",
             "limitAmount": 3000.0000,
             "usedAmountCurrency": "BRL",
-            "usedAmount": 0343.0400,
+            "usedAmount": 343.0400,
             "availableAmountCurrency": "BRL",
             "availableAmount": 2656.9600
         }
     ],
     "links": {
-        "self": "https://api.bradesco.com/open-banking/credit-cards-accounts/v1/accounts/d2ce265c-5c1f-330d-8f21-c4733e1e614f"
+        "self": "https://api.bradesco.com/bradesco/open-banking/credit-cards-accounts/v1/accounts/d2ce265c-5c1f-330d-8f21-c4733e1e614f"
     },
     "meta": {
         "totalRecords": 1,

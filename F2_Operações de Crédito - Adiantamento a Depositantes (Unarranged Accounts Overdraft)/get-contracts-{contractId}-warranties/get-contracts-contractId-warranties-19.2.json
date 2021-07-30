@@ -8,7 +8,7 @@
         }
     ],
     "links": {
-        "self": "https://super.api.santander.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/ff7e0fe1-bd0f-3592-9af3-5e890160dc2f"
+        "self": "https://openbanking.api.santander.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/ff7e0fe1-bd0f-3592-9af3-5e890160dc2f"
     },
     "meta": {
         "totalRecords": 1,

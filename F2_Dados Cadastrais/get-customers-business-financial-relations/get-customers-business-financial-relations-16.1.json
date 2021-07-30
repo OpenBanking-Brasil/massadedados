@@ -27,7 +27,7 @@
         "cnpjCpfNumber": "50498732746",
         "civilName": "Cecília Sara Larissa Lopes",
         "socialName": "Cecília Sara Larissa Lopess"
-      },
+      }
     ],
     "accounts": [
       {
@@ -61,7 +61,7 @@
     ]
   },
   "links": {
-    "self": "https://api.bradesco.com/open-banking/customers/v1/business/"
+    "self": "https://api.bradesco.com/bradesco/open-banking/customers/v1/business/"
   },
   "meta": {
     "totalRecords": 1,

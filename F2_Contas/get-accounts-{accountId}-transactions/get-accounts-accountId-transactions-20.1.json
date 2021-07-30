@@ -66,7 +66,7 @@
         }
     ],
     "links": {
-        "self": "https://super.api.santander.com.br/open-banking/accounts/v1/accounts/d448bbb0-9d53-306f-816a-d59c12d73630/transactions?fromBookingDate=2021-06-15"
+        "self": "https://openbanking.api.santander.com.br/open-banking/accounts/v1/accounts/d448bbb0-9d53-306f-816a-d59c12d73630/transactions?fromBookingDate=2021-06-15"
     },
     "meta": {
         "totalRecords": 4,

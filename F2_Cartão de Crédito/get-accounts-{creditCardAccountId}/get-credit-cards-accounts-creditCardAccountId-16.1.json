@@ -13,7 +13,8 @@
       ]
     },
     "links": {
-      "self": "https://api.bradesco.com/open-banking/credit-cards-accounts/v1/accounts/n7i2bry1-b3nu-lm8o-m4rr-7g6i88n0aodx",
+      "self": "https://api.bradesco.com/bradesco/open-banking/credit-cards-accounts/v1/accounts/n7i2bry1-b3nu-lm8o-m4rr-7g6i88n0aodx"
+    },
     "meta": {
       "totalRecords": 1,
       "totalPages": 1,

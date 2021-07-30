@@ -45,7 +45,7 @@
             "transactionDate": "2021-07-15",
             "billPostDate": "2021-07-15",
             "payeeMCC": 5815
-        }
+        },
         {
             "transactionId": "bad30f64-d9b4-11eb-b8bc-0242ac130003",
             "identificationNumber": "0126",

@@ -624,7 +624,7 @@
                     "currency": "BRL"
                 }
             ]
-        },
+        }
     ],
     "links": {
         "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?page=2&page-size=25&fromDueDate=2017-05-01?toDueDate=2021-08-31",

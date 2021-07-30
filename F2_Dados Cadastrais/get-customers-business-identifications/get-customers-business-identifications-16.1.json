@@ -102,7 +102,7 @@
       }
     ],
     "links": {
-      "self": "https://api.bradesco.com/open-banking/customers/v1/business/identifications"
+      "self": "https://api.bradesco.com/bradesco/open-banking/customers/v1/business/identifications"
     },
     "meta": {
       "totalRecords": 1,
