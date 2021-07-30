@@ -12,10 +12,12 @@
                             "name": "Débito Visa Platinum",
                             "identification": {
                                 "product": {
-                                    "type": "PLATINUM"
+                                    "type": "PLATINUM",
+                                    "additionalInfo":"NA"
                                 },
                                 "creditCard": {
-                                    "network": "VISA"
+                                    "network": "VISA",
+                                    "additionalInfo":"NA"
                                 }
                             },
                             "rewardsProgram": {
@@ -168,10 +170,2020 @@
                                 ],
                                 "otherCredits": [
                                     {
-                                        "code": "SAQUE_A_CREDITO"
+                                        "code": "SAQUE_A_CREDITO",
+                                        "additionalInfo":"NA"
                                     },
                                     {
-                                        "code": "PAGAMENTOS_CONTAS"
+                                        "code": "PAGAMENTOS_CONTAS",
+                                        "additionalInfo":"NA"
+                                    }
+                                ]
+                            },
+                            "termsConditions": {
+                                "minimumFeeRate": "1.00",
+                                "elegibilityCriteriaInfo": "https://banco.bradesco/html/classic/novo-educacao-financeira/contas-bancarias/template_TiposContasBancarias.shtm",
+                                "closingProcessInfo": "https://banco.bradesco/html/classic/novo-educacao-financeira/contas-bancarias/template_TiposContasBancarias.shtm"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Banco Bradesco S.A - MS Corumba",
+                    "cnpjNumber": "60746948000112",
+                    "urlComplementaryList": "https://banco.bradesco/html/classic/produtos-servicos/index.shtm",
+                    "personalCreditCards": [
+                        {
+                            "name": "Débito Visa Gold",
+                            "identification": {
+                                "product": {
+                                    "type": "GOLD",
+                                    "additionalInfo":"NA"
+                                },
+                                "creditCard": {
+                                    "network": "VISA",
+                                    "additionalInfo":"NA"
+                                }
+                            },
+                            "rewardsProgram": {
+                                "hasRewardProgram": true,
+                                "rewardProgramInfo": "https://banco.bradesco/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-gold/meu-cartao.shtm"
+                            },
+                            "fees": {
+                                "services": [
+                                    {
+                                        "name": "ANUIDADE_DIFERENCIADA",
+                                        "code": "ANUIDADE_DIFERENCIADA",
+                                        "chargingTriggerInfo": "Disponibilização de rede de estabelecimentos afiliados, instalada no País e no exterior, para pagamentos de bens e serviços, cobrada no máximo uma vez a cada doze meses, admitido o parcelamento da cobrança.",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "254.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "254.00",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
+                            },
+                            "interest": {
+                                "rates": [
+                                    {
+                                        "referentialRateIndexer": "POS_FIXADO_TJLP",
+                                        "rate": "0.04",
+                                        "applications": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "indexer": {
+                                                    "rate": "1.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimumRate": "0.0000",
+                                        "maximumRate": "1.0000"
+                                    },
+                                    {
+                                        "referentialRateIndexer": "FLUTUANTES_CDI",
+                                        "rate": "0.03",
+                                        "applications": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "indexer": {
+                                                    "rate": "1.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimumRate": "0.0000",
+                                        "maximumRate": "1.0000"
+                                    }
+                                ],
+                                "instalmentRates": [
+                                    {
+                                        "referentialRateIndexer": "SEM_INDEXADOR_TAXA",
+                                        "rate": "NA",
+                                        "applications": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimumRate": "NA",
+                                        "maximumRate": "NA"
+                                    }
+                                ],
+                                "otherCredits": [
+                                    {
+                                        "code": "SAQUE_A_CREDITO",
+                                        "additionalInfo":"NA"
+                                    },
+                                    {
+                                        "code": "PAGAMENTOS_CONTAS",
+                                        "additionalInfo":"NA"
+                                    }
+                                ]
+                            },
+                            "termsConditions": {
+                                "minimumFeeRate": "1.00",
+                                "elegibilityCriteriaInfo": "https://banco.bradesco/html/classic/novo-educacao-financeira/contas-bancarias/template_TiposContasBancarias.shtm",
+                                "closingProcessInfo": "https://banco.bradesco/html/classic/novo-educacao-financeira/contas-bancarias/template_TiposContasBancarias.shtm"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Banco Bradesco S.A - PR Ibipora",
+                    "cnpjNumber": "60746948000112",
+                    "urlComplementaryList": "https://banco.bradesco/html/classic/produtos-servicos/index.shtm",
+                    "personalCreditCards": [
+                        {
+                            "name": "Débito Mastercard Platinum",
+                            "identification": {
+                                "product": {
+                                    "type": "Platinum",
+                                    "additionalInfo":"NA"
+                                },
+                                "creditCard": {
+                                    "network": "MASTERCARD",
+                                    "additionalInfo":"NA"
+                                }
+                            },
+                            "rewardsProgram": {
+                                "hasRewardProgram": true,
+                                "rewardProgramInfo": "https://banco.bradesco/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-mastercard-gold/meu-cartao.shtm"
+                            },
+                            "fees": {
+                                "services": [
+                                    {
+                                        "name": "ANUIDADE_DIFERENCIADA",
+                                        "code": "ANUIDADE_DIFERENCIADA",
+                                        "chargingTriggerInfo": "Disponibilização de rede de estabelecimentos afiliados, instalada no País e no exterior, para pagamentos de bens e serviços, cobrada no máximo uma vez a cada doze meses, admitido o parcelamento da cobrança.",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "514.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "514.00",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
+                            },
+                            "interest": {
+                                "rates": [
+                                    {
+                                        "referentialRateIndexer": "PRE_FIXADO",
+                                        "rate": "0.04",
+                                        "applications": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "indexer": {
+                                                    "rate": "1.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimumRate": "0.0000",
+                                        "maximumRate": "1.0000"
+                                    },
+                                    {
+                                        "referentialRateIndexer": "OUTROS_INDICES_PRECO",
+                                        "rate": "0.03",
+                                        "applications": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "indexer": {
+                                                    "rate": "1.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimumRate": "0.0000",
+                                        "maximumRate": "1.0000"
+                                    }
+                                ],
+                                "instalmentRates": [
+                                    {
+                                        "referentialRateIndexer": "SEM_INDEXADOR_TAXA",
+                                        "rate": "NA",
+                                        "applications": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimumRate": "NA",
+                                        "maximumRate": "NA"
+                                    }
+                                ],
+                                "otherCredits": [
+                                    {
+                                        "code": "SAQUE_A_CREDITO",
+                                        "additionalInfo":"NA"
+                                    },
+                                    {
+                                        "code": "PAGAMENTOS_CONTAS",
+                                        "additionalInfo":"NA"
+                                    }
+                                ]
+                            },
+                            "termsConditions": {
+                                "minimumFeeRate": "1.00",
+                                "elegibilityCriteriaInfo": "https://banco.bradesco/html/classic/novo-educacao-financeira/contas-bancarias/template_TiposContasBancarias.shtm",
+                                "closingProcessInfo": "https://banco.bradesco/html/classic/novo-educacao-financeira/contas-bancarias/template_TiposContasBancarias.shtm"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Banco Bradesco S.A - SP Botucatu",
+                    "cnpjNumber": "60746948000112",
+                    "urlComplementaryList": "https://banco.bradesco/html/classic/produtos-servicos/index.shtm",
+                    "personalCreditCards": [
+                        {
+                            "name": "Débito Mastercard Classic",
+                            "identification": {
+                                "product": {
+                                    "type": "CLASSIC_INTERNACIONAL",
+                                    "additionalInfo":"NA"
+                                },
+                                "creditCard": {
+                                    "network": "MASTERCARD",
+                                    "additionalInfo":"NA"
+                                }
+                            },
+                            "rewardsProgram": {
+                                "hasRewardProgram": true,
+                                "rewardProgramInfo": "https://banco.bradesco/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-mastercard-gold/meu-cartao.shtm"
+                            },
+                            "fees": {
+                                "services": [
+                                    {
+                                        "name": "ANUIDADE_DIFERENCIADA",
+                                        "code": "ANUIDADE_DIFERENCIADA",
+                                        "chargingTriggerInfo": "Disponibilização de rede de estabelecimentos afiliados, instalada no País e no exterior, para pagamentos de bens e serviços, cobrada no máximo uma vez a cada doze meses, admitido o parcelamento da cobrança.",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "145.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "145.00",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
+                            },
+                            "interest": {
+                                "rates": [
+                                    {
+                                        "referentialRateIndexer": "POS_FIXADO_LIBOR",
+                                        "rate": "0.04",
+                                        "applications": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "indexer": {
+                                                    "rate": "1.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimumRate": "0.0000",
+                                        "maximumRate": "1.0000"
+                                    },
+                                    {
+                                        "referentialRateIndexer": "POS_FIXADO_TR_TBF",
+                                        "rate": "0.03",
+                                        "applications": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "indexer": {
+                                                    "rate": "1.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimumRate": "0.0000",
+                                        "maximumRate": "1.0000"
+                                    }
+                                ],
+                                "instalmentRates": [
+                                    {
+                                        "referentialRateIndexer": "SEM_INDEXADOR_TAXA",
+                                        "rate": "NA",
+                                        "applications": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimumRate": "NA",
+                                        "maximumRate": "NA"
+                                    }
+                                ],
+                                "otherCredits": [
+                                    {
+                                        "code": "SAQUE_A_CREDITO",
+                                        "additionalInfo":"NA"
+                                    },
+                                    {
+                                        "code": "PAGAMENTOS_CONTAS",
+                                        "additionalInfo":"NA"
+                                    }
+                                ]
+                            },
+                            "termsConditions": {
+                                "minimumFeeRate": "1.00",
+                                "elegibilityCriteriaInfo": "https://banco.bradesco/html/classic/novo-educacao-financeira/contas-bancarias/template_TiposContasBancarias.shtm",
+                                "closingProcessInfo": "https://banco.bradesco/html/classic/novo-educacao-financeira/contas-bancarias/template_TiposContasBancarias.shtm"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Banco Bradesco S.A - TO Gurupi",
+                    "cnpjNumber": "60746948000112",
+                    "urlComplementaryList": "https://banco.bradesco/html/classic/produtos-servicos/index.shtm",
+                    "personalCreditCards": [
+                        {
+                            "name": "Débito Dinners Classic",
+                            "identification": {
+                                "product": {
+                                    "type": "DINERS_CLUB",
+                                    "additionalInfo":"NA"
+                                },
+                                "creditCard": {
+                                    "network": "",
+                                    "additionalInfo":"NA"
+                                }
+                            },
+                            "rewardsProgram": {
+                                "hasRewardProgram": true,
+                                "rewardProgramInfo": "https://banco.bradesco/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-mastercard-gold/meu-cartao.shtm"
+                            },
+                            "fees": {
+                                "services": [
+                                    {
+                                        "name": "ANUIDADE_DIFERENCIADA",
+                                        "code": "ANUIDADE_DIFERENCIADA",
+                                        "chargingTriggerInfo": "Disponibilização de rede de estabelecimentos afiliados, instalada no País e no exterior, para pagamentos de bens e serviços, cobrada no máximo uma vez a cada doze meses, admitido o parcelamento da cobrança.",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "321.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "321.00",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
+                            },
+                            "interest": {
+                                "rates": [
+                                    {
+                                        "referentialRateIndexer": "INDICES_PRECOS_IPCC",
+                                        "rate": "0.04",
+                                        "applications": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "indexer": {
+                                                    "rate": "1.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimumRate": "0.0000",
+                                        "maximumRate": "1.0000"
+                                    },
+                                    {
+                                        "referentialRateIndexer": "PRE_FIXADO",
+                                        "rate": "0.03",
+                                        "applications": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "indexer": {
+                                                    "rate": "1.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimumRate": "0.0000",
+                                        "maximumRate": "1.0000"
+                                    }
+                                ],
+                                "instalmentRates": [
+                                    {
+                                        "referentialRateIndexer": "SEM_INDEXADOR_TAXA",
+                                        "rate": "NA",
+                                        "applications": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimumRate": "NA",
+                                        "maximumRate": "NA"
+                                    }
+                                ],
+                                "otherCredits": [
+                                    {
+                                        "code": "SAQUE_A_CREDITO",
+                                        "additionalInfo":"NA"
+                                    },
+                                    {
+                                        "code": "PAGAMENTOS_CONTAS",
+                                        "additionalInfo":"NA"
+                                    }
+                                ]
+                            },
+                            "termsConditions": {
+                                "minimumFeeRate": "1.00",
+                                "elegibilityCriteriaInfo": "https://banco.bradesco/html/classic/novo-educacao-financeira/contas-bancarias/template_TiposContasBancarias.shtm",
+                                "closingProcessInfo": "https://banco.bradesco/html/classic/novo-educacao-financeira/contas-bancarias/template_TiposContasBancarias.shtm"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Banco Bradesco S.A - PR Astorga",
+                    "cnpjNumber": "60746948000112",
+                    "urlComplementaryList": "https://banco.bradesco/html/classic/produtos-servicos/index.shtm",
+                    "personalCreditCards": [
+                        {
+                            "name": "Débito Visa Platinum",
+                            "identification": {
+                                "product": {
+                                    "type": "PLATINUM",
+                                    "additionalInfo":"NA"
+                                },
+                                "creditCard": {
+                                    "network": "VISA",
+                                    "additionalInfo":"NA"
+                                }
+                            },
+                            "rewardsProgram": {
+                                "hasRewardProgram": true,
+                                "rewardProgramInfo": "https://banco.bradesco/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-platinum/meu-cartao.shtm"
+                            },
+                            "fees": {
+                                "services": [
+                                    {
+                                        "name": "ANUIDADE_DIFERENCIADA",
+                                        "code": "ANUIDADE_DIFERENCIADA",
+                                        "chargingTriggerInfo": "Disponibilização de rede de estabelecimentos afiliados, instalada no País e no exterior, para pagamentos de bens e serviços, cobrada no máximo uma vez a cada doze meses, admitido o parcelamento da cobrança.",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "558.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "558.00",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
+                            },
+                            "interest": {
+                                "rates": [
+                                    {
+                                        "referentialRateIndexer": "SEM_INDEXADOR_TAXA",
+                                        "rate": "NA",
+                                        "applications": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimumRate": "NA",
+                                        "maximumRate": "NA"
+                                    }
+                                ],
+                                "instalmentRates": [
+                                    {
+                                        "referentialRateIndexer": "SEM_INDEXADOR_TAXA",
+                                        "rate": "NA",
+                                        "applications": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimumRate": "NA",
+                                        "maximumRate": "NA"
+                                    }
+                                ],
+                                "otherCredits": [
+                                    {
+                                        "code": "SAQUE_A_CREDITO",
+                                        "additionalInfo":"NA"
+                                    },
+                                    {
+                                        "code": "PAGAMENTOS_CONTAS",
+                                        "additionalInfo":"NA"
+                                    }
+                                ]
+                            },
+                            "termsConditions": {
+                                "minimumFeeRate": "1.00",
+                                "elegibilityCriteriaInfo": "https://banco.bradesco/html/classic/novo-educacao-financeira/contas-bancarias/template_TiposContasBancarias.shtm",
+                                "closingProcessInfo": "https://banco.bradesco/html/classic/novo-educacao-financeira/contas-bancarias/template_TiposContasBancarias.shtm"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Banco Bradesco S.A - MG Belo Horizonte",
+                    "cnpjNumber": "60746948000112",
+                    "urlComplementaryList": "https://banco.bradesco/html/classic/produtos-servicos/index.shtm",
+                    "personalCreditCards": [
+                        {
+                            "name": "Débito Visa Gold",
+                            "identification": {
+                                "product": {
+                                    "type": "GOLD",
+                                    "additionalInfo":"NA"
+                                },
+                                "creditCard": {
+                                    "network": "VISA",
+                                    "additionalInfo":"NA"
+                                }
+                            },
+                            "rewardsProgram": {
+                                "hasRewardProgram": true,
+                                "rewardProgramInfo": "https://banco.bradesco/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-visa-gold/meu-cartao.shtm"
+                            },
+                            "fees": {
+                                "services": [
+                                    {
+                                        "name": "ANUIDADE_DIFERENCIADA",
+                                        "code": "ANUIDADE_DIFERENCIADA",
+                                        "chargingTriggerInfo": "Disponibilização de rede de estabelecimentos afiliados, instalada no País e no exterior, para pagamentos de bens e serviços, cobrada no máximo uma vez a cada doze meses, admitido o parcelamento da cobrança.",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "254.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "254.00",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
+                            },
+                            "interest": {
+                                "rates": [
+                                    {
+                                        "referentialRateIndexer": "POS_FIXADO_TJLP",
+                                        "rate": "0.04",
+                                        "applications": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "indexer": {
+                                                    "rate": "1.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimumRate": "0.0000",
+                                        "maximumRate": "1.0000"
+                                    },
+                                    {
+                                        "referentialRateIndexer": "FLUTUANTES_CDI",
+                                        "rate": "0.03",
+                                        "applications": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "indexer": {
+                                                    "rate": "1.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimumRate": "0.0000",
+                                        "maximumRate": "1.0000"
+                                    }
+                                ],
+                                "instalmentRates": [
+                                    {
+                                        "referentialRateIndexer": "SEM_INDEXADOR_TAXA",
+                                        "rate": "NA",
+                                        "applications": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimumRate": "NA",
+                                        "maximumRate": "NA"
+                                    }
+                                ],
+                                "otherCredits": [
+                                    {
+                                        "code": "SAQUE_A_CREDITO",
+                                        "additionalInfo":"NA"
+                                    },
+                                    {
+                                        "code": "PAGAMENTOS_CONTAS",
+                                        "additionalInfo":"NA"
+                                    }
+                                ]
+                            },
+                            "termsConditions": {
+                                "minimumFeeRate": "1.00",
+                                "elegibilityCriteriaInfo": "https://banco.bradesco/html/classic/novo-educacao-financeira/contas-bancarias/template_TiposContasBancarias.shtm",
+                                "closingProcessInfo": "https://banco.bradesco/html/classic/novo-educacao-financeira/contas-bancarias/template_TiposContasBancarias.shtm"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Banco Bradesco S.A - PR Colombo",
+                    "cnpjNumber": "60746948000112",
+                    "urlComplementaryList": "https://banco.bradesco/html/classic/produtos-servicos/index.shtm",
+                    "personalCreditCards": [
+                        {
+                            "name": "Débito Mastercard Platinum",
+                            "identification": {
+                                "product": {
+                                    "type": "Platinum",
+                                    "additionalInfo":"NA"
+                                },
+                                "creditCard": {
+                                    "network": "MASTERCARD",
+                                    "additionalInfo":"NA"
+                                }
+                            },
+                            "rewardsProgram": {
+                                "hasRewardProgram": true,
+                                "rewardProgramInfo": "https://banco.bradesco/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-mastercard-gold/meu-cartao.shtm"
+                            },
+                            "fees": {
+                                "services": [
+                                    {
+                                        "name": "ANUIDADE_DIFERENCIADA",
+                                        "code": "ANUIDADE_DIFERENCIADA",
+                                        "chargingTriggerInfo": "Disponibilização de rede de estabelecimentos afiliados, instalada no País e no exterior, para pagamentos de bens e serviços, cobrada no máximo uma vez a cada doze meses, admitido o parcelamento da cobrança.",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "514.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "514.00",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
+                            },
+                            "interest": {
+                                "rates": [
+                                    {
+                                        "referentialRateIndexer": "PRE_FIXADO",
+                                        "rate": "0.04",
+                                        "applications": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "indexer": {
+                                                    "rate": "1.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimumRate": "0.0000",
+                                        "maximumRate": "1.0000"
+                                    },
+                                    {
+                                        "referentialRateIndexer": "OUTROS_INDICES_PRECO",
+                                        "rate": "0.03",
+                                        "applications": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "indexer": {
+                                                    "rate": "1.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimumRate": "0.0000",
+                                        "maximumRate": "1.0000"
+                                    }
+                                ],
+                                "instalmentRates": [
+                                    {
+                                        "referentialRateIndexer": "SEM_INDEXADOR_TAXA",
+                                        "rate": "NA",
+                                        "applications": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimumRate": "NA",
+                                        "maximumRate": "NA"
+                                    }
+                                ],
+                                "otherCredits": [
+                                    {
+                                        "code": "SAQUE_A_CREDITO",
+                                        "additionalInfo":"NA"
+                                    },
+                                    {
+                                        "code": "PAGAMENTOS_CONTAS",
+                                        "additionalInfo":"NA"
+                                    }
+                                ]
+                            },
+                            "termsConditions": {
+                                "minimumFeeRate": "1.00",
+                                "elegibilityCriteriaInfo": "https://banco.bradesco/html/classic/novo-educacao-financeira/contas-bancarias/template_TiposContasBancarias.shtm",
+                                "closingProcessInfo": "https://banco.bradesco/html/classic/novo-educacao-financeira/contas-bancarias/template_TiposContasBancarias.shtm"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Banco Bradesco S.A - SP Ubatuba",
+                    "cnpjNumber": "60746948000112",
+                    "urlComplementaryList": "https://banco.bradesco/html/classic/produtos-servicos/index.shtm",
+                    "personalCreditCards": [
+                        {
+                            "name": "Débito Mastercard Classic",
+                            "identification": {
+                                "product": {
+                                    "type": "CLASSIC_INTERNACIONAL",
+                                    "additionalInfo":"NA"
+                                },
+                                "creditCard": {
+                                    "network": "MASTERCARD",
+                                    "additionalInfo":"NA"
+                                }
+                            },
+                            "rewardsProgram": {
+                                "hasRewardProgram": true,
+                                "rewardProgramInfo": "https://banco.bradesco/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-mastercard-gold/meu-cartao.shtm"
+                            },
+                            "fees": {
+                                "services": [
+                                    {
+                                        "name": "ANUIDADE_DIFERENCIADA",
+                                        "code": "ANUIDADE_DIFERENCIADA",
+                                        "chargingTriggerInfo": "Disponibilização de rede de estabelecimentos afiliados, instalada no País e no exterior, para pagamentos de bens e serviços, cobrada no máximo uma vez a cada doze meses, admitido o parcelamento da cobrança.",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "145.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "145.00",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
+                            },
+                            "interest": {
+                                "rates": [
+                                    {
+                                        "referentialRateIndexer": "POS_FIXADO_LIBOR",
+                                        "rate": "0.04",
+                                        "applications": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "indexer": {
+                                                    "rate": "1.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimumRate": "0.0000",
+                                        "maximumRate": "1.0000"
+                                    },
+                                    {
+                                        "referentialRateIndexer": "POS_FIXADO_TR_TBF",
+                                        "rate": "0.03",
+                                        "applications": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "indexer": {
+                                                    "rate": "1.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimumRate": "0.0000",
+                                        "maximumRate": "1.0000"
+                                    }
+                                ],
+                                "instalmentRates": [
+                                    {
+                                        "referentialRateIndexer": "SEM_INDEXADOR_TAXA",
+                                        "rate": "NA",
+                                        "applications": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimumRate": "NA",
+                                        "maximumRate": "NA"
+                                    }
+                                ],
+                                "otherCredits": [
+                                    {
+                                        "code": "SAQUE_A_CREDITO",
+                                        "additionalInfo":"NA"
+                                    },
+                                    {
+                                        "code": "PAGAMENTOS_CONTAS",
+                                        "additionalInfo":"NA"
+                                    }
+                                ]
+                            },
+                            "termsConditions": {
+                                "minimumFeeRate": "1.00",
+                                "elegibilityCriteriaInfo": "https://banco.bradesco/html/classic/novo-educacao-financeira/contas-bancarias/template_TiposContasBancarias.shtm",
+                                "closingProcessInfo": "https://banco.bradesco/html/classic/novo-educacao-financeira/contas-bancarias/template_TiposContasBancarias.shtm"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Banco Bradesco S.A - PR Maringa",
+                    "cnpjNumber": "60746948000112",
+                    "urlComplementaryList": "https://banco.bradesco/html/classic/produtos-servicos/index.shtm",
+                    "personalCreditCards": [
+                        {
+                            "name": "Débito Dinners Classic",
+                            "identification": {
+                                "product": {
+                                    "type": "DINERS_CLUB",
+                                    "additionalInfo":"NA"
+                                },
+                                "creditCard": {
+                                    "network": "",
+                                    "additionalInfo":"NA"
+                                }
+                            },
+                            "rewardsProgram": {
+                                "hasRewardProgram": true,
+                                "rewardProgramInfo": "https://banco.bradesco/html/classic/produtos-servicos/cartoes/meu-cartao/bradesco-mastercard-gold/meu-cartao.shtm"
+                            },
+                            "fees": {
+                                "services": [
+                                    {
+                                        "name": "ANUIDADE_DIFERENCIADA",
+                                        "code": "ANUIDADE_DIFERENCIADA",
+                                        "chargingTriggerInfo": "Disponibilização de rede de estabelecimentos afiliados, instalada no País e no exterior, para pagamentos de bens e serviços, cobrada no máximo uma vez a cada doze meses, admitido o parcelamento da cobrança.",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "321.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "321.00",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
+                            },
+                            "interest": {
+                                "rates": [
+                                    {
+                                        "referentialRateIndexer": "INDICES_PRECOS_IPCC",
+                                        "rate": "0.04",
+                                        "applications": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "indexer": {
+                                                    "rate": "1.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimumRate": "0.0000",
+                                        "maximumRate": "1.0000"
+                                    },
+                                    {
+                                        "referentialRateIndexer": "PRE_FIXADO",
+                                        "rate": "0.03",
+                                        "applications": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "indexer": {
+                                                    "rate": "1.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimumRate": "0.0000",
+                                        "maximumRate": "1.0000"
+                                    }
+                                ],
+                                "instalmentRates": [
+                                    {
+                                        "referentialRateIndexer": "SEM_INDEXADOR_TAXA",
+                                        "rate": "NA",
+                                        "applications": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "indexer": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimumRate": "NA",
+                                        "maximumRate": "NA"
+                                    }
+                                ],
+                                "otherCredits": [
+                                    {
+                                        "code": "SAQUE_A_CREDITO",
+                                        "additionalInfo":"NA"
+                                    },
+                                    {
+                                        "code": "PAGAMENTOS_CONTAS",
+                                        "additionalInfo":"NA"
                                     }
                                 ]
                             },
@@ -187,14 +2199,14 @@
         }
     },
     "links": {
-        "first": "https://api.bradesco.com/open-banking/products-services/v1/personal-credit-cards?page=1&page-size=1",
-        "prev": "https://api.bradesco.com/open-banking/products-services/v1/personal-credit-cards?page=407&page-size=1",
-        "self": "https://api.bradesco.com/open-banking/products-services/v1/personal-credit-cards?page=408&page-size=1",
-        "next": "https://api.bradesco.com/open-banking/products-services/v1/personal-credit-cards?page=409&page-size=1",
-        "last": "https://api.bradesco.com/open-banking/products-services/v1/personal-credit-cards?page=9843&page-size=1"
+        "first": "https://api.bradesco.com/bradesco/open-banking/products-services/v1/personal-credit-cards?page=1&page-size=10",
+        "prev": "https://api.bradesco.com/bradesco/open-banking/products-services/v1/personal-credit-cards?page=407&page-size=10",
+        "self": "https://api.bradesco.com/bradesco/open-banking/products-services/v1/personal-credit-cards?page=408&page-size=10",
+        "next": "https://api.bradesco.com/bradesco/open-banking/products-services/v1/personal-credit-cards?page=409&page-size=10",
+        "last": "https://api.bradesco.com/bradesco/open-banking/products-services/v1/personal-credit-cards?page=984&page-size=10"
     },
     "meta": {
         "totalRecords": 9843,
-        "totalPages": 9843
+        "totalPages": 984
     }
 }
