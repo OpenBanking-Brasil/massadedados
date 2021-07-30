@@ -149,11 +149,11 @@
         }
     },
     "links": {
-        "first": "https://api.bradesco.com/open-banking/channels/v1/eletronic-channels?page=1&page-size=1",
-        "prev": "https://api.bradesco.com/open-banking/channels/v1/eletronic-channels?page=2895&page-size=1",
-        "self": "https://api.bradesco.com/open-banking/channels/v1/eletronic-channels?page=2896&page-size=1",
-        "next": "https://api.bradesco.com/open-banking/channels/v1/eletronic-channels?page=2897&page-size=1",
-        "last": "https://api.bradesco.com/open-banking/channels/v1/eletronic-channels?page=9843&page-size=1"
+        "first": "https://api.bradesco.com/open-banking/channels/v1/electronic-channels?page=1&page-size=1",
+        "prev": "https://api.bradesco.com/open-banking/channels/v1/electronic-channels?page=2895&page-size=1",
+        "self": "https://api.bradesco.com/open-banking/channels/v1/electronic-channels?page=2896&page-size=1",
+        "next": "https://api.bradesco.com/open-banking/channels/v1/electronic-channels?page=2897&page-size=1",
+        "last": "https://api.bradesco.com/open-banking/channels/v1/electronic-channels?page=9843&page-size=1"
     },
     "meta": {
         "totalRecords": 9843,
