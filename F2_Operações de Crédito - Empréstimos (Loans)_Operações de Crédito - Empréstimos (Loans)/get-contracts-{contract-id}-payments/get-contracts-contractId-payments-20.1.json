@@ -102,7 +102,7 @@
         ]
     },
     "links": {
-        "self": "https://super.api.santander.com.br/open-banking/loans/v1/contracts/377aa88d-8905-3847-ad8f-c80d9e47f907/payments"
+        "self": "https://openbanking.api.santander.com.br/open-banking/loans/v1/contracts/377aa88d-8905-3847-ad8f-c80d9e47f907/payments"
     },
     "meta": {
         "totalRecords": 4,

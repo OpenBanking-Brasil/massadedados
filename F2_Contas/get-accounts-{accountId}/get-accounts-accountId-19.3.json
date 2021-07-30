@@ -9,7 +9,7 @@
         "currency": "BRL"
     },
     "links": {
-        "self": "https://super.api.santander.com.br/open-banking/accounts/v1/accounts/312f5666-d912-11eb-b8bc-0242ac130003"
+        "self": "https://openbanking.api.santander.com.br/open-banking/accounts/v1/accounts/312f5666-d912-11eb-b8bc-0242ac130003"
     },
     "meta": {
         "totalRecords": 1,

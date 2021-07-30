@@ -33,7 +33,7 @@
     ]
   },
   "links": {
-    "self": "https://super.api.santander.com.br/open-banking/customers/v1/business/financial-relations"
+    "self": "https://openbanking.api.santander.com.br/open-banking/customers/v1/business/financial-relations"
   },
   "meta": {
     "totalRecords": 4,

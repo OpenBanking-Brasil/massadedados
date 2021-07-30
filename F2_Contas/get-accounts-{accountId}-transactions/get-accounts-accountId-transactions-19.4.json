@@ -66,7 +66,7 @@
         }
     ],
     "links": {
-        "self": "https://api.bradesco.com/open-banking/accounts/v1/accounts/142fb6cc-d995-11eb-b8bc-0242ac130003/transactions"
+        "self": "https://api.bradesco.com/bradesco/open-banking/accounts/v1/accounts/142fb6cc-d995-11eb-b8bc-0242ac130003/transactions"
     },
     "meta": {
         "totalRecords": 4,

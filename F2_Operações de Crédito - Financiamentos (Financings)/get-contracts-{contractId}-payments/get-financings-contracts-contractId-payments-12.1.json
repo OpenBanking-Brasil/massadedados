@@ -15,7 +15,7 @@
                          {
                           "feeName": "Taxa de administração",
                           "feeCode": "ADMINISTRACAO",
-                          "feeAmount": 110.9900,
+                          "feeAmount": 110.9900
 
                         }
                     ],
@@ -40,7 +40,7 @@
                         {
                           "feeName": "Taxa de administração",
                           "feeCode": "ADMINISTRACAO",
-                          "feeAmount": 110.9900,
+                          "feeAmount": 110.9900
                         }
                     ],
                     "charges": [
@@ -64,7 +64,7 @@
                         {
                           "feeName": "Taxa de administração",
                           "feeCode": "ADMINISTRACAO",
-                          "feeAmount": 110.9900,
+                          "feeAmount": 110.9900
                         }
                     ],
                     "charges": [

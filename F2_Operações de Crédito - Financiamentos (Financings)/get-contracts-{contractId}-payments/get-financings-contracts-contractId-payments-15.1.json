@@ -26,7 +26,7 @@
                         }
                     ]
                 }
-            }
+            },
             {
                 "paymentId": "cb689d09-e0c4-3c09-bb05-1fe75da404b4",
                 "isOverParcelPayment": true,
@@ -50,7 +50,7 @@
                         }
                     ]
                 }
-            }
+            },
             {
                 "paymentId": "6bdb06be-7aa8-3292-a117-c188c3b0c327",
                 "isOverParcelPayment": true,

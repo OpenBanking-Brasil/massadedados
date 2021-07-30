@@ -50,7 +50,7 @@
     ]
   },
   "links": {
-    "self": "https://api.bradesco.com/open-banking/invoice-financings/v1/contracts/2ec8fbe4-09e4-305d-bf8c-cdae1c298183"
+    "self": "https://api.bradesco.com/bradesco/open-banking/invoice-financings/v1/contracts/2ec8fbe4-09e4-305d-bf8c-cdae1c298183"
   },
   "meta": {
     "totalRecords": 1,

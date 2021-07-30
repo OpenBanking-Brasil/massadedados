@@ -1,7 +1,7 @@
 {
     "data": [],
     "links": {
-        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?page=1&page-size=25&fromDueDate=2021-10-01?toDueDate=2021-10-31",
+        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?page=1&page-size=25&fromDueDate=2021-10-01?toDueDate=2021-10-31"
     },
     "meta": {
         "totalRecords": 0,

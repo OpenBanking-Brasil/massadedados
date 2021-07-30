@@ -12,7 +12,7 @@
         }
     ],
     "links": {
-        "self": "https://api.bradesco.com/open-banking/resources/v1/resources"
+        "self": "https://api.bradesco.com/bradesco/open-banking/resources/v1/resources"
     },
     "meta": {
         "totalRecords": 2,

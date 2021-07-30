@@ -8,7 +8,6 @@
       "socialName": "NA",
       "birthDate": "1975-12-05",
       "maritalStatusCode": "CASADO",
-      "maritalStatusAdditionalInfo": "",
       "sex": "FEMININO",
       "companyCnpj": [
         "01181521000155"
@@ -27,13 +26,13 @@
           "number": "40701685",
           "checkDigit": "5",	
           "additionalInfo": "SSP/ES",
-          "expirationDate": "2022-12-15	"	
+          "expirationDate": "2022-12-15"	
         }
       ],
       "hasBrazilianNationality": true,
       "nationality": [
         {
-          "otherNationalitiesInfo": "",
+          "otherNationalitiesInfo": "NA",
           "documents": [
             {
               "type": "NA",

@@ -12,7 +12,7 @@
         }
     ],
     "links": {
-        "self": "https://super.api.santander.com.br/open-banking/resources/v1/resources"
+        "self": "https://openbanking.api.santander.com.br/open-banking/resources/v1/resources"
     },
     "meta": {
         "totalRecords": 2,

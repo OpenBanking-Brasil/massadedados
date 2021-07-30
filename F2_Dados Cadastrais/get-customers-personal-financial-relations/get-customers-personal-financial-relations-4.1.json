@@ -6,7 +6,7 @@
       "CONTA_DEPOSITO_A_VISTA", 
 	  "OPERACAO_CREDITO",
 	  "CARTAO_CREDITO",
-	  "PREVIDENCIA"
+	  "PREVIDENCIA",
 	  "INVESTIMENTO",
 	  "OPERACOES_CAMBIO"
     ],
@@ -30,7 +30,7 @@
     ]
   },
   "links": {
-    "self": "https://api.bradesco.com/open-banking/customers/v1/personal/financial-relations"
+    "self": "https://api.bradesco.com/bradesco/open-banking/customers/v1/personal/financial-relations"
   },
   "meta": {
     "totalRecords": 1,

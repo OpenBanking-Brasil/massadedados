@@ -21,7 +21,7 @@
         "expirationDateTime": "2022-04-01T00:00:00Z"
     },
     "links": {
-        "self": "https://api.bradesco.com/open-banking/consents/v1/consents/urn:bradesco:BDC10682262"
+        "self": "https://api.bradesco.com/bradesco/open-banking/consents/v1/consents/urn:bradesco:BDC10682262"
     },
     "meta": {
         "totalRecords": 1,
