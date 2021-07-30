@@ -1,0 +1,92 @@
+{
+    "data": {
+        "outages": [
+            {
+                "outageTime": "2021-07-09T17:14:34Z",
+                "duration": "PT17H00M",
+                "isPartial": false,
+                "explanation": "Fase 1 APIs Unavailable",
+                "unavailableEndpoints": [
+                    "https://openbanking.banrisul.com.br/open-banking/channels/v1/banking-agents",
+                    "https://openbanking.banrisul.com.br/open-banking/channels/v1/branches",
+                    "https://openbanking.banrisul.com.br/open-banking/channels/v1/eletronic-channels",
+                    "https://openbanking.banrisul.com.br/open-banking/channels/v1/phone-channels",
+                    "https://openbanking.banrisul.com.br/open-banking/channels/v1/shared-automated-teller-machines",
+                    "https://openbanking.banrisul.com.br/open-banking/discovery/v1/status",
+                    "https://openbanking.banrisul.com.br/open-banking/discovery/v1/outages",
+                    "https://openbanking.banrisul.com.br/open-banking/admin/v1/metrics",
+                    "https://openbanking.banrisul.com.br/open-banking/products-services/v1/business-accounts",
+                    "https://openbanking.banrisul.com.br/open-banking/products-services/v1/business-credit-cards",
+                    "https://openbanking.banrisul.com.br/open-banking/products-services/v1/business-financings",
+                    "https://openbanking.banrisul.com.br/open-banking/products-services/v1/business-invoice-financings",
+                    "https://openbanking.banrisul.com.br/open-banking/products-services/v1/business-loans",
+                    "https://openbanking.banrisul.com.br/open-banking/products-services/v1/business-unarranged-account-overdraft",
+                    "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-accounts",
+                    "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-credit-cards",
+                    "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-financings",
+                    "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-invoice-financings",
+                    "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-loans",
+                    "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-unarranged-account-overdraft"
+                ]
+            },
+            {
+                "outageTime": "2021-07-05T17:14:34Z",
+                "duration": "PT99H59M",
+                "isPartial": false,
+                "explanation": "APIs Unavailable until august",
+                "unavailableEndpoints": [
+                    "https://openbanking.banrisul.com.br/open-banking/accounts/v1/accounts",
+                    "https://openbanking.banrisul.com.br/open-banking/accounts/v1/accounts/{accountId}",
+                    "https://openbanking.banrisul.com.br/open-banking/accounts/v1/accounts/{accountId}/balances",
+                    "https://openbanking.banrisul.com.br/open-banking/accounts/v1/accounts/{accountId}/overdraft-limits",
+                    "https://openbanking.banrisul.com.br/open-banking/accounts/v1/accounts/{accountId}/transactions",
+                    "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts",
+                    "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts/{creditCardAccountId}",
+                    "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts/{creditCardAccountId}/bills",
+                    "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts/{creditCardAccountId}/bills/{billId}/transactions",
+                    "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts/{creditCardAccountId}/limits",
+                    "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts/{creditCardAccountId}/transactions",
+                    "https://openbanking.banrisul.com.br/open-banking/consents/v1/consents",
+                    "https://openbanking.banrisul.com.br/open-banking/consents/v1/consents/{consentId}",
+                    "https://openbanking.banrisul.com.br/open-banking/customers/v1/business/financial-relations",
+                    "https://openbanking.banrisul.com.br/open-banking/customers/v1/business/identifications",
+                    "https://openbanking.banrisul.com.br/open-banking/customers/v1/business/qualifications",
+                    "https://openbanking.banrisul.com.br/open-banking/customers/v1/personal/financial-relations",
+                    "https://openbanking.banrisul.com.br/open-banking/customers/v1/personal/identifications",
+                    "https://openbanking.banrisul.com.br/open-banking/customers/v1/personal/qualifications",
+                    "https://openbanking.banrisul.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts",
+                    "https://openbanking.banrisul.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/{contractId}",
+                    "https://openbanking.banrisul.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/{contractId}/payments",
+                    "https://openbanking.banrisul.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/{contractId}/scheduled-instalments",
+                    "https://openbanking.banrisul.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/{contractId}/warranties",
+                    "https://openbanking.banrisul.com.br/open-banking/invoice-financings/v1/contracts",
+                    "https://openbanking.banrisul.com.br/open-banking/invoice-financings/v1/contracts/{contractId}",
+                    "https://openbanking.banrisul.com.br/open-banking/invoice-financings/v1/contracts/{contractId}/payments",
+                    "https://openbanking.banrisul.com.br/open-banking/invoice-financings/v1/contracts/{contractId}/scheduled-instalments",
+                    "https://openbanking.banrisul.com.br/open-banking/invoice-financings/v1/contracts/{contractId}/warranties",
+                    "https://openbanking.banrisul.com.br/open-banking/financings/v1/contracts",
+                    "https://openbanking.banrisul.com.br/open-banking/financings/v1/contracts/{contractId}",
+                    "https://openbanking.banrisul.com.br/open-banking/financings/v1/contracts/{contractId}/payments",
+                    "https://openbanking.banrisul.com.br/open-banking/financings/v1/contracts/{contractId}/scheduled-instalments",
+                    "https://openbanking.banrisul.com.br/open-banking/financings/v1/contracts/{contractId}/warranties",
+                    "https://openbanking.banrisul.com.br/open-banking/loans/v1/contracts",
+                    "https://openbanking.banrisul.com.br/open-banking/loans/v1/contracts/{contractId}",
+                    "https://openbanking.banrisul.com.br/open-banking/loans/v1/contracts/{contractId}/payments",
+                    "https://openbanking.banrisul.com.br/open-banking/loans/v1/contracts/{contractId}/scheduled-instalments",
+                    "https://openbanking.banrisul.com.br/open-banking/loans/v1/contracts/{contractId}/warranties",
+                    "https://openbanking.banrisul.com.br/open-banking/resources/v1/resources"
+                ]
+            }
+        ]
+    },
+    "links": {
+        "self": "https://openbanking.banrisul.com.br/open-banking/discovery/v1/outages?page=1&page-size=2",
+        "first": "https://openbanking.banrisul.com.br/open-banking/discovery/v1/outages?page=1&page-size=2",
+        "last": "https://openbanking.banrisul.com.br/open-banking/discovery/v1/outages?page=2&page-size=2",
+        "next": "https://openbanking.banrisul.com.br/open-banking/discovery/v1/outages?page=2&page-size=2"
+    },
+    "meta": {
+        "totalRecords": 4,
+        "totalPages": 2
+    }
+}
