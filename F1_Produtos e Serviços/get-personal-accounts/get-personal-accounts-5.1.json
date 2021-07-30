@@ -1229,7 +1229,7 @@
                                         },
                                         {
                                             "interval": "2_FAIXA",
-                                            "monthlyFee": "00.00",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0000"
@@ -1237,7 +1237,7 @@
                                         },
                                         {
                                             "interval": "3_FAIXA",
-                                            "monthlyFee": "00.00",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0000"
@@ -2455,7 +2455,7 @@
                                         },
                                         {
                                             "interval": "2_FAIXA",
-                                            "monthlyFee": "00.00",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0000"
@@ -2463,7 +2463,7 @@
                                         },
                                         {
                                             "interval": "3_FAIXA",
-                                            "monthlyFee": "00.00",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0000"
@@ -3680,7 +3680,7 @@
                                         },
                                         {
                                             "interval": "2_FAIXA",
-                                            "monthlyFee": "00.00",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0000"
@@ -3688,7 +3688,7 @@
                                         },
                                         {
                                             "interval": "3_FAIXA",
-                                            "monthlyFee": "00.00",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0000"
@@ -4953,7 +4953,7 @@
                                         },
                                         {
                                             "interval": "2_FAIXA",
-                                            "monthlyFee": "00.00",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0000"
@@ -4961,7 +4961,7 @@
                                         },
                                         {
                                             "interval": "3_FAIXA",
-                                            "monthlyFee": "00.00",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0000"
@@ -6234,7 +6234,7 @@
                                         },
                                         {
                                             "interval": "2_FAIXA",
-                                            "monthlyFee": "00.00",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0000"
@@ -6242,7 +6242,7 @@
                                         },
                                         {
                                             "interval": "3_FAIXA",
-                                            "monthlyFee": "00.00",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0000"
@@ -7460,7 +7460,7 @@
                                         },
                                         {
                                             "interval": "2_FAIXA",
-                                            "monthlyFee": "00.00",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0000"
@@ -7468,7 +7468,7 @@
                                         },
                                         {
                                             "interval": "3_FAIXA",
-                                            "monthlyFee": "00.00",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0000"
@@ -8733,7 +8733,7 @@
                                         },
                                         {
                                             "interval": "2_FAIXA",
-                                            "monthlyFee": "00.00",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0000"
@@ -8741,7 +8741,7 @@
                                         },
                                         {
                                             "interval": "3_FAIXA",
-                                            "monthlyFee": "00.00",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0000"
@@ -10014,7 +10014,7 @@
                                         },
                                         {
                                             "interval": "2_FAIXA",
-                                            "monthlyFee": "00.00",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0000"
@@ -10022,7 +10022,7 @@
                                         },
                                         {
                                             "interval": "3_FAIXA",
-                                            "monthlyFee": "00.00",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0000"
@@ -11240,7 +11240,7 @@
                                         },
                                         {
                                             "interval": "2_FAIXA",
-                                            "monthlyFee": "00.00",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0000"
@@ -11248,7 +11248,7 @@
                                         },
                                         {
                                             "interval": "3_FAIXA",
-                                            "monthlyFee": "00.00",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0000"
@@ -12513,7 +12513,7 @@
                                         },
                                         {
                                             "interval": "2_FAIXA",
-                                            "monthlyFee": "00.00",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0000"
@@ -12521,7 +12521,7 @@
                                         },
                                         {
                                             "interval": "3_FAIXA",
-                                            "monthlyFee": "00.00",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0000"
@@ -13794,7 +13794,7 @@
                                         },
                                         {
                                             "interval": "2_FAIXA",
-                                            "monthlyFee": "00.00",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0000"
@@ -13802,7 +13802,7 @@
                                         },
                                         {
                                             "interval": "3_FAIXA",
-                                            "monthlyFee": "00.00",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0000"
@@ -15075,7 +15075,7 @@
                                         },
                                         {
                                             "interval": "2_FAIXA",
-                                            "monthlyFee": "00.00",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0000"
@@ -15083,7 +15083,7 @@
                                         },
                                         {
                                             "interval": "3_FAIXA",
-                                            "monthlyFee": "00.00",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0000"
@@ -16356,7 +16356,7 @@
                                         },
                                         {
                                             "interval": "2_FAIXA",
-                                            "monthlyFee": "00.00",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0000"
@@ -16364,7 +16364,7 @@
                                         },
                                         {
                                             "interval": "3_FAIXA",
-                                            "monthlyFee": "00.00",
+                                            "monthlyFee": "0.00",
                                             "currency": "BRL",
                                             "customers": {
                                                 "rate": "0.0000"
