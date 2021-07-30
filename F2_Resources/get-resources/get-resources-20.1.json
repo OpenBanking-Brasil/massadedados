@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "resourceId": "d448bbb0-9d53-306f-816a-d59c12d73630",
+            "type": "ACCOUNT",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "15thr536-9607-e911-80e0-1asoi1p5c650",
+            "type": "LOAN",
+            "status": "AVAILABLE"
+        }
+    ],
+    "links": {
+        "self": "https://super.api.santander.com.br/open-banking/resources/v1/resources"
+    },
+    "meta": {
+        "totalRecords": 2,
+        "totalPages": 1,
+        "requestDateTime": "2021-09-12T15:24:00Z"
+    }
+}

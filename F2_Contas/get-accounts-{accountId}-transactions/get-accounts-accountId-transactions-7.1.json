@@ -18,7 +18,7 @@
       }
     ],
     "links": {
-      "self": "https://api.baninter.com.br/open-banking/accounts/v1/accounts/92792126019929279212650822221989319252576/transactions"
+      "self": "https://api.baninter.com.br/open-banking/accounts/v1/accounts/24cc872d-6b4c-3535-8164-4e5cbc8bd603/transactions"
     },
     "meta": {
       "totalRecords": 1,

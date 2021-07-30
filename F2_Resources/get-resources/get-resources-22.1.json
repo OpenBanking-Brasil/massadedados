@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "resourceId": "27daf004-7a54-43e6-acef-3180d26c025d",
+            "type": "CREDIT_CARD_ACCOUNT",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "8a90b69e-327a-467e-95f2-970b68e40f34",
+            "type": "FINANCING",
+            "status": "AVAILABLE"
+        }
+    ],
+    "links": {
+        "self": "https://api.itau/open-banking/resources/v1/resources"
+    },
+    "meta": {
+        "totalRecords": 2,
+        "totalPages": 1,
+        "requestDateTime": "2021-06-29T11:04:00Z"
+    }
+}

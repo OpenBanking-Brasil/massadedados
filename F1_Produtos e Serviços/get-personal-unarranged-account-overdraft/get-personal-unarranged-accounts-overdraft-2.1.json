@@ -1,0 +1,123 @@
+{
+  "data": {
+    "brand": {
+      "name": "Banco do Estado do Rio Grande do Sul S.A",
+      "companies": [
+        {
+          "cnpjNumber": "92702067000196",
+          "name": "Banco do Estado do Rio Grande do Sul S.A",
+          "urlComplementaryList": "https://www.banrisul.com.br/bob/link/bobw02hn_promocao.aspx?secao_id=3669",
+          "personalUnarrangedAccountOverdraft": [
+            {
+              "fees": {
+                "priorityServices": [
+                  {
+                    "name": "CONCESSAO_ADIANTAMENTO_DEPOSITANTE",
+                    "code": "ADIANT_DEPOSITANTE",
+                    "chargingTriggerInfo": "Admite a cobrança de tarifa mensal para disponibilização do limite de cheque especial.",
+                    "prices": [
+                      {
+                        "interval": "1_FAIXA",
+                        "value": "0.00",
+                        "currency": "BRL",
+                        "customers": {
+                          "rate": "0.0000"
+                        }
+                      },
+                      {
+                        "interval": "2_FAIXA",
+                        "value": "75.00",
+                        "currency": "BRL",
+                        "customers": {
+                          "rate": "0.3500"
+                        }
+                      },
+                      {
+                        "interval": "3_FAIXA",
+                        "value": "150.00",
+                        "currency": "BRL",
+                        "customers": {
+                          "rate": "0.6500"
+                        }
+                      },
+                      {
+                        "interval": "4_FAIXA",
+                        "value": "200.00",
+                        "currency": "BRL",
+                        "customers": {
+                          "rate": "0.0000"
+                        }
+                      }
+                    ],
+                    "minimum": {
+                      "value": "0.00",
+                      "currency": "BRL"
+                    },
+                    "maximum": {
+                      "value": "200.00",
+                      "currency": "BRL"
+                    }
+                  }
+                ]
+              },
+              "interestRates": [
+                {
+                  "referentialRateIndexer": "SEM_INDEXADOR_TAXA",
+                  "rate": "0.08",
+                  "applications": [
+                    {
+                      "interval": "1_FAIXA",
+                      "indexer": {
+                        "rate": "0.0000"
+                      },
+                      "customers": {
+                        "rate": "0.1500"
+                      }
+                    },
+                    {
+                      "interval": "2_FAIXA",
+                      "indexer": {
+                        "rate": "0.0025"
+                      },
+                      "customers": {
+                        "rate": "0.3500"
+                      }
+                    },
+                    {
+                      "interval": "3_FAIXA",
+                      "indexer": {
+                        "rate": "0.0500"
+                      },
+                      "customers": {
+                        "rate": "0.2000"
+                      }
+                    },
+                    {
+                      "interval": "4_FAIXA",
+                      "indexer": {
+                        "rate": "0.0800"
+                      },
+                      "customers": {
+                        "rate": "0.3000"
+                      }
+                    }
+                  ],
+                  "minimumRate": "0.0000",
+                  "maximumRate": "0.0800"
+                }
+              ],
+              "termsConditions": "https://www.banrisul.com.br/bob/link/bobw02hn_promocao.aspx?secao_id=3669"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "links": {
+    "self": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-unarranged-account-overdraft"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1
+  }
+}

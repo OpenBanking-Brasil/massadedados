@@ -17,7 +17,7 @@
             "chargeIdentificator": "Hotel Fazenda Solar",
             "chargeNumber": 2,
             "brazilianAmount": 771.5200,
-            "amount": 0.0,
+            "amount": 0.0000,
             "currency": "BRL",
             "transactionDate": "2021-05-20",
             "billPostDate": "2021-05-21",
@@ -40,7 +40,7 @@
             "chargeIdentificator": "Restaurante do Sabiá",
             "chargeNumber": 1,
             "brazilianAmount": 88.2500,
-            "amount": 0.0,
+            "amount": 0.0000,
             "currency": "BRL",
             "transactionDate": "2021-05-20",
             "billPostDate": "2021-05-21",
@@ -63,7 +63,7 @@
             "chargeIdentificator": "Artesanatos Miranda",
             "chargeNumber": 1,
             "brazilianAmount": 350.0000,
-            "amount": 0.0,
+            "amount": 0.0000,
             "currency": "BRL",
             "transactionDate": "2021-05-20",
             "billPostDate": "2021-05-21",
@@ -86,7 +86,7 @@
             "chargeIdentificator": "Passeio barco cisne Branco",
             "chargeNumber": 1,
             "brazilianAmount": 285.5000,
-            "amount": 0.0,
+            "amount": 0.0000,
             "currency": "BRL",
             "transactionDate": "2021-05-20",
             "billPostDate": "2021-05-21",
@@ -109,7 +109,7 @@
             "chargeIdentificator": "Azul Passagens Aéreas",
             "chargeNumber": 1,
             "brazilianAmount": 3750.6100,
-            "amount": 0.0,
+            "amount": 0.0000,
             "currency": "BRL",
             "transactionDate": "2021-05-20",
             "billPostDate": "2021-05-21",
@@ -117,7 +117,7 @@
         }
     ],
     "links": {
-        "self": "https://opendata.api.bb.com.br/open-banking/credit-cards-accounts/v1/accounts/PIITR3459087/bills/4c772fcd-5a10-4468-aad2-c58eff0bcc40/transactions"
+        "self": "https://opendata.api.bb.com.br/open-banking/credit-cards-accounts/v1/accounts/923abd08-aa82-3559-a56e-0e785b230831/bills/4c772fcd-5a10-4468-aad2-c58eff0bcc40/transactions"
     },
     "meta": {
         "totalRecords": 5,

@@ -1,0 +1,17 @@
+{
+    "data": [
+        {
+            "resourceId": "5965115d-fb63-3303-896c-9fe089427e22",
+            "type": "FINANCING",
+            "status": "AVAILABLE"
+        }
+    ],
+    "links": {
+        "self": "https://api.itau/open-banking/resources/v1/resources"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-07-13T23:59:59Z"
+    }
+}

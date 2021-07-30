@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "resourceId": "5d18c5fe-ba69-3a9e-a343-dca4d2a1cf6c",
+            "type": "LOAN",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "331491ea-4d1c-3418-b0db-c8a069362d2d",
+            "type": "LOAN",
+            "status": "AVAILABLE"
+        }
+    ],
+    "links": {
+        "self": "https://opendata.api.bb.com.br/open-banking/resources/v1/resources?page=1&page-size=2",
+        "first": "https://opendata.api.bb.com.br/open-banking/resources/v1/resources?page=1&page-size=2",
+        "next": "https://opendata.api.bb.com.br/open-banking/resources/v1/resources?page=2&page-size=2",
+        "last": "https://opendata.api.bb.com.br/open-banking/resources/v1/resources?page=13&page-size=2"
+    },
+    "meta": {
+        "totalRecords": 26,
+        "totalPages": 13,
+        "requestDateTime": "2021-10-28T11:04:00Z"
+    }
+}

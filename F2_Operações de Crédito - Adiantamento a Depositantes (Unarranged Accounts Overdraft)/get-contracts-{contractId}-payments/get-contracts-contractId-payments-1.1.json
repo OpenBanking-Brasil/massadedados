@@ -13,8 +13,8 @@
                 "overParcel": {
                     "fees": [
                         {
-                            "feeName": "Administração em Conta",
-                            "feeCode": "ADMINISTRACAO",
+                            "feeName": "CONCESSAO_ADIANTAMENTO_DEPOSITANTE",
+                            "feeCode": "ADIANT_DEPOSITANTE",
                             "feeAmount": 148.5819
                         }
                     ],
@@ -37,8 +37,8 @@
                 "overParcel": {
                     "fees": [
                         {
-                            "feeName": "Administração em Conta",
-                            "feeCode": "ADMINISTRACAO",
+                            "feeName": "CONCESSAO_ADIANTAMENTO_DEPOSITANTE",
+                            "feeCode": "ADIANT_DEPOSITANTE",
                             "feeAmount": 148.5819
                         }
                     ],
