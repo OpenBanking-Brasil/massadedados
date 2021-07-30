@@ -13,7 +13,7 @@
                                 "priorityServices": [
                                     {
                                         "name": "CONCESSAO_ADIANTAMENTO_DEPOSITANTE",
-                                        "code": "ADIANT_DEPOSITANTE",
+                                        "code": "ADIANTAMENTO_A_DEPOSITANTES",
                                         "chargingTriggerInfo": "Levantamento de informações e avaliação de viabilidade e de riscos para a concessão de crédito em caráter emergencial para cobertura de saldo devedor em conta de depósitos à vista e de excesso sobre o limite previamente pactuado de cheque especial, cobrada no máximo uma vez nos últimos trinta dias",
                                         "prices": [
                                             {

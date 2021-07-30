@@ -176,7 +176,7 @@
                                 ]
                             },
                             "termsConditions": {
-                                "minimumFeeRate": "0.30",
+                                "minimumFeeRate": "1.00",
                                 "elegibilityCriteriaInfo": "https://banco.bradesco/html/classic/novo-educacao-financeira/contas-bancarias/template_TiposContasBancarias.shtm",
                                 "closingProcessInfo": "https://banco.bradesco/html/classic/novo-educacao-financeira/contas-bancarias/template_TiposContasBancarias.shtm"
                             }

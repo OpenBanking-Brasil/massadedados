@@ -1167,53 +1167,53 @@
                             },
                             "serviceBundles": [
                                 {
-                                    "name": "Conta de Depósitos à Vista - Movimentação com Cheque e Cartão",
+                                    "name": "Pacote Padronizado de Serviços II",
                                     "services": [
                                         {
                                             "code": "CADASTRO",
-                                            "chargingTriggerInfo": "Confecção de Cadastro para Início de Relacionamento",
-                                            "eventLimitQuantity": "999999",
-                                            "freeEventQuantity": "999999"
+                                            "chargingTriggerInfo": "O fato gerador que justifica a cobrança da mensalidade das cestas de serviços é a disponibilização mensal de um conjunto de serviços que o cliente pode usufruir gratuitamente (sem tarifa excedente), relação essa que se inicia do momento da contratação da Cesta.",
+                                            "eventLimitQuantity": "1",
+                                            "freeEventQuantity": "1"
                                         },
                                         {
                                             "code": "FOLHACHEQUE",
-                                            "chargingTriggerInfo": "Fornecimento de Folhas de Cheque",
+                                            "chargingTriggerInfo": "O fato gerador que justifica a cobrança da mensalidade das cestas de serviços é a disponibilização mensal de um conjunto de serviços que o cliente pode usufruir gratuitamente (sem tarifa excedente), relação essa que se inicia do momento da contratação da Cesta.",
                                             "eventLimitQuantity": "12",
                                             "freeEventQuantity": "10"
                                         },
                                         {
                                             "code": "SAQUE",
-                                            "chargingTriggerInfo": "Saque",
+                                            "chargingTriggerInfo": "O fato gerador que justifica a cobrança da mensalidade das cestas de serviços é a disponibilização mensal de um conjunto de serviços que o cliente pode usufruir gratuitamente (sem tarifa excedente), relação essa que se inicia do momento da contratação da Cesta.",
                                             "eventLimitQuantity": "8",
                                             "freeEventQuantity": "4"
                                         },
                                         {
                                             "code": "EXTRATO_MENSAL",
-                                            "chargingTriggerInfo": "Fornecimento de Extrato Mensal",
+                                            "chargingTriggerInfo": "O fato gerador que justifica a cobrança da mensalidade das cestas de serviços é a disponibilização mensal de um conjunto de serviços que o cliente pode usufruir gratuitamente (sem tarifa excedente), relação essa que se inicia do momento da contratação da Cesta.",
                                             "eventLimitQuantity": "6",
                                             "freeEventQuantity": "2"
                                         },
                                         {
                                             "code": "EXTRATO_PERIODO",
-                                            "chargingTriggerInfo": "Fornecimento de Extrato de um Período",
+                                            "chargingTriggerInfo": "O fato gerador que justifica a cobrança da mensalidade das cestas de serviços é a disponibilização mensal de um conjunto de serviços que o cliente pode usufruir gratuitamente (sem tarifa excedente), relação essa que se inicia do momento da contratação da Cesta.",
                                             "eventLimitQuantity": "2",
                                             "freeEventQuantity": "2"
                                         },
                                         {
                                             "code": "TRANSFERENCIA_DOC",
-                                            "chargingTriggerInfo": "Transferência por Meio de DOC",
+                                            "chargingTriggerInfo": "O fato gerador que justifica a cobrança da mensalidade das cestas de serviços é a disponibilização mensal de um conjunto de serviços que o cliente pode usufruir gratuitamente (sem tarifa excedente), relação essa que se inicia do momento da contratação da Cesta.",
                                             "eventLimitQuantity": "1",
                                             "freeEventQuantity": "1"
                                         },
                                         {
                                             "code": "TRANFERENCIA_TED",
-                                            "chargingTriggerInfo": "Transferência por Meio de TED",
+                                            "chargingTriggerInfo": "O fato gerador que justifica a cobrança da mensalidade das cestas de serviços é a disponibilização mensal de um conjunto de serviços que o cliente pode usufruir gratuitamente (sem tarifa excedente), relação essa que se inicia do momento da contratação da Cesta.",
                                             "eventLimitQuantity": "1",
                                             "freeEventQuantity": "1"
                                         },
                                         {
                                             "code": "TRANSFERENCIA_ENTRE_CONTAS",
-                                            "chargingTriggerInfo": "Transferência entre Contas na Própria Instituição",
+                                            "chargingTriggerInfo": "O fato gerador que justifica a cobrança da mensalidade das cestas de serviços é a disponibilização mensal de um conjunto de serviços que o cliente pode usufruir gratuitamente (sem tarifa excedente), relação essa que se inicia do momento da contratação da Cesta.",
                                             "eventLimitQuantity": "4",
                                             "freeEventQuantity": "2"
                                         }
