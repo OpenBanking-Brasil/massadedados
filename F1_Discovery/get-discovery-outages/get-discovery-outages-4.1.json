@@ -30,9 +30,9 @@
         ]
     },
     "links": {
-        "self": "https://api.bradesco.com/bradesco/open-banking/discovery/v1/outages?page=1&page-size=2",
+        "self": "https://api.bradesco.com/bradesco/open-banking/discovery/v1/outages?page=7&page-size=2",
         "prev": "https://api.bradesco.com/bradesco/open-banking/discovery/v1/outages?page=6&page-size=2",
-        "first": "https://api.bradesco.com/bradesco/open-banking/discovery/v1/outages?page=7&page-size=2",
+        "first": "https://api.bradesco.com/bradesco/open-banking/discovery/v1/outages?page=1&page-size=2",
         "next": "https://api.bradesco.com/bradesco/open-banking/discovery/v1/outages?page=8&page-size=2",
         "last": "https://api.bradesco.com/bradesco/open-banking/discovery/v1/outages?page=12&page-size=2"
     },
