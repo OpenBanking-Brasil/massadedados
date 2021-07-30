@@ -37,7 +37,7 @@
             "brandName": "Banco Inter S.A.",
             "companyCnpj": "00416968000101",
             "productType": "EMPRESTIMOS",
-            "productSubType": "CAPITAL_GIRO_PRAZO_VENCIMENTO_SUPERIOR_365_DIAS",
+            "productSubType": "CREDITO_PESSOAL_COM_CONSIGNACAO",
             "ipocCode": "0041696802161841548177280005"
         }
     ],

@@ -1,0 +1,2489 @@
+{
+    "data": {
+        "brand": {
+            "companies": [
+                {
+                    "cnpjNumber": "00000000000191",
+                    "name": "Banco do Brasil S.A",
+                    "personalFinancings": [
+                        {
+                            "fees": {
+                                "services": [
+                                    {
+                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
+                                        "code": "TAR_SUBST_GAR",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "700.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "700.00"
+                                        },
+                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "700.00"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "chargingTriggerInfo": "R$ 80.00 Por Parcela",
+                                        "code": "NA",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "278.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "20.90"
+                                        },
+                                        "name": "Taxa de administração",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0500"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "23.70"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.6000"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "80.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3000"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "150.89"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0500"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "200.10"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.5019"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0091"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3433"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0127"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.1436"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0196"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.0112"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0252"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0291",
+                                    "minimumRate": "0.0053",
+                                    "rate": "0.0000",
+                                    "referentialRateIndexer": "PRE_FIXADO"
+                                },
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "1.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0032"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0032",
+                                    "minimumRate": "0.0032",
+                                    "rate": "1.0000",
+                                    "referentialRateIndexer": "POS_FIXADO_TLP"
+                                },
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.1500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0136"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0185"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0405"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0560"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0600",
+                                    "minimumRate": "0.0127",
+                                    "rate": "0.0185",
+                                    "referentialRateIndexer": "POS_FIXADO_TJLP"
+                                }
+                            ],
+                            "requiredWarranties": [
+                                "ALIENACAO_FIDUCIARIA",
+                                "NAO_APLICAVEL"
+                            ],
+                            "termsConditions": "Para contratar um financiamento: https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/financiamentos/financiar-veiculos#/ ; Para regularização de dívidas em atraso, saiba mais em soluções de dívidas PF https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/solucao-de-dividas#/",
+                            "type": "FINANCIAMENTO_AQUISICAO_BENS_VEICULOS_AUTOMOTORES"
+                        }
+                    ],
+                    "urlComplementaryList": "https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/financiamentos#/"
+                },
+                {
+                    "cnpjNumber": "00000000000272",
+                    "name": "Banco do Brasil - MANAUS",
+                    "personalFinancings": [
+                        {
+                            "fees": {
+                                "services": [
+                                    {
+                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
+                                        "code": "TAR_SUBST_GAR",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "700.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "700.00"
+                                        },
+                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "700.00"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "chargingTriggerInfo": "R$ 80.00 Por Parcela",
+                                        "code": "NA",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "278.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "20.90"
+                                        },
+                                        "name": "Taxa de administração",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0500"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "23.70"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.6000"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "80.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3000"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "150.89"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0500"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "200.10"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.5019"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0091"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3433"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0127"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.1436"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0196"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.0112"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0252"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0291",
+                                    "minimumRate": "0.0053",
+                                    "rate": "0.0000",
+                                    "referentialRateIndexer": "PRE_FIXADO"
+                                },
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "1.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0032"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0032",
+                                    "minimumRate": "0.0032",
+                                    "rate": "1.0000",
+                                    "referentialRateIndexer": "POS_FIXADO_TLP"
+                                },
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.1500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0136"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0185"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0405"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0560"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0600",
+                                    "minimumRate": "0.0127",
+                                    "rate": "0.0185",
+                                    "referentialRateIndexer": "POS_FIXADO_TJLP"
+                                }
+                            ],
+                            "requiredWarranties": [
+                                "ALIENACAO_FIDUCIARIA",
+                                "NAO_APLICAVEL"
+                            ],
+                            "termsConditions": "Para contratar um financiamento: https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/financiamentos/financiar-veiculos#/ ; Para regularização de dívidas em atraso, saiba mais em soluções de dívidas PF https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/solucao-de-dividas#/",
+                            "type": "FINANCIAMENTO_AQUISICAO_BENS_VEICULOS_AUTOMOTORES"
+                        }
+                    ],
+                    "urlComplementaryList": "https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/financiamentos#/"
+                },
+                {
+                    "cnpjNumber": "00000000000353",
+                    "name": "Banco do Brasil - PRESIDENTE VARGAS",
+                    "personalFinancings": [
+                        {
+                            "fees": {
+                                "services": [
+                                    {
+                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
+                                        "code": "TAR_SUBST_GAR",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "700.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "700.00"
+                                        },
+                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "700.00"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "chargingTriggerInfo": "R$ 80.00 Por Parcela",
+                                        "code": "NA",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "278.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "20.90"
+                                        },
+                                        "name": "Taxa de administração",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0500"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "23.70"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.6000"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "80.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3000"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "150.89"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0500"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "200.10"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.5019"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0091"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3433"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0127"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.1436"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0196"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.0112"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0252"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0291",
+                                    "minimumRate": "0.0053",
+                                    "rate": "0.0000",
+                                    "referentialRateIndexer": "PRE_FIXADO"
+                                },
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "1.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0032"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0032",
+                                    "minimumRate": "0.0032",
+                                    "rate": "1.0000",
+                                    "referentialRateIndexer": "POS_FIXADO_TLP"
+                                },
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.1500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0136"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0185"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0405"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0560"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0600",
+                                    "minimumRate": "0.0127",
+                                    "rate": "0.0185",
+                                    "referentialRateIndexer": "POS_FIXADO_TJLP"
+                                }
+                            ],
+                            "requiredWarranties": [
+                                "ALIENACAO_FIDUCIARIA",
+                                "NAO_APLICAVEL"
+                            ],
+                            "termsConditions": "Para contratar um financiamento: https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/financiamentos/financiar-veiculos#/ ; Para regularização de dívidas em atraso, saiba mais em soluções de dívidas PF https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/solucao-de-dividas#/",
+                            "type": "FINANCIAMENTO_AQUISICAO_BENS_VEICULOS_AUTOMOTORES"
+                        }
+                    ],
+                    "urlComplementaryList": "https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/financiamentos#/"
+                },
+                {
+                    "cnpjNumber": "00000000000434",
+                    "name": "Banco do Brasil - SANTOS",
+                    "personalFinancings": [
+                        {
+                            "fees": {
+                                "services": [
+                                    {
+                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
+                                        "code": "TAR_SUBST_GAR",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "700.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "700.00"
+                                        },
+                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "700.00"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "chargingTriggerInfo": "R$ 80.00 Por Parcela",
+                                        "code": "NA",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "278.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "20.90"
+                                        },
+                                        "name": "Taxa de administração",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0500"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "23.70"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.6000"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "80.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3000"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "150.89"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0500"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "200.10"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.5019"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0091"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3433"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0127"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.1436"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0196"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.0112"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0252"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0291",
+                                    "minimumRate": "0.0053",
+                                    "rate": "0.0000",
+                                    "referentialRateIndexer": "PRE_FIXADO"
+                                },
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "1.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0032"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0032",
+                                    "minimumRate": "0.0032",
+                                    "rate": "1.0000",
+                                    "referentialRateIndexer": "POS_FIXADO_TLP"
+                                },
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.1500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0136"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0185"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0405"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0560"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0600",
+                                    "minimumRate": "0.0127",
+                                    "rate": "0.0185",
+                                    "referentialRateIndexer": "POS_FIXADO_TJLP"
+                                }
+                            ],
+                            "requiredWarranties": [
+                                "ALIENACAO_FIDUCIARIA",
+                                "NAO_APLICAVEL"
+                            ],
+                            "termsConditions": "Para contratar um financiamento: https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/financiamentos/financiar-veiculos#/ ; Para regularização de dívidas em atraso, saiba mais em soluções de dívidas PF https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/solucao-de-dividas#/",
+                            "type": "FINANCIAMENTO_AQUISICAO_BENS_VEICULOS_AUTOMOTORES"
+                        }
+                    ],
+                    "urlComplementaryList": "https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/financiamentos#/"
+                },
+                {
+                    "cnpjNumber": "00000000000515",
+                    "name": "Banco do Brasil - CAMPOS GOYTACAZES",
+                    "personalFinancings": [
+                        {
+                            "fees": {
+                                "services": [
+                                    {
+                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
+                                        "code": "TAR_SUBST_GAR",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "700.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "700.00"
+                                        },
+                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "700.00"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "chargingTriggerInfo": "R$ 80.00 Por Parcela",
+                                        "code": "NA",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "278.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "20.90"
+                                        },
+                                        "name": "Taxa de administração",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0500"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "23.70"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.6000"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "80.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3000"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "150.89"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0500"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "200.10"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.5019"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0091"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3433"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0127"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.1436"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0196"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.0112"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0252"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0291",
+                                    "minimumRate": "0.0053",
+                                    "rate": "0.0000",
+                                    "referentialRateIndexer": "PRE_FIXADO"
+                                },
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "1.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0032"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0032",
+                                    "minimumRate": "0.0032",
+                                    "rate": "1.0000",
+                                    "referentialRateIndexer": "POS_FIXADO_TLP"
+                                },
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.1500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0136"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0185"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0405"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0560"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0600",
+                                    "minimumRate": "0.0127",
+                                    "rate": "0.0185",
+                                    "referentialRateIndexer": "POS_FIXADO_TJLP"
+                                }
+                            ],
+                            "requiredWarranties": [
+                                "ALIENACAO_FIDUCIARIA",
+                                "NAO_APLICAVEL"
+                            ],
+                            "termsConditions": "Para contratar um financiamento: https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/financiamentos/financiar-veiculos#/ ; Para regularização de dívidas em atraso, saiba mais em soluções de dívidas PF https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/solucao-de-dividas#/",
+                            "type": "FINANCIAMENTO_AQUISICAO_BENS_VEICULOS_AUTOMOTORES"
+                        }
+                    ],
+                    "urlComplementaryList": "https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/financiamentos#/"
+                },
+                {
+                    "cnpjNumber": "00000000000604",
+                    "name": "Banco do Brasil - SALVADOR",
+                    "personalFinancings": [
+                        {
+                            "fees": {
+                                "services": [
+                                    {
+                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
+                                        "code": "TAR_SUBST_GAR",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "700.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "700.00"
+                                        },
+                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "700.00"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "chargingTriggerInfo": "R$ 80.00 Por Parcela",
+                                        "code": "NA",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "278.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "20.90"
+                                        },
+                                        "name": "Taxa de administração",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0500"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "23.70"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.6000"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "80.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3000"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "150.89"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0500"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "200.10"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.5019"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0091"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3433"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0127"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.1436"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0196"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.0112"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0252"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0291",
+                                    "minimumRate": "0.0053",
+                                    "rate": "0.0000",
+                                    "referentialRateIndexer": "PRE_FIXADO"
+                                },
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "1.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0032"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0032",
+                                    "minimumRate": "0.0032",
+                                    "rate": "1.0000",
+                                    "referentialRateIndexer": "POS_FIXADO_TLP"
+                                },
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.1500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0136"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0185"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0405"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0560"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0600",
+                                    "minimumRate": "0.0127",
+                                    "rate": "0.0185",
+                                    "referentialRateIndexer": "POS_FIXADO_TJLP"
+                                }
+                            ],
+                            "requiredWarranties": [
+                                "ALIENACAO_FIDUCIARIA",
+                                "NAO_APLICAVEL"
+                            ],
+                            "termsConditions": "Para contratar um financiamento: https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/financiamentos/financiar-veiculos#/ ; Para regularização de dívidas em atraso, saiba mais em soluções de dívidas PF https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/solucao-de-dividas#/",
+                            "type": "FINANCIAMENTO_AQUISICAO_BENS_VEICULOS_AUTOMOTORES"
+                        }
+                    ],
+                    "urlComplementaryList": "https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/financiamentos#/"
+                },
+                {
+                    "cnpjNumber": "00000000000787",
+                    "name": "Banco do Brasil - RECIFE",
+                    "personalFinancings": [
+                        {
+                            "fees": {
+                                "services": [
+                                    {
+                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
+                                        "code": "TAR_SUBST_GAR",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "700.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "700.00"
+                                        },
+                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "700.00"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "chargingTriggerInfo": "R$ 80.00 Por Parcela",
+                                        "code": "NA",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "278.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "20.90"
+                                        },
+                                        "name": "Taxa de administração",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0500"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "23.70"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.6000"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "80.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3000"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "150.89"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0500"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "200.10"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.5019"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0091"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3433"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0127"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.1436"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0196"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.0112"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0252"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0291",
+                                    "minimumRate": "0.0053",
+                                    "rate": "0.0000",
+                                    "referentialRateIndexer": "PRE_FIXADO"
+                                },
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "1.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0032"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0032",
+                                    "minimumRate": "0.0032",
+                                    "rate": "1.0000",
+                                    "referentialRateIndexer": "POS_FIXADO_TLP"
+                                },
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.1500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0136"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0185"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0405"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0560"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0600",
+                                    "minimumRate": "0.0127",
+                                    "rate": "0.0185",
+                                    "referentialRateIndexer": "POS_FIXADO_TJLP"
+                                }
+                            ],
+                            "requiredWarranties": [
+                                "ALIENACAO_FIDUCIARIA",
+                                "NAO_APLICAVEL"
+                            ],
+                            "termsConditions": "Para contratar um financiamento: https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/financiamentos/financiar-veiculos#/ ; Para regularização de dívidas em atraso, saiba mais em soluções de dívidas PF https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/solucao-de-dividas#/",
+                            "type": "FINANCIAMENTO_AQUISICAO_BENS_VEICULOS_AUTOMOTORES"
+                        }
+                    ],
+                    "urlComplementaryList": "https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/financiamentos#/"
+                },
+                {
+                    "cnpjNumber": "00000000000868",
+                    "name": "Banco do Brasil - SETOR PUBLICO CE",
+                    "personalFinancings": [
+                        {
+                            "fees": {
+                                "services": [
+                                    {
+                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
+                                        "code": "TAR_SUBST_GAR",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "700.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "700.00"
+                                        },
+                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "700.00"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "chargingTriggerInfo": "R$ 80.00 Por Parcela",
+                                        "code": "NA",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "278.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "20.90"
+                                        },
+                                        "name": "Taxa de administração",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0500"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "23.70"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.6000"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "80.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3000"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "150.89"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0500"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "200.10"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.5019"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0091"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3433"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0127"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.1436"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0196"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.0112"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0252"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0291",
+                                    "minimumRate": "0.0053",
+                                    "rate": "0.0000",
+                                    "referentialRateIndexer": "PRE_FIXADO"
+                                },
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "1.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0032"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0032",
+                                    "minimumRate": "0.0032",
+                                    "rate": "1.0000",
+                                    "referentialRateIndexer": "POS_FIXADO_TLP"
+                                },
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.1500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0136"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0185"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0405"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0560"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0600",
+                                    "minimumRate": "0.0127",
+                                    "rate": "0.0185",
+                                    "referentialRateIndexer": "POS_FIXADO_TJLP"
+                                }
+                            ],
+                            "requiredWarranties": [
+                                "ALIENACAO_FIDUCIARIA",
+                                "NAO_APLICAVEL"
+                            ],
+                            "termsConditions": "Para contratar um financiamento: https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/financiamentos/financiar-veiculos#/ ; Para regularização de dívidas em atraso, saiba mais em soluções de dívidas PF https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/solucao-de-dividas#/",
+                            "type": "FINANCIAMENTO_AQUISICAO_BENS_VEICULOS_AUTOMOTORES"
+                        }
+                    ],
+                    "urlComplementaryList": "https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/financiamentos#/"
+                },
+                {
+                    "cnpjNumber": "00000000000949",
+                    "name": "Banco do Brasil - PRACA TIRADENTES - PR",
+                    "personalFinancings": [
+                        {
+                            "fees": {
+                                "services": [
+                                    {
+                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
+                                        "code": "TAR_SUBST_GAR",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "700.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "700.00"
+                                        },
+                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "700.00"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "chargingTriggerInfo": "R$ 80.00 Por Parcela",
+                                        "code": "NA",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "278.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "20.90"
+                                        },
+                                        "name": "Taxa de administração",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0500"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "23.70"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.6000"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "80.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3000"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "150.89"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0500"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "200.10"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.5019"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0091"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3433"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0127"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.1436"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0196"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.0112"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0252"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0291",
+                                    "minimumRate": "0.0053",
+                                    "rate": "0.0000",
+                                    "referentialRateIndexer": "PRE_FIXADO"
+                                },
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "1.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0032"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0032",
+                                    "minimumRate": "0.0032",
+                                    "rate": "1.0000",
+                                    "referentialRateIndexer": "POS_FIXADO_TLP"
+                                },
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.1500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0136"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0185"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0405"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0560"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0600",
+                                    "minimumRate": "0.0127",
+                                    "rate": "0.0185",
+                                    "referentialRateIndexer": "POS_FIXADO_TJLP"
+                                }
+                            ],
+                            "requiredWarranties": [
+                                "ALIENACAO_FIDUCIARIA",
+                                "NAO_APLICAVEL"
+                            ],
+                            "termsConditions": "Para contratar um financiamento: https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/financiamentos/financiar-veiculos#/ ; Para regularização de dívidas em atraso, saiba mais em soluções de dívidas PF https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/solucao-de-dividas#/",
+                            "type": "FINANCIAMENTO_AQUISICAO_BENS_VEICULOS_AUTOMOTORES"
+                        }
+                    ],
+                    "urlComplementaryList": "https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/financiamentos#/"
+                },
+                {
+                    "cnpjNumber": "00000000001082",
+                    "name": "Banco do Brasil - EMPRESA PORTO ALEGRE",
+                    "personalFinancings": [
+                        {
+                            "fees": {
+                                "services": [
+                                    {
+                                        "chargingTriggerInfo": "Gerado por prestacao de servico referente a: TAR_SUBSTITUICAO_DE_GARANTIA",
+                                        "code": "TAR_SUBST_GAR",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "700.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "700.00"
+                                        },
+                                        "name": "TAR_SUBSTITUICAO_DE_GARANTIA",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "700.00"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "chargingTriggerInfo": "R$ 80.00 Por Parcela",
+                                        "code": "NA",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "278.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "20.90"
+                                        },
+                                        "name": "Taxa de administração",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0500"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "23.70"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.6000"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "80.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3000"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "150.89"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0500"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "200.10"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.5019"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0091"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3433"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0127"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.1436"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0196"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.0112"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0252"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0291",
+                                    "minimumRate": "0.0053",
+                                    "rate": "0.0000",
+                                    "referentialRateIndexer": "PRE_FIXADO"
+                                },
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "1.0000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0032"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0032",
+                                    "minimumRate": "0.0032",
+                                    "rate": "1.0000",
+                                    "referentialRateIndexer": "POS_FIXADO_TLP"
+                                },
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.1500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0136"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0185"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0405"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0560"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0600",
+                                    "minimumRate": "0.0127",
+                                    "rate": "0.0185",
+                                    "referentialRateIndexer": "POS_FIXADO_TJLP"
+                                }
+                            ],
+                            "requiredWarranties": [
+                                "ALIENACAO_FIDUCIARIA",
+                                "NAO_APLICAVEL"
+                            ],
+                            "termsConditions": "Para contratar um financiamento: https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/financiamentos/financiar-veiculos#/ ; Para regularização de dívidas em atraso, saiba mais em soluções de dívidas PF https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/solucao-de-dividas#/",
+                            "type": "FINANCIAMENTO_AQUISICAO_BENS_VEICULOS_AUTOMOTORES"
+                        }
+                    ],
+                    "urlComplementaryList": "https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/financiamentos#/"
+                }
+            ],
+            "name": "Banco do Brasil S.A"
+        }
+    },
+    "links": {
+        "first": "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-financings?page=1&page-size=10",
+        "last": "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-financings?page=1360&page-size=10",
+        "next": "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-financings?page=2&page-size=10",
+        "self": "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-financings?page=1&page-size=10"
+    },
+    "meta": {
+        "totalPages": 1360,
+        "totalRecords": 13595
+    }
+}

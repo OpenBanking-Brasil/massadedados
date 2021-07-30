@@ -32,8 +32,8 @@
         ],
         "contractedFees": [
             {
-                "feeName": "Administração em Conta",
-                "feeCode": "ADMINISTRACAO",
+                "feeName": "CONCESSAO_ADIANTAMENTO_DEPOSITANTE",
+                "feeCode": "ADIANT_DEPOSITANTE",
                 "feeChargeType": "POR_PARCELA",
                 "feeCharge": "PERCENTUAL",
                 "feeAmount": 0.0000,

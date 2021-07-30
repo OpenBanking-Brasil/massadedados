@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "resourceId": "n7i2bry1-b3nu-lm8o-m4rr-7g6i88n0aodx",
+            "type": "CREDIT_CARD_ACCOUNT",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "2ec8fbe4-09e4-305d-bf8c-cdae1c298183",
+            "type": "INVOICE_FINANCING",
+            "status": "AVAILABLE"
+        }
+    ],
+    "links": {
+        "self": "https://api.bradesco.com/open-banking/resources/v1/resources"
+    },
+    "meta": {
+        "totalRecords": 2,
+        "totalPages": 1,
+        "requestDateTime": "2021-10-01T00:00:00Z"
+    }
+}
