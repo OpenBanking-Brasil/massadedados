@@ -1,0 +1,131 @@
+{
+    "data": {
+        "brand": {
+            "name": "Banco Bradesco S.A",
+            "companies": [
+                {
+                    "name": "Banco Bradesco S.A",
+                    "cnpjNumber": "60746948000112",
+                    "urlComplementaryList": "https://banco.bradesco/html/classic/produtos-servicos/index.shtm",
+                    "businessLoans": [
+                        {
+                            "type": "EMPRESTIMO_CAPITAL_GIRO_ROTATIVO",
+                            "fees": {
+                                "services": [
+                                    {
+                                        "name": "Empréstimo com Capital de Giro Teto Rotativo",
+                                        "code": "CAPITAL_GIRO_TETO_ROTATIVO",
+                                        "chargingTriggerInfo": "Empréstimo com Capital de Giro Teto Rotativo",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "300000.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "300000.00",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "referentialRateOrIndexer": "OUTRAS_TAXAS_FLUTUANTES",
+                                    "rate": "0.0715",
+                                    "applications": [
+                                        {
+                                            "interval": "1_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "2_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "3_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "4_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0715"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0715"
+                                            }
+                                        }
+                                    ],
+                                    "minimumRate": "0.0000",
+                                    "maximumRate": "0.0715"
+                                }
+                            ],
+                            "requiredWarranties": [
+                                "SEGUROS_ASSEMELHADOS"
+                            ],
+                            "termsConditions": "https://banco.bradesco/html/classic/produtos-servicos/emprestimo-e-financiamento/index.shtm"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "links": {
+        "first": "https://api.bradesco.com/open-banking/products-services/v1/business-loans?page=1&page-size=1",
+        "prev": "https://api.bradesco.com/open-banking/products-services/v1/business-loans?page=407&page-size=1",
+        "self": "https://api.bradesco.com/open-banking/products-services/v1/business-loans?page=408&page-size=1",
+        "next": "https://api.bradesco.com/open-banking/products-services/v1/business-loans?page=409&page-size=1",
+        "last": "https://api.bradesco.com/open-banking/products-services/v1/business-loans?page=9843&page-size=1"
+    },
+    "meta": {
+        "totalRecords": 9843,
+        "totalPages": 9843
+    }
+}
