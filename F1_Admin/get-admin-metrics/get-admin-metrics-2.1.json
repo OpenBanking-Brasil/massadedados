@@ -1,0 +1,648 @@
+{
+    "data": {
+        "requestTime": "2021-07-30T08:46:00Z",
+        "availability": {
+            "uptime": {
+                "generalUptimeRate": "0.4550",
+                "endpoints": [
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/channels/v1/banking-agents",
+                        "uptimeRate": "0.9700"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/channels/v1/branches",
+                        "uptimeRate": "0.9700"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/channels/v1/electronic-channels",
+                        "uptimeRate": "0.9700"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/channels/v1/phone-channels",
+                        "uptimeRate": "0.9700"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/channels/v1/shared-automated-teller-machines",
+                        "uptimeRate": "0.9700"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/discovery/v1/status",
+                        "uptimeRate": "0.9897"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/discovery/v1/outages",
+                        "uptimeRate": "0.9897"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/business-accounts",
+                        "uptimeRate": "0.9568"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/business-credit-cards",
+                        "uptimeRate": "0.9568"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/business-financings",
+                        "uptimeRate": "0.9568"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/business-invoice-financings",
+                        "uptimeRate": "0.9568"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/business-loans",
+                        "uptimeRate": "0.9568"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/business-unarranged-account-overdraft",
+                        "uptimeRate": "0.9568"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-accounts",
+                        "uptimeRate": "0.9568"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-credit-cards",
+                        "uptimeRate": "0.9568"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-financings",
+                        "uptimeRate": "0.9568"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-invoice-financings",
+                        "uptimeRate": "0.9568"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-loans",
+                        "uptimeRate": "0.9568"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-unarranged-account-overdraft",
+                        "uptimeRate": "0.9568"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts",
+                        "uptimeRate": "0.2598"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts/{creditCardAccountId}",
+                        "uptimeRate": "0.2598"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts/{creditCardAccountId}/bills",
+                        "uptimeRate": "0.2598"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts/{creditCardAccountId}/bills/{billId}/transactions",
+                        "uptimeRate": "0.2598"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts/{creditCardAccountId}/limits",
+                        "uptimeRate": "0.2598"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts/{creditCardAccountId}/transactions",
+                        "uptimeRate": "0.2598"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/consents/v1/consents",
+                        "uptimeRate": "0.3596"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/consents/v1/consents/{consentId}",
+                        "uptimeRate": "0.3596"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/accounts/v1/accounts",
+                        "uptimeRate": "0.2600"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/accounts/v1/accounts/{accountId}",
+                        "uptimeRate": "0.2600"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/accounts/v1accounts/{accountId}/balances",
+                        "uptimeRate": "0.2600"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/accounts/v1accounts/{accountId}/transactions",
+                        "uptimeRate": "0.2600"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/accounts/v1/accounts/{accountId}/overdraft-limits",
+                        "uptimeRate": "0.2600"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/customers/v1/personal/identifications",
+                        "uptimeRate": "0.2455"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/customers/v1/personal/qualifications",
+                        "uptimeRate": "0.2455"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/customers/v1/personal/financial-relations",
+                        "uptimeRate": "0.2455"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/customers/v1/business/identifications",
+                        "uptimeRate": "0.2455"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/customers/v1/business/qualifications",
+                        "uptimeRate": "0.2455"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/customers/v1/business/financial-relations",
+                        "uptimeRate": "0.2455"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts",
+                        "uptimeRate": "0.1659"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/{contractId}",
+                        "uptimeRate": "0.1659"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/{contractId}/warranties",
+                        "uptimeRate": "0.1659"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/{contractId}/scheduled-instalments",
+                        "uptimeRate": "0.1659"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/{contractId}/payments",
+                        "uptimeRate": "0.1659"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/invoice-financings/v1/contracts",
+                        "uptimeRate": "0.1659"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/invoice-financings/v1/contracts/{contractId}",
+                        "uptimeRate": "0.1659"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/invoice-financings/v1/contracts/{contractId}/warranties",
+                        "uptimeRate": "0.1659"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/invoice-financings/v1/contracts/{contractId}/payments",
+                        "uptimeRate": "0.1659"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/invoice-financings/v1/contracts/{contractId}/scheduled-instalments",
+                        "uptimeRate": "0.1659"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/loans/v1/contracts",
+                        "uptimeRate": "0.1659"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/loans/v1/contracts/{contractId}",
+                        "uptimeRate": "0.1659"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/loans/v1/contracts/{contractId}/warranties",
+                        "uptimeRate": "0.1659"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/loans/v1/contracts/{contractId}/scheduled-instalments",
+                        "uptimeRate": "0.1659"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/loans/v1/contracts/{contractId}/payments",
+                        "uptimeRate": "0.1659"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/financings/v1/contracts",
+                        "uptimeRate": "0.1659"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/financings/v1/contracts/{contractId}",
+                        "uptimeRate": "0.1659"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/financings/v1/contracts/{contractId}/warranties",
+                        "uptimeRate": "0.1659"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/financings/v1/contracts/{contractId}/scheduled-instalments",
+                        "uptimeRate": "0.1659"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/financings/v1/contracts/{contractId}/payments",
+                        "uptimeRate": "0.1659"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/resources/v1/resources",
+                        "uptimeRate": "0.1659"
+                    }
+                ]
+            },
+            "downtime": {
+                "generalDowntime": 192500,
+                "scheduledOutage": 2758752,
+                "endpoints": [
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/channels/v1/banking-agents",
+                        "partialDowntime": "9700"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/channels/v1/branches",
+                        "partialDowntime": "9700"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/channels/v1/electronic-channels",
+                        "partialDowntime": "9700"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/channels/v1/phone-channels",
+                        "partialDowntime": "9700"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/channels/v1/shared-automated-teller-machines",
+                        "partialDowntime": "9700"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/discovery/v1/status",
+                        "partialDowntime": "7200"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/discovery/v1/outages",
+                        "partialDowntime": "7200"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/business-accounts",
+                        "partialDowntime": "10800"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/business-credit-cards",
+                        "partialDowntime": "10800"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/business-financings",
+                        "partialDowntime": "10800"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/business-invoice-financings",
+                        "partialDowntime": "10800"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/business-loans",
+                        "partialDowntime": "10800"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/business-unarranged-account-overdraft",
+                        "partialDowntime": "10800"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-accounts",
+                        "partialDowntime": "10800"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-credit-cards",
+                        "partialDowntime": "10800"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-financings",
+                        "partialDowntime": "10800"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-invoice-financings",
+                        "partialDowntime": "10800"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-loans",
+                        "partialDowntime": "10800"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-unarranged-account-overdraft",
+                        "partialDowntime": "10800"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts",
+                        "partialDowntime": "61200"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts/{creditCardAccountId}",
+                        "partialDowntime": "61200"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts/{creditCardAccountId}/bills",
+                        "partialDowntime": "61200"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts/{creditCardAccountId}/bills/{billId}/transactions",
+                        "partialDowntime": "61200"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts/{creditCardAccountId}/limits",
+                        "partialDowntime": "61200"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts/{creditCardAccountId}/transactions",
+                        "partialDowntime": "61200"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/consents/v1/consents",
+                        "partialDowntime": "56160"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/consents/v1/consents/{consentId}",
+                        "partialDowntime": "56160"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/accounts/v1/accounts",
+                        "partialDowntime": "63936"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/accounts/v1/accounts/{accountId}",
+                        "partialDowntime": "63936"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/accounts/v1accounts/{accountId}/balances",
+                        "partialDowntime": "63936"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/accounts/v1accounts/{accountId}/transactions",
+                        "partialDowntime": "63936"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/accounts/v1/accounts/{accountId}/overdraft-limits",
+                        "partialDowntime": "63936"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/customers/v1/personal/identifications",
+                        "partialDowntime": "72576"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/customers/v1/personal/qualifications",
+                        "partialDowntime": "72576"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/customers/v1/personal/financial-relations",
+                        "partialDowntime": "72576"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/customers/v1/business/identifications",
+                        "partialDowntime": "72576"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/customers/v1/business/qualifications",
+                        "partialDowntime": "72576"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/customers/v1/business/financial-relations",
+                        "partialDowntime": "72576"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts",
+                        "partialDowntime": "72576"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/{contractId}",
+                        "partialDowntime": "72576"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/{contractId}/warranties",
+                        "partialDowntime": "72576"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/{contractId}/scheduled-instalments",
+                        "partialDowntime": "72576"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/{contractId}/payments",
+                        "partialDowntime": "72576"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/invoice-financings/v1/contracts",
+                        "partialDowntime": "72576"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/invoice-financings/v1/contracts/{contractId}",
+                        "partialDowntime": "72576"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/invoice-financings/v1/contracts/{contractId}/warranties",
+                        "partialDowntime": "72576"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/invoice-financings/v1/contracts/{contractId}/payments",
+                        "partialDowntime": "72576"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/invoice-financings/v1/contracts/{contractId}/scheduled-instalments",
+                        "partialDowntime": "72576"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/loans/v1/contracts",
+                        "partialDowntime": "72576"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/loans/v1/contracts/{contractId}",
+                        "partialDowntime": "72576"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/loans/v1/contracts/{contractId}/warranties",
+                        "partialDowntime": "72576"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/loans/v1/contracts/{contractId}/scheduled-instalments",
+                        "partialDowntime": "72576"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/loans/v1/contracts/{contractId}/payments",
+                        "partialDowntime": "72576"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/financings/v1/contracts",
+                        "partialDowntime": "72576"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/financings/v1/contracts/{contractId}",
+                        "partialDowntime": "72576"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/financings/v1/contracts/{contractId}/warranties",
+                        "partialDowntime": "72576"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/financings/v1/contracts/{contractId}/scheduled-instalments",
+                        "partialDowntime": "72576"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/financings/v1/contracts/{contractId}/payments",
+                        "partialDowntime": "72576"
+                    },
+                    {
+                        "url": "https://openbanking.banrisul.com.br/open-banking/resources/v1/resources",
+                        "partialDowntime": "72576"
+                    }
+                ]
+            }
+        },
+        "invocations": {
+            "unauthenticated": {
+                "currentDay": 41,
+                "previousDays": [
+                    41,
+                    41,
+                    40,
+                    41,
+                    41,
+                    41,
+                    40
+                ]
+            },
+            "highPriority": {
+                "currentDay": 123,
+                "previousDays": [
+                    150,
+                    165,
+                    110,
+                    113,
+                    106,
+                    95,
+                    90
+                ]
+            },
+            "mediumPriority": {
+                "currentDay": 61,
+                "previousDays": [
+                    70,
+                    83,
+                    55,
+                    57,
+                    53,
+                    43,
+                    45
+                ]
+            },
+            "unattended": {
+                "currentDay": 5,
+                "previousDays": [
+                    4,
+                    5,
+                    4,
+                    0,
+                    0,
+                    2,
+                    3
+                ]
+            }
+        },
+        "averageResponse": {
+            "unauthenticated": {
+                "currentDay": 2,
+                "previousDays": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    2
+                ]
+            },
+            "highPriority": {
+                "currentDay": 1,
+                "previousDays": [
+                    1,
+                    2,
+                    2,
+                    2,
+                    2,
+                    1,
+                    1
+                ]
+            },
+            "mediumPriority": {
+                "currentDay": 2,
+                "previousDays": [
+                    2,
+                    2,
+                    3,
+                    3,
+                    3,
+                    3,
+                    1
+                ]
+            },
+            "unattended": {
+                "currentDay": 15,
+                "previousDays": [
+                    15,
+                    15,
+                    20,
+                    20,
+                    10,
+                    35,
+                    35
+                ]
+            }
+        },
+        "averageTps": {
+            "currentDay": 3,
+            "previousDays": [
+                3,
+                3,
+                2,
+                2,
+                3,
+                3,
+                2
+            ]
+        },
+        "peakTps": {
+            "currentDay": 3,
+            "previousDays": [
+                3,
+                3,
+                2,
+                2,
+                3,
+                3,
+                2
+            ]
+        },
+        "errors": {
+            "currentDay": 56,
+            "previousDays": [
+                56,
+                56,
+                50,
+                53,
+                96,
+                96,
+                92
+            ]
+        },
+        "rejections": {
+            "currentDay": 15,
+            "previousDays": [
+                16,
+                35,
+                8,
+                13,
+                13,
+                8,
+                8
+            ]
+        }
+    },
+    "links": {
+        "self": "https://openbanking.banrisul.com.br/open-banking/admin/v1/metrics?page=1&page-size=1&period=ALL",
+        "first": "https://openbanking.banrisul.com.br/open-banking/admin/v1/metrics?page=1&page-size=1&period=ALL",
+        "next": "https://openbanking.banrisul.com.br/open-banking/admin/v1/metrics?page=2&page-size=1&period=ALL",
+        "last": "https://openbanking.banrisul.com.br/open-banking/admin/v1/metrics?page=236&page-size=1&period=ALL"
+    },
+    "meta": {
+        "totalRecords": 236,
+        "totalPages": 236
+    }
+}
