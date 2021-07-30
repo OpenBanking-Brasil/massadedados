@@ -13,9 +13,9 @@
                             "fees": {
                                 "services": [
                                     {
-                                        "name": "Empréstimo com Capital de Giro Teto Rotativo",
-                                        "code": "CAPITAL_GIRO_TETO_ROTATIVO",
-                                        "chargingTriggerInfo": "Empréstimo com Capital de Giro Teto Rotativo",
+                                        "name": "Taxa de Cadastro",
+                                        "code": "CADASTRO",
+                                        "chargingTriggerInfo": "Taxa de Cadastro",
                                         "prices": [
                                             {
                                                 "interval": "1_FAIXA",
@@ -43,7 +43,7 @@
                                             },
                                             {
                                                 "interval": "4_FAIXA",
-                                                "value": "300000.00",
+                                                "value": "65.00",
                                                 "currency": "BRL",
                                                 "customers": {
                                                     "rate": "1.0000"
@@ -55,7 +55,7 @@
                                             "currency": "BRL"
                                         },
                                         "maximum": {
-                                            "value": "300000.00",
+                                            "value": "65.00",
                                             "currency": "BRL"
                                         }
                                     }
@@ -64,7 +64,7 @@
                             "interestRates": [
                                 {
                                     "referentialRateOrIndexer": "OUTRAS_TAXAS_FLUTUANTES",
-                                    "rate": "0.0715",
+                                    "rate": "0.07",
                                     "applications": [
                                         {
                                             "interval": "1_FAIXA",
@@ -113,19 +113,1298 @@
                             "termsConditions": "https://banco.bradesco/html/classic/produtos-servicos/emprestimo-e-financiamento/index.shtm"
                         }
                     ]
+                },
+                {
+                    "name": "Banco Bradesco S.A - RS Pelotas",
+                    "cnpjNumber": "60746948000112",
+                    "urlComplementaryList": "https://banco.bradesco/html/classic/produtos-servicos/index.shtm",
+                    "businessLoans": [
+                        {
+                            "type": "EMPRESTIMO_CAPITAL_GIRO_PRAZO_VENCIMENTO_ATE_365_DIAS",
+                            "fees": {
+                                "services": [
+                                    {
+                                        "name": "Taxa de Cadastro",
+                                        "code": "CADASTRO",
+                                        "chargingTriggerInfo": "Taxa de Cadastro",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "500.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "500.00",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "referentialRateIndexer": "PRE_FIXADO",
+                                    "rate": "0.03",
+                                    "applications": [
+                                        {
+                                            "interval": "1_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "2_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "3_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "4_FAIXA",
+                                            "indexer": {
+                                                "rate": "1.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "1.0000"
+                                            }
+                                        }
+                                    ],
+                                    "minimumRate": "0.0000",
+                                    "maximumRate": "1.0000"
+                                }
+                            ],
+                            "requiredWarranties": [
+                                "PENHOR"
+                            ],
+                            "termsConditions": "https://banco.bradesco/html/classic/produtos-servicos/emprestimo-e-financiamento/index.shtm"
+                        }
+                    ]
+                },
+                {
+                    "name": "Banco Bradesco S.A - MA Sao Luis",
+                    "cnpjNumber": "60746948000112",
+                    "urlComplementaryList": "https://banco.bradesco/html/classic/produtos-servicos/index.shtm",
+                    "businessLoans": [
+                        {
+                            "type": "EMPRESTIMO_CAPITAL_GIRO_PRAZO_VENCIMENTO_SUPERIOR_365_DIAS",
+                            "fees": {
+                                "services": [
+                                    {
+                                        "name": "Taxa de Cadastro",
+                                        "code": "CADASTRO",
+                                        "chargingTriggerInfo": "Taxa de Cadastro",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "500.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "500.00",
+                                            "currency": "BRL"
+                                        }
+                                    },
+                                    {
+                                        "name": "Taxa de Manutenção",
+                                        "code": "MANUTENCAO",
+                                        "chargingTriggerInfo": "Taxa de Manutenção",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "15.50",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "15.50",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "referentialRateIndexer": "POS_FIXADO_TJLP",
+                                    "rate": "0.03",
+                                    "applications": [
+                                        {
+                                            "interval": "1_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "2_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "3_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "4_FAIXA",
+                                            "indexer": {
+                                                "rate": "1.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "1.0000"
+                                            }
+                                        }
+                                    ],
+                                    "minimumRate": "0.0000",
+                                    "maximumRate": "1.0000"
+                                }
+                            ],
+                            "requiredWarranties": [
+                                "GARANTIAS_INTERNACIONAIS",
+                                "BENS_ARRENDADOS"
+                            ],
+                            "termsConditions": "https://banco.bradesco/html/classic/produtos-servicos/emprestimo-e-financiamento/index.shtm"
+                        }
+                    ]
+                },
+                {
+                    "name": "Banco Bradesco S.A - AL Maceio",
+                    "cnpjNumber": "60746948000112",
+                    "urlComplementaryList": "https://banco.bradesco/html/classic/produtos-servicos/index.shtm",
+                    "businessLoans": [
+                        {
+                            "type": "EMPRESTIMO_MICROCREDITO_PRODUTIVO_ORIENTADO",
+                            "fees": {
+                                "services": [
+                                    {
+                                        "name": "Taxa de Manutenção",
+                                        "code": "MANUTENCAO",
+                                        "chargingTriggerInfo": "Taxa de Manutenção",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "15.50",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "15.50",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "referentialRateIndexer": "INDICES_PRECOS_IGPM",
+                                    "rate": "0.03",
+                                    "applications": [
+                                        {
+                                            "interval": "1_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "2_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "3_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "4_FAIXA",
+                                            "indexer": {
+                                                "rate": "1.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "1.0000"
+                                            }
+                                        }
+                                    ],
+                                    "minimumRate": "0.0000",
+                                    "maximumRate": "1.0000"
+                                }
+                            ],
+                            "requiredWarranties": [
+                                "OPERACOES_GARANTIDAS_PELO_GOVERNO",
+                                "CESSAO_DIREITOS_CREDITORIOS"
+                            ],
+                            "termsConditions": "https://banco.bradesco/html/classic/produtos-servicos/emprestimo-e-financiamento/index.shtm"
+                        }
+                    ]
+                },
+                {
+                    "name": "Banco Bradesco S.A - PE Recife",
+                    "cnpjNumber": "60746948000112",
+                    "urlComplementaryList": "https://banco.bradesco/html/classic/produtos-servicos/index.shtm",
+                    "businessLoans": [
+                        {
+                            "type": "EMPRESTIMO_CONTA_GARANTIDA",
+                            "fees": {
+                                "services": [
+                                    {
+                                        "name": "Taxa de Cadastro",
+                                        "code": "CADASTRO",
+                                        "chargingTriggerInfo": "Taxa de Cadastro",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "500.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "500.00",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "referentialRateIndexer": "FLUTUANTES_SELIC",
+                                    "rate": "0.03",
+                                    "applications": [
+                                        {
+                                            "interval": "1_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "2_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "3_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "4_FAIXA",
+                                            "indexer": {
+                                                "rate": "1.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "1.0000"
+                                            }
+                                        }
+                                    ],
+                                    "minimumRate": "0.0000",
+                                    "maximumRate": "1.0000"
+                                }
+                            ],
+                            "requiredWarranties": [
+                                "CAUCAO"
+                            ],
+                            "termsConditions": "https://banco.bradesco/html/classic/produtos-servicos/emprestimo-e-financiamento/index.shtm"
+                        }
+                    ]
+                },
+                {
+                    "name": "Banco Bradesco S.A - SP Diadema",
+                    "cnpjNumber": "60746948000112",
+                    "urlComplementaryList": "https://banco.bradesco/html/classic/produtos-servicos/index.shtm",
+                    "businessLoans": [
+                        {
+                            "type": "EMPRESTIMO_CHEQUE_ESPECIAL",
+                            "fees": {
+                                "services": [
+                                    {
+                                        "name": "Taxa de Cadastro",
+                                        "code": "CADASTRO",
+                                        "chargingTriggerInfo": "Taxa de Cadastro",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "500.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "500.00",
+                                            "currency": "BRL"
+                                        }
+                                    },
+                                    {
+                                        "name": "Taxa de Manutenção",
+                                        "code": "MANUTENCAO",
+                                        "chargingTriggerInfo": "Taxa de Manutenção",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "15.50",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "15.50",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "referentialRateIndexer": "FLUTUANTES_SELIC",
+                                    "rate": "0.03",
+                                    "applications": [
+                                        {
+                                            "interval": "1_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "2_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "3_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "4_FAIXA",
+                                            "indexer": {
+                                                "rate": "1.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "1.0000"
+                                            }
+                                        }
+                                    ],
+                                    "minimumRate": "0.0000",
+                                    "maximumRate": "1.0000"
+                                },
+                                {
+                                    "referentialRateIndexer": "FLUTUANTES_CDI",
+                                    "rate": "0.04",
+                                    "applications": [
+                                        {
+                                            "interval": "1_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "2_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "3_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "4_FAIXA",
+                                            "indexer": {
+                                                "rate": "1.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "1.0000"
+                                            }
+                                        }
+                                    ],
+                                    "minimumRate": "0.0000",
+                                    "maximumRate": "1.0000"
+                                }
+                            ],
+                            "requiredWarranties": [
+                                "ACORDOS_COMPENSACAO"
+                            ],
+                            "termsConditions": "https://banco.bradesco/html/classic/produtos-servicos/emprestimo-e-financiamento/index.shtm"
+                        }
+                    ]
+                },
+                {
+                    "name": "Banco Bradesco S.A - GO Rio Verde",
+                    "cnpjNumber": "60746948000112",
+                    "urlComplementaryList": "https://banco.bradesco/html/classic/produtos-servicos/index.shtm",
+                    "businessLoans": [
+                        {
+                            "type": "EMPRESTIMO_CAPITAL_GIRO_ROTATIVO",
+                            "fees": {
+                                "services": [
+                                    {
+                                        "name": "Taxa de Cadastro",
+                                        "code": "CADASTRO",
+                                        "chargingTriggerInfo": "Taxa de Cadastro",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "500.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "500.00",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "referentialRateIndexer": "POS_FIXADO_LIBOR",
+                                    "rate": "0.03",
+                                    "applications": [
+                                        {
+                                            "interval": "1_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "2_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "3_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "4_FAIXA",
+                                            "indexer": {
+                                                "rate": "1.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "1.0000"
+                                            }
+                                        }
+                                    ],
+                                    "minimumRate": "0.0000",
+                                    "maximumRate": "1.0000"
+                                }
+                            ],
+                            "requiredWarranties": [
+                                "CESSAO_DIREITOS_CREDITORIOS",
+                                "ALIENACAO_FIDUCIARIA"
+                            ],
+                            "termsConditions": "https://banco.bradesco/html/classic/produtos-servicos/emprestimo-e-financiamento/index.shtm"
+                        }
+                    ]
+                },
+                {
+                    "name": "Banco Bradesco S.A - PA Belem",
+                    "cnpjNumber": "60746948000112",
+                    "urlComplementaryList": "https://banco.bradesco/html/classic/produtos-servicos/index.shtm",
+                    "businessLoans": [
+                        {
+                            "type": "EMPRESTIMO_HOME_EQUITY",
+                            "fees": {
+                                "services": [
+                                    {
+                                        "name": "Taxa de Cadastro",
+                                        "code": "CADASTRO",
+                                        "chargingTriggerInfo": "Taxa de Cadastro",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "500.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "500.00",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "referentialRateIndexer": "PRE_FIXADO",
+                                    "rate": "0.03",
+                                    "applications": [
+                                        {
+                                            "interval": "1_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "2_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "3_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "4_FAIXA",
+                                            "indexer": {
+                                                "rate": "1.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "1.0000"
+                                            }
+                                        }
+                                    ],
+                                    "minimumRate": "0.0000",
+                                    "maximumRate": "1.0000"
+                                }
+                            ],
+                            "requiredWarranties": [
+                                "PENHOR"
+                            ],
+                            "termsConditions": "https://banco.bradesco/html/classic/produtos-servicos/emprestimo-e-financiamento/index.shtm"
+                        }
+                    ]
+                },
+                {
+                    "name": "Banco Bradesco S.A - MG Uberlandia",
+                    "cnpjNumber": "60746948000112",
+                    "urlComplementaryList": "https://banco.bradesco/html/classic/produtos-servicos/index.shtm",
+                    "businessLoans": [
+                        {
+                            "type": "EMPRESTIMO_CREDITO_PESSOAL_CONSIGNADO",
+                            "fees": {
+                                "services": [
+                                    {
+                                        "name": "Taxa de Cadastro",
+                                        "code": "CADASTRO",
+                                        "chargingTriggerInfo": "Taxa de Cadastro",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "500.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "500.00",
+                                            "currency": "BRL"
+                                        }
+                                    },
+                                    {
+                                        "name": "Taxa de Manutenção",
+                                        "code": "MANUTENCAO",
+                                        "chargingTriggerInfo": "Taxa de Manutenção",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "15.50",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "15.50",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "referentialRateIndexer": "POS_FIXADO_TJLP",
+                                    "rate": "0.03",
+                                    "applications": [
+                                        {
+                                            "interval": "1_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "2_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "3_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "4_FAIXA",
+                                            "indexer": {
+                                                "rate": "1.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "1.0000"
+                                            }
+                                        }
+                                    ],
+                                    "minimumRate": "0.0000",
+                                    "maximumRate": "1.0000"
+                                }
+                            ],
+                            "requiredWarranties": [
+                                "GARANTIAS_INTERNACIONAIS",
+                                "BENS_ARRENDADOS"
+                            ],
+                            "termsConditions": "https://banco.bradesco/html/classic/produtos-servicos/emprestimo-e-financiamento/index.shtm"
+                        }
+                    ]
+                },
+                {
+                    "name": "Banco Bradesco S.A - RJ São Gonçalo",
+                    "cnpjNumber": "60746948000112",
+                    "urlComplementaryList": "https://banco.bradesco/html/classic/produtos-servicos/index.shtm",
+                    "businessLoans": [
+                        {
+                            "type": "EMPRESTIMO_CHEQUE_ESPECIAL",
+                            "fees": {
+                                "services": [
+                                    {
+                                        "name": "Taxa de Cadastro",
+                                        "code": "CADASTRO",
+                                        "chargingTriggerInfo": "Taxa de Cadastro",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "500.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "500.00",
+                                            "currency": "BRL"
+                                        }
+                                    },
+                                    {
+                                        "name": "Taxa de Manutenção",
+                                        "code": "MANUTENCAO",
+                                        "chargingTriggerInfo": "Taxa de Manutenção",
+                                        "prices": [
+                                            {
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "2_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "3_FAIXA",
+                                                "value": "0.00",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                }
+                                            },
+                                            {
+                                                "interval": "4_FAIXA",
+                                                "value": "15.50",
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "1.0000"
+                                                }
+                                            }
+                                        ],
+                                        "minimum": {
+                                            "value": "0.00",
+                                            "currency": "BRL"
+                                        },
+                                        "maximum": {
+                                            "value": "15.50",
+                                            "currency": "BRL"
+                                        }
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "referentialRateIndexer": "FLUTUANTES_SELIC",
+                                    "rate": "0.03",
+                                    "applications": [
+                                        {
+                                            "interval": "1_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "2_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "3_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "4_FAIXA",
+                                            "indexer": {
+                                                "rate": "1.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "1.0000"
+                                            }
+                                        }
+                                    ],
+                                    "minimumRate": "0.0000",
+                                    "maximumRate": "1.0000"
+                                },
+                                {
+                                    "referentialRateIndexer": "FLUTUANTES_CDI",
+                                    "rate": "0.04",
+                                    "applications": [
+                                        {
+                                            "interval": "1_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "2_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "3_FAIXA",
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "0.0000"
+                                            }
+                                        },
+                                        {
+                                            "interval": "4_FAIXA",
+                                            "indexer": {
+                                                "rate": "1.0000"
+                                            },
+                                            "customers": {
+                                                "rate": "1.0000"
+                                            }
+                                        }
+                                    ],
+                                    "minimumRate": "0.0000",
+                                    "maximumRate": "1.0000"
+                                }
+                            ],
+                            "requiredWarranties": [
+                                "ACORDOS_COMPENSACAO"
+                            ],
+                            "termsConditions": "https://banco.bradesco/html/classic/produtos-servicos/emprestimo-e-financiamento/index.shtm"
+                        }
+                    ]
                 }
             ]
         }
     },
     "links": {
-        "first": "https://api.bradesco.com/open-banking/products-services/v1/business-loans?page=1&page-size=1",
-        "prev": "https://api.bradesco.com/open-banking/products-services/v1/business-loans?page=407&page-size=1",
-        "self": "https://api.bradesco.com/open-banking/products-services/v1/business-loans?page=408&page-size=1",
-        "next": "https://api.bradesco.com/open-banking/products-services/v1/business-loans?page=409&page-size=1",
-        "last": "https://api.bradesco.com/open-banking/products-services/v1/business-loans?page=9843&page-size=1"
+        "first": "https://api.bradesco.com/bradesco/open-banking/products-services/v1/business-loans?page=1&page-size=10",
+        "prev": "https://api.bradesco.com/bradesco/open-banking/products-services/v1/business-loans?page=325&page-size=10",
+        "self": "https://api.bradesco.com/bradesco/open-banking/products-services/v1/business-loans?page=326&page-size=10",
+        "next": "https://api.bradesco.com/bradesco/open-banking/products-services/v1/business-loans?page=327&page-size=10",
+        "last": "https://api.bradesco.com/bradesco/open-banking/products-services/v1/business-loans?page=984&page-size=10"
     },
     "meta": {
         "totalRecords": 9843,
-        "totalPages": 9843
+        "totalPages": 984
     }
 }
