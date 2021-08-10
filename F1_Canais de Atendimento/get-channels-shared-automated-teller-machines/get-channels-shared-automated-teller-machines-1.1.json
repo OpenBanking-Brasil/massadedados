@@ -1,0 +1,174 @@
+{
+    "data": {
+        "brand": {
+            "name": "Banco do Brasil S.A",
+            "companies": [
+                {
+                    "name": "Agencia Paraná do Banco do Brasil",
+                    "cnpjNumber": "00000000397210",
+                    "urlComplementaryList": "https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/contas/todos-os-servicos/banco24horas#/",
+                    "sharedAutomatedTellerMachines": [
+                        {
+                            "identification": {
+                                "ownerName": "Banco24Horas"
+                            },
+                            "postalAddress": {
+                                "address": "Av. Paraná, 1600",
+                                "districtName": "Zona 7",
+                                "townName": "Maringá",
+                                "countrySubDivision": "PR",
+                                "postCode": "87020085",
+                                "country": "Brasil",
+                                "countryCode": "BRA"
+                            },
+                            "availability": {
+                                "standards": [
+                                    {
+                                        "weekday": "SEGUNDA_FEIRA",
+                                        "openingTime": "09:00:00",
+                                        "closingTime": "23:00:00"
+                                    },
+                                    {
+                                        "weekday": "TERCA_FEIRA",
+                                        "openingTime": "09:00:00",
+                                        "closingTime": "23:00:00"
+                                    },
+                                    {
+                                        "weekday": "QUARTA_FEIRA",
+                                        "openingTime": "09:00:00",
+                                        "closingTime": "23:00:00"
+                                    },
+                                    {
+                                        "weekday": "QUINTA_FEIRA",
+                                        "openingTime": "09:00:00",
+                                        "closingTime": "23:00:00"
+                                    },
+                                    {
+                                        "weekday": "SEXTA_FEIRA",
+                                        "openingTime": "09:00:00",
+                                        "closingTime": "23:00:00"
+                                    },
+                                    {
+                                        "weekday": "SABADO",
+                                        "openingTime": "09:00:00",
+                                        "closingTime": "23:00:00"
+                                    }
+                                ]
+                            },
+                            "services": [
+                                {
+                                    "name": "SAQUE_MOEDA_EM_ESPECIE",
+                                    "code": "SAQUE_MOEDA_ESPECIE"
+                                },
+                                {
+                                    "name": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_E_CONTAS",
+                                    "code": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS"
+                                },
+                                {
+                                    "name": "PAGAMENTOS",
+                                    "code": "PAGAMENTOS"
+                                },
+                                {
+                                    "name": "TRANSFERENCIAS_ELETRONICAS_VISANDO_MOVIMENTACAO",
+                                    "code": "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGA_TITULARES_CLIENTES"
+                                },
+                                {
+                                    "name": "OUTROS_PRODUTOS_SERVICOS",
+                                    "code": "OUTROS_PRODUTOS_SERVICOS",
+                                    "additionalInfo": "Serviços complementares de atendimento via terminais de autoatendimento."
+                                }
+                            ]
+                        },
+                        {
+                            "identification": {
+                                "ownerName": "Banco24Horas"
+                            },
+                            "postalAddress": {
+                                "address": "Av. Tuiuti, 1672",
+                                "districtName": "Vila Morangueira",
+                                "townName": "Maringá",
+                                "countrySubDivision": "PR",
+                                "postCode": "87040360",
+                                "country": "Brasil",
+                                "countryCode": "BRA"
+                            },
+                            "availability": {
+                                "standards": [
+                                    {
+                                        "weekday": "SEGUNDA_FEIRA",
+                                        "openingTime": "08:30:00",
+                                        "closingTime": "22:00:00"
+                                    },
+                                    {
+                                        "weekday": "TERCA_FEIRA",
+                                        "openingTime": "08:30:00",
+                                        "closingTime": "22:00:00"
+                                    },
+                                    {
+                                        "weekday": "QUARTA_FEIRA",
+                                        "openingTime": "08:30:00",
+                                        "closingTime": "22:00:00"
+                                    },
+                                    {
+                                        "weekday": "QUINTA_FEIRA",
+                                        "openingTime": "08:30:00",
+                                        "closingTime": "22:00:00"
+                                    },
+                                    {
+                                        "weekday": "SEXTA_FEIRA",
+                                        "openingTime": "08:30:00",
+                                        "closingTime": "22:00:00"
+                                    },
+                                    {
+                                        "weekday": "SABADO",
+                                        "openingTime": "08:30:00",
+                                        "closingTime": "22:00:00"
+                                    },
+                                    {
+                                        "weekday": "DOMINGO",
+                                        "openingTime": "08:00:00",
+                                        "closingTime": "20:00:00"
+                                    }
+                                ]
+                            },
+                            "services": [
+                                {
+                                    "name": "SAQUE_MOEDA_EM_ESPECIE",
+                                    "code": "SAQUE_MOEDA_ESPECIE"
+                                },
+                                {
+                                    "name": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_E_CONTAS",
+                                    "code": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS"
+                                },
+                                {
+                                    "name": "PAGAMENTOS",
+                                    "code": "PAGAMENTOS"
+                                },
+                                {
+                                    "name": "TRANSFERENCIAS_ELETRONICAS_VISANDO_MOVIMENTACAO",
+                                    "code": "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGA_TITULARES_CLIENTES"
+                                },
+                                {
+                                    "name": "OUTROS_PRODUTOS_SERVICOS",
+                                    "code": "OUTROS_PRODUTOS_SERVICOS",
+                                    "additionalInfo": "Serviços complementares de atendimento via terminais de autoatendimento."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "links": {
+        "self": "https://opendata.api.bb.com.br/open-banking/channels/v1/shared-automated-teller-machines?page=32110&page-size=1",
+        "first": "https://opendata.api.bb.com.br/open-banking/channels/v1/shared-automated-teller-machines?page=1&page-size=1",
+        "prev": "https://opendata.api.bb.com.br/open-banking/channels/v1/shared-automated-teller-machines?page=32109&page-size=1",
+        "next": "https://opendata.api.bb.com.br/open-banking/channels/v1/shared-automated-teller-machines?page=32111&page-size=1",
+        "last": "https://opendata.api.bb.com.br/open-banking/channels/v1/shared-automated-teller-machines?page=56722&page-size=1"
+    },
+    "meta": {
+        "totalRecords": 56722,
+        "totalPages": 56722
+    }
+}

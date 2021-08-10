@@ -1,0 +1,252 @@
+{
+    "data": {
+        "brand": {
+            "name": "Banco do Brasil S.A",
+            "companies": [
+                {
+                    "name": "Banco do Brasil S.A",
+                    "cnpjNumber": "00000000000191",
+                    "contractors": [
+                        {
+                            "name": "Lotericas Maringa ZONA 06",
+                            "cnpjNumber": "79626682000100",
+                            "bankingAgents": [
+                                {
+                                    "identification": {
+                                        "corporationName": "Carreira Loterias LTDA",
+                                        "groupName": "Loterica Trevo de Ouro",
+                                        "cnpjNumber": "13533325000181",
+                                        "isUnderestablishment": false
+                                    },
+                                    "locations": [
+                                        {
+                                            "postalAddress": {
+                                                "address": "Avenida Alziro Zarur, 1670",
+                                                "districtName": "ZONA 06",
+                                                "townName": "Maringá",
+                                                "countrySubDivision": "PR",
+                                                "postCode": "87075000",
+                                                "country": "Brasil",
+                                                "countryCode": "BRA"
+                                            },
+                                            "phones": [
+                                                {
+                                                    "type": "FIXO",
+                                                    "countryCallingCode": "55",
+                                                    "areaCode": "44",
+                                                    "number": "32624961"
+                                                }
+                                            ],
+                                            "availability": {
+                                                "standards": [
+                                                    {
+                                                        "weekday": "SEGUNDA_FEIRA",
+                                                        "openingTime": "08:00:00Z",
+                                                        "closingTime": "19:00:00Z"
+                                                    },
+                                                    {
+                                                        "weekday": "TERCA_FEIRA",
+                                                        "openingTime": "08:00:00Z",
+                                                        "closingTime": "19:00:00Z"
+                                                    },
+                                                    {
+                                                        "weekday": "QUARTA_FEIRA",
+                                                        "openingTime": "08:00:00Z",
+                                                        "closingTime": "19:00:00Z"
+                                                    },
+                                                    {
+                                                        "weekday": "QUINTA_FEIRA",
+                                                        "openingTime": "08:00:00Z",
+                                                        "closingTime": "19:00:00Z"
+                                                    },
+                                                    {
+                                                        "weekday": "SEXTA_FEIRA",
+                                                        "openingTime": "08:00:00Z",
+                                                        "closingTime": "19:00:00Z"
+                                                    },
+                                                    {
+                                                        "weekday": "SABADO",
+                                                        "openingTime": "08:00:00Z",
+                                                        "closingTime": "18:00:00Z"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    ],
+                                    "services": [
+                                        {
+                                            "name": "REALIZACAO_RECEBIMENTOS_PAGAMENTOS_TRANSFERENCIAS_ELETRONICAS_VISANDO_MOVIMENTACAO_CONTAS_DEPOSITOS_TITULARIDADE_CLIENTES_MANTIDAS_INSTITUICAO_CONTRATANTE",
+                                            "code": "REALIZA_RECEBIMENTOS_PAGAMENTOS_TRANSFERENCIAS_ELETRONICAS"
+                                        },
+                                        {
+                                            "name": "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_CURSADAS_INTERMEDIO_INSTITUICAO_CONTRATANTE_SOLICITACAO_CLIENTES_USUARIOS",
+                                            "code": "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Lotericas Maringa ZONA 7",
+                            "cnpjNumber": "79753442000169",
+                            "bankingAgents": [ 
+                                {
+                                    "identification": {
+                                        "corporationName": "Loterica Center Loterica LTDA",
+                                        "groupName": "Center Loterica",
+                                        "cnpjNumber": "02373284000197",
+                                        "isUnderestablishment": false
+                                    },
+                                    "locations": [
+                                        {
+                                            "postalAddress": {
+                                                "address": "Av. Sao Paulo, 1033",
+                                                "districtName": "Zona 7",
+                                                "townName": "Maringá",
+                                                "countrySubDivision": "PR",
+                                                "postCode": "87013040",
+                                                "country": "Brasil",
+                                                "countryCode": "BRA"
+                                            },
+                                            "phones": [
+                                                {
+                                                    "type": "FIXO",
+                                                    "countryCallingCode": "55",
+                                                    "areaCode": "44",
+                                                    "number": "30253278"
+                                                }
+                                            ],
+                                            "availability": {
+                                                "standards": [
+                                                    {
+                                                        "weekday": "SEGUNDA_FEIRA",
+                                                        "openingTime": "09:00:00Z",
+                                                        "closingTime": "19:00:00Z"
+                                                    },
+                                                    {
+                                                        "weekday": "TERCA_FEIRA",
+                                                        "openingTime": "09:00:00Z",
+                                                        "closingTime": "19:00:00Z"
+                                                    },
+                                                    {
+                                                        "weekday": "QUARTA_FEIRA",
+                                                        "openingTime": "09:00:00Z",
+                                                        "closingTime": "19:00:00Z"
+                                                    },
+                                                    {
+                                                        "weekday": "QUINTA_FEIRA",
+                                                        "openingTime": "09:00:00Z",
+                                                        "closingTime": "19:00:00Z"
+                                                    },
+                                                    {
+                                                        "weekday": "SEXTA_FEIRA",
+                                                        "openingTime": "09:00:00Z",
+                                                        "closingTime": "19:00:00Z"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    ],
+                                    "services": [
+                                        {
+                                            "name": "REALIZACAO_RECEBIMENTOS_PAGAMENTOS_TRANSFERENCIAS_ELETRONICAS_VISANDO_MOVIMENTACAO_CONTAS_DEPOSITOS_TITULARIDADE_CLIENTES_MANTIDAS_INSTITUICAO_CONTRATANTE",
+                                            "code": "REALIZA_RECEBIMENTOS_PAGAMENTOS_TRANSFERENCIAS_ELETRONICAS"
+                                        },
+                                        {
+                                            "name": "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_CURSADAS_INTERMEDIO_INSTITUICAO_CONTRATANTE_SOLICITACAO_CLIENTES_USUARIOS",
+                                            "code": "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "identification": {
+                                        "corporationName": "Reis Jogos E Loterias Ltda",
+                                        "groupName": "Loterica Norte Do Parana",
+                                        "cnpjNumber": "79634044000123",
+                                        "isUnderestablishment": false
+                                    },
+                                    "locations": [
+                                        {
+                                            "postalAddress": {
+                                                "address": "Av.Paraná, 1370",
+                                                "districtName": "Zona 7",
+                                                "townName": "Maringá",
+                                                "countrySubDivision": "PR",
+                                                "postCode": "87020085",
+                                                "country": "Brasil",
+                                                "countryCode": "BRA"
+                                            },
+                                            "phones": [
+                                                {
+                                                    "type": "FIXO",
+                                                    "countryCallingCode": "55",
+                                                    "areaCode": "44",
+                                                    "number": "32623496"
+                                                }
+                                            ],
+                                            "availability": {
+                                                "standards": [
+                                                    {
+                                                        "weekday": "SEGUNDA_FEIRA",
+                                                        "openingTime": "08:30:00Z",
+                                                        "closingTime": "18:00:00Z"
+                                                    },
+                                                    {
+                                                        "weekday": "TERCA_FEIRA",
+                                                        "openingTime": "08:30:00Z",
+                                                        "closingTime": "18:00:00Z"
+                                                    },
+                                                    {
+                                                        "weekday": "QUARTA_FEIRA",
+                                                        "openingTime": "08:30:00Z",
+                                                        "closingTime": "18:00:00Z"
+                                                    },
+                                                    {
+                                                        "weekday": "QUINTA_FEIRA",
+                                                        "openingTime": "08:30:00Z",
+                                                        "closingTime": "18:00:00Z"
+                                                    },
+                                                    {
+                                                        "weekday": "SEXTA_FEIRA",
+                                                        "openingTime": "08:30:00Z",
+                                                        "closingTime": "18:00:00Z"
+                                                    },
+                                                    {
+                                                        "weekday": "SABADO",
+                                                        "openingTime": "08:00:00Z",
+                                                        "closingTime": "13:00:00Z"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    ],
+                                    "services": [
+                                        {
+                                            "name": "REALIZACAO_RECEBIMENTOS_PAGAMENTOS_TRANSFERENCIAS_ELETRONICAS_VISANDO_MOVIMENTACAO_CONTAS_DEPOSITOS_TITULARIDADE_CLIENTES_MANTIDAS_INSTITUICAO_CONTRATANTE",
+                                            "code": "REALIZA_RECEBIMENTOS_PAGAMENTOS_TRANSFERENCIAS_ELETRONICAS"
+                                        },
+                                        {
+                                            "name": "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_CURSADAS_INTERMEDIO_INSTITUICAO_CONTRATANTE_SOLICITACAO_CLIENTES_USUARIOS",
+                                            "code": "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "links": {
+            "self": "https://opendata.api.bb.com.br/open-banking/channels/v1/banking-agents?page=1521&page-size=2",
+            "first": "https://opendata.api.bb.com.br/open-banking/channels/v1/banking-agents?page=1&page-size=2",
+            "prev": "https://opendata.api.bb.com.br/open-banking/channels/v1/banking-agents?page=1520&page-size=2",
+            "next": "https://opendata.api.bb.com.br/open-banking/channels/v1/banking-agents?page=1522&page-size=2",
+            "last": "https://opendata.api.bb.com.br/open-banking/channels/v1/banking-agents?page=6874&page-size=2"
+        },
+        "meta": {
+            "totalRecords": 13748,
+            "totalPages": 6874
+        }
+    }
+}

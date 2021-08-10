@@ -1,0 +1,166 @@
+{
+    "data": {
+        "brand": {
+            "name": "Banco do Estado do Rio Grande do Sul S.A",
+            "companies": [
+                {
+                    "name": "Empresa A1",
+                    "cnpjNumber": "92702067000196",
+                    "urlComplementaryList": "https://www.banrisul.com.br/bob/link/bobw00hn_promocao.aspx?secao_id=1617&Campo=9524&secao_principal=2",
+                    "phoneChannels": [
+                        {
+                            "identification": {
+                                "type": "SAC",
+                                "phones": [
+                                    {
+                                        "countryCallingCode": "55",
+                                        "areaCode": "NA",
+                                        "number": "08006461515",
+                                        "additionalInfo": "Bloqueios e cancelamentos"
+                                    },
+                                    {
+                                        "countryCallingCode": "55",
+                                        "areaCode": "NA",
+                                        "number": "08006481907",
+                                        "additionalInfo": "Atendimento para deficientes auditivos e/ou de fala."
+                                    }
+                                ]
+                            },
+                            "services": [
+                                {
+                                    "name": "RECLAMACOES",
+                                    "code": "RECLAMACOES"
+                                },
+                                {
+                                    "name": "CANCELAMENTO",
+                                    "code": "CANCELAMENTO"
+                                },
+                                {
+                                    "name": "INFORMACOES",
+                                    "code": "INFORMACOES"
+                                }
+                            ]
+                        },
+                        {
+                            "identification": {
+                                "type": "OUVIDORIA",
+                                "phones": [
+                                    {
+                                        "countryCallingCode": "55",
+                                        "areaCode": "NA",
+                                        "number": "08006442200",
+                                        "additionalInfo": "NA"
+                                    },
+                                    {
+                                        "countryCallingCode": "55",
+                                        "areaCode": "51",
+                                        "number": "32151068",
+                                        "additionalInfo": "Atendimento ao deficiente auditivo e/ou de fala"
+                                    }
+                                ]
+                            },
+                            "services": [
+                                {
+                                    "name": "RECLAMACOES",
+                                    "code": "RECLAMACOES"
+                                }
+                            ]
+                        },
+                        {
+                            "identification": {
+                                "type": "OUTROS",
+                                "additionalInfo": "Banrifone - O Banrisul por telefone",
+                                "phones": [
+                                    {
+                                        "countryCallingCode": "55",
+                                        "areaCode": "51",
+                                        "number": "32100122",
+                                        "additionalInfo": "Região de Porto Alegre"
+                                    },
+                                    {
+                                        "countryCallingCode": "55",
+                                        "areaCode": "NA",
+                                        "number": "08005418855",
+                                        "additionalInfo": "Interior do Rio Grande do Sul"
+                                    },
+                                    {
+                                        "countryCallingCode": "55",
+                                        "areaCode": "NA",
+                                        "number": "08005418855",
+                                        "additionalInfo": "Fora do Estado do Rio Grande do Sul"
+                                    }
+                                ]
+                            },
+                            "services": [
+                                {
+                                    "name": "TRANSFERENCIAS_ELETRONICAS_VISANDO_MOVIMENTACAO_CONTAS_DEPOSITOS_OU_PAGAMENTO_TITULARIDADE_CLIENTES",
+                                    "code": "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES"
+                                },
+                                {
+                                    "name": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+                                    "code": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_PAGTOS"
+                                },
+                                {
+                                    "name": "CARTAO_CREDITO",
+                                    "code": "CARTAO_CREDITO"
+                                },
+                                {
+                                    "name": "INFORMACOES",
+                                    "code": "INFORMACOES"
+                                },
+                                {
+                                    "name": "RECLAMACOES",
+                                    "code": "RECLAMACOES"
+                                },
+                                {
+                                    "name": "CANCELAMENTO",
+                                    "code": "CANCELAMENTO"
+                                }
+                            ]
+                        },
+                        {
+                            "identification": {
+                                "type": "OUTROS",
+                                "additionalInfo": "Whatsapp",
+                                "phones": [
+                                    {
+                                        "countryCallingCode": "55",
+                                        "areaCode": "51",
+                                        "number": "32151800",
+                                        "additionalInfo": "Canal Oficial do Banrisul por Whatsapp"
+                                    }
+                                ]
+                            },
+                            "services": [
+                                {
+                                    "name": "INFORMACOES",
+                                    "code": "INFORMACOES"
+                                },
+                                {
+                                    "name": "RECLAMACOES",
+                                    "code": "RECLAMACOES"
+                                },
+                                {
+                                    "name": "OUTROS_PRODUTOS_SERVICOS",
+                                    "code": "OUTROS_PRODUTOS_SERVICOS",
+                                    "additionalInfo": "Consórcio, Suporte às maquininhas Vero"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "links": {
+        "first": "https://openbanking.banrisul.com.br/open-banking/channels/v1/phone-channels?page=1&page-size=4",
+        "prev": "https://openbanking.banrisul.com.br/open-banking/channels/v1/phone-channels?page=29&page-size=4",
+        "self": "https://openbanking.banrisul.com.br/open-banking/channels/v1/phone-channels?page=30&page-size=4",
+        "next": "https://openbanking.banrisul.com.br/open-banking/channels/v1/phone-channels?page=31&page-size=4",
+        "last": "https://openbanking.banrisul.com.br/open-banking/channels/v1/phone-channels?page=107&page-size=4"
+    },
+    "meta": {
+        "totalRecords": 428,
+        "totalPages": 107
+    }
+}
