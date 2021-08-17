@@ -35,7 +35,7 @@
           }
         },
         "links": {
-          "self": "https://itau.com.br/open-banking/payments/v1/consents/urn:itau:ITU728165342"
+          "self": "https://api.itau/open-banking/payments/v1/consents/urn:itau:ITU728165342"
         },
         "meta": {
           "totalRecords": 1,

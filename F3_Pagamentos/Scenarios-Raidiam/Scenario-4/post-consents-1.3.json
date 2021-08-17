@@ -2,9 +2,9 @@
     "data": {
       "consentId": "urn:bradesco:BDC764377432",
       "creationDateTime": "2021-07-13T12:46:00Z",
-      "expirationDateTime": "2021-07-13T13:51:00Z",
-      "statusUpdateDateTime": "2021-07-13T13:51:00Z",
-      "status": "AUTHORISED",
+      "expirationDateTime": "2021-07-13T13:46:00Z",
+      "statusUpdateDateTime": "2021-07-13T13:46:00Z",
+      "status": "REJECTED",
       "loggedUser": {
         "document": {
           "identification": "26640064367",
@@ -30,11 +30,11 @@
       }
     },
     "links": {
-      "self": "https://banco.bradesco/open-banking/payments/v1/consents/urn:bradesco:BDC764377432"
+      "self": "https://api.bradesco.com/open-banking/payments/v1/consents/urn:bradesco:BDC764377432"
     },
     "meta": {
       "totalRecords": 1,
       "totalPages": 1,
-      "requestDateTime": "2021-07-13T13:51:00Z"
+      "requestDateTime": "2021-07-13T13:46:00Z"
     }
   }

@@ -1,9 +1,9 @@
 {
   "data": {
-    "consentId": "urn:itau:ITU100698719",
-    "creationDateTime": "2021-07-12T14:22:00Z",
-    "expirationDateTime": "2021-07-12T14:27:00Z",
-    "statusUpdateDateTime": "2021-07-12T14:27:00Z",
+    "consentId": "urn:itau:ITU291253497",
+    "creationDateTime": "2021-07-13T16:55:00Z",
+    "expirationDateTime": "2021-07-13T17:00:00Z",
+    "statusUpdateDateTime": "2021-07-13T16:58:00Z",
     "status": "CONSUMED",
     "loggedUser": {
       "document": {
@@ -26,7 +26,7 @@
       "type": "PIX",
       "date": "2021-07-20",
       "currency": "BRL",
-      "amount": "22.95",
+      "amount": "1234.77"
     },
     "debtorAccount": {
       "ispb": "60746948",
@@ -36,11 +36,11 @@
     }
   },
   "links": {
-    "self": "https://itau.com.br/open-banking/payments/v1/consents/urn:itau:ITU100648719"
+    "self": "https://api.itau/open-banking/payments/v1/consents/urn:itau:ITU291253497"
   },
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2021-07-13T18:22:00Z"
+    "requestDateTime": "2021-07-13T16:58:00Z"
   }
 }

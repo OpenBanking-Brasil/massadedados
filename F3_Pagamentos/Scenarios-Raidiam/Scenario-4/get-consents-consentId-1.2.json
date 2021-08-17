@@ -4,7 +4,7 @@
       "creationDateTime": "2021-07-12T14:22:00Z",
       "expirationDateTime": "2021-07-12T14:27:00Z",
       "statusUpdateDateTime": "2021-07-12T14:27:00Z",
-      "status": "CONSUMED",
+      "status": "REJECTED",
       "loggedUser": {
         "document": {
           "identification": "26640064367",
@@ -36,11 +36,11 @@
       }
     },
     "links": {
-      "self": "https://itau.com.br/open-banking/payments/v1/consents/urn:itau:ITU100648719"
+      "self": "https://api.itau/open-banking/payments/v1/consents/urn:itau:ITU100648719"
     },
     "meta": {
       "totalRecords": 1,
       "totalPages": 1,
-      "requestDateTime": "2021-07-13T18:22:00Z"
+      "requestDateTime": "2021-07-12T14:28:00Z"
     }
   }

@@ -4,7 +4,7 @@
     "creationDateTime": "2021-07-20T08:35:00Z",
     "expirationDateTime": "2021-07-20T08:40:00Z",
     "statusUpdateDateTime": "2021-07-20T08:38:00Z",
-    "status": "CONSUMED",
+    "status": "AWAITING_AUTHORISATION",
     "loggedUser": {
       "document": {
         "identification": "26640064367",
@@ -36,7 +36,7 @@
     }
   },
   "links": {
-    "self": "https://itau.com.br/open-banking/payments/v1/consents"
+    "self": "https://api.itau/open-banking/payments/v1/consents/urn:itau:ITU728165342"
   },
   "meta": {
     "totalRecords": 1,
