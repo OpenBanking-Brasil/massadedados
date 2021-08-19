@@ -1,0 +1,46 @@
+{
+  "data": {
+    "consentId": "urn:bb:BB675478642",
+    "creationDateTime": "2021-08-03T16:05:00Z",
+    "expirationDateTime": "2021-08-03T16:10:00Z",
+    "statusUpdateDateTime": "2021-08-03T16:06:00Z",
+    "status": "CONSUMED",
+    "loggedUser": {
+      "document": {
+        "identification": "51407217089",
+        "rel": "CPF"
+      }
+    },
+    "businessEntity": {
+      "document": {
+        "identification": "75747327000120",
+        "rel": "CNPJ"
+      }
+    },
+    "creditor": {
+      "personType": "PESSOA_NATURAL",
+      "cpfCnpj": "79619144554",
+      "name": "Fátima Antônia Silveira"
+    },
+    "payment": {
+      "type": "PIX",
+      "date": "2021-08-03",
+      "currency": "BRL",
+      "amount": "225.99"
+    },
+    "debtorAccount": {
+      "ispb": "00000000",
+      "issuer": "1820",
+      "number": "11301503",
+      "accountType": "CACC"
+    }
+  },
+  "links": {
+    "self": "https://opendata.api.bb.com.br/open-banking/payments/v1/consents/urn:bb:BB675478642"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-08-03T16:06:00Z"
+  }
+}

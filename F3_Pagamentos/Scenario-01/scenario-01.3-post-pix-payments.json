@@ -1,0 +1,31 @@
+{
+  "data": {
+    "paymentId": "TXQ8PBchIJ33sGUXGoaootey794kUdu",
+    "endToEndId": "E60701190202108031607W1DqzAxcBkK",
+    "consentId": "urn:itau:ITU728165342",
+    "creationDateTime": "2021-08-03T16:07:00Z",
+    "statusUpdateDateTime": "2021-08-03T16:09:00Z",
+    "status": "ACCC",
+    "cnpjInitiator": "19468242000132",
+    "localInstrument": "DICT",
+    "payment": {
+      "amount": "225.99",
+      "currency": "BRL"
+    },
+    "remittanceInformation": "Pagamento da nota ABT-76542.",
+    "creditorAccount": {
+      "ispb": "60701190",
+      "issuer": "8265",
+      "number": "235294",
+      "accountType": "SLRY"
+    }
+  },
+  "links": {
+    "self": "https://api.itau/open-banking/payments/v1/pix/payments/TXpDFR7UCPRDMhhAB3zDU5FGfsPFSNi"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-08-03T16:10:00Z"
+  }
+}
