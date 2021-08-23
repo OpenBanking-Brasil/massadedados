@@ -2,7 +2,7 @@
   "data": {
     "consentId": "urn:bb:BB675478642",
     "creationDateTime": "2021-08-03T16:05:00Z",
-    "expirationDateTime": "2021-08-03T16:10:00Z",
+    "expirationDateTime": "2021-08-03T17:05:00Z",
     "statusUpdateDateTime": "2021-08-03T16:06:00Z",
     "status": "CONSUMED",
     "loggedUser": {
@@ -41,7 +41,6 @@
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2021-08-03T16:07:00Z"
+    "requestDateTime": "2021-08-03T16:06:00Z"
   }
-}
 }

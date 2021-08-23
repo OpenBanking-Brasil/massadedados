@@ -2,7 +2,7 @@
    "data":{
       "consentId":"urn:bb:BB606330599",
       "creationDateTime":"2021-07-13T10:33:00Z",
-      "expirationDateTime":"2021-07-13T10:38:00Z",
+      "expirationDateTime":"2021-07-13T11:33:00Z",
       "statusUpdateDateTime":"2021-07-13T10:36:00Z",
       "status":"CONSUMED",
       "loggedUser":{

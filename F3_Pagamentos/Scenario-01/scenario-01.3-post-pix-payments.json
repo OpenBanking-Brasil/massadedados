@@ -5,6 +5,7 @@
     "consentId": "urn:itau:ITU728165342",
     "creationDateTime": "2021-08-03T16:07:00Z",
     "statusUpdateDateTime": "2021-08-03T16:09:00Z",
+    "proxy":"fatinha1989@hotmail.com",
     "status": "ACCC",
     "cnpjInitiator": "19468242000132",
     "localInstrument": "DICT",

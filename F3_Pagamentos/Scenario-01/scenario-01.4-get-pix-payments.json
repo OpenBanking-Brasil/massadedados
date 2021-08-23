@@ -1,23 +1,24 @@
 {
   "data": {
-    "paymentId": "TXpDFR7UCPRDMhhAB3zDU5FGfsPFSNi",
-    "endToEndId": "E8304575207204095462844366461467",
+    "paymentId": "TXQ8PBchIJ33sGUXGoaootey794kUdu",
+    "endToEndId": "E60701190202108031607W1DqzAxcBkK",
     "consentId": "urn:itau:ITU728165342",
-    "creationDateTime": "2021-07-20T08:55:00Z",
-    "statusUpdateDateTime": "2021-07-20T09:05:00Z",
+    "creationDateTime": "2021-08-03T16:07:00Z",
+    "statusUpdateDateTime": "2021-08-03T16:09:00Z",
+    "proxy":"fatinha1989@hotmail.com",
     "status": "ACCC",
-    "cnpjInitiator": "10573521000191",
-    "localInstrument": "MANU",
+    "cnpjInitiator": "19468242000132",
+    "localInstrument": "DICT",
     "payment": {
-      "amount": "786.12",
+      "amount": "225.99",
       "currency": "BRL"
     },
-    "remittanceInformation": "Pagamento da nota PTA-90876.",
+    "remittanceInformation": "Pagamento da nota ABT-76542.",
     "creditorAccount": {
-      "ispb": "90400888",
-      "issuer": "0769",
-      "number": "453405632",
-      "accountType": "CACC"
+      "ispb": "60701190",
+      "issuer": "8265",
+      "number": "235294",
+      "accountType": "SLRY"
     }
   },
   "links": {
@@ -26,6 +27,6 @@
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2021-07-20T09:07:00Z"
+    "requestDateTime": "2021-08-03T16:12:00Z"
   }
 }
