@@ -35,7 +35,7 @@
          "accountType":"SVGS"
       },
       "links":{
-         "self":"https://opendata.api.bb.com.br/open-banking/payments/v1/consents/urn:caixaeconomica:CEF23082129"
+         "self":"https://api.caixa.gov.br/open-banking/payments/v1/consents/urn:caixaeconomica:CEF23082129"
       },
       "meta":{
          "totalRecords":1,

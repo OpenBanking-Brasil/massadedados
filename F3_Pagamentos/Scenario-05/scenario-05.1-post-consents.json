@@ -35,7 +35,7 @@
          "accountType":"CACC"
       },
       "links":{
-         "self":"https://opendata.api.bb.com.br/open-banking/payments/v1/consents/urn:itau:ITU230821163"
+         "self":"https://api.itau/open-banking/payments/v1/consents/urn:itau:ITU230821163"
       },
       "meta":{
          "totalRecords":1,

@@ -21,7 +21,7 @@
     }
   },
   "links": {
-    "self": "https://opendata.api.bb.com.br/open-banking/payments/v1/pix/payments/Aa1E50956CC47CDB65CCD4788E16498"
+    "self": "https://api.itau/open-banking/payments/v1/pix/payments/Aa1E50956CC47CDB65CCD4788E16498"
   },
   "meta": {
     "totalRecords": 1,
