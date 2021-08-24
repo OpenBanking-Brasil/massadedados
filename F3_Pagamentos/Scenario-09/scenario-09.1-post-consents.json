@@ -1,0 +1,46 @@
+{
+  "data": {
+    "consentId": "urn:itau:ITU748487277",
+    "creationDateTime": "2021-08-16T19:21:00Z",
+    "expirationDateTime": "2021-08-16T20:21:00Z",
+    "statusUpdateDateTime": "2021-08-16T19:24:00Z",
+    "status": "CONSUMED",
+    "loggedUser": {
+      "document": {
+        "identification": "07983861001",
+        "rel": "CPF"
+      }
+    },
+    "businessEntity": {
+      "document": {
+        "identification": "65950257000150",
+        "rel": "CNPJ"
+      }
+    },
+    "creditor": {
+      "personType": "PESSOA_NATURAL",
+      "cpfCnpj": "29894140530",
+      "name": "Fernando Cauê Murilo Fogaça"
+    },
+    "payment": {
+      "type": "PIX",
+      "date": "2021-08-16",
+      "currency": "BRL",
+      "amount": "8722.00"
+    },
+    "debtorAccount": {
+      "ispb": "60701190",
+      "issuer": "8474",
+      "number": "188391",
+      "accountType": "SVGS"
+    }
+  },
+  "links": {
+    "self": "https://api.itau/open-banking/payments/v1/consents/urn:itau:ITU748487277"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-08-16T19:24:00Z"
+  }
+}

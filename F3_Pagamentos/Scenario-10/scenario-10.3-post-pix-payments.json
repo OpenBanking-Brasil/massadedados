@@ -1,0 +1,31 @@
+{
+  "data": {
+    "paymentId": "TXmXwRHSZCpQDOXQA4fSPYs4gFQCYtP",
+    "endToEndId": "E60701190202108102213EKb4pRnHwH6",
+    "consentId": "urn:mercadopago:MPG536369326",
+    "creationDateTime": "2021-08-10T22:13:00Z",
+    "statusUpdateDateTime": "2021-08-10T22:15:00Z",
+    "status": "ACCC",
+    "cnpjInitiator": "19468242000132",
+    "localInstrument": "MANU",
+    "payment": {
+      "amount": "675.05",
+      "currency": "BRL"
+    },
+    "remittanceInformation": "Compra de tecido e aviamentos.",
+    "creditorAccount": {
+      "ispb": "00360305",
+      "issuer": "3100",
+      "number": "53091",
+      "accountType": "CACC"
+    }
+  },
+  "links": {
+    "self": "https://api.mercadopago.com/open-banking/payments/v1/pix/payments/TXmXwRHSZCpQDOXQA4fSPYs4gFQCYtP"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-08-10T22:15:00Z"
+  }
+}

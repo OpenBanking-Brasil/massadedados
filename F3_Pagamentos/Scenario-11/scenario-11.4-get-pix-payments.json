@@ -1,0 +1,32 @@
+{
+  "data": {
+    "paymentId": "TXSDRnqJjzGgKtr9o4PgCdDLMgJXy3F",
+    "endToEndId": "E60701190202108071340RboxmTKKEcq",
+    "consentId": "urn:itau:ITU152006845",
+    "creationDateTime": "2021-08-07T13:40:00Z",
+    "statusUpdateDateTime": "2021-08-07T13:42:00Z",
+    "proxy":"+5511976541192",
+    "status": "ACCC",
+    "cnpjInitiator": "19468242000132",
+    "localInstrument": "DICT",
+    "payment": {
+      "amount": "89.76",
+      "currency": "BRL"
+    },
+    "remittanceInformation": "Carnes para confraternização.",
+    "creditorAccount": {
+      "ispb": "00360305",
+      "issuer": "3100",
+      "number": "44053",
+      "accountType": "SVGS"
+    }
+  },
+  "links": {
+    "self": "https://api.itau/open-banking/payments/v1/pix/payments/TXSDRnqJjzGgKtr9o4PgCdDLMgJXy3F"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-08-07T13:42:00Z"
+  }
+}
