@@ -21,7 +21,7 @@
     }
   },
   "links": {
-    "self": "https://opendata.api.bb.com.br/open-banking/payments/v1/pix/payments/DE2DA19C90A46C3B4FE80FA3A0BCE8D"
+    "self": "https://api.caixa.gov.br/open-banking/payments/v1/pix/payments/DE2DA19C90A46C3B4FE80FA3A0BCE8D"
   },
   "meta": {
     "totalRecords": 1,
