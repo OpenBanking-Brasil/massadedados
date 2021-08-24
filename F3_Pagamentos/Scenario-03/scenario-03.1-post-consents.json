@@ -1,0 +1,45 @@
+{
+   "data":{
+      "consentId":"urn:mercadopago:MPG406783719",
+      "creationDateTime":"2021-07-20T14:18:00Z",
+      "expirationDateTime":"2021-07-20T15:18:00Z",
+      "statusUpdateDateTime":"2021-07-20T14:25:00Z",
+      "status":"CONSUMED",
+      "loggedUser":{
+         "document":{
+            "identification":"51407217089",
+            "rel":"CPF"
+         }
+      },
+      "businessEntity":{
+         "document":{
+            "identification":"75747327000120",
+            "rel":"CNPJ"
+         }
+      },
+      "creditor":{
+         "personType":"PESSOA_NATURAL",
+         "cpfCnpj":"31804279579",
+         "name":"Bárbara Eliane Laura Martins"
+      },
+      "payment":{
+         "type":"PIX",
+         "date":"2021-07-20",
+         "currency":"BRL",
+         "amount":"328.91"
+      },
+      "debtorAccount":{
+         "ispb":"10573521",
+         "number":"24651966434",
+         "accountType":"TRAN"
+      },
+      "links":{
+         "self":"https://api.mercadopago.com/open-banking/payments/v1/consents/urn:mercadopago:MPG40678371"
+      },
+      "meta":{
+         "totalRecords":1,
+         "totalPages":1,
+         "requestDateTime":"2021-07-20T14:25:00"
+      }
+   }
+}
