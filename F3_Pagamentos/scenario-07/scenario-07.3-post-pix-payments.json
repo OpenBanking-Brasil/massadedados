@@ -1,0 +1,31 @@
+{
+  "data": {
+    "paymentId": "DE2DA19C90A46C3B4FE80FA3A0BCE8D",
+    "endToEndId": "A3430B4EB25C498981400B2D28DCA2D1",
+    "consentId": "urn:caixaeconomica:CEF23082129",
+    "creationDateTime": "2021-09-20T14:03:45Z",
+    "statusUpdateDateTime": "2021-09-20T14:04:00Z",
+    "status": "ACCC",
+    "cnpjInitiator": "19468242000132",
+    "localInstrument": "DICT",
+    "payment": {
+      "amount": "6500.00",
+      "currency": "BRL"
+    },
+    "remittanceInformation": "Entrada contrato 7512",
+    "creditorAccount": {
+      "ispb": "00000000",
+      "issuer": "1820",
+      "number": "11301503",
+      "accountType": "CACC"
+    }
+  },
+  "links": {
+    "self": "https://api.mercadopago.com/open-banking/payments/v1/pix/payments/DE2DA19C90A46C3B4FE80FA3A0BCE8D"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-09-20T14:04:00Z"
+  }
+}
