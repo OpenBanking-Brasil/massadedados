@@ -1,0 +1,46 @@
+{
+   "data":{
+      "consentId":"urn:santander:BSB240821153",
+      "creationDateTime":"2021-08-24T15:34:43Z",
+      "expirationDateTime":"2021-08-24T16:34:43Z",
+      "statusUpdateDateTime":"2021-08-24T15:35:05Z",
+      "status":"CONSUMED",
+      "loggedUser":{
+         "document":{
+            "identification":"07983861001",
+            "rel":"CPF"
+         }
+      },
+      "businessEntity":{
+         "document":{
+            "identification":"07983861001",
+            "rel":"CPF"
+         }
+      },
+      "creditor":{
+         "personType":"PESSOA_NATURAL",
+         "cpfCnpj":"07983861001",
+         "name":"Cláudia Martins"
+      },
+      "payment":{
+         "type":"PIX",
+         "date":"2021-08-24",
+         "currency":"BRL",
+         "amount":"140.00"
+      },
+      "debtorAccount":{
+         "ispb":"90400888",
+         "issuer":"3236",
+         "number":"0018568",
+         "accountType":"CACC"
+      },
+      "links":{
+         "self":"https://openbanking.api.santander.com.br/open-banking/payments/v1/consents/urn:santander:BSB240821153"
+      },
+      "meta":{
+         "totalRecords":1,
+         "totalPages":1,
+         "requestDateTime":"2021-08-24T15:35:05Z"
+      }
+   }
+}
