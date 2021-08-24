@@ -1,0 +1,31 @@
+{
+  "data": {
+    "paymentId": "UmFvQlILokKQhUmFvQlILo7So0QnhQq",
+    "endToEndId": "Sj5IqMRsNkW10ZNnSj5IqMRsNkDqxWpw",
+    "consentId": "urn:caixaeconomica:CEF24082021",
+    "creationDateTime": "2021-08-14T17:10:52Z",
+    "statusUpdateDateTime": "2021-08-14T17:11:52Z",
+    "status": "ACCC",
+    "cnpjInitiator": "19468242000132",
+    "localInstrument": "DICT",
+    "payment": {
+      "amount": "320.00",
+      "currency": "BRL"
+    },
+    "remittanceInformation": "Dinheiro da Luz",
+    "creditorAccount": {
+      "ispb": "60746948",
+      "issuer": "1745",
+      "number": "18549301",
+      "accountType": "CACC"
+    }
+  },
+  "links": {
+    "self": "https://api.caixa.gov.br/open-banking/payments/v1/pix/payments/UmFvQlILokKQhUmFvQlILo7So0QnhQq"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-08-14T17:11:52Z"
+  }
+}
