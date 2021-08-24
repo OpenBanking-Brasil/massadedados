@@ -1,0 +1,31 @@
+{
+  "data": {
+    "paymentId": "DE2DA19C90A46C3B4FE80FA3A0BCE8D",
+    "endToEndId": "A3430B4EB25C498981400B2D28DCA2D1",
+    "consentId": "urn:santander:BSB240821153",
+    "creationDateTime": "2021-08-24T15:34:43Z",
+    "statusUpdateDateTime": "2021-08-24T15:35:05Z",
+    "status": "ACCC",
+    "cnpjInitiator": "19468242000132",
+    "localInstrument": "DICT",
+    "payment": {
+      "amount": "140.00",
+      "currency": "BRL"
+    },
+    "remittanceInformation": "",
+    "creditorAccount": {
+      "ispb": "00360305",
+      "issuer": "3100",
+      "number": "53091",
+      "accountType": "CACC"
+    }
+  },
+  "links": {
+    "self": "https://openbanking.api.santander.com.br/open-banking/payments/v1/pix/payments/DE2DA19C90A46C3B4FE80FA3A0BCE8D"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-08-24T15:35:05Z"
+  }
+}
