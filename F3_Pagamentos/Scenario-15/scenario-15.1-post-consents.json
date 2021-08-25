@@ -1,0 +1,46 @@
+{
+   "data":{
+      "consentId":"urn:caixaeconomica:CEF15362508",
+      "creationDateTime":"2021-08-04T11:39:57Z",
+      "expirationDateTime":"2021-08-04T12:39:57Z",
+      "statusUpdateDateTime":"2021-08-04T11:40:57Z",
+      "status":"CONSUMED",
+      "loggedUser":{
+         "document":{
+            "identification":"29894140530",
+            "rel":"CPF"
+         }
+      },
+      "businessEntity":{
+         "document":{
+            "identification":"29894140530",
+            "rel":"CPF"
+         }
+      },
+      "creditor":{
+         "personType":"PESSOA_JURIDICA",
+         "cpfCnpj":"13567121000161",
+         "name":"Mercado Oliveira"
+      },
+      "payment":{
+         "type":"PIX",
+         "date":"2021-08-04",
+         "currency":"BRL",
+         "amount":"258,90"
+      },
+      "debtorAccount":{
+         "ispb":"00360305",
+         "issuer":"3914",
+         "number":"76452",
+         "accountType":"SVGS"
+      },
+      "links":{
+         "self":"https://api.caixa.gov.br/open-banking/payments/v1/consents/urn:caixaeconomica:CEF15362508"
+      },
+      "meta":{
+         "totalRecords":1,
+         "totalPages":1,
+         "requestDateTime":"2021-08-04T11:40:57Z"
+      }
+   }
+}
