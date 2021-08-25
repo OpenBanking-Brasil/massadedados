@@ -1,0 +1,46 @@
+{
+   "data":{
+      "consentId":"urn:bradesco:BDC250810371",
+      "creationDateTime":"2021-08-04T10:38:57Z",
+      "expirationDateTime":"2021-08-04T11:38:57Z",
+      "statusUpdateDateTime":"2021-08-04T10:39:57Z",
+      "status":"CONSUMED",
+      "loggedUser":{
+         "document":{
+            "identification":"79619144554",
+            "rel":"CPF"
+         }
+      },
+      "businessEntity":{
+         "document":{
+            "identification":"79619144554",
+            "rel":"CPF"
+         }
+      },
+      "creditor":{
+         "personType":"PESSOA_JURIDICA",
+         "cpfCnpj":"13567121000161",
+         "name":"Mercado Oliveira"
+      },
+      "payment":{
+         "type":"PIX",
+         "date":"2021-08-04",
+         "currency":"BRL",
+         "amount":"520.75"
+      },
+      "debtorAccount":{
+         "ispb":"60746948",
+         "issuer":"1745",
+         "number":"18549301",
+         "accountType":"CACC"
+      },
+      "links":{
+         "self":"https://api.bradesco.com/open-banking/payments/v1/consents/urn:bradesco:BDC250810371"
+      },
+      "meta":{
+         "totalRecords":1,
+         "totalPages":1,
+         "requestDateTime":"2021-08-04T10:39:57Z"
+      }
+   }
+}
