@@ -1,0 +1,31 @@
+{
+  "data": {
+    "paymentId": "55441CEBD297494897053492A0F624A8",
+    "endToEndId": "315DB5529C684E37B74CDC16CD4892DB",
+    "consentId": "urn:bradesco:BDC250810371",
+    "creationDateTime": "urn:caixaeconomica:CEF15362508",
+    "statusUpdateDateTime": "2021-08-04T11:39:57Z",
+    "status": "ACCC",
+    "cnpjInitiator": "19468242000132",
+    "localInstrument": "DICT",
+    "payment": {
+      "amount": "258,90",
+      "currency": "BRL"
+    },
+    "remittanceInformation": "Mercado",
+    "creditorAccount": {
+      "ispb": "60746948",
+      "issuer": "1923",
+      "number": "07228864",
+      "accountType": "CACC"
+    }
+  },
+  "links": {
+    "self": "https://api.caixa.gov.br/open-banking/payments/v1/pix/payments/55441CEBD297494897053492A0F624A8"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-08-04T11:40:57Z"
+  }
+}
