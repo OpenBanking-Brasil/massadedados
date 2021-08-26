@@ -1,0 +1,32 @@
+{
+  "data": {
+    "paymentId": "TXY7YFOdZh1bBwq4P5CXt3RDOCFuYyh",
+    "endToEndId": "E607011902021082508212OwXg6lHo46",
+    "consentId": "urn:itau:ITU577644161",
+    "creationDateTime": "2021-08-25T08:21:00Z",
+    "statusUpdateDateTime": "2021-08-25T08:22:00Z",
+    "status": "RJCT",
+    "rejectionReason": "INSUFFICIENT_FUNDS",
+    "cnpjInitiator": "19468242000132",
+    "localInstrument": "MANU",
+    "payment": {
+      "amount": "1534.21",
+      "currency": "BRL"
+    },
+    "remittanceInformation": "Pagamento dívida acumulada",
+    "creditorAccount": {
+      "ispb": "00360305",
+      "issuer": "3100",
+      "number": "44053",
+      "accountType": "SVGS"
+    }
+  },
+  "links": {
+    "self": "https://api.itau/open-banking/payments/v1/pix/payments/TXY7YFOdZh1bBwq4P5CXt3RDOCFuYyh"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-08-25T08:22:00Z"
+  }
+}

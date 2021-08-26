@@ -1,0 +1,46 @@
+{
+  "data": {
+    "consentId": "urn:itau:ITU577644161",
+    "creationDateTime": "2021-08-25T08:19:00Z",
+    "expirationDateTime": "2021-08-25T09:19:00Z",
+    "statusUpdateDateTime": "2021-08-25T08:20:00Z",
+    "status": "AUTHORISED",
+    "loggedUser": {
+      "document": {
+        "identification": "16721201011",
+        "rel": "CPF"
+      },
+      "businessEntity": {
+        "document": {
+          "identification": "13567121000161",
+          "rel": "CNPJ"
+        }
+      },
+    "creditor": {
+      "personType": "PESSOA_JURIDICA",
+      "cpfCnpj": "13567121000161",
+      "name": "Mercado Oliveira"
+    },
+    "payment": {
+      "type": "PIX",
+      "date": "2021-08-25",
+      "currency": "BRL",
+      "amount": "1534.21"
+    },
+    "debtorAccount": {
+      "ispb": "60701190",
+      "issuer": "9292",
+      "number": "767711",
+      "accountType": "CACC"
+    }
+  },
+  "links": {
+    "self": "https://api.itau/open-banking/payments/v1/consents/urn:itau:ITU577644161"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-08-25T08:20:00Z"
+  }
+ }
+}
