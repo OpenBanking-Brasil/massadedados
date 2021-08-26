@@ -1,0 +1,64 @@
+{
+  "data": {
+    "updateDateTime": "2021-05-21T08:30:00Z",
+    "startDate": "2020-05-21T08:30:00Z",
+    "productsServicesType": [
+      "CONTA_DEPOSITO_A_VISTA",
+      "CONTA_POUPANCA",
+      "CONTA_SALARIO",
+      "CARTAO_CREDITO",
+      "OPERACOES_CAMBIO"
+    ],
+    "procurators": [
+      {
+        "type": "REPRESENTANTE_LEGAL",
+        "cnpjCpfNumber": "88770695000131",
+        "civilName": "Cecília Rebeca Sueli Corte Real",
+        "socialName": "NA"
+      },
+      {
+        "type": "REPRESENTANTE_LEGAL",
+        "cnpjCpfNumber": "58532169000172",
+        "civilName": "Francisca Carolina Moraes",
+        "socialName": "NA"
+      },
+      {
+        "type": "PROCURADOR",
+        "cnpjCpfNumber": "46242505240",
+        "civilName": "Augusto Benjamin Caleb Nascimento",
+        "socialName": "NA"
+      }
+    ],
+    "accounts": [
+      {
+        "compeCode": "77",
+        "branchCode": "0001",
+        "number": "87870785",
+        "checkDigit": "9",
+        "type": "CONTA_DEPOSITO_A_VISTA"
+      },
+      {
+        "compeCode": "77",
+        "branchCode": "0001",
+        "number": "87870785",
+        "checkDigit": "9",
+        "type": "CONTA_POUPANCA"
+      },
+      {
+        "compeCode": "77",
+        "branchCode": "0001",
+        "number": "78877844",
+        "checkDigit": "9",
+        "type": "CONTA_SALARIO"
+      }
+    ]
+  },
+  "links": {
+    "self": "https://api.baninter.com/open-banking/customers/v1/business/financial-relations"
+  },
+  "meta": {
+    "totalRecords": 3,
+    "totalPages": 1,
+    "requestDateTime": "2022-01-18T00:00:00Z"
+  }
+}
