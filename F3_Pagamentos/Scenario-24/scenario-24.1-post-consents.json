@@ -7,16 +7,10 @@
     "status": "AUTHORISED",
     "loggedUser": {
       "document": {
-        "identification": "16721201011",
+        "identification": "79557061022",
         "rel": "CPF"
       },
-      "businessEntity": {
-        "document": {
-          "identification": "13567121000161",
-          "rel": "CNPJ"
-        }
-      },
-    "creditor": {
+      "creditor": {
       "personType": "PESSOA_JURIDICA",
       "cpfCnpj": "13567121000161",
       "name": "Mercado Oliveira"
