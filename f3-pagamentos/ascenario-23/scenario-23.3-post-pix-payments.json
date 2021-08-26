@@ -10,7 +10,7 @@
     "cnpjInitiator": "19468242000132",
     "localInstrument": "DICT",
     "payment": {
-      "amount": "120,00",
+      "amount": "120.00",
       "currency": "BRL"
     },
     "remittanceInformation": "Lavagem e produtos carro",
