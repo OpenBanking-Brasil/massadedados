@@ -26,7 +26,7 @@
          "type":"PIX",
          "date":"2021-08-23",
          "currency":"BRL",
-         "amount":"120,00"
+         "amount":"120.00"
       },
       "debtorAccount":{
          "ispb":"00000000",
