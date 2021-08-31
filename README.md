@@ -24,7 +24,7 @@ Os cenários de pagamento estão em um readme próprio da api de pagamentos.
 
 Cada documento tem o nome construído com a seguinte lógica: 
 
-endereco-do-endpoint-numero-da-if-ficticia.numero-do-documento-desta-if
+*endereco-do-endpoint-numero-da-if-ficticia.numero-do-documento-desta-if*  
 
 Exemplo:
 get-discovery-status-7.1
@@ -39,8 +39,8 @@ Quando uma persona tem mais de um documento associado a ela o sufixo final é ac
 Como o exemplo abaixo em que a persona 1 tem dois consentimentos associados a ela. 
 
 Exemplo:
-post-consents-1.1
-post-consents-1.2
+post-consents-1.1  
+post-consents-1.2  
 
 ### Fase 3
 
@@ -51,7 +51,7 @@ prefixo-do-cenario-ordem-no-fluxo-endereco-do-endpoint
 
 Exemplo de cenário de sucesso com os quatro passos do pagamento:
 
-scenario-01.1-post-consents.json
-scenario-01.2-post-consents.json
-scenario-01.3-post-consents.json
-scenario-01.4-post-consents.json
+*scenario-01.1-post-consents.json*  
+*scenario-01.2-post-consents.json*  
+*scenario-01.3-post-consents.json*  
+*scenario-01.4-post-consents.json*  

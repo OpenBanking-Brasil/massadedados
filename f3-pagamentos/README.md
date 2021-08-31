@@ -4,77 +4,77 @@ Sendo assim, para cada cenário definido, existem quatro arquivos "*.json", ou s
 
 ## Nomenclatura
 
-O nome o arquivo .json foi formatado da seguinte forma: 
+O nome o arquivo .json foi formatado da seguinte forma:   
 
-nome-do-endpoint-numerodocenario-numero-do-passo-no-fluxo
+nome-do-endpoint-numerodocenario-numero-do-passo-no-fluxo  
 
-Exemplo na ordem do fluxo de pagamento:
+Exemplo na ordem do fluxo de pagamento:  
 
-1. POST /payments/v1/consents - Exemplo: scenario-01.1-post-consents
+1. *POST /payments/v1/consents - Exemplo: scenario-01.1-post-consents*  
 
-2. GET /payments/v1/consents/{consentId} - Exemplo: scenario-01.2-get-consents
+2. *GET /payments/v1/consents/{consentId} - Exemplo: scenario-01.2-get-consents*  
 
-3. POST /payments/v1/pix/payments - Exemplo: scenario-01.3-post-pix-payments.json
+3. *POST /payments/v1/pix/payments - Exemplo: scenario-01.3-post-pix-payments.json*  
 
-4. GET /payments/v1/pix/payments/{paymentId} - Exemplo: scenario-01.4-get-pix-payments.json
+4. *GET /payments/v1/pix/payments/{paymentId} - Exemplo: scenario-01.4-get-pix-payments.json*  
 
 ---
 
-  ## Cenários: 
+  ## Cenários:  
 
-1) PJ-LTDA - Iniciação de Pagamento para Pessoa Jurídica - LTDA com creditor para PESSOA_NATURAL e debtorAccount de Conta Corrente
+1) PJ-LTDA - Iniciação de Pagamento para Pessoa Jurídica - LTDA com creditor para PESSOA_NATURAL e debtorAccount de Conta Corrente  
 
-2) PJ-LTDA - Iniciação de Pagamento para Pessoa Jurídica - LTDA com creditor para PESSOA_NATURAL e debtorAccount de Conta Poupança
+2) PJ-LTDA - Iniciação de Pagamento para Pessoa Jurídica - LTDA com creditor para PESSOA_NATURAL e debtorAccount de Conta Poupança  
 
-3) PJ-LTDA - Iniciação de Pagamento para Pessoa Jurídica - LTDA com creditor para PESSOA_NATURAL e debtorAccount de Conta de Pagamento Pré-Paga
+3) PJ-LTDA - Iniciação de Pagamento para Pessoa Jurídica - LTDA com creditor para PESSOA_NATURAL e debtorAccount de Conta de Pagamento Pré-Paga  
 
-4) PJ-LTDA - Iniciação de Pagamento para Pessoa Jurídica - LTDA com creditor para PESSOA_JURIDICA LTDA e debtorAccount de Conta Corrente
+4) PJ-LTDA - Iniciação de Pagamento para Pessoa Jurídica - LTDA com creditor para PESSOA_JURIDICA LTDA e debtorAccount de Conta Corrente  
 
-5) PJ-LTDA - Iniciação de Pagamento para Pessoa Jurídica - LTDA com creditor para PESSOA_JURIDICA MEI e debtorAccount de Conta Corrente
+5) PJ-LTDA - Iniciação de Pagamento para Pessoa Jurídica - LTDA com creditor para PESSOA_JURIDICA MEI e debtorAccount de Conta Corrente  
 
-6) PJ-LTDA - Iniciação de Pagamento para Pessoa Jurídica - LTDA com creditor para PESSOA_JURIDICA LTDA e debtorAccount de Conta Poupança
+6) PJ-LTDA - Iniciação de Pagamento para Pessoa Jurídica - LTDA com creditor para PESSOA_JURIDICA LTDA e debtorAccount de Conta Poupança  
 
-7) PJ-LTDA - Iniciação de Pagamento para Pessoa Jurídica - LTDA com creditor para PESSOA_JURIDICA LTDA e debtorAccount de Conta de Pagamento Pré-Paga
+7) PJ-LTDA - Iniciação de Pagamento para Pessoa Jurídica - LTDA com creditor para PESSOA_JURIDICA LTDA e debtorAccount de Conta de Pagamento Pré-Paga  
 
-8) PJ-MEI - Iniciação de Pagamento para Pessoa Jurídica - MEI com creditor para PESSOA_NATURAL e debtorAccount de Conta Corrente
+8) PJ-MEI - Iniciação de Pagamento para Pessoa Jurídica - MEI com creditor para PESSOA_NATURAL e debtorAccount de Conta Corrente  
 
-9) PJ-MEI - Iniciação de Pagamento para Pessoa Jurídica - MEI com creditor para PESSOA_NATURAL e debtorAccount de Conta Poupança
+9) PJ-MEI - Iniciação de Pagamento para Pessoa Jurídica - MEI com creditor para PESSOA_NATURAL e debtorAccount de Conta Poupança  
 
-10) PJ-MEI - Iniciação de Pagamento para Pessoa Jurídica - MEI com creditor para PESSOA_NATURAL e debtorAccount de conta de Pagamento Pré-Paga
+10) PJ-MEI - Iniciação de Pagamento para Pessoa Jurídica - MEI com creditor para PESSOA_NATURAL e debtorAccount de conta de Pagamento Pré-Paga  
 
-11) PF - Iniciação de Pagamento para Pessoa Natural com creditor para PESSOA_NATURAL e debtorAccount de Conta Corrente
+11) PF - Iniciação de Pagamento para Pessoa Natural com creditor para PESSOA_NATURAL e debtorAccount de Conta Corrente  
 
-12) PF - Iniciação de Pagamento para Pessoa Natural com creditor para PESSOA_NATURAL e debtorAccount de Conta Corrente
+12) PF - Iniciação de Pagamento para Pessoa Natural com creditor para PESSOA_NATURAL e debtorAccount de Conta Corrente  
 
-13) PF- Iniciação de Pagamento para Pessoa Natural com creditor para PESSOA_NATURAL e debtorAccount de Conta Poupança
+13) PF- Iniciação de Pagamento para Pessoa Natural com creditor para PESSOA_NATURAL e debtorAccount de Conta Poupança  
 
-14) PF - Iniciação de Pagamento para Pessoa Natural com creditor para PESSOA_JURIDICA LTDA e debtorAccount de Conta Corrente
+14) PF - Iniciação de Pagamento para Pessoa Natural com creditor para PESSOA_JURIDICA LTDA e debtorAccount de Conta Corrente  
 
-15) PF - Iniciação de Pagamento para Pessoa Natural com creditor para PESSOA_JURIDICA LTDA e debtorAccount de Conta Poupança
+15) PF - Iniciação de Pagamento para Pessoa Natural com creditor para PESSOA_JURIDICA LTDA e debtorAccount de Conta Poupança  
 
-16) PF - Iniciação de Pagamento paraa Pessoa Natural com creditor para PESSOA_JURIDICA LTDA e debtorAccount de Conta de Pagamento Pré-Paga
+16) PF - Iniciação de Pagamento paraa Pessoa Natural com creditor para PESSOA_JURIDICA LTDA e debtorAccount de Conta de Pagamento Pré-Paga  
 
-17) PF- Iniciação de Pagamento para Pessoa Natural com creditor para PESSOA_JURIDICA MEI e debtorAccount de Conta Poupança
+17) PF- Iniciação de Pagamento para Pessoa Natural com creditor para PESSOA_JURIDICA MEI e debtorAccount de Conta Poupança  
 
-18) Criar consentimento com forma de pagamento inválida
+18) Criar consentimento com forma de pagamento inválida  
 
-19) Criar consentimento com data de pagamento inválida
+19) Criar consentimento com data de pagamento inválida  
 
-20) Criar Iniciação de pagamento com um consentimento em Status "CONSUMED"
+20) Criar Iniciação de pagamento com um consentimento em Status "CONSUMED"  
 
-21) Criar Iniciação de pagamento com um consentimento em Status "REJECTED"
+21) Criar Iniciação de pagamento com um consentimento em Status "REJECTED"  
 
-22) Criar Iniciação de pagamento utilizando um consentimento AUTHORISED com data divergente da data utilizada na iniciação de pagamento
+22) Criar Iniciação de pagamento utilizando um consentimento AUTHORISED com data divergente da data utilizada na iniciação de pagamento  
 
-23) Criar Iniciação de pagamento com um consentimento AUTHORISED com dados de conta não pertencentes ao creditor/cpfCnpj informado no consentimento utilizado
+23) Criar Iniciação de pagamento com um consentimento AUTHORISED com dados de conta não pertencentes ao creditor/cpfCnpj informado no consentimento utilizado  
 
-24) Criar Iniciação de pagamento com um consentimento AUTHORISED informando um valor superior ao saldo existente na conta do debtor para realização do pagamento
+24) Criar Iniciação de pagamento com um consentimento AUTHORISED informando um valor superior ao saldo existente na conta do debtor para realização do pagamento  
 
-25) Criar Iniciação de pagamento com um consentimento AUTHORISED informando o ispb do creditorAccount inválido ou inexistente
+25) Criar Iniciação de pagamento com um consentimento AUTHORISED informando o ispb do creditorAccount inválido ou inexistente  
 
-26) Criar Iniciação de pagamento com um consentimento AUTHORISED informando um tipo de conta (creditorAccount/accountType) incorreto para a conta informada para o creditor
+26) Criar Iniciação de pagamento com um consentimento AUTHORISED informando um tipo de conta (creditorAccount/accountType) incorreto para a conta informada para o creditor  
 
-27) Criar Iniciação de pagamento com um consentimento AUTHORISED informando payment/amount divergente do informado no consentimento utilizado
+27) Criar Iniciação de pagamento com um consentimento AUTHORISED informando payment/amount divergente do informado no consentimento utilizado  
 
 # 
 
