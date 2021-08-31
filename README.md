@@ -4,13 +4,13 @@ Repositório referente as massas de dados das Fases 1, 2 e 3 do Open Banking Bra
 
 ## Fases
 
-A fase 1 trás informações das instituições bancárias, a fase dois trás o fluxo de consentimento de dados 
+A fase 1 trás informações das instituições bancárias, a fase 2 trás o fluxo de compartilhamento de dados 
 enquanto que a fase 3 trás o fluxo de pagamentos. 
 As massas da fase 1 foram desenvolvidas com base em instituições participantes de exemplo com dados fictícios e não reais. 
 As massas da fase 2 foram desenvolvidas com base em cenários estabelecidos e personas fictícias construídas apenas para este propósito. 
 E as massas da fase 3 foram desenvolvidas com base em cenários estabelecidos e personas fictícias construídas apenas para este propósito. 
-É importante destacar que as fases são independentes, nem as ifs, nem as personas e nem os cenários de uma fase se cruzam em nenhuma outra.
-Cada dados foi pensado exclusivamente para a fase específica.
+É importante destacar que as fases são independentes, nem as IFs, nem as personas e nem os cenários de uma fase se cruzam em nenhuma outra.
+Cada dado foi pensado exclusivamente para a fase específica.
 
 ## Organização no diretório
 
