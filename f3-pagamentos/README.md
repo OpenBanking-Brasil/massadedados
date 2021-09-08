@@ -1,5 +1,5 @@
-# Massa fase 3
-Os scenarios de sucesso (fluxo feliz) foram elaborados considerando o fluxo endToend da API - Pagamentos. 
+# Massa fase 3 v. 1.0.1
+Os scenarios de sucesso (fluxo feliz) foram elaborados considerando o fluxo endToend da API - Pagamentos v. 1.0.1. 
 Sendo assim, para cada cenário definido, existem quatro arquivos "*.json", ou seja, um para cada endpoint da API - Pagamentos.
 
 ## Nomenclatura
