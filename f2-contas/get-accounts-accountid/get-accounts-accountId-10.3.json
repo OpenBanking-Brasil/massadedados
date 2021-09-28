@@ -1,0 +1,19 @@
+{
+    "data": {
+        "compeCode": "041",
+        "branchCode": "8956",
+        "number": "2561",
+        "checkDigit": "1",
+        "type": "CONTA_PAGAMENTO_PRE_PAGA",
+        "subtype": "CONJUNTA_SIMPLES",
+        "currency": "BRL"
+    },
+    "links": {
+        "self": "https://openbanking.banrisul.com.br/open-banking/accounts/v1/accounts/be3d308b-d113-3b73-9a95-2b3c87688878"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-12-26T15:00:00Z"
+    }
+}

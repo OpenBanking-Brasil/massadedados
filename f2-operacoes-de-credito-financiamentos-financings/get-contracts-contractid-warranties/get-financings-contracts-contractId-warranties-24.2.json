@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "currency": "BRL",
+      "warrantyType": "CAUCAO",
+      "warrantySubType": "CHEQUES",
+      "warrantyAmount": 50000.0000
+    }
+  ],
+  "links": {
+    "self": "https://api.caixa.gov.br/open-banking/financings/v1/contracts/cf7555e6-d629-33ce-8cf9-ee95e92241a0/warranties"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-09-04T08:19:32Z"
+  }
+}

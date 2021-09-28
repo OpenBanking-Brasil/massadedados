@@ -1,0 +1,66 @@
+{
+    "data": {
+        "contractNumber": "2555587410025",
+        "ipocCode": "607011900101243053510073250370278278352173",
+        "productName": "AD",
+        "productType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "productSubType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "contractDate": "2022-06-05",
+        "settlementDate": "NA",
+        "contractAmount": 60000.0000,
+        "currency": "BRL",
+        "dueDate": "2024-07-30",
+        "instalmentPeriodicity": "MENSAL",
+        "instalmentPeriodicityAdditionalInfo": "NA",
+        "firstInstalmentDueDate": "2022-07-05",
+        "CET": 0.0140,
+        "amortizationScheduled": "PRICE",
+        "amortizationScheduledAdditionalInfo": "NA",
+        "interestRates": [
+            {
+                "taxType": "EFETIVA",
+                "interestRateType": "SIMPLES",
+                "taxPeriodicity": "AA",
+                "calculation": "21/252",
+                "referentialRateIndexerType": "PRE_FIXADO",
+                "referentialRateIndexerSubType": "PRE_FIXADO",
+                "preFixedRate": 0.0140,
+                "postFixedRate": 0.0000,
+                "additionalInfo": "NA"
+            }
+        ],
+        "contractedFees": [
+            {
+                "feeName": "Manutenção de Contrato",
+                "feeCode": "MANUTENCAO_CONTRATO",
+                "feeChargeType": "POR_PARCELA",
+                "feeCharge": "FIXO",
+                "feeAmount": 59.9000,
+                "feeRate": 0.0000
+            },
+            {
+                "feeName": "Taxa de Adesao",
+                "feeCode": "ADESAO",
+                "feeChargeType": "UNICA",
+                "feeCharge": "PERCENTUAL",
+                "feeAmount": 0.0000,
+                "feeRate": 0.2000
+            }
+        ],
+        "contractedFinanceCharges": [
+            {
+                "chargeType": "MULTA_ATRASO_PAGAMENTO",
+                "chargeAdditionalInfo": "NA",
+                "chargeRate": 0.0810
+            }
+        ]
+    },
+    "links": {
+        "self": "https://api.itau/open-banking/unarranged-accounts-overdraft/v1/contracts/09111ff2-b903-3552-bdba-44b48d626b78"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-08-10T15:47:00Z"
+    }
+}

@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "updateDateTime": "2021-11-15T00:00:00Z",
+      "personalId": "775-cde2-l58f11eb85-29024",
+      "brandName": "Banco Inter S.A.",
+      "civilName": "Marta Abranches Braga",
+      "socialName": "Marta Abranches Braga",
+      "birthDate": "1981-07-15",
+      "maritalStatusCode": "UNIÃO ESTÁVEL",
+      "maritalStatusAdditionalInfo": "NA",
+      "sex": "FEMININO",
+      "companyCnpj": [
+        "00416968000101"
+      ],
+      "documents": {
+        "cpfNumber": "24184276504",
+        "passportNumber": "88682946659963602513",
+        "passportCountry": "BRA",		
+        "passportExpirationDate": "2023-07-12",
+        "passportIssueDate": "2013-07-12"
+      },
+      "otherDocuments": [
+        {
+          "type": "CNH",
+          "typeAdditionalInfo": "NA",
+          "number": "25484785",
+          "checkDigit": "A",
+          "additionalInfo": "SSP/TO",
+          "expirationDate": "2022-12-06"	
+        }
+      ],
+      "hasBrazilianNationality": true,
+      "nationality": [
+        {
+          "otherNationalitiesInfo": "NA",
+          "documents": [
+            {
+              "type": "NA",
+              "number": "NA",
+              "expirationDate": "NA",
+              "issueDate": "NA",
+              "country": "NA",
+              "typeAdditionalInfo": "NA"
+            }
+          ]
+        }
+      ],
+      "filiation": [
+        {
+          "type": "MAE",
+          "civilName": "Marcela Braga",
+          "socialName": "NA"
+        }
+      ],
+      "contacts": {
+        "postalAddresses": [
+          {
+            "isMain": true,
+            "address": "Rua SF 9, 558",
+            "additionalInfo": "NA",
+            "districtName": "Setor Santa Fé 2 (Taquaralto)",
+            "townName": "Palmas",
+            "ibgeTownCode": "1721000",
+            "countrySubDivision": "TO",
+            "postCode": "77064106",
+            "country": "Brasil",
+            "countryCode": "BRA",
+            "geographicCoordinates": {
+              "latitude": "-10.1689",
+              "longitude": "-48.3317"
+            }
+          }
+        ],
+        "phones": [
+          {
+            "isMain": true,
+            "type": "MOVEL",
+            "additionalInfo": "Informações adicionais.",
+            "countryCallingCode": "55",
+            "areaCode": "63",
+            "number": "982686100",
+            "phoneExtension": ""
+          }
+        ],
+        "emails": [
+          {
+            "isMain": true,
+            "email": "marta.braga05@email.com"
+          }
+        ]
+      }
+    }
+  ],
+  "links": {
+    "self": "https://api.baninter.com.br/open-banking/customers/v1/personal/identifications"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-11-15T00:00:00Z"
+  }
+}

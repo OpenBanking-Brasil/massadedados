@@ -1,0 +1,26 @@
+{
+    "data": {
+        "typeNumberOfInstalments": "MES",
+        "totalNumberOfInstalments": 24,
+        "typeContractRemaining": "MES",
+        "contractRemainingNumber": 10,
+        "paidInstalments": 1,
+        "dueInstalments": 10,
+        "pastDueInstalments": 13,
+        "balloonPayments": [
+            {
+                "dueDate": "2020-06-16",
+                "currency": "BRL",
+                "amount": 15000.0000
+            }
+        ]
+    },
+    "links": {
+        "self": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts/c13daaa1-a83a-36f1-9f50-0e546eb3dc49/scheduled-instalments"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-09-16T20:04:10Z"
+    }
+}

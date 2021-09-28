@@ -1,0 +1,58 @@
+{
+  "data": {
+    "contractNumber": "34589374320",
+    "ipocCode": "00000000040118751740044439873689375023953",
+    "productName": "Crédito Pessoal Consignado",
+    "productType": "FINANCIAMENTOS",
+    "productSubType": "AQUISICAO_BENS_VEICULOS_AUTOMOTORES",
+    "contractDate": "2021-06-09",
+    "settlementDate": "NA",
+    "contractAmount": 50000.0000,
+    "currency": "BRL",
+    "dueDate": "2026-07-09",
+    "instalmentPeriodicity": "MENSAL",
+    "instalmentPeriodicityAdditionalInfo": "NA",
+    "firstInstalmentDueDate": "2021-07-09",
+    "CET": 0.0185,
+    "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
+    "amortizationScheduledAdditionalInfo": "NA",
+    "interestRates": [
+      {
+        "taxType": "NOMINAL",
+        "interestRateType": "COMPOSTO",
+        "taxPeriodicity": "AM",
+        "calculation": "21/252",
+        "referentialRateIndexerType": "POS_FIXADO",
+        "referentialRateIndexerSubType": "TJLP",
+        "preFixedRate": 0.0000,
+        "postFixedRate": 0.0185,
+        "additionalInfo": "NA"
+      }
+    ],
+    "contractedFees": [
+      {
+        "feeName": "Taxa de administração",
+        "feeCode": "ADMINISTRACAO",
+        "feeChargeType": "POR_PARCELA",
+        "feeCharge": "FIXO",
+        "feeAmount": 80.0000,
+        "feeRate": 0.0000
+      }
+    ],
+    "contractedFinanceCharges": [
+      {
+        "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
+        "chargeAdditionalInfo": "NA",
+        "chargeRate": 0.0700
+      }
+    ]
+  },
+  "links": {
+    "self": "https://opendata.api.bb.com.br/open-banking/financings/v1/contracts/47f8ec0a-e230-390e-a47d-8623ad9d6de6"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-08-21T19:35:07Z"
+  }
+}

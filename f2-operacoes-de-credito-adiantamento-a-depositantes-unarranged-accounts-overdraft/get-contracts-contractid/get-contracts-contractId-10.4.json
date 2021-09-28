@@ -1,0 +1,65 @@
+{
+    "data": {
+        "contractNumber": "648900000",
+        "ipocCode": "927020670101164258217018648900000",
+        "productName": "AD",
+        "productType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "productSubType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "contractDate": "2019-01-15",
+        "disbursementDate": "2019-01-15",
+        "settlementDate": "2020-02-15",
+        "contractAmount": 5000.0000,
+        "currency": "BRL",
+        "dueDate": "2020-02-10",
+        "instalmentPeriodicity": "SEM_PERIODICIDADE_REGULAR",
+        "instalmentPeriodicityAdditionalInfo": "NA",
+        "firstInstalmentDueDate": "2020-02-10",
+        "CET": 0.0949,
+        "amortizationScheduled": "SAC",
+        "amortizationScheduledAdditionalInfo": "NA",
+        "interestRates": [
+            {
+                "taxType": "EFETIVA",
+                "interestRateType": "SIMPLES",
+                "taxPeriodicity": "AA",
+                "calculation": "30/360",
+                "referentialRateIndexerType": "POS_FIXADO",
+                "referentialRateIndexerSubType": "TJLP",
+                "referentialRateIndexerAdditionalInfo": "NA",
+                "preFixedRate": 0.0000,
+                "postFixedRate": 0.0949,
+                "additionalInfo": "NA"
+            }
+        ],
+        "contractedFees": [
+            {
+                "feeName": "Manutenção de Conta",
+                "feeCode": "MANUTENCAO_CONTA",
+                "feeChargeType": "UNICA",
+                "feeCharge": "MAXIMO",
+                "feeAmount": 19.9000,
+                "feeRate": 0.0000
+            }
+        ],
+        "contractedFinanceCharges": [
+            {
+                "chargeType": "MULTA_ATRASO_PAGAMENTO",
+                "chargeAdditionalInfo": "NA",
+                "chargeRate": 0.0959
+            },
+            {
+                "chargeType": "IOF_CONTRATACAO",
+                "chargeAdditionalInfo": "NA",
+                "chargeRate": 0.0356
+            }
+        ]
+    },
+    "links": {
+        "self": "https://openbanking.banrisul.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/ff0b84d8-bd29-3d03-b76d-5432db2c665d"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-07-02T08:54:00Z"
+    }
+}

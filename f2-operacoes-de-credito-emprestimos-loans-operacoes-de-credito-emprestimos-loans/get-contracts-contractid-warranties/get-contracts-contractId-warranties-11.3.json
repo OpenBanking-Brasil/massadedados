@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "currency": "BRL",
+            "warrantyType": "SEGUROS_ASSEMELHADOS",
+            "warrantySubType": "FGTS_FUNDO_GARANTIA_TEMPO_SERVICO",
+            "warrantyAmount": 145054.0000
+        }
+    ],
+    "links": {
+        "self": "https://api.baninter.com/open-banking/loans/v1/contracts/k6tkha3a-f8uf-w1z9-k1an-dmlcnco8wj04/warranties"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-12-10T00:00:00Z"
+    }
+}

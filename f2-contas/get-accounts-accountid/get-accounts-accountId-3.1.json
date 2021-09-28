@@ -1,0 +1,19 @@
+{
+    "data": {
+        "compeCode": "748",
+        "branchCode": "0718",
+        "number": "54888745",
+        "checkDigit": "3",
+        "type": "CONTA_POUPANCA",
+        "subtype": "INDIVIDUAL",
+        "currency": "BRL"
+    },
+    "links": {
+        "self": "https://api.sicredi.com.br/open-banking/accounts/v1/accounts/6ffc471a-d461-11eb-b8bc-0242ac130003"
+    },
+    "meta": {
+        "totalRecords": 250,
+        "totalPages": 10,
+        "requestDateTime": "2021-05-30T13:59:00Z"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "data": {
+        "consentId": "urn:banrisul:BRS96825411",
+        "creationDateTime": "2021-05-28T10:30:00Z",
+        "status": "AUTHORISED",
+        "statusUpdateDateTime": "2021-05-28T10:45:00Z",
+        "permissions": [
+            "CUSTOMERS_BUSINESS_IDENTIFICATIONS_READ",
+            "CUSTOMERS_BUSINESS_ADITTIONALINFO_READ",
+            "RESOURCES_READ"
+        ],
+        "expirationDateTime": "2021-09-01T00:00:00Z"
+    },
+    "links": {
+        "self": "http://openbanking.banrisul.com.br/open-banking/consents/v1/consents/urn:banrisul:BRS96825411"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-08-04T00:00:00Z"
+    }
+}

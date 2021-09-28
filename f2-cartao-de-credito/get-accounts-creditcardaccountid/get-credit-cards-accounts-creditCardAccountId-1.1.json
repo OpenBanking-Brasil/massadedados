@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "Ourocard Elo Nanquim",
+    "productType": "NANQUIM",
+    "productAdditionalInfo": "Ourocard Elo Nanquim",
+    "creditCardNetwork": "ELO",
+    "networkAdditionalInfo": "NA",
+    "paymentMethod": {
+      "identificationNumber": "8921",
+      "isMultipleCreditCard": true
+    }
+  },
+  "links": {
+    "self": "https://opendata.api.bb.com.br/open-banking/credit-cards-accounts/v1/accounts/923abd08-aa82-3559-a56e-0e785b230831"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-05-21T08:30:00Z"
+  }
+}

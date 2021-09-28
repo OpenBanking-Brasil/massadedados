@@ -1,0 +1,36 @@
+{
+    "data": [
+      {
+        "contractId": "50232104-cd22-36aa-9a6f-725afdd55288",
+        "brandName": "Banco do Brasil S.A",
+        "companyCnpj": "00000000000191",
+        "productType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "productSubType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "ipocCode": "0000000001012058309167230498753029857"
+      },
+      {
+        "contractId": "1437e266-ed9b-3b0f-98c5-072ce011dd06",
+        "brandName": "Banco do Brasil S.A",
+        "companyCnpj": "00000000000191",
+        "productType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "productSubType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "ipocCode": "00000000010120583091605325304303450054"
+      },
+      {
+        "contractId": "375c0320-e155-355b-882f-3f82d6c11291",
+        "brandName": "Banco do Brasil S.A",
+        "companyCnpj": "00000000000191",
+        "productType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "productSubType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "ipocCode": "00000000010120583091600043095834511113"
+      }
+    ],
+    "links": {
+      "self": "https://opendata.api.bb.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts"
+    },
+    "meta": {
+      "totalRecords": 3,
+      "totalPages": 1,
+      "requestDateTime": "2021-12-15T13:40:00Z"
+    }
+}

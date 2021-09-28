@@ -1,0 +1,162 @@
+{
+    "data": {
+        "brand": {
+            "name": "Banco Bradesco S.A",
+            "companies": [
+                {
+                    "name": "Banco Bradesco S.A",
+                    "cnpjNumber": "60746948000112",
+                    "urlComplementaryList": "https://banco.bradesco/html/classic/canais-digitais/index.shtm",
+                    "electronicChannels": [
+                        {
+                            "identification": {
+                                "type": "INTERNET_BANKING",
+                                "urls": [
+                                    "https://banco.bradesco/html/classic/canais-digitais/internet-banking/index.shtm"
+                                ]
+                            },
+                            "services": [
+                                {
+                                    "name": "ABERTURA_CONTAS_DEPOSITOS_OU_PAGAMENTO_PRE_PAGA",
+                                    "code": "ABRE_CONTA_DEPOSITO_OU_PRE_PAGA"
+                                },
+                                {
+                                    "name": "TRANSFERENCIAS_ELETRONICAS_VISANDO_MOVIMENTACAO_CONTAS_DEPOSITOS_OU_PAGAMENTO_TITULARIDADE_CLIENTES",
+                                    "code": "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES"
+                                },
+                                {
+                                    "name": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+                                    "code": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_PAGTOS"
+                                },
+                                {
+                                    "name": "CARTAO_CREDITO",
+                                    "code": "CARTAO_CREDITO"
+                                },
+                                {
+                                    "name": "SEGUROS",
+                                    "code": "SEGUROS"
+                                },
+                                {
+                                    "name": "INFORMACOES",
+                                    "code": "INFORMACOES"
+                                },
+                                {
+                                    "name": "RECLAMACOES",
+                                    "code": "RECLAMACOES"
+                                },
+                                {
+                                    "name": "CANCELAMENTO",
+                                    "code": "CANCELAMENTO"
+                                }
+                            ]
+                        },
+                        {
+                            "identification": {
+                                "type": "MOBILE_BANKING",
+                                "urls": [
+                                    "https://play.google.com/store/apps/details?id=com.bradesco",
+                                    "https://apps.apple.com/br/app/banco-bradesco/id336954985"
+                                ]
+                            },
+                            "services": [
+                                {
+                                    "name": "TRANSFERENCIAS_ELETRONICAS_VISANDO_MOVIMENTACAO_CONTAS_DEPOSITOS_OU_PAGAMENTO_TITULARIDADE_CLIENTES",
+                                    "code": "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES"
+                                },
+                                {
+                                    "name": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+                                    "code": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_PAGTOS"
+                                },
+                                {
+                                    "name": "CARTAO_CREDITO",
+                                    "code": "CARTAO_CREDITO"
+                                },
+                                {
+                                    "name": "SEGUROS",
+                                    "code": "SEGUROS"
+                                },
+                                {
+                                    "name": "INFORMACOES",
+                                    "code": "INFORMACOES"
+                                },
+                                {
+                                    "name": "RECLAMACOES",
+                                    "code": "RECLAMACOES"
+                                },
+                                {
+                                    "name": "CANCELAMENTO",
+                                    "code": "CANCELAMENTO"
+                                }
+                            ]
+                        },
+                        {
+                            "identification": {
+                                "type": "SAC",
+                                "urls": [
+                                    "https://banco.bradesco/html/classic/atendimento/fale-conosco/ouvidoria/index.shtm"
+                                ]
+                            },
+                            "services": [
+                                {
+                                    "name": "INFORMACOES",
+                                    "code": "INFORMACOES"
+                                },
+                                {
+                                    "name": "RECLAMACOES",
+                                    "code": "RECLAMACOES"
+                                }
+                            ]
+                        },
+                        {
+                            "identification": {
+                                "type": "OUVIDORIA",
+                                "urls": [
+                                    "https://banco.bradesco/html/classic/atendimento/fale-conosco/ouvidoria/index.shtm"
+                                ]
+                            },
+                            "services": [
+                                {
+                                    "name": "INFORMACOES",
+                                    "code": "INFORMACOES"
+                                },
+                                {
+                                    "name": "RECLAMACOES",
+                                    "code": "RECLAMACOES"
+                                }
+                            ]
+                        },
+                        {
+                            "identification": {
+                                "type": "CHAT",
+                                "urls": [
+                                    "https://banco.bradesco/html/classic/atendimento/atendimento.shtm"
+                                ]
+                            },
+                            "services": [
+                                {
+                                    "name": "INFORMACOES",
+                                    "code": "INFORMACOES"
+                                },
+                                {
+                                    "name": "RECLAMACOES",
+                                    "code": "RECLAMACOES"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "links": {
+        "first": "https://api.bradesco.com/bradesco/open-banking/channels/v1/electronic-channels?page=1&page-size=1",
+        "prev": "https://api.bradesco.com/bradesco/open-banking/channels/v1/electronic-channels?page=2895&page-size=1",
+        "self": "https://api.bradesco.com/bradesco/open-banking/channels/v1/electronic-channels?page=2896&page-size=1",
+        "next": "https://api.bradesco.com/bradesco/open-banking/channels/v1/electronic-channels?page=2897&page-size=1",
+        "last": "https://api.bradesco.com/bradesco/open-banking/channels/v1/electronic-channels?page=9843&page-size=1"
+    },
+    "meta": {
+        "totalRecords": 9843,
+        "totalPages": 9843
+    }
+}

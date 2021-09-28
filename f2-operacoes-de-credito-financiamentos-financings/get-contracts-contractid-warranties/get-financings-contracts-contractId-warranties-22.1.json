@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "currency": "BRL",
+      "warrantyType": "OPERACOES_GARANTIDAS_PELO_GOVERNO",
+      "warrantySubType": "FGI_FUNDO_GARANTIDOR_INVESTIMENTOS",
+      "warrantyAmount": 170000.3100
+    }
+  ],
+  "links": {
+    "self": "https://api.itau/open-banking/financings/v1/contracts/8a90b69e-327a-467e-95f2-970b68e40f34/warranties"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-06-22T09:35:01Z"
+  }
+}

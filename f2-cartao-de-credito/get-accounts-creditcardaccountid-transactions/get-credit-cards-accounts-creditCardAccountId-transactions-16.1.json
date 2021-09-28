@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "transactionId": "40wjrw65-gyyd-2w0r-7lt8-delyf5xkz3pr",
+      "identificationNumber": "5620",
+      "lineName": "CREDITO_A_VISTA",
+      "transactionName": "AUR BUFFET",
+      "billId": "39hf1zal-l7r2-opuw-r460-5gn6pe4dum3b",
+      "creditDebitType": "CREDITO",
+      "transactionType": "PAGAMENTO",
+      "transactionalAdditionalInfo": "NA",
+      "paymentType": "A_VISTA",
+      "feeType": "NA",
+      "feeTypeAdditionalInfo": "NA",
+      "otherCreditsType": "NA",
+      "otherCreditsAdditionalInfo": "NA",
+      "chargeIdentificator": "AUR BUFFET 01/01",
+      "chargeNumber": 1,
+      "brazilianAmount": 3500.0930,
+      "amount": 0.0000,
+      "currency": "BRL",
+      "transactionDate": "2021-02-05",
+      "billPostDate": "2021-02-05",
+      "payeeMCC": 5620
+    }
+  ],
+  "links": {
+    "self": "https://api.bradesco.com/bradesco/open-banking/credit-cards-accounts/v1/accounts/n7i2bry1-b3nu-lm8o-m4rr-7g6i88n0aodx/transactions"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-02-10T00:00:00Z"
+  }
+}

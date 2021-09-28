@@ -1,0 +1,63 @@
+{
+    "data": {
+        "contractNumber": "2121554111645800",
+        "ipocCode": "607011900101243053510369723098239325347856484",
+        "productName": "AD",
+        "productType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "productSubType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "contractDate": "2021-12-16",
+        "settlementDate": "2022-04-16",
+        "contractAmount": 8770.0000,
+        "currency": "BRL",
+        "dueDate": "2022-04-16",
+        "instalmentPeriodicity": "BIMESTRAL",
+        "instalmentPeriodicityAdditionalInfo": "NA",
+        "firstInstalmentDueDate": "2022-02-16",
+        "CET": 0.0160,
+        "amortizationScheduled": "SAM",
+        "amortizationScheduledAdditionalInfo": "NA",
+        "interestRates": [
+            {
+                "taxType": "NOMINAL",
+                "interestRateType": "SIMPLES",
+                "taxPeriodicity": "AM",
+                "calculation": "30/365",
+                "referentialRateIndexerType": "FLUTUANTES",
+                "referentialRateIndexerSubType": "CDI",
+                "preFixedRate": 0.0000,
+                "postFixedRate": 0.0160,
+                "additionalInfo": "NA"
+            }
+        ],
+        "contractedFees": [
+            {
+                "feeName": "Taxa de Adesao",
+                "feeCode": "ADESAO",
+                "feeChargeType": "UNICA",
+                "feeCharge": "FIXO",
+                "feeAmount": 650.0000,
+                "feeRate": 0.0000
+            }
+        ],
+        "contractedFinanceCharges": [
+            {
+                "chargeType": "MULTA_ATRASO_PAGAMENTO",
+                "chargeAdditionalInfo": "NA",
+                "chargeRate": 0.1000
+            },
+            {
+                "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
+                "chargeAdditionalInfo": "NA",
+                "chargeRate": 0.0900
+            }
+        ]
+    },
+    "links": {
+        "self": "https://api.itau/open-banking/unarranged-accounts-overdraft/v1/contracts/27d1e77d-0284-36b6-8ace-2c597305dfb7"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-06-23T23:18:00Z"
+    }
+}

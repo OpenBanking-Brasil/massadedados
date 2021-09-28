@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "creditCardAccountId": "15c7e4c4-da93-11eb-8d19-0242ac130003",
+      "brandName": "Banco Itaú Unibanco S.A.",
+      "companyCnpj": "60701190000104",
+      "productType":"GOLD",
+      "name": "Itau Click",
+      "creditCardNetwork": "VISA" 
+    }
+  ],
+  "links": {
+    "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-06-21T08:30:00Z"
+  }
+}

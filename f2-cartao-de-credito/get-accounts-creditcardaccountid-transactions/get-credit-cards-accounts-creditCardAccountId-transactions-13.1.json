@@ -1,0 +1,56 @@
+{
+    "data": [
+        {
+            "transactionId": "65f1s5e6-c4ec-3c2a-8897-aa685662900d",
+            "identificationNumber": "1250",
+            "lineName": "CREDITO_A_VISTA",
+            "transactionName": "NA",
+            "billId": "68e14se1-4ed0-30e7-8add-dbd32985c359",
+            "creditDebitType": "DEBITO",
+            "transactionType": "PAGAMENTO",
+            "transactionalAdditionalInfo": "NA",
+            "paymentType": "A_VISTA",
+            "feeType": "SMS",
+            "feeTypeAdditionalInfo": "NA",
+            "otherCreditsType": "CREDITO_ROTATIVO",
+            "chargeIdentificator": "PARCELA_1",
+            "chargeNumber": 1,
+            "brazilianAmount": 1574.5626,
+            "amount": 0.0000,
+            "currency": "BRL",
+            "transactionDate": "2020-12-01",
+            "billPostDate": "2020-12-01",
+            "payeeMCC": 5940
+        },
+        {
+            "transactionId": "fe1awefw-6c0f-319d-b513-5809fe31e7f9",
+            "identificationNumber": "1250",
+            "lineName": "CREDITO_A_VISTA",
+            "transactionName": "NA",
+            "billId": "261es86x-1aae-3877-ae3d-f108f4fa7aec",
+            "creditDebitType": "DEBITO",
+            "transactionType": "PAGAMENTO",
+            "transactionalAdditionalInfo": "NA",
+            "paymentType": "A_VISTA",
+            "feeType": "SMS",
+            "feeTypeAdditionalInfo": "NA",
+            "otherCreditsType": "CREDITO_ROTATIVO",
+            "chargeIdentificator": "PARCELA_1",
+            "chargeNumber": 1,
+            "brazilianAmount": 1320.6417,
+            "amount": 0.0000,
+            "currency": "BRL",
+            "transactionDate": "2020-11-04",
+            "billPostDate": "2020-11-04",
+            "payeeMCC": 5940
+        }
+    ],
+    "links": {
+        "self": "https://opendata.api.bb.com.br/open-banking/credit-cards-accounts/v1/accounts/5hrt1685-3f03-3c4e-b00a-6r8e14r8e6z0/transactions"
+    },
+    "meta": {
+        "totalRecords": 2,
+        "totalPages": 1,
+        "requestDateTime": "2021-10-01T00:00:00Z"
+    }
+}

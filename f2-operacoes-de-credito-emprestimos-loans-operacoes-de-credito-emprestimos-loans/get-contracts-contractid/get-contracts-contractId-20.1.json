@@ -1,0 +1,61 @@
+{
+    "data": {
+        "contractNumber": "51561588037",
+        "ipocCode": "90400888280326748",
+        "productName": "Cheque Especial",
+        "productType": "EMPRESTIMOS",
+        "productSubType": "CHEQUE_ESPECIAL",
+        "contractDate": "2018-06-14",
+        "disbursementDate": "2018-06-14",
+        "settlementDate": "2018-10-14",
+        "contractAmount": 35000.0000,
+        "currency": "BRL",
+        "dueDate": "2018-10-14",
+        "instalmentPeriodicity": "MENSAL",
+        "instalmentPeriodicityAdditionalInfo": "NA",
+        "firstInstalmentDueDate": "2018-07-14",
+        "CET": 0.0263,
+        "amortizationScheduled": "PRICE",
+        "amortizationScheduledAdditionalInfo": "NA",
+        "cnpjConsignee": "NA",
+        "interestRates": [
+            {
+                "taxType": "NOMINAL",
+                "interestRateType": "SIMPLES",
+                "taxPeriodicity": "AA",
+                "calculation": "30/365",
+                "referentialRateIndexerType": "POS_FIXADO",
+                "referentialRateIndexerSubType": "TJLP",
+                "referentialRateIndexerAdditionalInfo": "NA",
+                "preFixedRate": 0.0000,
+                "postFixedRate": 0.0148,
+                "additionalInfo": "NA"
+            }
+        ],
+        "contractedFees": [
+            {
+                "feeName": "Taxa de cadastro",
+                "feeCode": "CADASTRO",
+                "feeChargeType": "UNICA",
+                "feeCharge": "FIXO",
+                "feeAmount": 150.0000,
+                "feeRate": 0.0000
+            }
+        ],
+        "contractedFinanceCharges": [
+            {
+                "chargeType": "MULTA_ATRASO_PAGAMENTO",
+                "chargeAdditionalInfo": "NA",
+                "chargeRate": 0.0115
+            }
+        ]
+    },
+    "links": {
+        "self": "https://openbanking.api.santander.com.br/open-banking/loans/v1/contracts/15thr536-9607-e911-80e0-1asoi1p5c650"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-07-05T00:00:00Z"
+    }
+}

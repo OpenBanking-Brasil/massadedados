@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "currency": "BRL",
+            "warrantyType": "BENS_ARRENDADOS",
+            "warrantySubType": "VEICULOS_AUTOMOTORES",
+            "warrantyAmount": 74563.0000
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "BENS_ARRENDADOS",
+            "warrantySubType": "VEICULOS_AUTOMOTORES",
+            "warrantyAmount": 79653.0000
+        }
+    ],
+    "links": {
+        "self": "https://api.baninter.com/open-banking/loans/v1/contracts/okangw8q-m4ma-tb08-rcem-tftbc8j4pk8j/warranties"
+    },
+    "meta": {
+        "totalRecords": 2,
+        "totalPages": 1,
+        "requestDateTime": "2021-12-10T00:00:00Z"
+    }
+}

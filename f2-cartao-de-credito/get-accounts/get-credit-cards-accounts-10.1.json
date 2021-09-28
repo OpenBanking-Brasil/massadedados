@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "creditCardAccountId": "87684e13-3f03-3c4e-b00a-2b9f2f8215c0",
+      "brandName": "Banco Itaú Unibanco S.A.",
+      "companyCnpj": "60701190000104",
+      "name": "Hipercard Internacional Mastercard",
+      "productType": "OUTROS",
+      "productAdditionalInfo": "Hipercard Internacional",
+      "creditCardNetwork": "MASTERCARD",
+      "networkAdditionalInfo": "NA"
+    }
+  ],
+  "links": {
+    "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-12-10T15:37:00Z"
+  }
+}

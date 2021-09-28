@@ -1,0 +1,1129 @@
+{
+    "data": {
+        "brand": {
+            "companies": [
+                {
+                    "cnpjNumber": "92702067000196",
+                    "name": "Banco do Estado do Rio Grande do Sul S.A - MATRIZ",
+                    "personalInvoiceFinancings": [
+                        {
+                            "fees": {
+                                "services": [
+                                    {
+                                        "chargingTriggerInfo": "5% do valor do contrato",
+                                        "code": "MANUTENCAO_CUSTODIA",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "10000.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "0.00"
+                                        },
+                                        "name": "Manutenção de Custódia",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0500"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "100.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.4500"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "1000.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.5000"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "10000.00"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.1000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0050"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.4000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0200"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0300"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0670"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0670",
+                                    "minimumRate": "0.0050",
+                                    "rate": "0.10",
+                                    "referentialRateIndexer": "OUTROS_INDICES_PRECO"
+                                }
+                            ],
+                            "requiredWarranties": [
+                                "BENS_ARRENDADOS"
+                            ],
+                            "termsConditions": "https://www.banrisul.com.br/bob/link/bobw03hn_conteudo_detalhe2.aspx?secao_id=296",
+                            "type": "ANTECIPACAO_FATURA_CARTAO_CREDITO"
+                        }
+                    ],
+                    "urlComplementaryList": "https://www.banrisul.com.br/bob/link/bobw03hn_conteudo_detalhe2.aspx?secao_id=296"
+                },
+                {
+                    "cnpjNumber": "92702067000277",
+                    "name": "Banco do Estado do Rio Grande do Sul S.A - AZENHA",
+                    "personalInvoiceFinancings": [
+                        {
+                            "fees": {
+                                "services": [
+                                    {
+                                        "chargingTriggerInfo": "5% do valor do contrato",
+                                        "code": "MANUTENCAO_CUSTODIA",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "10000.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "0.00"
+                                        },
+                                        "name": "Manutenção de Custódia",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0500"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "100.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.4500"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "1000.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.5000"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "10000.00"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.1000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0050"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.4000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0200"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0300"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0670"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0670",
+                                    "minimumRate": "0.0050",
+                                    "rate": "0.10",
+                                    "referentialRateIndexer": "OUTROS_INDICES_PRECO"
+                                }
+                            ],
+                            "requiredWarranties": [
+                                "BENS_ARRENDADOS"
+                            ],
+                            "termsConditions": "https://www.banrisul.com.br/bob/link/bobw03hn_conteudo_detalhe2.aspx?secao_id=296",
+                            "type": "ANTECIPACAO_FATURA_CARTAO_CREDITO"
+                        }
+                    ],
+                    "urlComplementaryList": "https://www.banrisul.com.br/bob/link/bobw03hn_conteudo_detalhe2.aspx?secao_id=296"
+                },
+                {
+                    "cnpjNumber": "92702067000358",
+                    "name": "Banco do Estado do Rio Grande do Sul S.A - BONFIM",
+                    "personalInvoiceFinancings": [
+                        {
+                            "fees": {
+                                "services": [
+                                    {
+                                        "chargingTriggerInfo": "5% do valor do contrato",
+                                        "code": "MANUTENCAO_CUSTODIA",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "10000.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "0.00"
+                                        },
+                                        "name": "Manutenção de Custódia",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0500"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "100.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.4500"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "1000.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.5000"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "10000.00"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.1000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0050"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.4000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0200"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0300"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0670"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0670",
+                                    "minimumRate": "0.0050",
+                                    "rate": "0.10",
+                                    "referentialRateIndexer": "OUTROS_INDICES_PRECO"
+                                }
+                            ],
+                            "requiredWarranties": [
+                                "BENS_ARRENDADOS"
+                            ],
+                            "termsConditions": "https://www.banrisul.com.br/bob/link/bobw03hn_conteudo_detalhe2.aspx?secao_id=296",
+                            "type": "ANTECIPACAO_FATURA_CARTAO_CREDITO"
+                        }
+                    ],
+                    "urlComplementaryList": "https://www.banrisul.com.br/bob/link/bobw03hn_conteudo_detalhe2.aspx?secao_id=296"
+                },
+                {
+                    "cnpjNumber": "92702067000439",
+                    "name": "Banco do Estado do Rio Grande do Sul S.A - CAMINHO DO MEIO",
+                    "personalInvoiceFinancings": [
+                        {
+                            "fees": {
+                                "services": [
+                                    {
+                                        "chargingTriggerInfo": "5% do valor do contrato",
+                                        "code": "MANUTENCAO_CUSTODIA",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "10000.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "0.00"
+                                        },
+                                        "name": "Manutenção de Custódia",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0500"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "100.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.4500"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "1000.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.5000"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "10000.00"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.1000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0050"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.4000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0200"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0300"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0670"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0670",
+                                    "minimumRate": "0.0050",
+                                    "rate": "0.10",
+                                    "referentialRateIndexer": "OUTROS_INDICES_PRECO"
+                                }
+                            ],
+                            "requiredWarranties": [
+                                "BENS_ARRENDADOS"
+                            ],
+                            "termsConditions": "https://www.banrisul.com.br/bob/link/bobw03hn_conteudo_detalhe2.aspx?secao_id=296",
+                            "type": "ANTECIPACAO_FATURA_CARTAO_CREDITO"
+                        }
+                    ],
+                    "urlComplementaryList": "https://www.banrisul.com.br/bob/link/bobw03hn_conteudo_detalhe2.aspx?secao_id=296"
+                },
+                {
+                    "cnpjNumber": "92702067000510",
+                    "name": "Banco do Estado do Rio Grande do Sul S.A - CIDADE BAIXA",
+                    "personalInvoiceFinancings": [
+                        {
+                            "fees": {
+                                "services": [
+                                    {
+                                        "chargingTriggerInfo": "5% do valor do contrato",
+                                        "code": "MANUTENCAO_CUSTODIA",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "10000.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "0.00"
+                                        },
+                                        "name": "Manutenção de Custódia",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0500"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "100.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.4500"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "1000.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.5000"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "10000.00"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.1000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0050"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.4000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0200"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0300"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0670"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0670",
+                                    "minimumRate": "0.0050",
+                                    "rate": "0.10",
+                                    "referentialRateIndexer": "OUTROS_INDICES_PRECO"
+                                }
+                            ],
+                            "requiredWarranties": [
+                                "BENS_ARRENDADOS"
+                            ],
+                            "termsConditions": "https://www.banrisul.com.br/bob/link/bobw03hn_conteudo_detalhe2.aspx?secao_id=296",
+                            "type": "ANTECIPACAO_FATURA_CARTAO_CREDITO"
+                        }
+                    ],
+                    "urlComplementaryList": "https://www.banrisul.com.br/bob/link/bobw03hn_conteudo_detalhe2.aspx?secao_id=296"
+                },
+                {
+                    "cnpjNumber": "92702067000609",
+                    "name": "Banco do Estado do Rio Grande do Sul S.A - COLISEU",
+                    "personalInvoiceFinancings": [
+                        {
+                            "fees": {
+                                "services": [
+                                    {
+                                        "chargingTriggerInfo": "5% do valor do contrato",
+                                        "code": "MANUTENCAO_CUSTODIA",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "10000.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "0.00"
+                                        },
+                                        "name": "Manutenção de Custódia",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0500"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "100.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.4500"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "1000.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.5000"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "10000.00"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.1000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0050"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.4000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0200"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0300"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0670"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0670",
+                                    "minimumRate": "0.0050",
+                                    "rate": "0.10",
+                                    "referentialRateIndexer": "OUTROS_INDICES_PRECO"
+                                }
+                            ],
+                            "requiredWarranties": [
+                                "BENS_ARRENDADOS"
+                            ],
+                            "termsConditions": "https://www.banrisul.com.br/bob/link/bobw03hn_conteudo_detalhe2.aspx?secao_id=296",
+                            "type": "ANTECIPACAO_FATURA_CARTAO_CREDITO"
+                        }
+                    ],
+                    "urlComplementaryList": "https://www.banrisul.com.br/bob/link/bobw03hn_conteudo_detalhe2.aspx?secao_id=296"
+                },
+                {
+                    "cnpjNumber": "92702067000781",
+                    "name": "Banco do Estado do Rio Grande do Sul S.A - CRISTO REDENTOR",
+                    "personalInvoiceFinancings": [
+                        {
+                            "fees": {
+                                "services": [
+                                    {
+                                        "chargingTriggerInfo": "5% do valor do contrato",
+                                        "code": "MANUTENCAO_CUSTODIA",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "10000.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "0.00"
+                                        },
+                                        "name": "Manutenção de Custódia",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0500"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "100.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.4500"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "1000.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.5000"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "10000.00"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.1000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0050"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.4000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0200"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0300"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0670"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0670",
+                                    "minimumRate": "0.0050",
+                                    "rate": "0.10",
+                                    "referentialRateIndexer": "OUTROS_INDICES_PRECO"
+                                }
+                            ],
+                            "requiredWarranties": [
+                                "BENS_ARRENDADOS"
+                            ],
+                            "termsConditions": "https://www.banrisul.com.br/bob/link/bobw03hn_conteudo_detalhe2.aspx?secao_id=296",
+                            "type": "ANTECIPACAO_FATURA_CARTAO_CREDITO"
+                        }
+                    ],
+                    "urlComplementaryList": "https://www.banrisul.com.br/bob/link/bobw03hn_conteudo_detalhe2.aspx?secao_id=296"
+                },
+                {
+                    "cnpjNumber": "92702067000862",
+                    "name": "Banco do Estado do Rio Grande do Sul S.A - FLORESTA",
+                    "personalInvoiceFinancings": [
+                        {
+                            "fees": {
+                                "services": [
+                                    {
+                                        "chargingTriggerInfo": "5% do valor do contrato",
+                                        "code": "MANUTENCAO_CUSTODIA",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "10000.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "0.00"
+                                        },
+                                        "name": "Manutenção de Custódia",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0500"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "100.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.4500"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "1000.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.5000"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "10000.00"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.1000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0050"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.4000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0200"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0300"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0670"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0670",
+                                    "minimumRate": "0.0050",
+                                    "rate": "0.10",
+                                    "referentialRateIndexer": "OUTROS_INDICES_PRECO"
+                                }
+                            ],
+                            "requiredWarranties": [
+                                "BENS_ARRENDADOS"
+                            ],
+                            "termsConditions": "https://www.banrisul.com.br/bob/link/bobw03hn_conteudo_detalhe2.aspx?secao_id=296",
+                            "type": "ANTECIPACAO_FATURA_CARTAO_CREDITO"
+                        }
+                    ],
+                    "urlComplementaryList": "https://www.banrisul.com.br/bob/link/bobw03hn_conteudo_detalhe2.aspx?secao_id=296"
+                },
+                {
+                    "cnpjNumber": "92702067000943",
+                    "name": "Banco do Estado do Rio Grande do Sul S.A - GLORIA",
+                    "personalInvoiceFinancings": [
+                        {
+                            "fees": {
+                                "services": [
+                                    {
+                                        "chargingTriggerInfo": "5% do valor do contrato",
+                                        "code": "MANUTENCAO_CUSTODIA",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "10000.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "0.00"
+                                        },
+                                        "name": "Manutenção de Custódia",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0500"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "100.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.4500"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "1000.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.5000"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "10000.00"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.1000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0050"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.4000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0200"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0300"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0670"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0670",
+                                    "minimumRate": "0.0050",
+                                    "rate": "0.10",
+                                    "referentialRateIndexer": "OUTROS_INDICES_PRECO"
+                                }
+                            ],
+                            "requiredWarranties": [
+                                "BENS_ARRENDADOS"
+                            ],
+                            "termsConditions": "https://www.banrisul.com.br/bob/link/bobw03hn_conteudo_detalhe2.aspx?secao_id=296",
+                            "type": "ANTECIPACAO_FATURA_CARTAO_CREDITO"
+                        }
+                    ],
+                    "urlComplementaryList": "https://www.banrisul.com.br/bob/link/bobw03hn_conteudo_detalhe2.aspx?secao_id=296"
+                },
+                {
+                    "cnpjNumber": "92702067001087",
+                    "name": "Banco do Estado do Rio Grande do Sul S.A - MENINO DEUS",
+                    "personalInvoiceFinancings": [
+                        {
+                            "fees": {
+                                "services": [
+                                    {
+                                        "chargingTriggerInfo": "5% do valor do contrato",
+                                        "code": "MANUTENCAO_CUSTODIA",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "10000.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "0.00"
+                                        },
+                                        "name": "Manutenção de Custódia",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0500"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "100.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.4500"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "1000.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.5000"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "10000.00"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.1000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0050"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.4000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0200"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0300"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0670"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0670",
+                                    "minimumRate": "0.0050",
+                                    "rate": "0.10",
+                                    "referentialRateIndexer": "OUTROS_INDICES_PRECO"
+                                }
+                            ],
+                            "requiredWarranties": [
+                                "BENS_ARRENDADOS"
+                            ],
+                            "termsConditions": "https://www.banrisul.com.br/bob/link/bobw03hn_conteudo_detalhe2.aspx?secao_id=296",
+                            "type": "ANTECIPACAO_FATURA_CARTAO_CREDITO"
+                        }
+                    ],
+                    "urlComplementaryList": "https://www.banrisul.com.br/bob/link/bobw03hn_conteudo_detalhe2.aspx?secao_id=296"
+                }
+            ],
+            "name": "Banco do Estado do Rio Grande do Sul S.A"
+        }
+    },
+    "links": {
+        "first": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-invoice-financings?page=1&page-size=10",
+        "last": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-invoice-financings?page=52&page-size=10",
+        "next": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-invoice-financings?page=2&page-size=10",
+        "self": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-invoice-financings?page=1&page-size=10"
+    },
+    "meta": {
+        "totalPages": 52,
+        "totalRecords": 516
+    }
+}

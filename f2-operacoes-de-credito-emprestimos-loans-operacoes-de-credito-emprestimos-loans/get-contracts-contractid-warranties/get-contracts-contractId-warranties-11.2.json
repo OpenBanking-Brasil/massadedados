@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "currency": "BRL",
+            "warrantyType": "PENHOR",
+            "warrantySubType": "VEICULOS",
+            "warrantyAmount": 83239.0000
+        },
+        {
+            "currency": "BRL",
+            "warrantyType": "PENHOR",
+            "warrantySubType": "VEICULOS",
+            "warrantyAmount": 86400.0000
+        }
+    ],
+    "links": {
+        "self": "https://api.baninter.com/open-banking/loans/v1/contracts/rurjqnkh-6pub-x5qc-3dtr-2qad4n74i3cu/warranties"
+    },
+    "meta": {
+        "totalRecords": 2,
+        "totalPages": 1,
+        "requestDateTime": "2021-12-10T00:00:00Z"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "currency": "BRL",
+            "warrantyType": "PENHOR",
+            "warrantySubType": "OUTROS",
+            "warrantyAmount": 450000.0000
+        }
+    ],
+    "links": {
+        "self": "https://openbanking.api.santander.com.br/open-banking/loans/v1/contracts/15thr536-9607-e911-80e0-1asoi1p5c650/warranties"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-07-05T00:00:00Z"
+    }
+}

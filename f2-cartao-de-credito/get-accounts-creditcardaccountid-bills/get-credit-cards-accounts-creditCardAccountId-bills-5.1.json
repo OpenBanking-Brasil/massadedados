@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "billId": "c605833a-3518-4f2f-8df2-cacdc6d8b9b4",
+            "billMinimumAmount": 56.4000,
+            "billMinimumAmountCurrency": "BRL",
+            "billTotalAmount": 376.0000,
+            "billTotalAmountCurrency": "BRL",
+            "dueDate": "2021-06-10",
+            "financeCharges": [
+                {
+                    "additionalInfo": "NA",
+                    "amount": 120.5400,
+                    "currency": "BRL",
+                    "type": "JUROS_REMUNERATORIOS_ATRASO_PAGAMENTO_FATURA"
+                },
+                {
+                    "additionalInfo": "NA",
+                    "amount": 220.2020,
+                    "currency": "BRL",
+                    "type": "MULTA_ATRASO_PAGAMENTO_FATURA"
+                }
+            ],
+            "isInstalment": false,
+            "payments": [
+                {
+                    "valueType": "OUTRO_VALOR_PAGO_FATURA",
+                    "paymentDate": "2021-06-11",
+                    "paymentMode": "BOLETO_BANCARIO",
+                    "amount": 56.4000,
+                    "currency": "BRL"
+                }
+            ]
+        }
+    ],
+    "links": {
+        "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/f116b8b0-d64f-4c89-91e3-8022915366ab/bills?fromDueDate=2021-06-01"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-12-15T09:41:00Z"
+    }
+}

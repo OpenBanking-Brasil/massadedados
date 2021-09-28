@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "Ourocard Elo Grafite",
+    "productType": "GRAFITE",
+    "productAdditionalInfo": "NA",
+    "creditCardNetwork": "ELO",
+    "networkAdditionalInfo": "NA",
+    "paymentMethod": {
+      "identificationNumber": "3783",
+      "isMultipleCreditCard": true
+    }
+  },
+  "links": {
+    "self": "https://opendata.api.bb.com.br/open-banking/credit-cards-accounts/v1/accounts/1198c730-9941-4215-8925-95ea536214c3"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-03-28T00:00:00Z"
+  }
+}

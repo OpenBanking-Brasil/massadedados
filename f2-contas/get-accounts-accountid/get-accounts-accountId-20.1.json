@@ -1,0 +1,19 @@
+{
+    "data": {
+        "compeCode": "033",
+        "branchCode": "4332",
+        "number": "43567324",
+        "checkDigit": "9",
+        "type": "CONTA_POUPANCA",
+        "subtype": "INDIVIDUAL",
+        "currency": "BRL"
+    },
+    "links": {
+        "self": "https://openbanking.api.santander.com.br/open-banking/accounts/v1/accounts/d448bbb0-9d53-306f-816a-d59c12d73630"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-07-18T16:11:05Z"
+    }
+} 

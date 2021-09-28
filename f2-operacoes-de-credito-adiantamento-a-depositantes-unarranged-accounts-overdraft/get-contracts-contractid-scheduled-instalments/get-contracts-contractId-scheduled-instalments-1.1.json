@@ -1,0 +1,26 @@
+{
+    "data": {
+        "typeNumberOfInstalments": "MES",
+        "totalNumberOfInstalments": 5,
+        "typeContractRemaining": "MES",
+        "contractRemainingNumber": 3,
+        "paidInstalments": 2,
+        "dueInstalments": 3,
+        "pastDueInstalments": 0,
+        "balloonPayments": [
+            {
+                "dueDate": "2021-03-01",
+                "currency": "BRL",
+                "amount": 424.9900
+            }
+        ]
+    },
+    "links": {
+        "self": "https://opendata.api.bb.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/5e57608a-9053-4613-b28c-cc5ee139b554/scheduled-installments"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-05-27T16:37:00Z"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "data": {
+        "typeNumberOfInstalments": "MES",
+        "totalNumberOfInstalments": 5,
+        "typeContractRemaining": "MES",
+        "contractRemainingNumber": 0,
+        "paidInstalments": 5,
+        "dueInstalments": 0,
+        "pastDueInstalments": 0,
+        "balloonPayments": [
+            {
+                "dueDate": "2020-10-15",
+                "currency": "BRL",
+                "amount": 1633.7800
+            },
+            {
+                "dueDate": "2020-09-15",
+                "currency": "BRL",
+                "amount": 1633.7800
+            },
+            {
+                "dueDate": "2020-08-15",
+                "currency": "BRL",
+                "amount": 1633.7800
+            },
+            {
+                "dueDate": "2020-07-15",
+                "currency": "BRL",
+                "amount": 1633.7800
+            },
+            {
+                "dueDate": "2020-06-15",
+                "currency": "BRL",
+                "amount": 1633.7800
+            }
+        ]
+    },
+    "links": {
+        "self": "https://openbanking.banrisul.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/657cfd40-a1b8-35fa-85f5-666f79afb63e/scheduled-instalments"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-07-02T08:54:00Z"
+    }
+}

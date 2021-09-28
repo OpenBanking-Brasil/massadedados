@@ -1,0 +1,25 @@
+{
+    "data": {
+        "loggedUser": {
+            "document": {
+                "identification": "96644087000",
+                "rel": "CPF"
+            }
+        },
+        "permissions": [
+            "CUSTOMERS_PERSONAL_IDENTIFICATIONS_READ",
+            "CUSTOMERS_PERSONAL_ADITTIONALINFO_READ",
+            "CREDIT_CARDS_ACCOUNTS_READ",
+            "CREDIT_CARDS_ACCOUNTS_BILLS_READ",
+            "CREDIT_CARDS_ACCOUNTS_BILLS_TRANSACTIONS_READ",
+            "CREDIT_CARDS_ACCOUNTS_LIMITS_READ",
+            "CREDIT_CARDS_ACCOUNTS_TRANSACTIONS_READ",
+            "INVOICE_FINANCINGS_READ",
+            "INVOICE_FINANCINGS_SCHEDULED_INSTALMENTS_READ",
+            "INVOICE_FINANCINGS_PAYMENTS_READ",
+            "INVOICE_FINANCINGS_WARRANTIES_READ",
+            "RESOURCES_READ"
+        ],
+        "expirationDateTime": "2022-03-25T14:00:00Z"
+    }
+}

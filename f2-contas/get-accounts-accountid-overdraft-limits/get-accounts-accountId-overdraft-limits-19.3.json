@@ -1,0 +1,18 @@
+{
+    "data": {
+        "overdraftContractedLimit": 10000.0000,
+        "overdraftContractedLimitCurrency": "BRL",
+        "overdraftUsedLimit": 10000.0000,
+        "overdraftUsedLimitCurrency": "BRL",
+        "unarrangedOverdraftAmount": 1000.0000,
+        "unarrangedOverdraftAmountCurrency": "BRL"
+    },
+    "links": {
+        "self": "https://api.bradesco.com/bradesco/open-banking/accounts/v1/accounts/142fb6cc-d995-11eb-b8bc-0242ac130003/overdraft-limits"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-05-25T15:46:00Z"
+    }
+}

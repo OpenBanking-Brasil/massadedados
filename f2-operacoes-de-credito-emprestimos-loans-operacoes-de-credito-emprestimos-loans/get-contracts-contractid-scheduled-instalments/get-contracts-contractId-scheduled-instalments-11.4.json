@@ -1,0 +1,31 @@
+{
+    "data": {
+        "typeNumberOfInstalments": "MES",
+        "totalNumberOfInstalments": 12,
+        "typeContractRemaining": "MES",
+        "contractRemainingNumber": 7,
+        "paidInstalments": 5,
+        "dueInstalments": 7,
+        "pastDueInstalments": 0,
+        "balloonPayments": [
+            {
+                "dueDate": "2007-06-25",
+                "currency": "BRL",
+                "amount": 49221.4500
+            },
+            {
+                "dueDate": "2007-06-15",
+                "currency": "BRL",
+                "amount": 49221.4500
+            }
+        ]
+    },
+    "links": {
+        "self": "https://api.baninter.com/open-banking/loans/v1/contracts/okangw8q-m4ma-tb08-rcem-tftbc8j4pk8j/scheduled-instalments"
+    },
+    "meta": {
+        "totalRecords": 2,
+        "totalPages": 1,
+        "requestDateTime": "2021-12-10T00:00:00Z"
+    }
+}

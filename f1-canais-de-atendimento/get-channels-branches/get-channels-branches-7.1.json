@@ -1,0 +1,236 @@
+{
+    "data": {
+        "brand": {
+            "name": "Banco Inter S.A.",
+            "companies": [
+                {
+                    "name": "Banco Inter S.A.",
+                    "cnpjNumber": "00416968000101",
+                    "branches": [
+                        {
+                            "identification": {
+                                "type": "AGENCIA",
+                                "code": "0001",
+                                "checkDigit": "9",
+                                "name": "Matriz",
+                                "relatedBranch": "0001",
+                                "openingDate": "2005-11-03"
+                            },
+                            "postalAddress": {
+                                "address": "Av. Barbacena, 1219",
+                                "additionalInfo": "Andar 13 ao 24",
+                                "districtName": "Santo Agostinho",
+                                "townName": "Belo Horizonte",
+                                "ibgeCode": "3106200",
+                                "countrySubDivision": "MG",
+                                "postCode": "30190131",
+                                "country": "Brasil",
+                                "countryCode": "BRA",
+                                "geographicCoordinates": {
+                                    "latitude": "-19.92792750",
+                                    "longitude": "-43.95060370"
+                                }
+                            },
+                            "availability": {
+                                "standards": [
+                                    {
+                                        "weekday": "SEGUNDA_FEIRA",
+                                        "openingTime": "11:00:00Z",
+                                        "closingTime": "16:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "TERCA_FEIRA",
+                                        "openingTime": "11:00:00Z",
+                                        "closingTime": "16:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "QUARTA_FEIRA",
+                                        "openingTime": "11:00:00Z",
+                                        "closingTime": "16:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "QUINTA_FEIRA",
+                                        "openingTime": "11:00:00Z",
+                                        "closingTime": "16:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "SEXTA_FEIRA",
+                                        "openingTime": "11:00:00Z",
+                                        "closingTime": "16:00:00Z"
+                                    }
+                                ],
+                                "exception": "Exceto feriados municipais, estaduais e nacionais",
+                                "isPublicAccessAllowed": true
+                            },
+                            "phones": [
+                                {
+                                    "type": "FIXO",
+                                    "countryCallingCode": "55",
+                                    "areaCode": "31",
+                                    "number": " 21017000"
+                                }
+                            ],
+                            "services": [
+                                {
+                                    "code": "ABRE_CONTA_DEPOSITO_OU_PRE_PAGA",
+                                    "name": "ABERTURA_CONTAS_DEPOSITOS_OU_PAGAMENTO_PRE_PAGA"
+                                },
+                                {
+                                    "code": "SAQUE_MOEDA_ESPECIE",
+                                    "name": "SAQUE_MOEDA_EM_ESPECIE"
+                                },
+                                {
+                                    "code": "RECEBE_PAGA_QUALQUER_NATUREZA",
+                                    "name": "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA"
+                                },
+                                {
+                                    "code": "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+                                    "name": "TRANSFERENCIAS_ELETRONICAS_VISANDO_MOVIMENTACAO_CONTAS_DEPOSITOS_OU_PAGAMENTO_TITULARIDADE_CLIENTES"
+                                },
+                                {
+                                    "code": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_PAGTOS",
+                                    "name": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS"
+                                },
+                                {
+                                    "code": "APLICA_RESGATA_INVESTIMENTOS",
+                                    "name": "APLICACOES_RESGATES_INVESTIMENTOS"
+                                },
+                                {
+                                    "code": "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGTO",
+                                    "name": "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_SOLICITACAO_CLIENTES_USUARIOS"
+                                },
+                                {
+                                    "code": "DEPOSITO_MOEDA_ESPECIE_CHEQUE",
+                                    "name": "DEPOSITOS_MOEDA_ESPECIE_CHEQUE"
+                                },
+                                {
+                                    "code": "OPERA_CREDITO_OUTROS_SERVICOS_ACOMPANHA_OPERACAO",
+                                    "name": "OPERACOES_CREDITO_BEM_COMO_OUTROS_SERVICOS_PRESTADOS_ACOMPANHAMENTO_OPERACAO"
+                                },
+                                {
+                                    "code": "CARTAO_CREDITO",
+                                    "name": "CARTAO_CREDITO"
+                                },
+                                {
+                                    "code": "SEGUROS",
+                                    "name": "SEGUROS"
+                                },
+                                {
+                                    "code": "OPERA_ARRENDAMENTO_MERCANTIL",
+                                    "name": "OPERACOES_ARRENDAMENTO_MERCANTIL"
+                                },
+                                {
+                                    "code": "ABERTURA_CONTA_PAGAMENTO_POS_PAGA",
+                                    "name": "ABERTURA_CONTA_PAGAMENTO_POS_PAGA"
+                                },
+                                {
+                                    "code": "COMPRA_VENDA_MOEDA_ESTRANGEIRA_ESPECIE",
+                                    "name": "COMPRA_VENDA_MOEDA_ESTRANGEIRA_ESPECIE"
+                                },
+                                {
+                                    "code": "INFORMACOES",
+                                    "name": "INFORMACOES"
+                                },
+                                {
+                                    "code": "RECLAMACOES",
+                                    "name": "RECLAMACOES"
+                                },
+                                {
+                                    "code": "CANCELAMENTO",
+                                    "name": "CANCELAMENTO"
+                                },
+                                {
+                                    "name": "OUTROS_PRODUTOS_SERVICOS",
+                                    "code": "OUTROS_PRODUTOS_SERVICOS",
+                                    "additionalInfo": "Renegociação"
+                                },
+                                {
+                                    "code": "OUTROS_PRODUTOS_SERVICOS",
+                                    "name": "OUTROS_PRODUTOS_SERVICOS",
+                                    "additionalInfo": "Depósito de cheque na conta digital"
+                                }
+                            ]
+                        },
+                        {
+                            "identification": {
+                                "type": "UNIDADE_ADMINISTRATIVA_DESMEMBRADA",
+                                "code": "0001",
+                                "checkDigit": "9",
+                                "name": "Sede Social",
+                                "openingDate": "1995-06-03"
+                            },
+                            "postalAddress": {
+                                "address": "Av. do Contorno, 7.777",
+                                "additionalInfo": "3o andar",
+                                "districtName": "Lourdes",
+                                "townName": "Belo Horizonte",
+                                "ibgeCode": "3106200",
+                                "countrySubDivision": "MG",
+                                "postCode": "30110051",
+                                "country": "Brasil",
+                                "countryCode": "BRA",
+                                "geographicCoordinates": {
+                                    "latitude": "-19.9351",
+                                    "longitude": "-43.9484"
+                                }
+                            },
+                            "availability": {
+                                "standards": [
+                                    {
+                                        "weekday": "SEGUNDA_FEIRA",
+                                        "openingTime": "11:00:00Z",
+                                        "closingTime": "16:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "TERCA_FEIRA",
+                                        "openingTime": "11:00:00Z",
+                                        "closingTime": "16:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "QUARTA_FEIRA",
+                                        "openingTime": "11:00:00Z",
+                                        "closingTime": "16:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "QUINTA_FEIRA",
+                                        "openingTime": "11:00:00Z",
+                                        "closingTime": "16:00:00Z"
+                                    },
+                                    {
+                                        "weekday": "SEXTA_FEIRA",
+                                        "openingTime": "11:00:00Z",
+                                        "closingTime": "16:00:00Z"
+                                    }
+                                ],
+                                "exception": "Exceto feriados municipais, estaduais e nacionais",
+                                "isPublicAccessAllowed": false
+                            },
+                            "phones": [
+                                {
+                                    "type": "FIXO",
+                                    "countryCallingCode": "55",
+                                    "areaCode": "31",
+                                    "number": " 21017000"
+                                }
+                            ],
+                            "services": [
+                                {
+                                    "name": "OUTROS_PRODUTOS_SERVICOS",
+                                    "code": "OUTROS_PRODUTOS_SERVICOS",
+                                    "additionalInfo": "Serviços administrativos"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "links": {
+        "self": "https://api.baninter.com/open-banking/channels/v1/branches"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1
+    }
+}

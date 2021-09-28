@@ -1,0 +1,40 @@
+
+{ 
+  "data": {
+    "updateDateTime": "2021-05-25T08:30:00Z",
+    "startDate": "2021-05-25T08:30:00Z",
+    "productsServicesType": [
+	    "CONTA_DEPOSITO_A_VISTA",
+	    "SEGURO",
+	    "PREVIDENCIA",
+	    "INVESTIMENTO",
+	    "CONTA_SALARIO"
+	  ],
+    "procurators": [
+      {
+        "type": "NAO_SE_APLICA",
+        "cpfNumber": "NA",
+        "civilName": "NA",
+        "socialName": "NA"
+      }
+    ],
+    "accounts": [
+      {
+        "compeCode": "104",
+        "branchCode": "3690",
+        "number": "85200147",
+        "checkDigit": "6",
+        "type": "CONTA_DEPOSITO_A_VISTA",
+        "subtype": "INDIVIDUAL"
+      }	  
+    ]
+  },
+  "links": {
+    "self": "https://api.caixa.gov.br/open-banking/customers/v1/personal/financial-relations"
+  },
+  "meta": {
+    "totalRecords": 5,
+    "totalPages": 1,
+    "requestDateTime": "2021-08-27T08:09:15Z"
+  }
+}

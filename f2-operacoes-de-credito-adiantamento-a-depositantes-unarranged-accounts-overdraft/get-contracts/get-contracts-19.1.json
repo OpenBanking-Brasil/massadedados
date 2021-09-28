@@ -1,0 +1,36 @@
+{
+    "data": [
+      {
+        "contractId": "bc679050-515e-3cd8-9cc2-ed9c60725862",
+        "brandName": "Banco Santander (BRASIL) S.A.",
+        "companyCnpj": "90400888000142",
+        "productType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "productSubType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "ipocCode": "90400888010120712328865498450006884113001"
+      },
+      {
+        "contractId": "ff7e0fe1-bd0f-3592-9af3-5e890160dc2f",
+        "brandName": "Banco Santander (BRASIL) S.A.",
+        "companyCnpj": "90400888000142",
+        "productType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "productSubType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "ipocCode": "90400888010120712328865498487535632663267"
+      },
+      {
+        "contractId": "8ef28a76-af16-3b68-9385-1ea1ccbc84eb",
+        "brandName": "Banco Santander (BRASIL) S.A.",
+        "companyCnpj": "90400888000142",
+        "productType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "productSubType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "ipocCode": "90400888010120712328865498487032587777100"
+      }
+    ],
+    "links": {
+      "self": "https://openbanking.api.santander.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts"
+    },
+    "meta": {
+      "totalRecords": 3,
+      "totalPages": 1,
+      "requestDateTime": "2021-05-19T10:42:00Z"
+    }
+}

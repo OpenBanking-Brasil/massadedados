@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "brandName": "Banco Itaú Unibanco S.A.",
+            "companyCnpj": "60701190000104",
+            "type": "CONTA_DEPOSITO_A_VISTA",
+            "compeCode": "341",
+            "branchCode": "0004",
+            "number": "04088",
+            "checkDigit": "0",
+            "accountId": "ba0471bc-d910-11eb-b8bc-0242ac130003"
+        },
+        {
+            "brandName": "Banco Itaú Unibanco S.A.",
+            "companyCnpj": "60701190000104",
+            "type": "CONTA_POUPANCA",
+            "compeCode": "341",
+            "branchCode": "0004",
+            "number": "57848",
+            "checkDigit": "1",
+            "accountId": "c0075f16-d910-11eb-b8bc-0242ac130003"
+        }
+        
+
+    ],
+    "links": {
+        "self": "https://api.itau/open-banking/accounts/v1/accounts"
+    },
+    "meta": {
+        "totalRecords": 2,
+        "totalPages": 1,
+        "requestDateTime": "2021-05-25T13:48:00Z"
+    }
+}

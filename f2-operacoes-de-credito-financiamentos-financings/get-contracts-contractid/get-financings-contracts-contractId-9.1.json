@@ -1,0 +1,63 @@
+{
+  "data": {
+    "contractNumber": "18061493403110792119751740044492525769252",
+    "ipocCode": "60701190080113358275078796903285001244488",
+    "productName": "Crédito Pessoal Consignado",
+    "productType": "FINANCIAMENTOS_RURAIS",
+    "productSubType": "CUSTEIO",
+    "contractDate": "2011-01-15",
+    "settlementDate": "NA",
+    "contractAmount": 105000.4000,
+    "currency": "BRL",
+    "dueDate": "2027-01-15",
+    "instalmentPeriodicity": "ANUAL",
+    "instalmentPeriodicityAdditionalInfo": "NA",
+    "firstInstalmentDueDate": "2012-01-15",
+    "CET": 0.0200,
+    "amortizationScheduled": "SAC",
+    "amortizationScheduledAdditionalInfo": "NA",
+    "interestRates": [
+      {
+        "taxType": "NOMINAL",
+        "interestRateType": "COMPOSTO",
+        "taxPeriodicity": "AA",
+        "calculation": "21/252",
+        "referentialRateIndexerType": "PRE_FIXADO",
+        "referentialRateIndexerSubType": "PRE_FIXADO",
+        "preFixedRate": 0.0200,
+        "postFixedRate": 0.0000,
+        "additionalInfo": "NA"
+      }
+    ],
+    "contractedFees": [
+      {
+        "feeName": "Taxa de administração",
+        "feeCode": "ADMINISTRACAO",
+        "feeChargeType": "POR_PARCELA",
+        "feeCharge": "MAXIMO",
+        "feeAmount": 54.0000,
+        "feeRate": 0.0000
+      }
+    ],
+    "contractedFinanceCharges": [
+      {
+        "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
+        "chargeAdditionalInfo": "NA",
+        "chargeRate": 0.0700
+      },
+      {
+        "chargeType": "IOF_CONTRATACAO",
+        "chargeAdditionalInfo": "NA",
+        "chargeAmount": 128.5400
+      }
+    ]
+  },
+  "links": {
+    "self": "https://api.itau.com.br/open-banking/financings/v1/contracts/5965115d-fb63-3303-896c-9fe089427e22"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-05-21T08:30:00Z"
+  }
+}

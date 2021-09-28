@@ -1,0 +1,18 @@
+{
+  "data": {
+    "availableAmount": 0.0000,
+    "availableAmountCurrency": "BRL",
+    "blockedAmount": 0.0000,
+    "blockedAmountCurrency": "BRL",
+    "automaticallyInvestedAmount": 0.0000,
+    "automaticallyInvestedAmountCurrency": "BRL"
+  },
+  "links": {
+    "self": "https://openbanking.banrisul.com.br/open-banking/accounts/v1/accounts/1a9df2e9-baa7-3c8f-98b8-cc2d56211275/balances"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-12-26T12:12:00Z"
+  }
+}

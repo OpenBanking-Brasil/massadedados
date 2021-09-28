@@ -1,0 +1,26 @@
+{
+    "data": {
+        "typeNumberOfInstalments": "SEM_PRAZO_TOTAL",
+        "totalNumberOfInstalments": 6,
+        "typeContractRemaining": "SEM_PRAZO_REMANESCENTE",
+        "contractRemainingNumber": 0,
+        "paidInstalments": 6,
+        "dueInstalments": 0,
+        "pastDueInstalments": 0,
+        "balloonPayments": [
+            {
+                "dueDate": "2019-08-27",
+                "currency": "BRL",
+                "amount": 30000.0000
+            }         
+        ]
+    },
+    "links": {
+        "self": "https://api.baninter.com/open-banking/loans/v1/contracts/a5324555-53c8-3e0c-a981-21c2eca7e68d/scheduled-instalments"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-12-09T10:56:00Z"
+    }
+}

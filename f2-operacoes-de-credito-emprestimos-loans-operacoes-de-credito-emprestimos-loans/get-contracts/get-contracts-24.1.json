@@ -1,0 +1,21 @@
+{
+    "data": [
+        {
+            "contractId": "befb174b-b96f-381e-9150-effa8dc43c7e",
+            "brandName": "Caixa Econômica Federal",
+            "companyCnpj": "00360305000104",
+            "productType": "EMPRESTIMOS",
+            "productSubType": "CAPITAL_GIRO_TETO_ROTATIVO",
+            "ipocCode": "00360305021723086749700010000856578421698"
+        }
+    ],
+    "links": {
+        "self": "https://api.caixa.gov.br/open-banking/loans/v1/contracts"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-10-02T16:14:00Z"
+    }
+}
+

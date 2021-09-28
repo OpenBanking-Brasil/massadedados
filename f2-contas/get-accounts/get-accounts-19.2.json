@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "brandName": "Banco Santander (BRASIL) S.A.",
+            "companyCnpj": "90400888000142",
+            "type": "CONTA_DEPOSITO_A_VISTA",
+            "compeCode": "033",
+            "branchCode": "0670",
+            "number": "1070631",
+            "checkDigit": "3",
+            "accountId": "312f5666-d912-11eb-b8bc-0242ac130003"
+        }        
+
+    ],
+    "links": {
+        "self": "https://openbanking.api.santander.com.br/open-banking/accounts/v1/accounts"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-05-25T13:48:00Z"
+    }
+}

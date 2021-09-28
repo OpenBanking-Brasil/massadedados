@@ -1,0 +1,61 @@
+{
+    "data": {
+        "contractNumber": "001654056488",
+        "ipocCode": "000000000203296542746001654056488",
+        "productName": "Crédito Pessoal Sem Consignado",
+        "productType": "EMPRESTIMOS",
+        "productSubType": "CREDITO_PESSOAL_SEM_CONSIGNACAO",
+        "contractDate": "2019-06-04",
+        "disbursementDate": "2019-06-04",
+        "settlementDate": "NA",
+        "contractAmount": 2797000.0000,
+        "currency": "BRL",
+        "dueDate": "2025-12-04",
+        "instalmentPeriodicity": "QUINZENAL",
+        "instalmentPeriodicityAdditionalInfo": "NA",
+        "firstInstalmentDueDate": "2019-06-18",
+        "CET": 0.0160,
+        "amortizationScheduled": "SAM",
+        "amortizationScheduledAdditionalInfo": "NA",
+        "cnpjConsignee": "00000000000191",
+        "interestRates": [
+            {
+                "taxType": "EFETIVA",
+                "interestRateType": "SIMPLES",
+                "taxPeriodicity": "AM",
+                "calculation": "30/365",
+                "referentialRateIndexerType": "CREDITO_RURAL",
+                "referentialRateIndexerSubType": "TRFC_POS",
+                "referentialRateIndexerAdditionalInfo": "NA",
+                "preFixedRate": 0.0000,
+                "postFixedRate": 0.0140,
+                "additionalInfo": "O percentual da taxa vai acompanhar percentualmente a taxa Selic."
+            }
+        ],
+        "contractedFees": [
+            {
+                "feeName": "Taxa de manutenção",
+                "feeCode": "MANUTENCAO",
+                "feeChargeType": "POR_PARCELA",
+                "feeCharge": "Percentual",
+                "feeAmount": 0.0000,
+                "feeRate": 0.0020
+            }
+        ],
+        "contractedFinanceCharges": [
+            {
+                "chargeType": "IOF_POR_ATRASO",
+                "chargeAdditionalInfo": "Imposto por atraso.",
+                "chargeRate": 0.0200
+            }
+        ]
+    },
+    "links": {
+        "self": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts/1ff29059-3105-43cd-a55a-20652d73604b"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-12-04T10:57:00Z"
+    }
+}

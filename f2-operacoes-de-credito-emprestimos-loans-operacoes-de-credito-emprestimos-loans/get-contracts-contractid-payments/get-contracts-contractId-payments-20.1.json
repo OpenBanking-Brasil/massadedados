@@ -1,0 +1,112 @@
+{
+    "data": {
+        "paidInstalments": 4,
+        "contractOutstandingBalance": 0.0000,
+        "releases": [
+            {
+                "paymentId": "f1wa65f5-b7cd-4729-89c1-dc15ew563w0p",
+                "isOverParcelPayment": false,
+                "instalmentId": "35erb15s-b064-4f60-9f27-d7f45b6a93e4",
+                "paidDate": "2018-10-14",
+                "currency": "BRL",
+                "paidAmount": 8801.8000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "514gr5z6-78a2-4358-aa1e-nm15d6wy50qc",
+                "isOverParcelPayment": false,
+                "instalmentId": "2w1r356v-36ca-4be7-81bc-0a2eca6e35d2",
+                "paidDate": "2018-09-14",
+                "currency": "BRL",
+                "paidAmount": 8801.8000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "5df51e6z-57c2-440f-94f8-2uio1t3f12h4",
+                "isOverParcelPayment": false,
+                "instalmentId": "wa126v32-af65-48dd-923c-c2cc4b6f6b26",
+                "paidDate": "2018-08-14",
+                "currency": "BRL",
+                "paidAmount": 8801.8000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "b5d15e68-2e7a-461a-a6b8-3nfg2ge65y5u",
+                "isOverParcelPayment": false,
+                "instalmentId": "w6u85bbc-89be-4786-a092-95135bc49595",
+                "paidDate": "2018-07-14",
+                "currency": "BRL",
+                "paidAmount": 8951.8000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "Taxa de cadastro",
+                            "feeCode": "CADASTRO",
+                            "feeAmount": 150.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "links": {
+        "self": "https://openbanking.api.santander.com.br/open-banking/loans/v1/contracts/377aa88d-8905-3847-ad8f-c80d9e47f907/payments"
+    },
+    "meta": {
+        "totalRecords": 4,
+        "totalPages": 1,
+        "requestDateTime": "2021-07-05T00:00:00Z"
+    }
+}

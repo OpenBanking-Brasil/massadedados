@@ -1,0 +1,61 @@
+{
+    "data": {
+        "typeNumberOfInstalments": "MES",
+        "totalNumberOfInstalments": 4,
+        "typeContractRemaining": "MES",
+        "contractRemainingNumber": 0,
+        "paidInstalments": 4,
+        "dueInstalments": 0,
+        "pastDueInstalments": 0,
+        "balloonPayments": [
+            {
+                "dueDate": "2010-06-04",
+                "currency": "BRL",
+                "amount": 500.0000
+            },
+            {
+                "dueDate": "2010-05-04",
+                "currency": "BRL",
+                "amount": 500.0000
+            },
+            {
+                "dueDate": "2010-03-04",
+                "currency": "BRL",
+                "amount": 500.0000
+            },
+            {
+                "dueDate": "2010-02-04",
+                "currency": "BRL",
+                "amount": 500.0000
+            },
+            {
+                "dueDate": "2009-12-04",
+                "currency": "BRL",
+                "amount": 500.0000
+            },
+            {
+                "dueDate": "2009-11-04",
+                "currency": "BRL",
+                "amount": 500.0000
+            },
+            {
+                "dueDate": "2009-09-04",
+                "currency": "BRL",
+                "amount": 500.0000
+            },
+            {
+                "dueDate": "2009-08-04",
+                "currency": "BRL",
+                "amount": 500.0000
+            }
+        ]
+    },
+    "links": {
+        "self": "https://api.caixa.gov.br/open-banking/loans/v1/contracts/64efa400-db34-11eb-8d19-0242ac130003/scheduled-instalments"
+    },
+    "meta": {
+        "totalRecords": 8,
+        "totalPages": 1,
+        "requestDateTime": "2021-09-16T20:04:10Z"
+    }
+}

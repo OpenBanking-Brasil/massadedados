@@ -1,0 +1,59 @@
+{
+    "data": {
+        "contractNumber": "389381157451",
+        "ipocCode": "0041696802111841548177280001",
+        "productName": "Crédito Pessoal",
+        "productType": "EMPRESTIMOS",
+        "productSubType": "HOME_EQUITY",
+        "contractDate": "2021-12-01",
+        "settlementDate": "NA",
+        "contractAmount": 800000.0000,
+        "currency": "BRL",
+        "dueDate": "2022-12-01",
+        "instalmentPeriodicity": "MENSAL",
+        "instalmentPeriodicityAdditionalInfo": "NA",
+        "firstInstalmentDueDate": "2022-01-01",
+        "CET": 0.0300,
+        "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
+        "amortizationScheduledAdditionalInfo": "NA",
+        "cnpjConsignee": "00416968000101",
+        "interestRates": [
+            {
+                "taxType": "NOMINAL",
+                "interestRateType": "SIMPLES",
+                "taxPeriodicity": "AM",
+                "calculation": "21/252",
+                "referentialRateIndexerType": "PRE_FIXADO",
+                "referentialRateIndexerSubType": "PRE_FIXADO",
+                "preFixedRate": 0.0300,
+                "postFixedRate": 0.0000,
+                "additionalInfo": "NA"
+            }
+        ],
+        "contractedFees": [
+            {
+                "feeName": "Taxa de Cadastro",
+                "feeCode": "CADASTRO",
+                "feeChargeType": "UNICA",
+                "feeCharge": "MINIMO",
+                "feeAmount": 200.0000,
+                "feeRate": 0.0000
+            }
+        ],
+        "contractedFinanceCharges": [
+            {
+                "chargeType": "JUROS_MORA_ATRASO",
+                "chargeAdditionalInfo": "NA",
+                "chargeRate": 0.0100
+            }
+        ]
+    },
+    "links": {
+        "self": "https://api.baninter.com/open-banking/loans/v1/contracts/jte9ogns-swxg-365m-cndh-us42iko0r7ni"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-12-10T00:00:00Z"
+    }
+}

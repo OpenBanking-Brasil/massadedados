@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "brandName": "Banco Bradesco S.A",
+            "companyCnpj": "60746948000112",
+            "type": "CONTA_DEPOSITO_A_VISTA",
+            "compeCode": "237",
+            "branchCode": "1770",
+            "number": "32700",
+            "checkDigit": "2",
+            "accountId": "142fb6cc-d995-11eb-b8bc-0242ac130003"
+        }        
+
+    ],
+    "links": {
+        "self": "https://api.bradesco.com/bradesco/open-banking/accounts/v1/accounts"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-05-25T13:48:00Z"
+    }
+}

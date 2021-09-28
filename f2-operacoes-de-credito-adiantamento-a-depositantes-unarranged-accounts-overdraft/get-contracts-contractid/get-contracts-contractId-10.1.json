@@ -1,0 +1,91 @@
+{
+    "data": {
+        "contractNumber": "648900003",
+        "ipocCode": "927020670101164258217018648900003",
+        "productName": "AD",
+        "productType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "productSubType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "contractDate": "2021-06-30",
+        "disbursementDate": "2021-06-30",
+        "settlementDate": "NA",
+        "contractAmount": 8059.8600,
+        "currency": "BRL",
+        "dueDate": "2022-06-30",
+        "instalmentPeriodicity": "MENSAL",
+        "instalmentPeriodicityAdditionalInfo": "NA",
+        "firstInstalmentDueDate": "2021-07-30",
+        "CET": 0.0629,
+        "amortizationScheduled": "PRICE",
+        "amortizationScheduledAdditionalInfo": "NA",
+        "interestRates": [
+            {
+                "taxType": "EFETIVA",
+                "interestRateType": "SIMPLES",
+                "taxPeriodicity": "AA",
+                "calculation": "21/252",
+                "referentialRateIndexerType": "PRE_FIXADO",
+                "referentialRateIndexerSubType": "PRE_FIXADO",
+                "preFixedRate": 0.0629,
+                "postFixedRate": 0.0000,
+                "additionalInfo": "NA"
+            }
+        ],
+        "contractedFees": [
+            {
+                "feeName": "Manutenção de Contrato",
+                "feeCode": "MANUTENCAO_CONTRATO",
+                "feeChargeType": "UNICA",
+                "feeCharge": "FIXO",
+                "feeAmount": 59.9000,
+                "feeRate": 0.0000
+            },
+            {
+                "feeName": "Conta de até 60 dias retro por inadimplencia ",
+                "feeCode": "INADIMPLENCIA_RECENTE",
+                "feeChargeType": "POR_PARCELA",
+                "feeCharge": "PERCENTUAL",
+                "feeAmount": 0.0000,
+                "feeRate": 0.0150
+            },
+            {
+                "feeName": "Cadastro Sistema JOI",
+                "feeCode": "CADASTRO_JOI",
+                "feeChargeType": "UNICA",
+                "feeCharge": "FIXO",
+                "feeAmount": 19.9000,
+                "feeRate": 0.0000
+            },
+            {
+                "feeName": "Manutenção de Conta",
+                "feeCode": "MANUTENCAO_CONTA",
+                "feeChargeType": "UNICA",
+                "feeCharge": "MAXIMO",
+                "feeAmount": 29.8599,
+                "feeRate": 0.0000
+            },
+            {
+                "feeName": "Taxa IP RS 2021",
+                "feeCode": "TAXA_IPRS2021",
+                "feeChargeType": "POR_PARCELA",
+                "feeCharge": "MINIMO",
+                "feeAmount": 8.5612,
+                "feeRate": 0.0000
+            }
+        ],
+        "contractedFinanceCharges": [
+            {
+                "chargeType": "MULTA_ATRASO_PAGAMENTO",
+                "chargeAdditionalInfo": "NA",
+                "chargeRate": 0.0359
+            }
+        ]
+    },
+    "links": {
+        "self": "https://openbanking.banrisul.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/902d4fff-ad6f-339e-8fcf-dc5cc4fe6487"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-07-02T08:54:00Z"
+    }
+}

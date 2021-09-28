@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "currency": "BRL",
+            "warrantyType": "HIPOTECA",
+            "warrantySubType": "IMOVEIS",
+            "warrantyAmount": 150000.0000
+        }
+    ],
+    "links": {
+        "self": "https://opendata.api.bb.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/50232104-cd22-36aa-9a6f-725afdd55288"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-12-21T08:30:00Z"
+    }
+}

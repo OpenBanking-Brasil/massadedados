@@ -1,0 +1,103 @@
+{
+    "data": {
+        "brand": {
+            "name": "Banco Inter S.A.",
+            "companies": [
+                {
+                    "name": "Banco Inter S.A.",
+                    "cnpjNumber": "00416968000101",
+                    "contractors": [
+                        {
+                            "name": "Correspondente AL",
+                            "cnpjNumber": "84301166000138",
+                            "bankingAgents": [
+                                {
+                                    "identification": {
+                                        "corporationName": "Correspondente Maceio",
+                                        "groupName": "Maceio",
+                                        "cnpjNumber": "72342769000107",
+                                        "isUnderestablishment": true
+                                    },
+                                    "locations": [
+                                        {
+                                            "postalAddress": {
+                                                "address": "Av. Benedito Bentes, 645",
+                                                "districtName": "Benedito Bentes",
+                                                "townName": "Maceió",
+                                                "countrySubDivision": "AL",
+                                                "postCode": "57086414",
+                                                "additionalInfo": "Quadra G - Loja B.",
+                                                "ibgeCode": "2704302",
+                                                "country": "Brasil",
+                                                "countryCode": "BRA",
+                                                "geographicCoordinates": {
+                                                    "latitude": "-9.6660",
+                                                    "longitude": "-35.7352"
+                                                }
+                                            },
+                                            "phones": [
+                                                {
+                                                    "type": "FIXO",
+                                                    "countryCallingCode": "55",
+                                                    "areaCode": "82",
+                                                    "number": "36994386"
+                                                }
+                                            ],
+                                            "availability": {
+                                                "standards": [
+                                                    {
+                                                        "weekday": "SEGUNDA_FEIRA",
+                                                        "openingTime": "10:00:00Z",
+                                                        "closingTime": "16:00:00Z"
+                                                    },
+                                                    {
+                                                        "weekday": "TERCA_FEIRA",
+                                                        "openingTime": "10:00:00Z",
+                                                        "closingTime": "16:00:00Z"
+                                                    },
+                                                    {
+                                                        "weekday": "QUARTA_FEIRA",
+                                                        "openingTime": "10:00:00Z",
+                                                        "closingTime": "16:00:00Z"
+                                                    },
+                                                    {
+                                                        "weekday": "QUINTA_FEIRA",
+                                                        "openingTime": "10:00:00Z",
+                                                        "closingTime": "16:00:00Z"
+                                                    },
+                                                    {
+                                                        "weekday": "SEXTA_FEIRA",
+                                                        "openingTime": "10:00:00Z",
+                                                        "closingTime": "16:00:00Z"
+                                                    }
+                                                ],
+                                                "exception": "Exceto feriados municipais, estaduais e nacionais",
+                                                "isPublicAccessAllowed": true
+                                            }
+                                        }
+                                    ],
+                                    "services": [
+                                        {
+                                            "name": "REALIZACAO_OPERACOES_CAMBIO_RESPONSABILIDADE_INSTITUICAO_CONTRATANTE",
+                                            "code": "REALIZA_OPERACOES_CAMBIO"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "links": {
+        "self": "https://api.baninter.com/open-banking/channels/v1/banking-agents?page=1&page-size=1",
+        "first": "https://api.baninter.com/open-banking/channels/v1/banking-agents?page=1&page-size=1",
+        "next": "https://api.baninter.com/open-banking/channels/v1/banking-agents?page=2&page-size=1",
+        "last": "https://api.baninter.com/open-banking/channels/v1/banking-agents?page=7623&page-size=1"
+    },
+    "meta": {
+        "totalRecords": 7623,
+        "totalPages": 7623
+    }
+}

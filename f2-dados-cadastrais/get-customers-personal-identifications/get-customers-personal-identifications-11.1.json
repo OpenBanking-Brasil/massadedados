@@ -1,0 +1,96 @@
+{
+  "data": [
+    {
+      "updateDateTime": "2021-05-21T08:00:00Z",
+      "personalId": "d59-99a6-e78f18eb87-ac130",
+      "brandName": "Banco Inter S.A.",
+      "civilName": "Sarah Miranda Rosman",
+      "socialName": "NA",
+      "birthDate": "1994-04-08",
+      "maritalStatusCode": "SOLTEIRO",
+      "sex": "NAO_DISPONIVEL",
+      "companyCnpj": [
+        "00416968000101"
+      ],
+      "documents": {
+        "cpfNumber": "84154817728",
+        "passportNumber": "36637678823849498278",
+        "passportCountry": "BRA",		
+        "passportExpirationDate": "2021-07-18",
+        "passportIssueDate": "2011-07-18"
+      },
+      "otherDocuments": [
+        {
+          "type": "CNH",
+          "typeAdditionalInfo": "NA",
+          "number": "17238865003",
+          "checkDigit": "NA",
+          "additionalInfo": "SSP/BA",
+          "expirationDate": "2023-03-28"	
+        }
+      ],
+      "nationality": [
+        {
+          "otherNationalitiesInfo": "NA",
+          "documents": [
+            {
+              "type": "NA",
+              "number": "NA",
+              "expirationDate": "NA",
+              "issueDate": "NA"
+            }
+          ]
+        }
+      ],
+      "filiation": [
+        {
+          "type": "MAE",
+          "civilName": "Rosane Rosman"
+        }
+      ],
+      "contacts": {
+        "postalAddresses": [
+          {
+            "isMain": true,
+            "address": "Caminho C-5, 650",
+            "districtName": "Piaçaveira",
+            "townName": "Camaçari",
+            "ibgeTownCode": "2905701",
+            "countrySubDivision": "BA",
+            "postCode": "42802270",
+            "country": "Brasil",
+            "countryCode": "BRA",
+            "geographicCoordinates": {
+              "latitude": "-12.6972",
+              "longitude": "-38.3332"
+            }
+          }
+        ],
+        "phones": [
+          {
+            "isMain": true,
+            "type": "MOVEL",
+            "countryCallingCode": "55",
+            "areaCode": "71",
+            "number": "994287711",
+            "phoneExtension": "NA"
+          }
+        ],
+        "emails": [
+          {
+            "isMain": true,
+            "email": "sarah.rosman@email.com"
+          }
+        ]
+      }
+    }
+  ],
+  "links": {
+    "self": "https://api.baninter.com.br/open-banking/customers/v1/personal/identifications"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-12-10T10:10:00Z"
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "currency": "BRL",
+            "warrantyType": "CAUCAO",
+            "warrantySubType": "FATURA_CARTAO_CREDITO",
+            "warrantyAmount": 7000.0000
+        }
+    ],
+    "links": {
+        "self": "https://openbanking.banrisul.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/ff0b84d8-bd29-3d03-b76d-5432db2c665d"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-12-21T08:30:00Z"
+    }
+}

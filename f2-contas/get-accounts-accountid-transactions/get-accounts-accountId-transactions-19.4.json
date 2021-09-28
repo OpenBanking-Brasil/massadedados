@@ -1,0 +1,76 @@
+{
+    "data": [
+        {
+            "transactionId": "06957584-d9c6-11eb-b8bc-0242ac130003",
+            "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
+            "creditDebitType": "CREDITO",
+            "transactionName": "TRANSFERENCIA",
+            "type": "OPERACAO_CREDITO",
+            "amount": 0.5000,
+            "transactionCurrency": "BRL",
+            "transactionDate": "2021-05-23",
+            "partieCnpjCpf": "78570962000173",
+            "partiePersonType": "PESSOA_JURIDICA",
+            "partieCompeCode": "001",
+            "partieBranchCode": "1898",
+            "partieNumber": "30104",
+            "partieCheckDigit": "1"
+        },
+        {
+            "transactionId": "06957584-d9c6-11eb-b8bc-0242ac130003",
+            "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
+            "creditDebitType": "CREDITO",
+            "transactionName": "TRANSFERENCIA",
+            "type": "OPERACAO_CREDITO",
+            "amount": 0.2600,
+            "transactionCurrency": "BRL",
+            "transactionDate": "2021-05-23",
+            "partieCnpjCpf": "78570962000173",
+            "partiePersonType": "PESSOA_JURIDICA",
+            "partieCompeCode": "001",
+            "partieBranchCode": "1898",
+            "partieNumber": "30104",
+            "partieCheckDigit": "1"
+        },
+        {
+            "transactionId": "16ca76fc-d9c6-11eb-b8bc-0242ac130003 ",
+            "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
+            "creditDebitType": "CREDITO",
+            "transactionName": "TRANSFERENCIA",
+            "type": "OPERACAO_CREDITO",
+            "amount": 0.2400,
+            "transactionCurrency": "BRL",
+            "transactionDate": "2021-05-23",
+            "partieCnpjCpf": "78570962000173",
+            "partiePersonType": "PESSOA_JURIDICA",
+            "partieCompeCode": "001",
+            "partieBranchCode": "1898",
+            "partieNumber": "30104",
+            "partieCheckDigit": "1"
+        },
+        {
+            "transactionId": "1eb1ac64-d9c6-11eb-b8bc-0242ac130003",
+            "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
+            "creditDebitType": "CREDITO",
+            "transactionName": "TRANSFERENCIA",
+            "type": "OPERACAO_CREDITO",
+            "amount": 220000.9571,
+            "transactionCurrency": "BRL",
+            "transactionDate": "2021-05-23",
+            "partieCnpjCpf": "78570962000173",
+            "partiePersonType": "PESSOA_JURIDICA",
+            "partieCompeCode": "001",
+            "partieBranchCode": "1898",
+            "partieNumber": "30104",
+            "partieCheckDigit": "1"
+        }
+    ],
+    "links": {
+        "self": "https://api.bradesco.com/bradesco/open-banking/accounts/v1/accounts/142fb6cc-d995-11eb-b8bc-0242ac130003/transactions"
+    },
+    "meta": {
+        "totalRecords": 4,
+        "totalPages": 1,
+        "requestDateTime": "2021-05-25T15:43:00Z"
+    }
+}

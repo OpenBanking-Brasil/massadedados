@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "contractId": "2ec8fbe4-09e4-305d-bf8c-cdae1c298183",
+      "brandName": "Banco Bradesco S.A",
+      "companyCnpj": "60746948000112",
+      "productType": "DIREITOS_CREDITORIOS_DESCONTADOS",
+      "productSubType": "ANTECIPACAO_FATURA_CARTAO_CREDITO",
+      "ipocCode": "607469480303196644087000989898456"
+    }
+  ],
+  "links": {
+    "self": "https://api.bradesco.com/bradesco/open-banking/invoice-financings/v1/contracts"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-05-28T15:44:00Z"
+  }
+}

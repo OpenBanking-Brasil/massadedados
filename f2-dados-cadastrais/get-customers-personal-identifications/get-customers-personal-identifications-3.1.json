@@ -1,0 +1,98 @@
+{
+  "data": [
+    {
+      "updateDateTime": "2021-05-21T08:30:00Z", 
+      "personalId": "0db-52a-30b8dd-11eb-85292",
+      "brandName": "Banco Cooperativo Sicredi S.A. – Bansicredi",	
+      "civilName": "Eliane Sophia Melo",
+      "socialName": "NA",
+      "birthDate": "1975-12-05",
+      "maritalStatusCode": "CASADO",
+      "sex": "FEMININO",
+      "companyCnpj": [
+        "01181521000155"
+      ],
+      "documents": {
+        "cpfNumber": "10117409073",
+        "passportNumber": "22459031982954795537",
+        "passportCountry": "BRA",		
+        "passportExpirationDate": "2028-03-23",
+        "passportIssueDate": "2018-03-23"
+      },
+      "otherDocuments": [
+        {
+          "type": "RG",
+          "typeAdditionalInfo": "NA",
+          "number": "40701685",
+          "checkDigit": "5",	
+          "additionalInfo": "SSP/ES",
+          "expirationDate": "2022-12-15"	
+        }
+      ],
+      "hasBrazilianNationality": true,
+      "nationality": [
+        {
+          "otherNationalitiesInfo": "NA",
+          "documents": [
+            {
+              "type": "NA",
+              "number": "NA",
+              "expirationDate": "NA",
+              "issueDate": "NA"
+            }
+          ]
+        }
+      ],
+      "filiation": [
+        {
+          "type": "PAI",
+          "civilName": "Luiz Miguel Melo",
+          "socialName": "NA"
+        }
+      ],
+      "contacts": {
+        "postalAddresses": [
+          {
+            "isMain": true,
+            "address": "Travessa Santo André, 498",
+            "districtName": "Santo André",
+            "townName": "Vitória",
+            "ibgeTownCode": "3205309",
+            "countrySubDivision": "ES",
+            "postCode": "29032267",
+            "country": "Brasil",
+            "countryCode": "BRA",
+            "geographicCoordinates": {
+              "latitude": "-20.2788582",
+              "longitude": "-40.3320484"
+            }
+          }
+        ],
+        "phones": [
+          {
+            "isMain": true,
+            "type": "MOVEL",
+            "countryCallingCode": "55",
+            "areaCode": "27",
+            "number": "996328736",
+            "phoneExtension": "NA"
+          }
+        ],
+        "emails": [
+          {
+            "isMain": true,
+            "email": "eliane0512@email.com"
+          }
+        ]
+      }
+    }
+  ],
+  "links": {
+    "self": "https://api.sicredi.com.br/open-banking/customers/v1/personal/identifications"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-06-02T08:30:00Z"
+  }
+}

@@ -1,0 +1,1089 @@
+{
+    "data": {
+        "brand": {
+            "companies": [
+                {
+                    "cnpjNumber": "92702067000196",
+                    "name": "Banco do Estado do Rio Grande do Sul S.A - MATRIZ",
+                    "personalUnarrangedAccountOverdraft": [
+                        {
+                            "fees": {
+                                "priorityServices": [
+                                    {
+                                        "chargingTriggerInfo": "Admite a cobrança de tarifa mensal para disponibilização do limite de cheque especial.",
+                                        "code": "ADIANT_DEPOSITANTE",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "200.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "0.00"
+                                        },
+                                        "name": "CONCESSAO_ADIANTAMENTO_DEPOSITANTE",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3500"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "75.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.6500"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "150.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "200.00"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.1500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0025"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0500"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0800"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0800",
+                                    "minimumRate": "0.0000",
+                                    "rate": "0.08",
+                                    "referentialRateIndexer": "SEM_INDEXADOR_TAXA"
+                                }
+                            ],
+                            "termsConditions": "https://www.banrisul.com.br/bob/link/bobw02hn_promocao.aspx?secao_id=3669"
+                        }
+                    ],
+                    "urlComplementaryList": "https://www.banrisul.com.br/bob/link/bobw02hn_promocao.aspx?secao_id=3669"
+                },
+                {
+                    "cnpjNumber": "92702067000277",
+                    "name": "Banco do Estado do Rio Grande do Sul S.A - AZENHA",
+                    "personalUnarrangedAccountOverdraft": [
+                        {
+                            "fees": {
+                                "priorityServices": [
+                                    {
+                                        "chargingTriggerInfo": "Admite a cobrança de tarifa mensal para disponibilização do limite de cheque especial.",
+                                        "code": "ADIANT_DEPOSITANTE",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "200.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "0.00"
+                                        },
+                                        "name": "CONCESSAO_ADIANTAMENTO_DEPOSITANTE",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3500"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "75.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.6500"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "150.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "200.00"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.1500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0025"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0500"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0800"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0800",
+                                    "minimumRate": "0.0000",
+                                    "rate": "0.08",
+                                    "referentialRateIndexer": "SEM_INDEXADOR_TAXA"
+                                }
+                            ],
+                            "termsConditions": "https://www.banrisul.com.br/bob/link/bobw02hn_promocao.aspx?secao_id=3669"
+                        }
+                    ],
+                    "urlComplementaryList": "https://www.banrisul.com.br/bob/link/bobw02hn_promocao.aspx?secao_id=3669"
+                },
+                {
+                    "cnpjNumber": "92702067000358",
+                    "name": "Banco do Estado do Rio Grande do Sul S.A - BONFIM",
+                    "personalUnarrangedAccountOverdraft": [
+                        {
+                            "fees": {
+                                "priorityServices": [
+                                    {
+                                        "chargingTriggerInfo": "Admite a cobrança de tarifa mensal para disponibilização do limite de cheque especial.",
+                                        "code": "ADIANT_DEPOSITANTE",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "200.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "0.00"
+                                        },
+                                        "name": "CONCESSAO_ADIANTAMENTO_DEPOSITANTE",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3500"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "75.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.6500"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "150.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "200.00"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.1500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0025"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0500"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0800"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0800",
+                                    "minimumRate": "0.0000",
+                                    "rate": "0.08",
+                                    "referentialRateIndexer": "SEM_INDEXADOR_TAXA"
+                                }
+                            ],
+                            "termsConditions": "https://www.banrisul.com.br/bob/link/bobw02hn_promocao.aspx?secao_id=3669"
+                        }
+                    ],
+                    "urlComplementaryList": "https://www.banrisul.com.br/bob/link/bobw02hn_promocao.aspx?secao_id=3669"
+                },
+                {
+                    "cnpjNumber": "92702067000439",
+                    "name": "Banco do Estado do Rio Grande do Sul S.A - CAMINHO DO MEIO",
+                    "personalUnarrangedAccountOverdraft": [
+                        {
+                            "fees": {
+                                "priorityServices": [
+                                    {
+                                        "chargingTriggerInfo": "Admite a cobrança de tarifa mensal para disponibilização do limite de cheque especial.",
+                                        "code": "ADIANT_DEPOSITANTE",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "200.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "0.00"
+                                        },
+                                        "name": "CONCESSAO_ADIANTAMENTO_DEPOSITANTE",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3500"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "75.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.6500"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "150.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "200.00"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.1500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0025"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0500"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0800"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0800",
+                                    "minimumRate": "0.0000",
+                                    "rate": "0.08",
+                                    "referentialRateIndexer": "SEM_INDEXADOR_TAXA"
+                                }
+                            ],
+                            "termsConditions": "https://www.banrisul.com.br/bob/link/bobw02hn_promocao.aspx?secao_id=3669"
+                        }
+                    ],
+                    "urlComplementaryList": "https://www.banrisul.com.br/bob/link/bobw02hn_promocao.aspx?secao_id=3669"
+                },
+                {
+                    "cnpjNumber": "92702067000510",
+                    "name": "Banco do Estado do Rio Grande do Sul S.A - CIDADE BAIXA",
+                    "personalUnarrangedAccountOverdraft": [
+                        {
+                            "fees": {
+                                "priorityServices": [
+                                    {
+                                        "chargingTriggerInfo": "Admite a cobrança de tarifa mensal para disponibilização do limite de cheque especial.",
+                                        "code": "ADIANT_DEPOSITANTE",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "200.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "0.00"
+                                        },
+                                        "name": "CONCESSAO_ADIANTAMENTO_DEPOSITANTE",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3500"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "75.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.6500"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "150.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "200.00"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.1500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0025"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0500"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0800"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0800",
+                                    "minimumRate": "0.0000",
+                                    "rate": "0.08",
+                                    "referentialRateIndexer": "SEM_INDEXADOR_TAXA"
+                                }
+                            ],
+                            "termsConditions": "https://www.banrisul.com.br/bob/link/bobw02hn_promocao.aspx?secao_id=3669"
+                        }
+                    ],
+                    "urlComplementaryList": "https://www.banrisul.com.br/bob/link/bobw02hn_promocao.aspx?secao_id=3669"
+                },
+                {
+                    "cnpjNumber": "92702067000609",
+                    "name": "Banco do Estado do Rio Grande do Sul S.A - COLISEU",
+                    "personalUnarrangedAccountOverdraft": [
+                        {
+                            "fees": {
+                                "priorityServices": [
+                                    {
+                                        "chargingTriggerInfo": "Admite a cobrança de tarifa mensal para disponibilização do limite de cheque especial.",
+                                        "code": "ADIANT_DEPOSITANTE",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "200.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "0.00"
+                                        },
+                                        "name": "CONCESSAO_ADIANTAMENTO_DEPOSITANTE",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3500"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "75.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.6500"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "150.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "200.00"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.1500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0025"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0500"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0800"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0800",
+                                    "minimumRate": "0.0000",
+                                    "rate": "0.08",
+                                    "referentialRateIndexer": "SEM_INDEXADOR_TAXA"
+                                }
+                            ],
+                            "termsConditions": "https://www.banrisul.com.br/bob/link/bobw02hn_promocao.aspx?secao_id=3669"
+                        }
+                    ],
+                    "urlComplementaryList": "https://www.banrisul.com.br/bob/link/bobw02hn_promocao.aspx?secao_id=3669"
+                },
+                {
+                    "cnpjNumber": "92702067000781",
+                    "name": "Banco do Estado do Rio Grande do Sul S.A - CRISTO REDENTOR",
+                    "personalUnarrangedAccountOverdraft": [
+                        {
+                            "fees": {
+                                "priorityServices": [
+                                    {
+                                        "chargingTriggerInfo": "Admite a cobrança de tarifa mensal para disponibilização do limite de cheque especial.",
+                                        "code": "ADIANT_DEPOSITANTE",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "200.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "0.00"
+                                        },
+                                        "name": "CONCESSAO_ADIANTAMENTO_DEPOSITANTE",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3500"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "75.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.6500"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "150.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "200.00"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.1500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0025"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0500"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0800"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0800",
+                                    "minimumRate": "0.0000",
+                                    "rate": "0.08",
+                                    "referentialRateIndexer": "SEM_INDEXADOR_TAXA"
+                                }
+                            ],
+                            "termsConditions": "https://www.banrisul.com.br/bob/link/bobw02hn_promocao.aspx?secao_id=3669"
+                        }
+                    ],
+                    "urlComplementaryList": "https://www.banrisul.com.br/bob/link/bobw02hn_promocao.aspx?secao_id=3669"
+                },
+                {
+                    "cnpjNumber": "92702067000862",
+                    "name": "Banco do Estado do Rio Grande do Sul S.A - FLORESTA",
+                    "personalUnarrangedAccountOverdraft": [
+                        {
+                            "fees": {
+                                "priorityServices": [
+                                    {
+                                        "chargingTriggerInfo": "Admite a cobrança de tarifa mensal para disponibilização do limite de cheque especial.",
+                                        "code": "ADIANT_DEPOSITANTE",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "200.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "0.00"
+                                        },
+                                        "name": "CONCESSAO_ADIANTAMENTO_DEPOSITANTE",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3500"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "75.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.6500"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "150.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "200.00"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.1500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0025"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0500"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0800"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0800",
+                                    "minimumRate": "0.0000",
+                                    "rate": "0.08",
+                                    "referentialRateIndexer": "SEM_INDEXADOR_TAXA"
+                                }
+                            ],
+                            "termsConditions": "https://www.banrisul.com.br/bob/link/bobw02hn_promocao.aspx?secao_id=3669"
+                        }
+                    ],
+                    "urlComplementaryList": "https://www.banrisul.com.br/bob/link/bobw02hn_promocao.aspx?secao_id=3669"
+                },
+                {
+                    "cnpjNumber": "92702067000943",
+                    "name": "Banco do Estado do Rio Grande do Sul S.A - GLORIA",
+                    "personalUnarrangedAccountOverdraft": [
+                        {
+                            "fees": {
+                                "priorityServices": [
+                                    {
+                                        "chargingTriggerInfo": "Admite a cobrança de tarifa mensal para disponibilização do limite de cheque especial.",
+                                        "code": "ADIANT_DEPOSITANTE",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "200.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "0.00"
+                                        },
+                                        "name": "CONCESSAO_ADIANTAMENTO_DEPOSITANTE",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3500"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "75.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.6500"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "150.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "200.00"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.1500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0025"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0500"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0800"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0800",
+                                    "minimumRate": "0.0000",
+                                    "rate": "0.08",
+                                    "referentialRateIndexer": "SEM_INDEXADOR_TAXA"
+                                }
+                            ],
+                            "termsConditions": "https://www.banrisul.com.br/bob/link/bobw02hn_promocao.aspx?secao_id=3669"
+                        }
+                    ],
+                    "urlComplementaryList": "https://www.banrisul.com.br/bob/link/bobw02hn_promocao.aspx?secao_id=3669"
+                },
+                {
+                    "cnpjNumber": "92702067001087",
+                    "name": "Banco do Estado do Rio Grande do Sul S.A - MENINO DEUS",
+                    "personalUnarrangedAccountOverdraft": [
+                        {
+                            "fees": {
+                                "priorityServices": [
+                                    {
+                                        "chargingTriggerInfo": "Admite a cobrança de tarifa mensal para disponibilização do limite de cheque especial.",
+                                        "code": "ADIANT_DEPOSITANTE",
+                                        "maximum": {
+                                            "currency": "BRL",
+                                            "value": "200.00"
+                                        },
+                                        "minimum": {
+                                            "currency": "BRL",
+                                            "value": "0.00"
+                                        },
+                                        "name": "CONCESSAO_ADIANTAMENTO_DEPOSITANTE",
+                                        "prices": [
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "1_FAIXA",
+                                                "value": "0.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.3500"
+                                                },
+                                                "interval": "2_FAIXA",
+                                                "value": "75.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.6500"
+                                                },
+                                                "interval": "3_FAIXA",
+                                                "value": "150.00"
+                                            },
+                                            {
+                                                "currency": "BRL",
+                                                "customers": {
+                                                    "rate": "0.0000"
+                                                },
+                                                "interval": "4_FAIXA",
+                                                "value": "200.00"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "interestRates": [
+                                {
+                                    "applications": [
+                                        {
+                                            "customers": {
+                                                "rate": "0.1500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0000"
+                                            },
+                                            "interval": "1_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3500"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0025"
+                                            },
+                                            "interval": "2_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.2000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0500"
+                                            },
+                                            "interval": "3_FAIXA"
+                                        },
+                                        {
+                                            "customers": {
+                                                "rate": "0.3000"
+                                            },
+                                            "indexer": {
+                                                "rate": "0.0800"
+                                            },
+                                            "interval": "4_FAIXA"
+                                        }
+                                    ],
+                                    "maximumRate": "0.0800",
+                                    "minimumRate": "0.0000",
+                                    "rate": "0.08",
+                                    "referentialRateIndexer": "SEM_INDEXADOR_TAXA"
+                                }
+                            ],
+                            "termsConditions": "https://www.banrisul.com.br/bob/link/bobw02hn_promocao.aspx?secao_id=3669"
+                        }
+                    ],
+                    "urlComplementaryList": "https://www.banrisul.com.br/bob/link/bobw02hn_promocao.aspx?secao_id=3669"
+                }
+            ],
+            "name": "Banco do Estado do Rio Grande do Sul S.A"
+        }
+    },
+    "links": {
+        "first": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-unarranged-account-overdraft?page=1&page-size=10",
+        "last": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-unarranged-account-overdraft?page=52&page-size=10",
+        "next": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-unarranged-account-overdraft?page=2&page-size=10",
+        "self": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/personal-unarranged-account-overdraft?page=1&page-size=10"
+    },
+    "meta": {
+        "totalPages": 52,
+        "totalRecords": 516
+    }
+}

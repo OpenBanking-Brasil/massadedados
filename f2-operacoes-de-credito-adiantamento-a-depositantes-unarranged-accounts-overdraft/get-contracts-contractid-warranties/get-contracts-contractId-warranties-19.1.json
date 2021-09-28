@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "currency": "BRL",
+            "warrantyType": "CESSAO_DIREITOS_CREDITORIOS",
+            "warrantySubType": "APLICACOES_FINANCEIRAS_RENDA_FIXA",
+            "warrantyAmount": 113080.7200
+        }
+    ],
+    "links": {
+        "self": "https://openbanking.api.santander.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/bc679050-515e-3cd8-9cc2-ed9c60725862"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-05-19T10:56:00Z"
+    }
+}
