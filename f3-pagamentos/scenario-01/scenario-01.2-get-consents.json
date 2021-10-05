@@ -1,10 +1,10 @@
 {
   "data": {
     "consentId": "urn:bb:BB675478642",
-    "creationDateTime": "2021-08-03T16:05:00Z",
-    "expirationDateTime": "2021-08-03T17:05:00Z",
+    "creationDateTime": "2021-10-03T16:05:00Z",
+    "expirationDateTime": "2021-10-03T17:05:00Z",
     "ibgeTownCode": "3550308",
-    "statusUpdateDateTime": "2021-08-03T16:06:00Z",
+    "statusUpdateDateTime": "2021-10-03T16:06:00Z",
     "status": "CONSUMED",
     "loggedUser": {
       "document": {
@@ -25,19 +25,19 @@
     },
     "payment": {
       "type": "PIX",
-      "date": "2021-08-03",
+      "date": "2021-10-03",
       "currency": "BRL",
-      "amount": "225.00",
+      "amount": "1322.45",
       "ibgeTownCode": "3550308",
       "details": {
         "localInstrument": "DICT",
         "qrCode": "69762697669762390229239022939022BR.GOV.BCB.PIX863466756C616E6F3293986393913466756C616E6F3466756C616E6F BR.COM.OUTRO697623902292650579176976239022926505.697623BR6978FATIMA589769690069789787 645544RP58754691-201950300017BR.GOV.BCB.BRCODE01051.0.080450014BR.GOV.BCB.PIX0123PADRAO.URL.PIX/0123AB CD58546477BR.COM.69762390.ABCD.6976.WXYZ5878EB78",
-        "proxy": "5511986773420",
+        "proxy": "9f9cb70a-2620-11ec-9621022ac1300",
         "creditorAccount": {
-          "ispb": "60746948",
-          "issuer": "1745",
-          "number": "18549301",
-          "accountType": "CACC"
+          "ispb": "60701190",
+          "issuer": "8265",
+          "number": "235294",
+          "accountType": "SLRY"
         }
       }
     },
@@ -54,6 +54,6 @@
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2021-08-03T16:06:00Z"
+    "requestDateTime": "2021-10-03T16:06:00Z"
   }
 }

@@ -3,9 +3,9 @@
     "paymentId": "TXQ8PBchIJ33sGUXGoaootey794kUdu",
     "endToEndId": "E60701190202108031607W1DqzAxcBkK",
     "consentId": "urn:itau:ITU728165342",
-    "creationDateTime": "2021-08-03T16:07:00Z",
-    "statusUpdateDateTime": "2021-08-03T16:09:00Z",
-    "proxy":"5511986773420",
+    "creationDateTime": "2021-10-03T16:07:00Z",
+    "statusUpdateDateTime": "2021-10-03T16:09:00Z",
+    "proxy":"9f9cb70a-2620-11ec-9621022ac1300",
     "ibgeTownCode": "3550308",
     "status": "ACCC",
     "localInstrument": "DICT",
@@ -29,6 +29,6 @@
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2021-08-03T16:10:00Z"
+    "requestDateTime": "2021-10-03T16:12:00Z"
   }
 }
