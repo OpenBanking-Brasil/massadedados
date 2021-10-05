@@ -5,15 +5,17 @@
     "consentId": "urn:itau:ITU728165342",
     "creationDateTime": "2021-08-03T16:07:00Z",
     "statusUpdateDateTime": "2021-08-03T16:09:00Z",
-    "proxy":"fatinha1989@hotmail.com",
+    "proxy":"5511986773420",
+    "ibgeTownCode": "3550308",
     "status": "ACCC",
-    "cnpjInitiator": "19468242000132",
     "localInstrument": "DICT",
+    "cnpjInitiator": "19468242000132",
     "payment": {
-      "amount": "225.99",
+      "amount": "1322.45",
       "currency": "BRL"
     },
-    "remittanceInformation": "Pagamento da nota ABT-76542.",
+    "transactionIdentification": "552f42cc262111ec96210242a",
+    "remittanceInformation": "Salário mensal",
     "creditorAccount": {
       "ispb": "60701190",
       "issuer": "8265",

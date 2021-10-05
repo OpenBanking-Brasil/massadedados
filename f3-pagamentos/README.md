@@ -22,8 +22,15 @@ Exemplo na ordem do fluxo de pagamento:
 
   ## Cenários:  
 
-1) PJ-LTDA - Iniciação de Pagamento para Pessoa Jurídica - LTDA com creditor para PESSOA_NATURAL e debtorAccount de Conta Corrente  
+### Cenário 1: Sucesso iniciação de pagamentos: 
 
+ - Cenário de Sucesso
+ - Credtor: PESSOA_NATURAL
+ - Debtor: PJ - LTDA
+ - localInstrument: DICT
+ - DICT: chave aleatória
+
+ ---
 2) PJ-LTDA - Iniciação de Pagamento para Pessoa Jurídica - LTDA com creditor para PESSOA_NATURAL e debtorAccount de Conta Poupança  
 
 3) PJ-LTDA - Iniciação de Pagamento para Pessoa Jurídica - LTDA com creditor para PESSOA_NATURAL e debtorAccount de Conta de Pagamento Pré-Paga  
@@ -75,8 +82,6 @@ Exemplo na ordem do fluxo de pagamento:
 26) Criar Iniciação de pagamento com um consentimento AUTHORISED informando um tipo de conta (creditorAccount/accountType) incorreto para a conta informada para o creditor  
 
 27) Criar Iniciação de pagamento com um consentimento AUTHORISED informando payment/amount divergente do informado no consentimento utilizado  
-
-# 
 
 
   * Para mais informações sobre a especificação da API- Pagamentos, consulte https://openbanking-brasil.github.io/areadesenvolvedor/swagger/swagger_payments_apis.yaml
