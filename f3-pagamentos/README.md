@@ -22,7 +22,7 @@ Exemplo na ordem do fluxo de pagamento:
 
   ## Cenários:  
 
-### Cenário 1: Sucesso iniciação de pagamentos: 
+### Cenário 1: Sucesso iniciação de pagamento DICT chave aleatória
 
  - Cenário de Sucesso
  - Credtor: PESSOA_NATURAL
@@ -32,7 +32,7 @@ Exemplo na ordem do fluxo de pagamento:
 
  ---
 
- ### Cenário 2: Sucesso iniciação de pagamentos: 
+ ### Cenário 2: Sucesso iniciação de pagamento DICT e-mail 
 
  - Cenário de Sucesso
  - Credtor: PESSOA_NATURAL
@@ -42,7 +42,7 @@ Exemplo na ordem do fluxo de pagamento:
 
  ---
 
-### Cenário 3: Sucesso iniciação de pagamento:
+### Cenário 3: Sucesso iniciação de pagamento DICT cpf
  
  - Cenário de Sucesso
  - Credtor: PESSOA_NATURAL
@@ -51,16 +51,25 @@ Exemplo na ordem do fluxo de pagamento:
 
  ---
 
- ### Cenário 4: Sucesso iniciação de pagamento:
+ ### Cenário 4: Sucesso iniciação de pagamento DICT celular
 
  - Cenário de Sucesso
  - Credtor: PJ - LTDA
  - Debtor: PJ - LTDA
- - DICT: celular
+ - DICT: celular  
 
 ---  
 
-5) PJ-LTDA - Iniciação de Pagamento para Pessoa Jurídica - LTDA com creditor para PESSOA_JURIDICA MEI e debtorAccount de Conta Corrente  
+### Cenário 5: Sucesso iniciação de pagamento MANU conta corrente
+
+ - Cenário de Sucesso
+ - Credtor: PJ - LTDA
+ - Debtor: PJ - MEI
+ - MANU: conta corrente  
+
+---
+
+
 
 6) PJ-LTDA - Iniciação de Pagamento para Pessoa Jurídica - LTDA com creditor para PESSOA_JURIDICA LTDA e debtorAccount de Conta Poupança  
 

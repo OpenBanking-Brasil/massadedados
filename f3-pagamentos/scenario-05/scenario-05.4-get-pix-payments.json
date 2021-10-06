@@ -5,13 +5,16 @@
     "consentId": "urn:itau:ITU230821163",
     "creationDateTime": "2021-08-20T12:34:00Z",
     "statusUpdateDateTime": "2021-08-20T12:34:50Z",
+    "proxy": "",
+    "ibgeTownCode": "4217709",
     "status": "ACCC",
+    "localInstrument": "MANU",
     "cnpjInitiator": "19468242000132",
-    "localInstrument": "DICT",
     "payment": {
       "amount": "4250.00",
       "currency": "BRL"
     },
+    "transactionIdentification": "057DA5A66E85420FAB8F45F4C",
     "remittanceInformation": "Pgt Uniformes NF10089",
     "creditorAccount": {
       "ispb": "60701190",
