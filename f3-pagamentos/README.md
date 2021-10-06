@@ -54,7 +54,7 @@ Exemplo na ordem do fluxo de pagamento:
  ### Cenário 4: Sucesso iniciação de pagamento:
 
  - Cenário de Sucesso
- - Credtor: PESSOA_NATURAL
+ - Credtor: PJ - LTDA
  - Debtor: PJ - LTDA
  - DICT: celular
 
