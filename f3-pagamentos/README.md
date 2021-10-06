@@ -77,7 +77,7 @@ Exemplo na ordem do fluxo de pagamento:
  - MANU: conta pagamento pré-paga
 
 ---
-### Cenário 6: Sucesso iniciação de pagamento MANU conta pagamento
+### Cenário 7: Sucesso iniciação de pagamento MANU conta poupança
  
  - Cenário de Sucesso
  - Credtor: PJ - LTDA
