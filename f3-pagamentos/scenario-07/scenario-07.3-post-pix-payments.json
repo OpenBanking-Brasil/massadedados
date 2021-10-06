@@ -5,19 +5,22 @@
     "consentId": "urn:caixaeconomica:CEF23082129",
     "creationDateTime": "2021-09-20T14:03:45Z",
     "statusUpdateDateTime": "2021-09-20T14:04:00Z",
+    "proxy": "",
+    "ibgeTownCode": "3550308",
     "status": "ACCC",
     "cnpjInitiator": "19468242000132",
-    "localInstrument": "DICT",
+    "localInstrument": "MANU",
     "payment": {
       "amount": "6500.00",
       "currency": "BRL"
     },
-    "remittanceInformation": "Entrada contrato 7512",
+    "transactionIdentification": "961ECC39C3F64E4AACFF3D640",
+    "remittanceInformation": "Festa aniversario Azzaip",
     "creditorAccount": {
-      "ispb": "00000000",
-      "issuer": "1820",
-      "number": "11301503",
-      "accountType": "CACC"
+      "ispb": "00360305",
+      "issuer": "3100",
+      "number": "44053",
+      "accountType": "SVGS"
     }
   },
   "links": {
