@@ -3,6 +3,7 @@
     "consentId": "urn:itau:ITU281737207",
     "creationDateTime": "2021-08-15T10:00:00Z",
     "expirationDateTime": "2021-08-15T11:00:00Z",
+    "ibgeTownCode": "3509502",
     "statusUpdateDateTime": "2021-08-15T10:03:05Z",
     "status": "CONSUMED",
     "loggedUser": {
@@ -20,13 +21,24 @@
     "creditor": {
       "personType": "PESSOA_JURIDICA",
       "cpfCnpj": "75747327000120",
-      "name": "New Vision Publicidade e Propaganda Ltda"
+      "name": "Azzaip Publicidade e Propaganda Ltda"
     },
     "payment": {
       "type": "PIX",
       "date": "2021-08-15",
       "currency": "BRL",
-      "amount": "13800.00"
+      "amount": "13800.00",
+      "ibgeTownCode": "3550308",
+      "details": {
+        "localInstrument": "DICT",
+        "proxy": "1925254671",
+        "creditorAccount": {
+          "ispb": "00000000",
+          "issuer": "1820",
+          "number": "11301503",
+          "accountType": "CACC"
+        }
+      }
     },
     "debtorAccount": {
       "ispb": "60746948",

@@ -51,9 +51,14 @@ Exemplo na ordem do fluxo de pagamento:
 
  ---
 
-3) PJ-LTDA - Iniciação de Pagamento para Pessoa Jurídica - LTDA com creditor para PESSOA_NATURAL e debtorAccount de Conta de Pagamento Pré-Paga  
+ ### Cenário 4: Sucesso iniciação de pagamento:
 
-4) PJ-LTDA - Iniciação de Pagamento para Pessoa Jurídica - LTDA com creditor para PESSOA_JURIDICA LTDA e debtorAccount de Conta Corrente  
+ - Cenário de Sucesso
+ - Credtor: PESSOA_NATURAL
+ - Debtor: PJ - LTDA
+ - DICT: celular
+
+---  
 
 5) PJ-LTDA - Iniciação de Pagamento para Pessoa Jurídica - LTDA com creditor para PESSOA_JURIDICA MEI e debtorAccount de Conta Corrente  
 
