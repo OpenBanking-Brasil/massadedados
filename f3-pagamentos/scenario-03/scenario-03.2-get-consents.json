@@ -4,6 +4,7 @@
       "creationDateTime":"2021-07-20T14:18:00Z",
       "expirationDateTime":"2021-07-20T15:18:00Z",
       "statusUpdateDateTime":"2021-07-20T14:25:00Z",
+      "ibgeTownCode": "3550308",
       "status":"CONSUMED",
       "loggedUser":{
          "document":{
@@ -26,7 +27,18 @@
          "type":"PIX",
          "date":"2021-07-20",
          "currency":"BRL",
-         "amount":"328.91"
+         "amount":"328.91",
+         "details": {
+            "localInstrument": "DICT",
+            "qrCode": "69762697669762390229239022939022BR.GOV.BCB.PIX863466756C616E6F3293986393913466756C616E6F3466756C616E6F BR.COM.OUTRO697623902292650579176976239022926505.697623BR6978FATIMA589769690069789787 645544RP58754691-201950300017BR.GOV.BCB.BRCODE01051.0.080450014BR.GOV.BCB.PIX0123PADRAO.URL.PIX/0123AB CD58546477BR.COM.69762390.ABCD.6976.WXYZ5878EB78",
+            "proxy": "31804279579",
+            "creditorAccount": {
+              "ispb": "00360305",
+              "issuer": "3100",
+              "number": "53091",
+              "accountType": "CACC"
+            }
+          }
       },
       "debtorAccount":{
          "ispb":"10573521",

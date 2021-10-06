@@ -6,13 +6,15 @@
     "creationDateTime": "2021-07-20T14:26:00Z",
     "statusUpdateDateTime": "2021-07-20T14:30:00Z",
     "proxy": "31804279579",
+    "ibgeTownCode": "3550308",
     "status": "ACCC",
-    "cnpjInitiator": "19468242000132",
     "localInstrument": "DICT",
+    "cnpjInitiator": "19468242000132",
     "payment": {
       "amount": "328.91",
       "currency": "BRL"
     },
+    "transactionIdentification": "8677491F02154527B32E265D0",
     "remittanceInformation": "Pagamento Tarifa de Serviço TS-012.",
     "creditorAccount": {
       "ispb": "00360305",

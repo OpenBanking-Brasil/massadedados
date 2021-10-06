@@ -42,6 +42,14 @@ Exemplo na ordem do fluxo de pagamento:
 
  ---
 
+### Cenário 3: Sucesso iniciação de pagamento:
+ 
+ - Cenário de Sucesso
+ - Credtor: PESSOA_NATURAL
+ - Debtor: PJ - LTDA
+ - DICT: CPF
+
+ ---
 
 3) PJ-LTDA - Iniciação de Pagamento para Pessoa Jurídica - LTDA com creditor para PESSOA_NATURAL e debtorAccount de Conta de Pagamento Pré-Paga  
 
