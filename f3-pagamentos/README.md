@@ -69,9 +69,15 @@ Exemplo na ordem do fluxo de pagamento:
 
 ---
 
+### Cenário 6: Sucesso iniciação de pagamento MANU conta pagamento
 
+ - Cenário de Sucesso
+ - Credtor: PJ - LTDA
+ - Debtor: PJ - LTDA
+ - MANU: conta pagamento pré-paga
 
-6) PJ-LTDA - Iniciação de Pagamento para Pessoa Jurídica - LTDA com creditor para PESSOA_JURIDICA LTDA e debtorAccount de Conta Poupança  
+---
+
 
 7) PJ-LTDA - Iniciação de Pagamento para Pessoa Jurídica - LTDA com creditor para PESSOA_JURIDICA LTDA e debtorAccount de Conta de Pagamento Pré-Paga  
 
