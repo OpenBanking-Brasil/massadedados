@@ -5,14 +5,17 @@
     "consentId": "urn:bb:BB606330599",
     "creationDateTime": "2021-07-13T10:36:00Z",
     "statusUpdateDateTime": "2021-07-13T10:38:00Z",
+    "proxy": "fernando1985@hotmail.com",
+    "ibgeTownCode": "3550308",
     "status": "ACCC",
+    "localInstrument": "DICT",
     "cnpjInitiator": "19468242000132",
-    "localInstrument": "MANU",
     "payment": {
-      "amount": "1235.10",
+      "amount": "5235.10",
       "currency": "BRL"
     },
-    "remittanceInformation": "Pagamento da Parc. 07/2021 referente ao Veículo Placa - JWD-5643.",
+    "transactionIdentification": "38662b8e0be94acba6e2577c5",
+    "remittanceInformation": "",
     "creditorAccount": {
       "ispb": "00360305",
       "issuer": "3914",

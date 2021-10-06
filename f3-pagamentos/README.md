@@ -1,4 +1,4 @@
-# Massa fase 3 v. 1.0.1
+# Massa fase 3 v. 1.0.1-rc1.1
 Os scenarios de sucesso (fluxo feliz) foram elaborados considerando o fluxo endToend da API - Pagamentos v. 1.0.1. 
 Sendo assim, para cada cenário definido, existem quatro arquivos "*.json", ou seja, um para cada endpoint da API - Pagamentos.
 
@@ -31,7 +31,17 @@ Exemplo na ordem do fluxo de pagamento:
  - DICT: chave aleatória
 
  ---
-2) PJ-LTDA - Iniciação de Pagamento para Pessoa Jurídica - LTDA com creditor para PESSOA_NATURAL e debtorAccount de Conta Poupança  
+
+ ### Cenário 2: Sucesso iniciação de pagamentos: 
+
+ - Cenário de Sucesso
+ - Credtor: PESSOA_NATURAL
+ - Debtor: PJ - LTDA
+ - localInstrument: DICT
+ - DICT: e-mail
+
+ ---
+
 
 3) PJ-LTDA - Iniciação de Pagamento para Pessoa Jurídica - LTDA com creditor para PESSOA_NATURAL e debtorAccount de Conta de Pagamento Pré-Paga  
 
