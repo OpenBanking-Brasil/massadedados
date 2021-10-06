@@ -1,6 +1,6 @@
 # Cenário: 
  
  - Cenário de Sucesso
- - Credtor: PESSOA_NATURAL
+ - Credtor: PJ - LTDA
  - Debtor: PJ - LTDA
  - DICT: celular
