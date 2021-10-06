@@ -5,14 +5,17 @@
     "consentId": "urn:itau:ITU281737207",
     "creationDateTime": "2021-08-15T10:00:00Z",
     "statusUpdateDateTime": "2021-08-15T10:03:05Z",
+    "proxy": "1925254671",
+    "ibgeTownCode": "3550308",
     "status": "ACCC",
-    "cnpjInitiator": "19468242000132",
     "localInstrument": "DICT",
+    "cnpjInitiator": "19468242000132",
     "payment": {
       "amount": "13800.00",
       "currency": "BRL"
     },
-    "remittanceInformation": "",
+    "transactionIdentification": "6D8E254AF0064E08943422556",
+    "remittanceInformation": "Parcela 1 de 3",
     "creditorAccount": {
       "ispb": "00000000",
       "issuer": "1820",
