@@ -3,7 +3,6 @@
     "consentId": "urn:bb:BB675478642",
     "creationDateTime": "2021-10-03T16:05:00Z",
     "expirationDateTime": "2021-10-03T17:05:00Z",
-    "ibgeTownCode": "3550308",
     "statusUpdateDateTime": "2021-10-03T16:06:00Z",
     "status": "CONSUMED",
     "loggedUser": {
