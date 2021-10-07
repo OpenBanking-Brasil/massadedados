@@ -3,7 +3,6 @@
       "consentId": "urn:mercadopago:MPG202123089",
       "creationDateTime": "2021-09-20T14:03:45Z",
       "expirationDateTime": "2021-09-20T15:03:45Z",
-      "ibgeTownCode": "3550308",
       "statusUpdateDateTime": "2021-09-20T14:04:00Z",
       "status": "CONSUMED",
       "loggedUser": {
