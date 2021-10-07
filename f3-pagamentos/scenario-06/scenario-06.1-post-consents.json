@@ -3,7 +3,6 @@
       "consentId": "urn:caixaeconomica:CEF23082129",
       "creationDateTime": "2021-09-20T14:03:45Z",
       "expirationDateTime": "2021-09-20T15:03:45Z",
-      "ibgeTownCode": "3509502",
       "statusUpdateDateTime": "2021-09-20T14:04:00Z",
       "status": "CONSUMED",
       "loggedUser": {
