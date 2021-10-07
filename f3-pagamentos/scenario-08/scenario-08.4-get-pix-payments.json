@@ -5,19 +5,22 @@
     "consentId": "urn:itau:ITU630607040",
     "creationDateTime": "2021-08-05T12:10:00Z",
     "statusUpdateDateTime": "2021-08-05T12:10:00Z",
-    "proxy":"5519edcd-5e63-49b4-ac86-ddc3cf25217a",
+    "proxy": "e561c1e4-3342-482f-8672-7b8f7f4f",
+    "ibgeTownCode": "4314902",
     "status": "ACCC",
     "cnpjInitiator": "19468242000132",
-    "localInstrument": "DICT",
+    "localInstrument": "INIC",
     "payment": {
       "amount": "1786.45",
       "currency": "BRL"
     },
-    "remittanceInformation": "Pagamento dívida de 2020.",
+    "transactionIdentification": "2C2E0E0D299D4FA2AA8245C4B",
+    "remittanceInformation": "Compra sofá novo",
     "creditorAccount": {
-      "ispb": "10573521",
-      "number": "39115631674",
-      "accountType": "TRAN"
+      "ispb": "60701190",
+      "issuer": "7793",
+      "number": "532727",
+      "accountType": "CACC"
     }
   },
   "links": {
