@@ -3,7 +3,6 @@
       "consentId":"urn:itau:ITU230821163",
       "creationDateTime":"2021-08-20T12:34:00Z",
       "expirationDateTime":"2021-08-20T13:34:00Z",
-      "ibgeTownCode": "4217709",
       "statusUpdateDateTime":"2021-08-20T12:34:50Z",
       "status":"CONSUMED",
       "loggedUser":{
