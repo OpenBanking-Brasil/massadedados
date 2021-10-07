@@ -85,9 +85,15 @@ Exemplo na ordem do fluxo de pagamento:
  - MANU: conta pagamento poupança
 
 ---
-  
 
-8) PJ-MEI - Iniciação de Pagamento para Pessoa Jurídica - MEI com creditor para PESSOA_NATURAL e debtorAccount de Conta Corrente  
+### Cenário 8: Sucesso Iniciação de pagamento INIC chave aleatória
+ 
+ - Cenário de Sucesso
+ - Credtor: PJ - LTDA
+ - Debtor: PF
+ - INIC: chave aleatória
+  
+---
 
 9) PJ-MEI - Iniciação de Pagamento para Pessoa Jurídica - MEI com creditor para PESSOA_NATURAL e debtorAccount de Conta Poupança  
 
