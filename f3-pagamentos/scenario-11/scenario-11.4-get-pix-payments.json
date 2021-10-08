@@ -5,7 +5,7 @@
     "consentId": "urn:bb:BB152006845",
     "creationDateTime": "2021-08-07T13:40:00Z",
     "statusUpdateDateTime": "2021-08-07T13:42:00Z",
-    "proxy": "11981937028",
+    "proxy": "11998887788",
     "ibgeTownCode": "4313805",
     "status": "ACCC",
     "cnpjInitiator": "19468242000132",
@@ -15,11 +15,11 @@
       "currency": "BRL"
     },
     "transactionIdentification": "FC4618F4D626465CA39D9F27C",
-    "remittanceInformation": "Arte publi e-mail",
+    "remittanceInformation": "",
     "creditorAccount": {
-      "ispb": "00000000",
-      "issuer": "1820",
-      "number": "11301503",
+      "ispb": "60701190",
+      "issuer": "7793",
+      "number": "532727",
       "accountType": "CACC"
     }
   },

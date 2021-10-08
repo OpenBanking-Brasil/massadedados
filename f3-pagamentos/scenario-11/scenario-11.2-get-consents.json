@@ -7,35 +7,35 @@
     "status": "CONSUMED",
     "loggedUser": {
       "document": {
-        "identification": "07983861001",
+        "identification": "51407217089",
         "rel": "CPF"
       }
     },
     "businessEntity": {
       "document": {
-        "identification": "65950257000150",
-        "rel": "CNPJ"
+        "identification": "",
+        "rel": ""
       }
     },
     "creditor": {
       "personType": "PESSOA_JURIDICA",
-      "cpfCnpj": "13567121000161",
-      "name": "Mercado Oliveira"
+      "cpfCnpj": "47960950000121",
+      "name": "MAGAZINE LUIZA S/A"
     },
     "payment": {
       "type": "PIX",
       "date": "2021-08-07",
       "currency": "BRL",
-      "amount": "2000.00",
+      "amount": "9500.00",
       "ibgeTownCode": "4313805",
       "details": {
         "localInstrument": "INIC",
         "qrCode": "69762697669762390229239022939022BR.GOV.BCB.PIX863466756C616E6F3293986393913466756C616E6F3466756C616E6F BR.COM.OUTRO697623902292650579176976239022926505.697623BR6978FATIMA589769690069789787 645544RP58754691-201950300017BR.GOV.BCB.BRCODE01051.0.080450014BR.GOV.BCB.PIX0123PADRAO.URL.PIX/0123AB CD58546477BR.COM.69762390.ABCD.6976.WXYZ5878EB78",
-        "proxy": "11981937028",
+        "proxy": "11998887788",
         "creditorAccount": {
-          "ispb": "00000000",
-          "issuer": "1820",
-          "number": "11301503",
+          "ispb": "60701190",
+          "issuer": "7793",
+          "number": "532727",
           "accountType": "CACC"
         }
       }

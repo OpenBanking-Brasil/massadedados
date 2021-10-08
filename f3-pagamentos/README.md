@@ -104,7 +104,7 @@ Exemplo na ordem do fluxo de pagamento:
 
  ---
  
- ### Cenário 10: Sucesso Iniciação de pagamento INIC chave cpf
+ ### Cenário 10: Sucesso Iniciação de pagamento INIC chave cnpj
 
  - Cenário de Sucesso
  - Credtor: PJ - LTDA
@@ -113,12 +113,12 @@ Exemplo na ordem do fluxo de pagamento:
 
 ---
 
-### Cenário 10: Sucesso Iniciação de pagamento INIC chave cpf
+### Cenário 11: Sucesso Iniciação de pagamento INIC chave celular
 
  - Cenário de Sucesso
  - Credtor: PJ - LTDA
  - Debtor: PF
- - INIC: chave cnpj
+ - INIC: chave celular
 
  ---
 
