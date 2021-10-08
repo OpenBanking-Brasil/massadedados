@@ -109,7 +109,7 @@ Exemplo na ordem do fluxo de pagamento:
  - Cenário de Sucesso
  - Credtor: PJ - LTDA
  - Debtor: PF
- - INIC: chave cpf
+ - INIC: chave cnpj
 
 ---
 
