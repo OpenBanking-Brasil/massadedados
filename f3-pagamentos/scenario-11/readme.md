@@ -3,4 +3,4 @@
  - Cenário de Sucesso
  - Credtor: PJ - LTDA
  - Debtor: PF
- - INIC: chave telefone
+ - INIC: chave celular
