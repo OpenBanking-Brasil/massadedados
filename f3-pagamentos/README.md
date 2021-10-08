@@ -113,8 +113,15 @@ Exemplo na ordem do fluxo de pagamento:
 
 ---
 
+### Cenário 10: Sucesso Iniciação de pagamento INIC chave cpf
 
-11) PF - Iniciação de Pagamento para Pessoa Natural com creditor para PESSOA_NATURAL e debtorAccount de Conta Corrente  
+ - Cenário de Sucesso
+ - Credtor: PJ - LTDA
+ - Debtor: PF
+ - INIC: chave cnpj
+
+ ---
+
 
 12) PF - Iniciação de Pagamento para Pessoa Natural com creditor para PESSOA_NATURAL e debtorAccount de Conta Corrente  
 

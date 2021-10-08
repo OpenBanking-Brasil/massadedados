@@ -2,27 +2,29 @@
   "data": {
     "paymentId": "TXSDRnqJjzGgKtr9o4PgCdDLMgJXy3F",
     "endToEndId": "E60701190202108071340RboxmTKKEcq",
-    "consentId": "urn:itau:ITU152006845",
+    "consentId": "urn:bb:BB152006845",
     "creationDateTime": "2021-08-07T13:40:00Z",
     "statusUpdateDateTime": "2021-08-07T13:42:00Z",
-    "proxy":"+5511976541192",
+    "proxy": "11981937028",
+    "ibgeTownCode": "4313805",
     "status": "ACCC",
     "cnpjInitiator": "19468242000132",
-    "localInstrument": "DICT",
+    "localInstrument": "INIC",
     "payment": {
-      "amount": "89.76",
+      "amount": "2000.00",
       "currency": "BRL"
     },
-    "remittanceInformation": "Carnes para confraternização.",
+    "transactionIdentification": "FC4618F4D626465CA39D9F27C",
+    "remittanceInformation": "Arte publi e-mail",
     "creditorAccount": {
-      "ispb": "00360305",
-      "issuer": "3100",
-      "number": "44053",
-      "accountType": "SVGS"
+      "ispb": "00000000",
+      "issuer": "1820",
+      "number": "11301503",
+      "accountType": "CACC"
     }
   },
   "links": {
-    "self": "https://api.itau/open-banking/payments/v1/pix/payments/TXSDRnqJjzGgKtr9o4PgCdDLMgJXy3F"
+    "self": "https://opendata.api.bb.com.br/open-banking/api/v1//TXSDRnqJjzGgKtr9o4PgCdDLMgJXy3F"
   },
   "meta": {
     "totalRecords": 1,
