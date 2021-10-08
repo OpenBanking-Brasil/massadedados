@@ -5,18 +5,22 @@
     "consentId": "urn:itau:ITU748487277",
     "creationDateTime": "2021-08-16T19:25:00Z",
     "statusUpdateDateTime": "2021-08-16T19:26:00Z",
+    "proxy": "comprasdosite@magalu.com.br",
+    "ibgeTownCode": "4309100",
     "status": "ACCC",
     "cnpjInitiator": "19468242000132",
-    "localInstrument": "MANU",
+    "localInstrument": "INIC",
     "payment": {
       "amount": "8722.00",
       "currency": "BRL"
     },
-    "remittanceInformation": "Entrada de Imóvel - Rua Cárdamo, 566.",
+    "transactionIdentification": "3C6B9B1FDB6E4B11A6405B6F1",
+    "remittanceInformation": "Notebook",
     "creditorAccount": {
-      "ispb": "00360305",
-      "number": "76452",
-      "accountType": "SVGS"
+      "ispb": "60701190",
+      "issuer": "7793",
+      "number": "532727",
+      "accountType": "CACC"
     }
   },
   "links": {

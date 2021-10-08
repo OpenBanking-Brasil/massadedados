@@ -1,38 +1,50 @@
 {
   "data": {
-    "consentId": "urn:itau:ITU630607040",
-    "creationDateTime": "2021-08-05T12:01:00Z",
-    "expirationDateTime": "2021-08-05T13:01:00Z",
-    "statusUpdateDateTime": "2021-08-05T12:11:00Z",
+    "consentId": "urn:itau:ITU748487277",
+    "creationDateTime": "2021-08-16T19:21:00Z",
+    "expirationDateTime": "2021-08-16T20:21:00Z",
+    "statusUpdateDateTime": "2021-08-16T19:24:00Z",
     "status": "CONSUMED",
     "loggedUser": {
       "document": {
-        "identification": "07983861001",
+        "identification": "79557061022",
         "rel": "CPF"
       }
     },
     "businessEntity": {
       "document": {
-        "identification": "65950257000150",
-        "rel": "CNPJ"
+        "identification": "",
+        "rel": ""
       }
     },
     "creditor": {
-      "personType": "PESSOA_NATURAL",
-      "cpfCnpj": "79619144554",
-      "name": "Fátima Antônia Silveira"
+      "personType": "PESSOA_JURIDICA",
+      "cpfCnpj": "47960950000121",
+      "name": "MAGAZINE LUIZA S/A"
     },
     "payment": {
       "type": "PIX",
-      "date": "2021-08-03",
+      "date": "2021-08-16",
       "currency": "BRL",
-      "amount": "8722.00"
+      "amount": "8722.00",
+      "ibgeTownCode": "4309100",
+      "details": {
+        "localInstrument": "INIC",
+        "qrCode": "69762697669762390229239022939022BR.GOV.BCB.PIX863466756C616E6F3293986393913466756C616E6F3466756C616E6F BR.COM.OUTRO697623902292650579176976239022926505.697623BR6978FATIMA589769690069789787 645544RP58754691-201950300017BR.GOV.BCB.BRCODE01051.0.080450014BR.GOV.BCB.PIX0123PADRAO.URL.PIX/0123AB CD58546477BR.COM.69762390.ABCD.6976.WXYZ5878EB78",
+        "proxy": "comprasdosite@magalu.com.br",
+        "creditorAccount": {
+          "ispb": "60701190",
+          "issuer": "7793",
+          "number": "532727",
+          "accountType": "CACC"
+        }
+      }
     },
     "debtorAccount": {
       "ispb": "60701190",
-      "issuer": "5802",
-      "number": "015353",
-      "accountType": "CACC"
+      "issuer": "9292",
+      "number": "767711",
+      "accountType": "SVGS"
     }
   },
   "links": {
