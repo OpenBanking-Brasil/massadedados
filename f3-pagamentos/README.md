@@ -103,11 +103,16 @@ Exemplo na ordem do fluxo de pagamento:
  - INIC: chave e-mail
 
  ---
+ 
+ ### Cenário 10: Sucesso Iniciação de pagamento INIC chave cpf
 
+ - Cenário de Sucesso
+ - Credtor: PJ - LTDA
+ - Debtor: PF
+ - INIC: chave cpf
 
-9) PJ-MEI - Iniciação de Pagamento para Pessoa Jurídica - MEI com creditor para PESSOA_NATURAL e debtorAccount de Conta Poupança  
+---
 
-10) PJ-MEI - Iniciação de Pagamento para Pessoa Jurídica - MEI com creditor para PESSOA_NATURAL e debtorAccount de conta de Pagamento Pré-Paga  
 
 11) PF - Iniciação de Pagamento para Pessoa Natural com creditor para PESSOA_NATURAL e debtorAccount de Conta Corrente  
 
