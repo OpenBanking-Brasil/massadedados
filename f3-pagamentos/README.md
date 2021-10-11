@@ -129,9 +129,16 @@ Exemplo na ordem do fluxo de pagamento:
  - Múltiplas alçadas parcialmente aprovado
 
 ---
+### Cenário 13: Iniciação de pagamento PF:PJ com múltiplas alçadas pendente de autorização
+
+- Cenário de Sucesso
+ - Credtor: PJ
+ - Debtor: PF
+ - Múltiplas alçadas parcialmente aprovado
 
 
-13) PF- Iniciação de Pagamento para Pessoa Natural com creditor para PESSOA_NATURAL e debtorAccount de Conta Poupança  
+----
+
 
 14) PF - Iniciação de Pagamento para Pessoa Natural com creditor para PESSOA_JURIDICA LTDA e debtorAccount de Conta Corrente  
 
