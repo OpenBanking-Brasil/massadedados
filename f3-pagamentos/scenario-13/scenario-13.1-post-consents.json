@@ -1,46 +1,57 @@
 {
-   "data":{
-      "consentId":"urn:caixaeconomica:CEF24082021",
-      "creationDateTime":"2021-08-14T17:10:52Z",
-      "expirationDateTime":"2021-08-14T18:10:52Z",
-      "statusUpdateDateTime":"2021-08-14T17:11:52Z",
-      "status":"CONSUMED",
-      "loggedUser":{
-         "document":{
-            "identification":"31804279579",
-            "rel":"CPF"
+   "data": {
+      "consentId": "urn:caixaeconomica:CEF24082021",
+      "creationDateTime": "2021-08-14T17:10:52Z",
+      "expirationDateTime": "2021-08-14T18:10:52Z",
+      "statusUpdateDateTime": "2021-08-14T17:11:52Z",
+      "status": "CONSUMED",
+      "loggedUser": {
+         "document": {
+            "identification": "31804279579",
+            "rel": "CPF"
          }
       },
-      "businessEntity":{
-         "document":{
-            "identification":"31804279579",
-            "rel":"CPF"
+      "businessEntity": {
+         "document": {
+            "identification": "",
+            "rel": ""
          }
       },
-      "creditor":{
-         "personType":"PESSOA_NATURAL",
-         "cpfCnpj":"79619144554",
-         "name":"Fátima Antônia Silveira"
+      "creditor": {
+         "personType": "PESSOA_JURIDICA ",
+         "cpfCnpj": "47960950000121",
+         "name": "MAGAZINE LUIZA S/A"
       },
-      "payment":{
-         "type":"PIX",
-         "date":"2021-08-14",
-         "currency":"BRL",
-         "amount":"320.00"
+      "payment": {
+         "type": "PIX",
+         "date": "2021-08-14",
+         "currency": "BRL",
+         "amount": "320.00",
+         "ibgeTownCode": "3106200",
+         "details": {
+            "localInstrument": "INIC",
+            "proxy": "47960950000121",
+            "creditorAccount": {
+               "ispb": "60701190",
+               "issuer": "7793",
+               "number": "532727",
+               "accountType": "CACC"
+            }
+         }
       },
-      "debtorAccount":{
-         "ispb":"00360305",
-         "issuer":"3100",
-         "number":"44053",
-         "accountType":"SVGS"
+      "debtorAccount": {
+         "ispb": "00360305",
+         "issuer": "3100",
+         "number": "53091",
+         "accountType": "CACC"
       },
-      "links":{
-         "self":"https://api.caixa.gov.br/open-banking/payments/v1/consents/urn:caixaeconomica:CEF24082021"
+      "links": {
+         "self": "https://api.caixa.gov.br/open-banking/payments/v1/consents/urn:caixaeconomica:CEF24082021"
       },
-      "meta":{
-         "totalRecords":1,
-         "totalPages":1,
-         "requestDateTime":"2021-08-14T17:11:52Z"
+      "meta": {
+         "totalRecords": 1,
+         "totalPages": 1,
+         "requestDateTime": "2021-08-14T17:11:52Z"
       }
    }
 }

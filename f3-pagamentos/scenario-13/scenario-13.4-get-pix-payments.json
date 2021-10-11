@@ -5,18 +5,21 @@
     "consentId": "urn:caixaeconomica:CEF24082021",
     "creationDateTime": "2021-08-14T17:10:52Z",
     "statusUpdateDateTime": "2021-08-14T17:11:52Z",
-    "status": "ACCC",
+    "proxy": "47960950000121",
+    "ibgeTownCode": "3106200",
+    "status": "PART",
     "cnpjInitiator": "19468242000132",
-    "localInstrument": "DICT",
+    "localInstrument": "INIC",
     "payment": {
       "amount": "320.00",
       "currency": "BRL"
     },
-    "remittanceInformation": "Dinheiro da Luz",
+    "transactionIdentification": "21F222F8F8104ED090A1099E6",
+    "remittanceInformation": "Batedeira",
     "creditorAccount": {
-      "ispb": "60746948",
-      "issuer": "1745",
-      "number": "18549301",
+      "ispb": "60701190",
+      "issuer": "7793",
+      "number": "532727",
       "accountType": "CACC"
     }
   },
