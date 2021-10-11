@@ -1,5 +1,5 @@
 {
-   "data":{
+   "data": {
       "consentId": "urn:bradesco:BDC250810371",
       "creationDateTime": "2021-08-04T10:38:57Z",
       "expirationDateTime": "2021-08-04T11:38:57Z",
@@ -45,13 +45,13 @@
          "number": "18549301",
          "accountType": "CACC"
       },
-      "links":{
-         "self":"https://api.bradesco.com/open-banking/payments/v1/consents/urn:bradesco:BDC250810371"
+      "links": {
+         "self": "https://api.bradesco.com/open-banking/payments/v1/consents/urn:bradesco:BDC250810371"
       },
-      "meta":{
-         "totalRecords":1,
-         "totalPages":1,
-         "requestDateTime":"2021-08-04T10:39:57Z"
+      "meta": {
+         "totalRecords": 1,
+         "totalPages": 1,
+         "requestDateTime": "2021-08-04T10:39:57Z"
       }
    }
 }

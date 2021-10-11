@@ -130,7 +130,7 @@ Exemplo na ordem do fluxo de pagamento:
  - localInstrument: DICT
 
 ---
-### Cenário 13: Iniciação de pagamento PF:PJ com múltiplas alçadas pendente de autorização
+### Cenário 13: Iniciação de pagamento PF:PJ - múltiplas alçadas: pendente de autorização
 
 - Cenário de Sucesso
  - Credtor: PJ
@@ -139,7 +139,7 @@ Exemplo na ordem do fluxo de pagamento:
 - localInstrument: INIC
 
 ----
-### Cenário 14: Iniciação de pagamento PF:PF com múltiplas alçadas rejeitado
+### Cenário 14: Iniciação de pagamento PF:PF - múltiplas alçadas: rejeitado
 
  - Cenário de exceção
  - Credtor: PF

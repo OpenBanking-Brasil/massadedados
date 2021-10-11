@@ -1,5 +1,4 @@
 # Cenário: 
- 
 - Cenário de exceção
  - Credtor: PF
  - Debtor: PF
