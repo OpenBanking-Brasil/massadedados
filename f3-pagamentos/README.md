@@ -127,20 +127,27 @@ Exemplo na ordem do fluxo de pagamento:
  - Credtor: PF
  - Debtor: PF
  - Múltiplas alçadas parcialmente aprovado
+ - localInstrument: DICT
 
 ---
-### Cenário 13: Iniciação de pagamento PF:PJ com múltiplas alçadas pendente de autorização
+### Cenário 13: Iniciação de pagamento PF:PJ - múltiplas alçadas: pendente de autorização
 
 - Cenário de Sucesso
  - Credtor: PJ
  - Debtor: PF
  - Múltiplas alçadas parcialmente aprovado
-
+- localInstrument: INIC
 
 ----
+### Cenário 14: Iniciação de pagamento PF:PF - múltiplas alçadas: rejeitado
+
+ - Cenário de exceção
+ - Credtor: PF
+ - Debtor: PF
+ - Múltiplas alçadas: DENIED_MULTIPLE_AUTHORISATIONS
+ - localInstrument: DICT
 
 
-14) PF - Iniciação de Pagamento para Pessoa Natural com creditor para PESSOA_JURIDICA LTDA e debtorAccount de Conta Corrente  
 
 15) PF - Iniciação de Pagamento para Pessoa Natural com creditor para PESSOA_JURIDICA LTDA e debtorAccount de Conta Poupança  
 
