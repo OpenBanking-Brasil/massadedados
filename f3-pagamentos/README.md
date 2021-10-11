@@ -121,9 +121,15 @@ Exemplo na ordem do fluxo de pagamento:
  - INIC: chave celular
 
  ---
+### Cenário 11: Sucesso Iniciação de pagamento com múltiplas alçadas pendente de autorização
 
+ - Cenário de Sucesso
+ - Credtor: PF
+ - Debtor: PF
+ - Múltiplas alçadas parcialmente aprovado
 
-12) PF - Iniciação de Pagamento para Pessoa Natural com creditor para PESSOA_NATURAL e debtorAccount de Conta Corrente  
+---
+
 
 13) PF- Iniciação de Pagamento para Pessoa Natural com creditor para PESSOA_NATURAL e debtorAccount de Conta Poupança  
 

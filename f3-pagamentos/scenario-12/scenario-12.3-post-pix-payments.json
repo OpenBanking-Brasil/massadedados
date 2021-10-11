@@ -5,19 +5,21 @@
     "consentId": "urn:santander:BSB240821153",
     "creationDateTime": "2021-08-24T15:34:43Z",
     "statusUpdateDateTime": "2021-08-24T15:35:05Z",
-    "status": "ACCC",
+    "proxy": "52654397068",
+    "status": "PARTIALLY ACCEPTED",
     "cnpjInitiator": "19468242000132",
     "localInstrument": "DICT",
     "payment": {
-      "amount": "140.00",
+      "amount": "940.00",
       "currency": "BRL"
     },
+    "transactionIdentification": "MMDB6681B57A4C7E9B88A335C",
     "remittanceInformation": "",
     "creditorAccount": {
-      "ispb": "00360305",
-      "issuer": "3100",
-      "number": "53091",
-      "accountType": "CACC"
+      "ispb": "10573521",
+      "issuer": "0001",
+      "number": "34582795481",
+      "accountType": "TRAN"
     }
   },
   "links": {
