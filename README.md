@@ -51,7 +51,7 @@ prefixo-do-cenario-ordem-no-fluxo-endereco-do-endpoint
 
 Exemplo de cenário de sucesso com os quatro passos do pagamento:
 
-*scenario-01.1-post-consents.json*  
-*scenario-01.2-post-consents.json*  
-*scenario-01.3-post-consents.json*  
-*scenario-01.4-post-consents.json*  
+*cenario-01.1-post-consents.json*  
+*cenario-01.2-post-consents.json*  
+*cenario-01.3-post-consents.json*  
+*cenario-01.4-post-consents.json*  
