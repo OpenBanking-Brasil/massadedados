@@ -7,32 +7,44 @@
       "status":"CONSUMED",
       "loggedUser":{
          "document":{
-            "identification":"29894140530",
+            "identification":"31804279579",
             "rel":"CPF"
          }
       },
       "businessEntity":{
          "document":{
-            "identification":"29894140530",
-            "rel":"CPF"
+            "identification":"",
+            "rel":""
          }
       },
       "creditor":{
          "personType":"PESSOA_JURIDICA",
-         "cpfCnpj":"13567121000161",
-         "name":"Mercado Oliveira"
+         "cpfCnpj":"47960950000121",
+         "name":"MAGAZINE LUIZA S/A"
       },
       "payment":{
          "type":"PIX",
          "date":"2021-08-04",
          "currency":"BRL",
-         "amount":"258.90"
+         "amount":"258.90",
+         "ibgeTownCode": "3106200",
+         "details": {
+            "localInstrument": "INIC",
+            "qrCode":"", 
+            "proxy": "47960950000121",
+            "creditorAccount": {
+               "ispb": "60701190",
+               "issuer": "7793",
+               "number": "532727",
+               "accountType": "CACC"
+            }
+         }
       },
       "debtorAccount":{
          "ispb":"00360305",
-         "issuer":"3914",
-         "number":"76452",
-         "accountType":"SVGS"
+         "issuer":"3100",
+         "number":"53091",
+         "accountType":"CACC"
       },
       "links":{
          "self":"https://api.caixa.gov.br/open-banking/payments/v1/consents/urn:caixaeconomica:CEF15362508"
