@@ -5,15 +5,17 @@
     "consentId": "urn:mercadopago:MPG742470118",
     "creationDateTime": "2021-08-23T09:00:00Z",
     "statusUpdateDateTime": "2021-08-23T09:05:00Z",
-    "proxy":"13567121000161",
+    "proxy":"47960950000121",
+    "ibgeTownCode": "3516200",
     "status": "ACCC",
     "cnpjInitiator": "19468242000132",
-    "localInstrument": "DICT",
+    "localInstrument": "QRES",
     "payment": {
       "amount": "9878.86",
       "currency": "BRL"
     },
-    "remittanceInformation": "Quitação de parcela 9/10",
+    "transactionIdentification": "9ECF79CA519F413BAA7673A97",
+    "remittanceInformation": "",
     "creditorAccount": {
       "ispb": "60746948",
       "issuer": "1923",

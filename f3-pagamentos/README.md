@@ -156,9 +156,15 @@ Exemplo na ordem do fluxo de pagamento:
 
 
 ---
+### Cenário 16: Iniciação de pagamento PF:PJ - QRES
 
+- Cenário de Sucesso
+ - Credtor: PJ
+ - Debtor: PF
+ - localInstrument: QRES
 
-16) PF - Iniciação de Pagamento paraa Pessoa Natural com creditor para PESSOA_JURIDICA LTDA e debtorAccount de Conta de Pagamento Pré-Paga  
+---
+
 
 17) PF- Iniciação de Pagamento para Pessoa Natural com creditor para PESSOA_JURIDICA MEI e debtorAccount de Conta Poupança  
 
