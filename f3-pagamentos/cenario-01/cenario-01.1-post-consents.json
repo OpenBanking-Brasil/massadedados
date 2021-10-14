@@ -1,9 +1,9 @@
 {
   "data": {
     "consentId": "urn:bb:BB675478642",
-    "creationDateTime": "2021-10-03T16:05:00Z",
-    "expirationDateTime": "2021-10-03T17:05:00Z",
-    "statusUpdateDateTime": "2021-10-03T16:06:00Z",
+    "creationDateTime": "2021-10-03T16:06:00Z",
+    "expirationDateTime": "2021-10-03T17:06:00Z",
+    "statusUpdateDateTime": "2021-10-03T16:07:00Z",
     "status": "CONSUMED",
     "loggedUser": {
       "document": {
