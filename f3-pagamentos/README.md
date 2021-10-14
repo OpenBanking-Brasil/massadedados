@@ -152,8 +152,7 @@ Exemplo na ordem do fluxo de pagamento:
 - Cenário de Sucesso
  - Credtor: PJ
  - Debtor: PF
- - QRCode Dinâmico
- - localInstrument: INIC
+ - localInstrument: QRDN
 
 
 ---
