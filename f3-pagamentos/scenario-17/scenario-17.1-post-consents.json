@@ -1,40 +1,14 @@
 {
-  "data": {
-    "consentId": "urn:bradesco:BDC400866642",
-    "creationDateTime": "2021-08-24T16:22:00Z",
-    "expirationDateTime": "2021-08-24T17:22:00Z",
-    "statusUpdateDateTime": "2021-08-24T16:25:00Z",
-    "status": "CONSUMED",
-    "loggedUser": {
-      "document": {
-        "identification": "79619144554",
-        "rel": "CPF"
-      }
-    },
-    "creditor": {
-      "personType": "PESSOA_JURIDICA",
-      "cpfCnpj": "13567121000161",
-      "name": "Mercado Oliveira"
-    },
-    "payment": {
-      "type": "PIX",
-      "date": "2021-08-24",
-      "currency": "BRL",
-      "amount": "100.00"
-    },
-    "debtorAccount": {
-      "ispb": "60746948",
-      "issuer": "0618",
-      "number": "05746558",
-      "accountType": "SVGS"
+  "errors": [
+    {
+      "code": "NAO_INFORMADO",
+      "title": "NAO_INFORMADO: Não informado.",
+      "detail": "NAO_INFORMADO – Não reportado/identificado pela instituição detentora de conta."
     }
-  },
-  "links": {
-    "self": "https://api.bradesco.com/open-banking/payments/v1/consents/urn:bradesco:BDC400866642"
-  },
+  ],
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2021-08-24T16:25:00Z"
+    "requestDateTime": "2021-08-21T08:30:00Z"
   }
 }
