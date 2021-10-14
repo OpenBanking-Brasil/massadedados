@@ -164,38 +164,54 @@ Exemplo na ordem do fluxo de pagamento:
  - localInstrument: QRES
 
 ---
-### Cenário 17: Exceção - Consentimento com creditor.personType é diferente de PESSOA_NATURAL, PESSOA_JURIDICA
+### Cenário 17: Exceção
+
+Consentimento com creditor.personType é diferente de PESSOA_NATURAL, PESSOA_JURIDICA
 
 ---
-### Cenário 18: Exceção - Consentimento com forma de pagamento inválida  
+### Cenário 18: Exceção
+
+Consentimento com forma de pagamento inválida  
 
 ---
-### Cenário 19: Exceção - Consentimento com forma de pagamento inválida  
+### Cenário 19: Exceção 
+
+Consentimento com forma de pagamento inválida  
 
 ---
-### Cenário 20: Iniciação de pagamento com um consentimento em Status "CONSUMED"  
+### Cenário 20: 
+
 
 ---
-### Cenário 21: Iniciação de pagamento com um consentimento em Status "REJECTED"  
+### Cenário 21: Exceção
+
+Iniciação de pagamento com um consentimento em Status "REJECTED"  
 
 ---
-### Cenário 22: Iniciação de pagamento utilizando um consentimento AUTHORISED com data divergente da data utilizada na iniciação de pagamento  
+### Cenário 22: Exceção
+ Iniciação de pagamento utilizando um consentimento AUTHORISED com data divergente da data utilizada na iniciação de pagamento  
 
 ---
-### Cenário 23: Iniciação de pagamento com um consentimento AUTHORISED com dados de conta não pertencentes ao creditor/cpfCnpj informado no consentimento utilizado  
+### Cenário 23:  Exceção
+
+Iniciação de pagamento com um consentimento AUTHORISED com dados de conta não pertencentes ao creditor/cpfCnpj informado no consentimento utilizado  
 
 ---
-### Cenário 24: Iniciação de pagamento com um consentimento AUTHORISED informando um valor superior ao saldo existente na conta do debtor para realização do pagamento  
+### Cenário 24: Exceção
+ Iniciação de pagamento com um consentimento AUTHORISED informando um valor superior ao saldo existente na conta do debtor para realização do pagamento  
 
 ---
-### Cenário 25: Iniciação de pagamento com um consentimento AUTHORISED informando o ispb do creditorAccount inválido ou inexistente  
+### Cenário 25:  Exceção
+Iniciação de pagamento com um consentimento AUTHORISED informando o ispb do creditorAccount inválido ou inexistente  
 
 ---
 
-### Cenário 26: Iniciação de pagamento com um consentimento AUTHORISED informando um tipo de conta (creditorAccount/accountType) incorreto para a conta informada para o creditor  
+### Cenário 26:  Exceção
+Iniciação de pagamento com um consentimento AUTHORISED informando um tipo de conta (creditorAccount/accountType) incorreto para a conta informada para o creditor  
 
 ---
-### Cenário 27: Iniciação de pagamento com um consentimento AUTHORISED informando payment/amount divergente do informado no consentimento utilizado  
+### Cenário 27: Exceção
+ Iniciação de pagamento com um consentimento AUTHORISED informando payment/amount divergente do informado no consentimento utilizado  
 
 
   * Para mais informações sobre a especificação da API- Pagamentos, consulte https://openbanking-brasil.github.io/areadesenvolvedor/swagger/swagger_payments_apis.yaml
