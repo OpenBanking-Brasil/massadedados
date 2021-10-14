@@ -147,9 +147,17 @@ Exemplo na ordem do fluxo de pagamento:
  - Múltiplas alçadas: DENIED_MULTIPLE_AUTHORISATIONS
  - localInstrument: DICT
 
+---
+# Cenário 15: Iniciação de pagamento PF:PJ - QRDN
+- Cenário de Sucesso
+ - Credtor: PJ
+ - Debtor: PF
+ - QRCode Dinâmico
+ - localInstrument: INIC
 
 
-15) PF - Iniciação de Pagamento para Pessoa Natural com creditor para PESSOA_JURIDICA LTDA e debtorAccount de Conta Poupança  
+---
+
 
 16) PF - Iniciação de Pagamento paraa Pessoa Natural com creditor para PESSOA_JURIDICA LTDA e debtorAccount de Conta de Pagamento Pré-Paga  
 

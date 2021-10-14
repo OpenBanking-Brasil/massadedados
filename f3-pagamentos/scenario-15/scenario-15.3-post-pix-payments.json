@@ -5,18 +5,21 @@
     "consentId": "urn:caixaeconomica:CEF15362508",
     "creationDateTime": "2021-08-04T11:39:57Z",
     "statusUpdateDateTime": "2021-08-04T11:40:57Z",
+    "proxy": "47960950000121",
+    "ibgeTownCode": "3106200",
     "status": "ACCC",
     "cnpjInitiator": "19468242000132",
-    "localInstrument": "DICT",
+    "localInstrument": "INIC",
     "payment": {
       "amount": "258.90",
       "currency": "BRL"
     },
-    "remittanceInformation": "Mercado",
+    "transactionIdentification": "5CF21DFE895C441CB3609C591",
+    "remittanceInformation": "Batedeira",
     "creditorAccount": {
-      "ispb": "60746948",
-      "issuer": "1923",
-      "number": "07228864",
+      "ispb": "60701190",
+      "issuer": "7793",
+      "number": "532727",
       "accountType": "CACC"
     }
   },
