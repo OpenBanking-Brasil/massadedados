@@ -29,8 +29,8 @@
          "amount":"258.90",
          "ibgeTownCode": "3106200",
          "details": {
-            "localInstrument": "INIC",
-            "qrCode":"", 
+            "localInstrument": "QRDN",
+            "qrCode":"00020101021204145311988326529926580014 BR.GOV.BCB.PIX 0136479609500001215204531153039865406258.905802BR5917MAGAZINELUIZA60083516200621905155CF21DFE895C441CB3609C5916304 D616", 
             "proxy": "47960950000121",
             "creditorAccount": {
                "ispb": "60701190",
