@@ -4,8 +4,9 @@
     "endToEndId": "E6074694820210810192546YC7kKGOsX",
     "consentId": "urn:santander:BSB566410047",
     "creationDateTime": "2021-08-07T13:05:00Z",
-    "statusUpdateDateTime": "2021-08-07T13:08:00Z",
-    "proxy": "anajulia.pascolatto@uol.com.br",
+    "statusUpdateDateTime": "2021-08-07T14:08:00Z",
+    "proxy": "db2d6c10-fcb2-43ee-88d4-e4a07e7c",
+    "ibgeTownCode": "4118501",
     "status": "RJCT",
     "rejectionReason": "INCOMPATIBLE_DATE",
     "cnpjInitiator": "19468242000132",
@@ -14,12 +15,13 @@
       "amount": "776.55",
       "currency": "BRL"
     },
-    "remittanceInformation": "Pagamento parcial do aluguel",
+    "transactionIdentification": "D47EE10F63F244FDB33CAE881",
+    "remittanceInformation": "",
     "creditorAccount": {
-      "ispb": "60746948",
+      "ispb": "60701190",
       "issuer": "1360",
       "number": "08297983",
-      "accountType": "SVGS"
+      "accountType": "CACC"
     }
   },
   "links": {
