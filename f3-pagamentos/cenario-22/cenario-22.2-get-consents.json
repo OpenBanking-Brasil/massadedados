@@ -3,11 +3,11 @@
     "consentId": "urn:santander:BSB566410047",
     "creationDateTime": "2021-08-06T13:01:00Z",
     "expirationDateTime": "2021-08-06T14:01:00Z",
-    "statusUpdateDateTime": "2021-08-06T14:04:00Z",
+    "statusUpdateDateTime": "2021-08-06T13:04:00Z",
     "status": "AUTHORISED",
     "loggedUser": {
       "document": {
-        "identification": "79619144554",
+        "identification": "50482614021",
         "rel": "CPF"
       },
       "businessEntity": {
@@ -19,13 +19,24 @@
       "creditor": {
         "personType": "PESSOA_NATURAL",
         "cpfCnpj": "74983393072",
-        "name": "Ana Júlia Pascolatto"
+        "name": "Julia Pascolatto"
       },
       "payment": {
         "type": "PIX",
         "date": "2021-08-06",
         "currency": "BRL",
-        "amount": "776.55"
+        "amount": "776.55",
+        "ibgeTownCode": "4118501",
+        "details": {
+          "localInstrument": "DICT",
+          "proxy": "db2d6c10-fcb2-43ee-88d4-e4a07e7c",
+          "creditorAccount": {
+            "ispb": "60701190",
+            "issuer": "1360",
+            "number": "08297983",
+            "accountType": "CACC"
+          }
+        }
       },
       "debtorAccount": {
         "ispb": "60701190",
