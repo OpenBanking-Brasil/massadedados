@@ -5,20 +5,23 @@
     "consentId": "urn:bradesco:BDC400866642",
     "creationDateTime": "2021-08-24T16:30:00Z",
     "statusUpdateDateTime": "2021-08-24T16:32:00Z",
+    "proxy": "44700813000160",
+    "ibgeTownCode": "3513009",
     "status": "RJCT",
-    "rejectionReason": "INVALID_CONSENT",
+    "rejectionReason": "ABORTED_SETTLEMENT_TIMEOUT",
     "cnpjInitiator": "19468242000132",
-    "localInstrument": "MANU",
+    "localInstrument": "DICT",
     "payment": {
       "amount": "100.00",
       "currency": "BRL"
     },
-    "remittanceInformation": "Doação Campanha 08/21",
+    "transactionIdentification": "2881DFF6C90C431892AB97180",
+    "remittanceInformation": "Lavagem e cera",
     "creditorAccount": {
       "ispb": "60701190",
-      "issuer": "1768",
-      "number": "452503309",
-      "accountType": "SVGS"
+      "issuer": "1769",
+      "number": "922643724",
+      "accountType": "CACC"
     }
   },
   "links": {
