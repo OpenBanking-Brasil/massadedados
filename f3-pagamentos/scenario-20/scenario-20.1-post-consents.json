@@ -13,14 +13,25 @@
     },
     "creditor": {
       "personType": "PESSOA_JURIDICA",
-      "cpfCnpj": "13567121000161",
-      "name": "Mercado Oliveira"
+      "cpfCnpj": "44700813000160",
+      "name": "Marcelo Limpeza de Automóveis MEI"
     },
     "payment": {
       "type": "PIX",
       "date": "2021-08-24",
       "currency": "BRL",
-      "amount": "100.00"
+      "amount": "100.00",
+      "ibgeTownCode": "3513009",
+      "details": {
+        "localInstrument": "DICT",
+        "proxy": "44700813000160",
+        "creditorAccount": {
+          "ispb": "60701190",
+          "issuer": "1769",
+          "number": "922643724",
+          "accountType": "CACC"
+        }
+      }
     },
     "debtorAccount": {
       "ispb": "60746948",

@@ -179,8 +179,12 @@ Consentimento com forma de pagamento inválida
 Consentimento com forma de pagamento inválida  
 
 ---
-### Cenário 20: 
+### Cenário 20: Exceção
 
+- Cenário de Exceção cm TIMEOUT no SPI
+ - Credtor: PJ
+ - Debtor: PF
+ - localInstrument: DICT
 
 ---
 ### Cenário 21: Exceção
