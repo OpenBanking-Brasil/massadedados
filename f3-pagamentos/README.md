@@ -189,7 +189,10 @@ Consentimento com forma de pagamento inválida
 ---
 ### Cenário 21: Exceção
 
-Iniciação de pagamento com um consentimento em Status "REJECTED"  
+- Cenário de Exceção com CLOSED_CREDITOR_ACCOUNT_NUMBER
+- Credtor: PJ
+- Debtor: PF
+- localInstrument: DICT
 
 ---
 ### Cenário 22: Exceção

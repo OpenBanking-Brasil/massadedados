@@ -5,20 +5,23 @@
     "consentId": "urn:caixaeconomica:CEF17542508",
     "creationDateTime": "2021-08-25T17:49:57Z",
     "statusUpdateDateTime": "2021-08-25T17:50:22Z",
+    "proxy": "79557061022",
+    "ibgeTownCode": "3106200",
     "status": "RJCT",
-    "rejectionReason": "INVALID_CONSENT",
+    "rejectionReason": "CLOSED_CREDITOR_ACCOUNT_NUMBER",
     "cnpjInitiator": "19468242000132",
     "localInstrument": "DICT",
     "payment": {
       "amount": "58.00",
       "currency": "BRL"
     },
-    "remittanceInformation": "Almoço na Firma",
+    "transactionIdentification": "F8B0F8DDC509419BAFC13C906",
+    "remittanceInformation": "",
     "creditorAccount": {
       "ispb": "60701190",
       "issuer": "9292",
       "number": "767711",
-      "accountType": "CACC"
+      "accountType": "SVGS"
     }
   },
   "links": {
