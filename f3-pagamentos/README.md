@@ -196,7 +196,11 @@ Consentimento com forma de pagamento inválida
 
 ---
 ### Cenário 22: Exceção
- Iniciação de pagamento utilizando um consentimento AUTHORISED com data divergente da data utilizada na iniciação de pagamento  
+
+- Cenário de Exceção com INCOMPATIBLE_DATE
+- Credtor: PJ
+- Debtor: PF
+- localInstrument: DICT
 
 ---
 ### Cenário 23:  Exceção

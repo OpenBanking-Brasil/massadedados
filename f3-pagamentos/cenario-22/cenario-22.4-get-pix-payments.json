@@ -1,0 +1,33 @@
+{
+  "data": {
+    "paymentId": "TX0jZuHepiC20hekl6YCx8tKWSWeKIC",
+    "endToEndId": "E6074694820210810192546YC7kKGOsX",
+    "consentId": "urn:santander:BSB566410047",
+    "creationDateTime": "2021-08-07T13:05:00Z",
+    "statusUpdateDateTime": "2021-08-07T13:08:00Z",
+    "proxy": "anajulia.pascolatto@uol.com.br",
+    "status": "RJCT",
+    "rejectionReason": "INCOMPATIBLE_DATE",
+    "cnpjInitiator": "19468242000132",
+    "localInstrument": "DICT",
+    "payment": {
+      "amount": "776.55",
+      "currency": "BRL"
+    },
+    "remittanceInformation": "Pagamento parcial do aluguel",
+    "creditorAccount": {
+      "ispb": "60746948",
+      "issuer": "1360",
+      "number": "08297983",
+      "accountType": "SVGS"
+    }
+  },
+  "links": {
+    "self": "https://openbanking.api.santander.com.br/open-banking/payments/v1/pix/payments/TX0jZuHepiC20hekl6YCx8tKWSWeKI"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-08-07T13:10:00Z"
+  }
+}
