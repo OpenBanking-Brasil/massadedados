@@ -205,7 +205,10 @@ Consentimento com forma de pagamento inválida
 ---
 ### Cenário 23:  Exceção
 
-Iniciação de pagamento com um consentimento AUTHORISED com dados de conta não pertencentes ao creditor/cpfCnpj informado no consentimento utilizado  
+- Cenário de Exceção com EXPIRED_MULTIPLE_AUTHORISATIONS
+- Credtor: PJ
+- Debtor: PF
+- localInstrument: DICT
 
 ---
 ### Cenário 24: Exceção

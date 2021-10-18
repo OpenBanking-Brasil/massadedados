@@ -5,15 +5,18 @@
     "consentId": "urn:bb:BB143726081",
     "creationDateTime": "2021-08-23T14:10:45Z",
     "statusUpdateDateTime": "2021-08-23T14:11:05Z",
+    "proxy": "44700813000160",
+    "ibgeTownCode": "4313805",
     "status": "RJCT",
-    "rejectionReason": "CREDITOR_IDENTIFIER_INCORRECT",
+    "rejectionReason": "EXPIRED_MULTIPLE_AUTHORISATIONS",
     "cnpjInitiator": "19468242000132",
     "localInstrument": "DICT",
     "payment": {
       "amount": "120.00",
       "currency": "BRL"
     },
-    "remittanceInformation": "Lavagem e produtos carro",
+    "transactionIdentification": "99F0B16762DE444099C32B999",
+    "remittanceInformation": "",
     "creditorAccount": {
       "ispb": "60701190",
       "issuer": "1679",
