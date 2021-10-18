@@ -11,12 +11,6 @@
         "rel": "CPF"
       }
     },
-    "businessEntity": {
-      "document": {
-        "identification": "",
-        "rel": ""
-      }
-    },
     "creditor": {
       "personType": "PESSOA_JURIDICA",
       "cpfCnpj": "47960950000121",
