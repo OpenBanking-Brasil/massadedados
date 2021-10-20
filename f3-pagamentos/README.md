@@ -212,7 +212,11 @@ Consentimento com forma de pagamento inválida
 
 ---
 ### Cenário 24: Exceção
- Iniciação de pagamento com um consentimento AUTHORISED informando um valor superior ao saldo existente na conta do debtor para realização do pagamento  
+
+- Cenário de Exceção com INSUFFICIENT_FUNDS
+- Credtor: PJ
+- Debtor: PF
+- localInstrument: DICT 
 
 ---
 ### Cenário 25:  Exceção

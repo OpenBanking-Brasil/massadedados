@@ -5,20 +5,23 @@
     "consentId": "urn:itau:ITU577644161",
     "creationDateTime": "2021-08-25T08:21:00Z",
     "statusUpdateDateTime": "2021-08-25T08:22:00Z",
+    "proxy": "13567121000161",
+    "ibgeTownCode": "4309100",
     "status": "RJCT",
     "rejectionReason": "INSUFFICIENT_FUNDS",
     "cnpjInitiator": "19468242000132",
-    "localInstrument": "MANU",
+    "localInstrument": "DICT",
     "payment": {
       "amount": "1534.21",
       "currency": "BRL"
     },
-    "remittanceInformation": "Pagamento dívida acumulada",
+    "transactionIdentification": "AC3402996B714CB7A0C82070A",
+    "remittanceInformation": "",
     "creditorAccount": {
-      "ispb": "00360305",
-      "issuer": "3100",
-      "number": "44053",
-      "accountType": "SVGS"
+      "ispb": "60746948",
+      "issuer": "1923",
+      "number": "07228864",
+      "accountType": "CACC"
     }
   },
   "links": {
@@ -27,6 +30,6 @@
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2021-08-25T08:23:00Z"
+    "requestDateTime": "2021-08-25T08:22:00Z"
   }
 }

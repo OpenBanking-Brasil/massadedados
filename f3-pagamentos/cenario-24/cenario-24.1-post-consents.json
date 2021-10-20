@@ -1,0 +1,51 @@
+{
+  "data": {
+    "consentId": "urn:itau:ITU577644161",
+    "creationDateTime": "2021-08-25T08:19:00Z",
+    "expirationDateTime": "2021-08-25T09:19:00Z",
+    "statusUpdateDateTime": "2021-08-25T08:20:00Z",
+    "status": "AUTHORISED",
+    "loggedUser": {
+      "document": {
+        "identification": "79557061022",
+        "rel": "CPF"
+      },
+      "creditor": {
+        "personType": "PESSOA_JURIDICA",
+        "cpfCnpj": "13567121000161",
+        "name": "Mercado Oliveira"
+      },
+      "payment": {
+        "type": "PIX",
+        "date": "2021-08-25",
+        "currency": "BRL",
+        "amount": "1534.21",
+        "ibgeTownCode": "4309100",
+        "details": {
+          "localInstrument": "DICT",
+          "proxy": "13567121000161",
+          "creditorAccount": {
+            "ispb": "60746948",
+            "issuer": "1923",
+            "number": "07228864",
+            "accountType": "CACC"
+          }
+        }
+      },
+      "debtorAccount": {
+        "ispb": "60701190",
+        "issuer": "9292",
+        "number": "767711",
+        "accountType": "SVGS"
+      }
+    },
+    "links": {
+      "self": "https://api.itau/open-banking/payments/v1/consents/urn:itau:ITU577644161"
+    },
+    "meta": {
+      "totalRecords": 1,
+      "totalPages": 1,
+      "requestDateTime": "2021-08-25T08:20:00Z"
+    }
+  }
+}
