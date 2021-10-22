@@ -220,7 +220,11 @@ Consentimento com forma de pagamento inválida
 
 ---
 ### Cenário 25:  Exceção
-Iniciação de pagamento com um consentimento AUTHORISED informando o ispb do creditorAccount inválido ou inexistente  
+
+- Cenário de Exceção com INVALID_CREDITOR_CLEARING_SYSTEM_MEMBER_IDENTIFIER
+- Credtor: PJ
+- Debtor: PF
+- localInstrument: MANU
 
 ---
 
