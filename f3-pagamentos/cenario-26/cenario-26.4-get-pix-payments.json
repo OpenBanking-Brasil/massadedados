@@ -5,21 +5,23 @@
     "consentId": "urn:itau:ITU440325639",
     "creationDateTime": "2021-08-24T21:20:00Z",
     "statusUpdateDateTime": "2021-08-24T21:22:00Z",
-    "proxy": "anajulia.pascolatto@uol.com.br",
+    "proxy": "db2d6c10-fcb2-43ee-88d4-e4a07e7c",
+    "ibgeTownCode": "4309100",
     "status": "RJCT",
-    "rejectionReason": "INVALID_CREDITOR_ACCOUNTTYP",
+    "rejectionReason": "INVALID_CREDITOR_ACCOUNTTYPE",
     "cnpjInitiator": "19468242000132",
     "localInstrument": "DICT",
     "payment": {
       "amount": "80.00",
       "currency": "BRL"
     },
-    "remittanceInformation": "Manicure",
+    "transactionIdentification": "E61CFFC9940243D08151B2FBD",
+    "remittanceInformation": "Pagamento",
     "creditorAccount": {
-      "ispb": "60746948",
-      "issuer": "1360",
-      "number": "08297983",
-      "accountType": "CACC"
+      "ispb": "60701190",
+          "issuer": "1360",
+          "number": "08297983",
+          "accountType": "SLRY"
     }
   },
   "links": {
