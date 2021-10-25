@@ -13,19 +13,30 @@
     "creditor": {
       "personType": "PESSOA_NATURAL",
       "cpfCnpj": "74983393072",
-      "name": "Ana Júlia Pascolatto"
+      "name": "Júlia Pascolatto"
     },
     "payment": {
       "type": "PIX",
       "date": "2021-08-24",
       "currency": "BRL",
-      "amount": "80.00"
+      "amount": "80.00",
+      "ibgeTownCode": "4309100",
+      "details": {
+        "localInstrument": "DICT",
+        "proxy": "db2d6c10-fcb2-43ee-88d4-e4a07e7c",
+        "creditorAccount": {
+          "ispb": "60701190",
+          "issuer": "1360",
+          "number": "08297983",
+          "accountType": "SLRY"
+        }
+      }
     },
     "debtorAccount": {
       "ispb": "60701190",
       "issuer": "9292",
       "number": "767711",
-      "accountType": "CACC"
+      "accountType": "SVGS"
     }
   },
   "links": {
