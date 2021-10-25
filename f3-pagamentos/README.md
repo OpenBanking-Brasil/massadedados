@@ -229,7 +229,11 @@ Consentimento com forma de pagamento inválida
 ---
 
 ### Cenário 26:  Exceção
-Iniciação de pagamento com um consentimento AUTHORISED informando um tipo de conta (creditorAccount/accountType) incorreto para a conta informada para o creditor  
+
+- Cenário de Exceção com INVALID_CREDITOR_ACCOUNTTYPE
+- Credtor: PJ
+- Debtor: PF
+- localInstrument: DICT 
 
 ---
 ### Cenário 27: Exceção
