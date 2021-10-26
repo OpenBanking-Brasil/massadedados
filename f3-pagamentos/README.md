@@ -222,7 +222,7 @@ Consentimento com forma de pagamento inválida
 ### Cenário 25:  Exceção
 
 - Cenário de Exceção com INVALID_CREDITOR_CLEARING_SYSTEM_MEMBER_IDENTIFIER
-- Credtor: PJ
+- Credtor: PF
 - Debtor: PF
 - localInstrument: MANU
 
@@ -231,13 +231,16 @@ Consentimento com forma de pagamento inválida
 ### Cenário 26:  Exceção
 
 - Cenário de Exceção com INVALID_CREDITOR_ACCOUNTTYPE
-- Credtor: PJ
+- Credtor: PF
 - Debtor: PF
 - localInstrument: DICT 
 
 ---
 ### Cenário 27: Exceção
- Iniciação de pagamento com um consentimento AUTHORISED informando payment/amount divergente do informado no consentimento utilizado  
-
+ 
+- Cenário de Exceção com OVER_LIMIT 
+- Credtor: PF
+- Debtor: PF
+- localInstrument: DICT
 
   * Para mais informações sobre a especificação da API- Pagamentos, consulte https://openbanking-brasil.github.io/areadesenvolvedor/swagger/swagger_payments_apis.yaml
