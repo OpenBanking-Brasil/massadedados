@@ -1,6 +1,6 @@
 # Cenário: 
 
-- Cenário de Exceção com INVALID_CREDITOR_ACCOUNTTYPE
+- Cenário de Exceção com OVER_LIMIT 
 - Credtor: PF
 - Debtor: PF
 - localInstrument: DICT
