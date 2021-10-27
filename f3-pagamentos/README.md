@@ -238,7 +238,7 @@ Consentimento com forma de pagamento inválida
 ---
 ### Cenário 27: Exceção
  
-- Cenário de Exceção com OVER_LIMIT 
+- Cenário de Exceção com VALOR_ACIMA_LIMITE 
 - Credtor: PF
 - Debtor: PF
 - localInstrument: DICT

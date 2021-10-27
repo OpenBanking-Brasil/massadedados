@@ -1,35 +1,14 @@
 {
-  "data": {
-    "paymentId": "91CE577B4C594426A4514784EEE64FDD",
-    "endToEndId": "B9D32CACBCBE421687D4952704933B8C",
-    "consentId": "urn:caixaeconomica:CEF260821216",
-    "creationDateTime": "2021-08-19T12:45:54Z",
-    "statusUpdateDateTime": "2021-08-19T13:46:14Z",
-    "proxy": "31804279579",
-    "ibgeTownCode": "4309100",
-    "status": "RJCT",
-    "rejectionReason": "OVER_LIMIT",
-    "cnpjInitiator": "19468242000132",
-    "localInstrument": "DICT",
-    "payment": {
-      "amount": "24000.50",
-      "currency": "BRL"
-    },
-    "transactionIdentification": "902A901917794704ABB2664DE",
-    "remittanceInformation": "",
-    "creditorAccount": {
-      "ispb": "00360305",
-      "issuer": "3100",
-      "number": "53091",
-      "accountType": "CACC"
+  "errors": [
+    {
+      "code": "VALOR_ACIMA_LIMITE",
+      "title": "VALOR_ACIMA_LIMITE",
+      "detail": "O valor (ou quantidade de transações) ultrapassa a faixa de limite parametrizada na detentora para permitir a realização de transações pelo cliente."
     }
-  },
-  "links": {
-    "self":"https://api.caixa.gov.br/open-banking/payments/v1/consents/uurn:caixaeconomica:CEF260821216"
-  },
+  ],
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2021-08-19T13:46:14Z"
+    "requestDateTime": "2021-05-21T08:30:00Z"
   }
 }
