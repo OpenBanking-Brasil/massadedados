@@ -5,21 +5,21 @@
     "consentId": "urn:mercadopago:MPG742470118",
     "creationDateTime": "2021-08-23T09:00:00Z",
     "statusUpdateDateTime": "2021-08-23T09:05:00Z",
-    "proxy":"47960950000121",
-    "ibgeTownCode": "3516200",
+    "proxy":"cliente-a00001@pix.bcb.gov.br",
+    "ibgeTownCode": "5300108",
     "status": "ACCC",
     "cnpjInitiator": "19468242000132",
     "localInstrument": "QRES",
     "payment": {
-      "amount": "9878.86",
+      "amount": "178.00",
       "currency": "BRL"
     },
     "transactionIdentification": "9ECF79CA519F413BAA7673A97",
     "remittanceInformation": "",
     "creditorAccount": {
-      "ispb": "60746948",
-      "issuer": "1923",
-      "number": "07228864",
+      "ispb": "99999004",
+      "issuer": "0001",
+      "number": "12345678",
       "accountType": "CACC"
     }
   },
