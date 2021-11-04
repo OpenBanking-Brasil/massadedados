@@ -1,5 +1,6 @@
 # Cenário: 
 - Cenário de Sucesso
- - Credtor: PJ
+ - Credtor: PF
  - Debtor: PF
  - localInstrument: QRDN
+ - chave válida no DICT
