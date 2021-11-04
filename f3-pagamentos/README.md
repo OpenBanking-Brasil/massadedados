@@ -159,9 +159,10 @@ Exemplo na ordem do fluxo de pagamento:
 ### Cenário 16: Iniciação de pagamento PF:PJ - QRES
 
 - Cenário de Sucesso
- - Credtor: PJ
+ - Credtor: PF
  - Debtor: PF
  - localInstrument: QRES
+ - chave válida no DICT
 
 ---
 ### Cenário 17: Exceção
