@@ -5,8 +5,8 @@
     "consentId": "urn:caixaeconomica:CEF15362508",
     "creationDateTime": "2021-08-04T11:39:57Z",
     "statusUpdateDateTime": "2021-08-04T11:40:57Z",
-    "proxy": "e561c1e4-3342-482f-8672-7b8f7f4f",
-    "ibgeTownCode": "3106200",
+    "proxy": "+5561990010001",
+    "ibgeTownCode": "5300108",
     "status": "ACCC",
     "cnpjInitiator": "19468242000132",
     "localInstrument": "QRDN",
@@ -15,11 +15,11 @@
       "currency": "BRL"
     },
     "transactionIdentification": "5CF21DFE895C441CB3609C591",
-    "remittanceInformation": "Batedeira",
+    "remittanceInformation": "",
     "creditorAccount": {
-      "ispb": "60701190",
-      "issuer": "7793",
-      "number": "532727",
+      "ispb": "99999004",
+      "issuer": "0001",
+      "number": "12345678",
       "accountType": "CACC"
     }
   },

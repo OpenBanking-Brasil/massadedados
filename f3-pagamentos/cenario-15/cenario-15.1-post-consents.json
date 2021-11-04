@@ -7,38 +7,38 @@
       "status":"CONSUMED",
       "loggedUser":{
          "document":{
-            "identification":"31804279579",
+            "identification":"13823018710",
             "rel":"CPF"
          }
       },
       "creditor":{
-         "personType":"PESSOA_JURIDICA",
-         "cpfCnpj":"47960950000121",
-         "name":"MAGAZINE LUIZA S/A"
+         "personType":"PESSOA_NATURAL",
+         "cpfCnpj":"99991111140",
+         "name":"Joao Silva"
       },
       "payment":{
          "type":"PIX",
          "date":"2021-08-04",
          "currency":"BRL",
          "amount":"258.90",
-         "ibgeTownCode": "3106200",
+         "ibgeTownCode": "5300108",
          "details": {
             "localInstrument": "QRDN",
             "qrCode":"00020101021226770014BR.GOV.BCB.PIX2555apicaixa/pix/qr/v2/e561c1e4-3342-482f-8672-7b8f7f4f5204000053039865406258.905802BR5917MAGAZINE LUIZA SA6006FRANCA62190503***6304E412", 
-            "proxy": "e561c1e4-3342-482f-8672-7b8f7f4f",
+            "proxy": "+5561990010001",
             "creditorAccount": {
-               "ispb": "60701190",
-               "issuer": "7793",
-               "number": "532727",
+               "ispb": "99999004",
+               "issuer": "0001",
+               "number": "12345678",
                "accountType": "CACC"
             }
          }
       },
       "debtorAccount":{
          "ispb":"00360305",
-         "issuer":"3100",
-         "number":"53091",
-         "accountType":"CACC"
+         "issuer":"3880",
+         "number":"12889826887710",
+         "accountType":"SVGS"
       },
       "links":{
          "self":"https://api.caixa.gov.br/open-banking/payments/v1/consents/urn:caixaeconomica:CEF15362508"
