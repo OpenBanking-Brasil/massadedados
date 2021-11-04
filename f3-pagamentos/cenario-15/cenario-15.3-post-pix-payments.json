@@ -15,7 +15,7 @@
       "currency": "BRL"
     },
     "transactionIdentification": "5CF21DFE895C441CB3609C591",
-    "remittanceInformation": "",
+    "remittanceInformation": "pagamento 1",
     "creditorAccount": {
       "ispb": "99999004",
       "issuer": "0001",
