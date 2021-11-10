@@ -243,5 +243,3 @@ Consentimento com forma de pagamento inválida
 - Credtor: PF
 - Debtor: PF
 - localInstrument: DICT
-
-  * Para mais informações sobre a especificação da API- Pagamentos, consulte https://openbanking-brasil.github.io/areadesenvolvedor/swagger/swagger_payments_apis.yaml
