@@ -1,0 +1,34 @@
+{
+  "data": {
+    "paymentId": "TXlJWdFWwiSju7bbOt35tbnK9HDa1HL",
+    "endToEndId": "E60701190202108230900gr9zeDQX68Q",
+    "consentId": "urn:mercadopago:MPG742470118",
+    "creationDateTime": "2021-08-23T09:00:00Z",
+    "statusUpdateDateTime": "2021-08-23T09:05:00Z",
+    "proxy":"cliente-a00001@pix.bcb.gov.br",
+    "ibgeTownCode": "5300108",
+    "status": "ACCC",
+    "cnpjInitiator": "19468242000132",
+    "localInstrument": "QRES",
+    "payment": {
+      "amount": "178.00",
+      "currency": "BRL"
+    },
+    "transactionIdentification": "9ECF79CA519F413BAA7673A97",
+    "remittanceInformation": "",
+    "creditorAccount": {
+      "ispb": "99999004",
+      "issuer": "0001",
+      "number": "12345678",
+      "accountType": "CACC"
+    }
+  },
+  "links": {
+    "self": "https://api.mercadopago.com/open-banking/payments/v1/pix/payments/TXlJWdFWwiSju7bbOt35tbnK9HDa1HL"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-08-23T09:06:00Z"
+  }
+}

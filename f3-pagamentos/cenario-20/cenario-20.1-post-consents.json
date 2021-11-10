@@ -1,0 +1,51 @@
+{
+  "data": {
+    "consentId": "urn:bradesco:BDC400866642",
+    "creationDateTime": "2021-08-24T16:22:00Z",
+    "expirationDateTime": "2021-08-24T17:22:00Z",
+    "statusUpdateDateTime": "2021-08-24T16:25:00Z",
+    "status": "CONSUMED",
+    "loggedUser": {
+      "document": {
+        "identification": "79619144554",
+        "rel": "CPF"
+      }
+    },
+    "creditor": {
+      "personType": "PESSOA_JURIDICA",
+      "cpfCnpj": "44700813000160",
+      "name": "Marcelo Limpeza de Automóveis MEI"
+    },
+    "payment": {
+      "type": "PIX",
+      "date": "2021-08-24",
+      "currency": "BRL",
+      "amount": "150.00",
+      "ibgeTownCode": "3513009",
+      "details": {
+        "localInstrument": "DICT",
+        "proxy": "44700813000160",
+        "creditorAccount": {
+          "ispb": "60701190",
+          "issuer": "1769",
+          "number": "922643724",
+          "accountType": "CACC"
+        }
+      }
+    },
+    "debtorAccount": {
+      "ispb": "60746948",
+      "issuer": "0618",
+      "number": "05746558",
+      "accountType": "SVGS"
+    }
+  },
+  "links": {
+    "self": "https://api.bradesco.com/open-banking/payments/v1/consents/urn:bradesco:BDC400866642"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-08-24T16:25:00Z"
+  }
+}

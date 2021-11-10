@@ -1,0 +1,34 @@
+{
+  "data": {
+    "paymentId": "UmFvQlILokKQhUmFvQlILo7So0QnhQq",
+    "endToEndId": "Sj5IqMRsNkW10ZNnSj5IqMRsNkDqxWpw",
+    "consentId": "urn:caixaeconomica:CEF24082021",
+    "creationDateTime": "2021-08-14T17:10:52Z",
+    "statusUpdateDateTime": "2021-08-14T17:11:52Z",
+    "proxy": "47960950000121",
+    "ibgeTownCode": "3106200",
+    "status": "PART",
+    "cnpjInitiator": "19468242000132",
+    "localInstrument": "INIC",
+    "payment": {
+      "amount": "320.00",
+      "currency": "BRL"
+    },
+    "transactionIdentification": "21F222F8F8104ED090A1099E6",
+    "remittanceInformation": "Batedeira",
+    "creditorAccount": {
+      "ispb": "60701190",
+      "issuer": "7793",
+      "number": "532727",
+      "accountType": "CACC"
+    }
+  },
+  "links": {
+    "self": "https://api.caixa.gov.br/open-banking/payments/v1/pix/payments/UmFvQlILokKQhUmFvQlILo7So0QnhQq"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-08-14T17:11:52Z"
+  }
+}

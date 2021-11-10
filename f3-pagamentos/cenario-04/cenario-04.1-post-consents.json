@@ -1,0 +1,57 @@
+{
+  "data": {
+    "consentId": "urn:itau:ITU281737207",
+    "creationDateTime": "2021-08-15T10:00:00Z",
+    "expirationDateTime": "2021-08-15T11:00:00Z",
+    "statusUpdateDateTime": "2021-08-15T10:03:05Z",
+    "status": "CONSUMED",
+    "loggedUser": {
+      "document": {
+        "identification": "16721201011",
+        "rel": "CPF"
+      }
+    },
+    "businessEntity": {
+      "document": {
+        "identification": "13567121000161",
+        "rel": "CNPJ"
+      }
+    },
+    "creditor": {
+      "personType": "PESSOA_JURIDICA",
+      "cpfCnpj": "75747327000120",
+      "name": "Azzaip Publicidade e Propaganda Ltda"
+    },
+    "payment": {
+      "type": "PIX",
+      "date": "2021-08-15",
+      "currency": "BRL",
+      "amount": "13800.00",
+      "ibgeTownCode": "3509502",
+      "details": {
+        "localInstrument": "DICT",
+        "proxy": "5511981937028",
+        "creditorAccount": {
+          "ispb": "00000000",
+          "issuer": "1820",
+          "number": "11301503",
+          "accountType": "CACC"
+        }
+      }
+    },
+    "debtorAccount": {
+      "ispb": "60746948",
+      "issuer": "1923",
+      "number": "07228864",
+      "accountType": "CACC"
+    }
+  },
+  "links": {
+    "self": "https://api.itau/open-banking/payments/v1/consents/urn:itau:ITU281737207"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-08-15T10:03:05Z"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "data": {
+    "paymentId": "DE2DA19C90A46C3B4FE80FA3A0BCE8D",
+    "endToEndId": "A3430B4EB25C498981400B2D28DCA2D1",
+    "consentId": "urn:caixaeconomica:CEF23082129",
+    "creationDateTime": "2021-09-20T14:03:45Z",
+    "statusUpdateDateTime": "2021-09-20T14:04:00Z",
+    "proxy": "",
+    "ibgeTownCode": "3509502",
+    "status": "ACCC",
+    "localInstrument": "MANU",
+    "cnpjInitiator": "19468242000132",
+    "payment": {
+      "amount": "6500.00",
+      "currency": "BRL"
+    },
+    "transactionIdentification": "1174B26312394BB088572EEBC",
+    "remittanceInformation": "Entrada contrato 7512",
+    "creditorAccount": {
+      "ispb": "10573521",
+      "issuer": "0001",
+      "number": "24651966434",
+      "accountType": "TRAN"
+    }
+  },
+  "links": {
+    "self": "https://api.caixa.gov.br/open-banking/payments/v1/pix/payments/DE2DA19C90A46C3B4FE80FA3A0BCE8D"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-09-20T14:04:00Z"
+  }
+}

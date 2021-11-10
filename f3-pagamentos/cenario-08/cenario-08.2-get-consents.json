@@ -1,0 +1,51 @@
+{
+  "data": {
+    "consentId": "urn:itau:ITU630607040",
+    "creationDateTime": "2021-08-05T12:01:00Z",
+    "expirationDateTime": "2021-08-05T13:01:00Z",
+    "statusUpdateDateTime": "2021-08-05T12:11:00Z",
+    "status": "CONSUMED",
+    "loggedUser": {
+      "document": {
+        "identification": "74983393072",
+        "rel": "CPF"
+      }
+    },
+    "creditor": {
+      "personType": "PESSOA_JURIDICA",
+      "cpfCnpj": "47960950000121",
+      "name": "MAGAZINE LUIZA S/A"
+    },
+    "payment": {
+      "type": "PIX",
+      "date": "2021-08-03",
+      "currency": "BRL",
+      "amount": "1786.45",
+      "ibgeTownCode": "4314902",
+      "details": {
+        "localInstrument": "INIC",
+        "proxy": "e561c1e4-3342-482f-8672-7b8f7f4f",
+        "creditorAccount": {
+          "ispb": "60701190",
+          "issuer": "7793",
+          "number": "532727",
+          "accountType": "CACC"
+        }
+      }
+    },
+    "debtorAccount": {
+      "ispb": "60701190",
+      "issuer": "1360",
+      "number": "08297983",
+      "accountType": "CACC"
+    }
+  },
+  "links": {
+    "self": "https://api.itau/open-banking/payments/v1/consents/urn:itau:ITU630607040"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-08-05T12:12:00Z"
+  }
+}

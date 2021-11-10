@@ -1,0 +1,51 @@
+{
+  "data": {
+    "consentId": "urn:bb:BB152006845",
+    "creationDateTime": "2021-08-07T13:38:00Z",
+    "expirationDateTime": "2021-08-07T14:38:00Z",
+    "statusUpdateDateTime": "2021-08-07T13:40:00Z",
+    "status": "CONSUMED",
+    "loggedUser": {
+      "document": {
+        "identification": "51407217089",
+        "rel": "CPF"
+      }
+    },
+    "creditor": {
+      "personType": "PESSOA_JURIDICA",
+      "cpfCnpj": "47960950000121",
+      "name": "MAGAZINE LUIZA S/A"
+    },
+    "payment": {
+      "type": "PIX",
+      "date": "2021-08-07",
+      "currency": "BRL",
+      "amount": "9500.00",
+      "ibgeTownCode": "4313805",
+      "details": {
+        "localInstrument": "INIC",
+        "proxy": "5511998887788",
+        "creditorAccount": {
+          "ispb": "60701190",
+          "issuer": "7793",
+          "number": "532727",
+          "accountType": "CACC"
+        }
+      }
+    },
+    "debtorAccount": {
+      "ispb": "00000000",
+      "issuer": "1709",
+      "number": "11059338",
+      "accountType": "CACC"
+    }
+  },
+  "links": {
+    "self": "https://opendata.api.bb.com.br/open-banking/payments/v1/consents/urn:bb:BB152006845"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-08-07T13:40:00Z"
+  }
+}

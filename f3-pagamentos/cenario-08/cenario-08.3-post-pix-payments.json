@@ -1,0 +1,34 @@
+{
+  "data": {
+    "paymentId": "TXSDRnqJjzGgKtr9o4PgCdDLMgJXy3F",
+    "endToEndId": "E607011902021080512017CIbU61gRgJ",
+    "consentId": "urn:itau:ITU630607040",
+    "creationDateTime": "2021-08-05T12:10:00Z",
+    "statusUpdateDateTime": "2021-08-05T12:10:00Z",
+    "proxy": "e561c1e4-3342-482f-8672-7b8f7f4f",
+    "ibgeTownCode": "4314902",
+    "status": "ACCC",
+    "cnpjInitiator": "19468242000132",
+    "localInstrument": "INIC",
+    "payment": {
+      "amount": "1786.45",
+      "currency": "BRL"
+    },
+    "transactionIdentification": "2C2E0E0D299D4FA2AA8245C4B",
+    "remittanceInformation": "Compra sofá novo",
+    "creditorAccount": {
+      "ispb": "60701190",
+      "issuer": "7793",
+      "number": "532727",
+      "accountType": "CACC"
+    }
+  },
+  "links": {
+    "self": "https://api.itau/open-banking/payments/v1/pix/payments/TXSDRnqJjzGgKtr9o4PgCdDLMgJXy3F"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-08-05T12:11:00Z"
+  }
+}

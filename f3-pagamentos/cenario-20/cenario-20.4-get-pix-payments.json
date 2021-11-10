@@ -1,0 +1,35 @@
+{
+  "data": {
+    "paymentId": "TX3uUuLxHGjSnmXzPc9njqRxczjz4OQ",
+    "endToEndId": "E6074694820210810192546YC7kKGOsX",
+    "consentId": "urn:bradesco:BDC400866642",
+    "creationDateTime": "2021-08-24T16:30:00Z",
+    "statusUpdateDateTime": "2021-08-24T16:32:00Z",
+    "proxy": "44700813000160",
+    "ibgeTownCode": "3513009",
+    "status": "RJCT",
+    "rejectionReason": "ABORTED_SETTLEMENT_TIMEOUT",
+    "cnpjInitiator": "19468242000132",
+    "localInstrument": "DICT",
+    "payment": {
+      "amount": "150.00",
+      "currency": "BRL"
+    },
+    "transactionIdentification": "2881DFF6C90C431892AB97180",
+    "remittanceInformation": "Lavagem e cera",
+    "creditorAccount": {
+      "ispb": "60701190",
+      "issuer": "1769",
+      "number": "922643724",
+      "accountType": "CACC"
+    }
+  },
+  "links": {
+    "self": "https://api.bradesco.com/open-banking/payments/v1/pix/payments/TX3uUuLxHGjSnmXzPc9njqRxczjz4OQ"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-08-24T16:32:00Z"
+  }
+}

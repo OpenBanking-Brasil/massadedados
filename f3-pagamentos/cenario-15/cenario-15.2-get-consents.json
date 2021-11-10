@@ -1,0 +1,52 @@
+{
+   "data":{
+      "consentId":"urn:caixaeconomica:CEF15362508",
+      "creationDateTime":"2021-08-04T11:39:57Z",
+      "expirationDateTime":"2021-08-04T12:39:57Z",
+      "statusUpdateDateTime":"2021-08-04T11:40:57Z",
+      "status":"CONSUMED",
+      "loggedUser":{
+         "document":{
+            "identification":"13823018710",
+            "rel":"CPF"
+         }
+      },
+      "creditor":{
+         "personType":"PESSOA_NATURAL",
+         "cpfCnpj":"99991111140",
+         "name":"Joao Silva"
+      },
+      "payment":{
+         "type":"PIX",
+         "date":"2021-08-04",
+         "currency":"BRL",
+         "amount":"258.90",
+         "ibgeTownCode": "5300108",
+         "details": {
+            "localInstrument": "QRDN",
+            "qrCode":"00020126360014br.gov.bcb.pix0114+55619900100015204000053039865802BR5910JOAO SILVA6006Cidade622905255CF21DFE895C441CB3609C59163046C09", 
+            "proxy": "+5561990010001",
+            "creditorAccount": {
+               "ispb": "99999004",
+               "issuer": "0001",
+               "number": "12345678",
+               "accountType": "CACC"
+            }
+         }
+      },
+      "debtorAccount":{
+         "ispb":"00360305",
+         "issuer":"3880",
+         "number":"12889826887710",
+         "accountType":"SVGS"
+      },
+      "links":{
+         "self":"https://api.caixa.gov.br/open-banking/payments/v1/consents/urn:caixaeconomica:CEF15362508"
+      },
+      "meta":{
+         "totalRecords":1,
+         "totalPages":1,
+         "requestDateTime":"2021-08-04T11:40:57Z"
+      }
+   }
+}

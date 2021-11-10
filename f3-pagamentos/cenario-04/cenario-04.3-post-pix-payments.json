@@ -1,0 +1,34 @@
+{
+  "data": {
+    "paymentId": "JEH5DEjekF22sFAHNahrbevr873yGsa",
+    "endToEndId": "F157824578202108201356A1RqzNxcBkY",
+    "consentId": "urn:itau:ITU281737207",
+    "creationDateTime": "2021-08-15T10:00:00Z",
+    "statusUpdateDateTime": "2021-08-15T10:03:05Z",
+    "proxy": "5511981937028",
+    "ibgeTownCode": "3509502",
+    "status": "ACCC",
+    "localInstrument": "DICT",
+    "cnpjInitiator": "19468242000132",
+    "payment": {
+      "amount": "13800.00",
+      "currency": "BRL"
+    },
+    "transactionIdentification": "6D8E254AF0064E08943422556",
+    "remittanceInformation": "Parcela 1 de 3",
+    "creditorAccount": {
+      "ispb": "00000000",
+      "issuer": "1820",
+      "number": "11301503",
+      "accountType": "CACC"
+    }
+  },
+  "links": {
+    "self": "https://api.itau/open-banking/payments/v1/pix/payments/JEH5DEjekF22sFAHNahrbevr873yGsa"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-08-15T10:03:05Z"
+  }
+}

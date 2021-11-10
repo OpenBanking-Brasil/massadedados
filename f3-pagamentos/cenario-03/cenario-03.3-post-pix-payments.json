@@ -1,0 +1,34 @@
+{
+  "data": {
+    "paymentId": "TXh6tAZctrRkP6GKI3MOQ7IQXwOHAOc",
+    "endToEndId": "E10573521202107201422J8iHNLhzJ8u",
+    "consentId": "urn:mercadopago:MPG40678371",
+    "creationDateTime": "2021-07-20T14:26:00Z",
+    "statusUpdateDateTime": "2021-07-20T14:30:00Z",
+    "proxy": "31804279579",
+    "ibgeTownCode": "3550308",
+    "status": "ACCC",
+    "localInstrument": "DICT",
+    "cnpjInitiator": "19468242000132",
+    "payment": {
+      "amount": "328.91",
+      "currency": "BRL"
+    },
+    "transactionIdentification": "8677491F02154527B32E265D0",
+    "remittanceInformation": "Pagamento Tarifa de Serviço TS-012.",
+    "creditorAccount": {
+      "ispb": "00360305",
+      "issuer": "3100",
+      "number": "53091",
+      "accountType": "CACC"
+    }
+  },
+  "links": {
+    "self": "https://api.mercadopago.com/open-bankin/payments/v1/pix/payments/TXh6tAZctrRkP6GKI3MOQ7IQXwOHAOc"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-07-20T14:32:00Z"
+  }
+}

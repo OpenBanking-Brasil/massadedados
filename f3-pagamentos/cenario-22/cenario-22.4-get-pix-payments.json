@@ -1,0 +1,35 @@
+{
+  "data": {
+    "paymentId": "TX0jZuHepiC20hekl6YCx8tKWSWeKIC",
+    "endToEndId": "E6074694820210810192546YC7kKGOsX",
+    "consentId": "urn:santander:BSB566410047",
+    "creationDateTime": "2021-08-07T13:05:00Z",
+    "statusUpdateDateTime": "2021-08-07T14:08:00Z",
+    "proxy": "db2d6c10-fcb2-43ee-88d4-e4a07e7c",
+    "ibgeTownCode": "4118501",
+    "status": "RJCT",
+    "rejectionReason": "INCOMPATIBLE_DATE",
+    "cnpjInitiator": "19468242000132",
+    "localInstrument": "DICT",
+    "payment": {
+      "amount": "776.55",
+      "currency": "BRL"
+    },
+    "transactionIdentification": "D47EE10F63F244FDB33CAE881",
+    "remittanceInformation": "",
+    "creditorAccount": {
+      "ispb": "60701190",
+      "issuer": "1360",
+      "number": "08297983",
+      "accountType": "CACC"
+    }
+  },
+  "links": {
+    "self": "https://openbanking.api.santander.com.br/open-banking/payments/v1/pix/payments/TX0jZuHepiC20hekl6YCx8tKWSWeKI"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-08-07T13:10:00Z"
+  }
+}

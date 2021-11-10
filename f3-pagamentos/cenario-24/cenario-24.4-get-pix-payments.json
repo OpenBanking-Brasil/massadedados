@@ -1,0 +1,35 @@
+{
+  "data": {
+    "paymentId": "TXY7YFOdZh1bBwq4P5CXt3RDOCFuYyh",
+    "endToEndId": "E607011902021082508212OwXg6lHo46",
+    "consentId": "urn:itau:ITU577644161",
+    "creationDateTime": "2021-08-25T08:21:00Z",
+    "statusUpdateDateTime": "2021-08-25T08:22:00Z",
+    "proxy": "13567121000161",
+    "ibgeTownCode": "4309100",
+    "status": "RJCT",
+    "rejectionReason": "INSUFFICIENT_FUNDS",
+    "cnpjInitiator": "19468242000132",
+    "localInstrument": "DICT",
+    "payment": {
+      "amount": "1534.21",
+      "currency": "BRL"
+    },
+    "transactionIdentification": "AC3402996B714CB7A0C82070A",
+    "remittanceInformation": "",
+    "creditorAccount": {
+      "ispb": "60746948",
+      "issuer": "1923",
+      "number": "07228864",
+      "accountType": "CACC"
+    }
+  },
+  "links": {
+    "self": "https://api.itau/open-banking/payments/v1/pix/payments/TXY7YFOdZh1bBwq4P5CXt3RDOCFuYyh"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-08-25T08:23:00Z"
+  }
+}

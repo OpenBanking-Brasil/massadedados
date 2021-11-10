@@ -1,0 +1,14 @@
+{
+  "errors": [
+    {
+      "code": "NAO_INFORMADO",
+      "title": "NAO_INFORMADO: Não informado.",
+      "detail": "NAO_INFORMADO – Não reportado/identificado pela instituição detentora de conta."
+    }
+  ],
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-08-21T08:30:00Z"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "data": {
+    "paymentId": "TXQ8PBchIJ33sGUXGoaootey794kUdu",
+    "endToEndId": "E60701190202108031607W1DqzAxcBkK",
+    "consentId": "urn:itau:ITU728165342",
+    "creationDateTime": "2021-10-03T16:07:00Z",
+    "statusUpdateDateTime": "2021-10-03T16:09:00Z",
+    "proxy": "9f9cb70a-2620-11ec-9621022ac1300",
+    "ibgeTownCode": "3550308",
+    "status": "ACCC",
+    "localInstrument": "DICT",
+    "cnpjInitiator": "19468242000132",
+    "payment": {
+      "amount": "1322.45",
+      "currency": "BRL"
+    },
+    "transactionIdentification": "552f42cc262111ec96210242a",
+    "remittanceInformation": "Salário mensal",
+    "creditorAccount": {
+      "ispb": "60701190",
+      "issuer": "8265",
+      "number": "235294",
+      "accountType": "CACC"
+    }
+  },
+  "links": {
+    "self": "https://api.itau/open-banking/payments/v1/pix/payments/TXpDFR7UCPRDMhhAB3zDU5FGfsPFSNi"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2021-10-03T16:12:00Z"
+  }
+}

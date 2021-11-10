@@ -1,0 +1,14 @@
+{
+  "errors": [
+    {
+      "code": "VALOR_ACIMA_LIMITE",
+      "title": "VALOR_ACIMA_LIMITE",
+      "detail": "O valor (ou quantidade de transações) ultrapassa a faixa de limite parametrizada na detentora para permitir a realização de transações pelo cliente."
+    }
+  ],
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime":"2021-08-19T13:46:17Z"
+  }
+}
