@@ -7,7 +7,7 @@
     "statusUpdateDateTime": "2022-02-16T08:30:00Z",
     "proxy": "31804279579",
     "ibgeTownCode": "4314902",
-    "status": "CONSUMED",
+    "status": "SCHEDULE_ACCEPTED_SETTLEMENT_COMPLETED",
     "localInstrument": "DICT",
     "cnpjInitiator": "50685362000135",
     "payment": {
