@@ -1,0 +1,34 @@
+{
+  "data": {
+    "paymentId": "AT9kRqSVuejNewbPstzaZq9BNxhTdJE",
+    "endToEndId": "6B2FZNDCT3U0O3HQ6U62OTL76T1JNPX",
+    "consentId": "urn:caixaeconomica:CEF160222103",
+    "creationDateTime": "2022-02-16T08:30:00Z",
+    "statusUpdateDateTime": "2022-02-16T08:30:00Z",
+    "proxy": "31804279579",
+    "ibgeTownCode": "4314902",
+    "status": "CONSUMED",
+    "localInstrument": "DICT",
+    "cnpjInitiator": "50685362000135",
+    "payment": {
+      "amount": "95.77",
+      "currency": "BRL"
+    },
+    "transactionIdentification": "0PC41YVT5DQ4A11Z810EADMQW",
+    "remittanceInformation": "Pagamento agendado.",
+    "creditorAccount": {
+      "ispb": "00360305",
+      "issuer": "3100",
+      "number": "53091",
+      "accountType": "CACC"
+    }
+  },
+  "links": {
+    "self": "https://api.caixa.gov.br/open-banking/payments/v1/consents/uurn:caixaeconomica:CEF160222103"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-02-16T08:30:00Z"
+  }
+}
