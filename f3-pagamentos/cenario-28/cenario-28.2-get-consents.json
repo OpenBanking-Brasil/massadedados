@@ -1,0 +1,56 @@
+{
+   "data": {
+     "consentId": "urn:caixaeconomica:CEF160222103",
+     "creationDateTime": "2022-02-16T08:30:00Z",
+     "expirationDateTime": "2022-02-16T09:30:00Z",
+     "statusUpdateDateTime": "2022-02-16T08:30:00Z",
+     "status": "CONSUMED",
+     "loggedUser":{
+      "document":{
+         "identification":"74983393072",
+         "rel":"CPF"
+      }
+     },
+     "creditor":{
+      "personType":"PESSOA_NATURAL",
+      "cpfCnpj":"31804279579",
+      "name":"Barbara Eliane Laura Martins"
+     },
+     "payment": {
+      "type": "PIX",
+      "schedule":{
+         "single":{
+            "date": "2022-03-05"
+         }
+      },
+      "currency": "BRL",
+      "amount": "95.77",
+      "ibgeTownCode": "4314902",
+      "details": {
+        "localInstrument": "DICT",
+        "proxy": "31804279579",
+        "creditorAccount": {
+          "ispb": "00360305",
+          "issuer": "3100",
+          "number": "53091",
+          "accountType": "CACC"
+        }
+      }
+
+     },
+     "debtorAccount": {
+       "ispb": "60701190",
+       "issuer": "1360",
+       "number": "8297983",
+       "accountType": "CACC"
+     }
+   },
+   "links": {
+     "self": "https://api.caixa.gov.br/open-banking/payments/v1/consents/uurn:caixaeconomica:CEF160222103"
+   },
+   "meta": {
+     "totalRecords": 1,
+     "totalPages": 1,
+     "requestDateTime": "2022-02-16T08:30:00Z"
+   }
+ }
