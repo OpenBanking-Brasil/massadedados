@@ -55,3 +55,9 @@ Exemplo de cenário de sucesso com os quatro passos do pagamento:
 *cenario-01.2-post-consents.json*  
 *cenario-01.3-post-consents.json*  
 *cenario-01.4-post-consents.json*  
+
+## Como contribuir?
+
+A princípio as alterações e manutenção nesse repositório é responsabilidade do  [Governança do Open Banking Brasil - Interfaces](mailto:gt-interfaces@openbankingbr.org). Em caso de dúvidas, sugestões, erros e qualquer ocorrência a respeito dos artefados aqui disponibilizados pode ser reportado em [Suporte ao Desenvolvedor](https://servicedesk.openbankingbrasil.org.br/Login.jsp?navLanguage=pt-BR).
+
+

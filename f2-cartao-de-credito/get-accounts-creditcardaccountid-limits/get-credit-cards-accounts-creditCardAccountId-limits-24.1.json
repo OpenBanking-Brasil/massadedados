@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "creditLineLimitType": "CREDITO_A_VISTA",
+            "creditLineLimitType": "LIMITE_CREDITO_TOTAL",
             "consolidationType": "CONSOLIDADO",
             "identificationNumber": "5500",
             "lineName": "CREDITO_A_VISTA",
