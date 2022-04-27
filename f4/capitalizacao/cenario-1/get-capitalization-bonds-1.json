@@ -1,0 +1,235 @@
+{
+    "data": [
+      {
+        "participant": {
+          "brand": "Banco do Brasil S.A",
+          "name": "Banco do Brasil S.A.",
+          "cnpjNumber": "00000000000191",
+          "urlComplementaryList": "http://www.brasilcap.com/"
+        },
+        "society": {
+          "name": "Brasilcap Capitalização S.A.",
+          "cnpjNumber": "15138043000105"
+        },
+        "name": "Ourocap Pagamento Mensal 36",
+        "code": "PM36_20",
+        "modality": "TRADICIONAL",
+        "costType": "PAGAMENTO_MENSAL",
+        "termsAndConditions": {
+          "susepProcessNumber": "15414.632664/2019-66",
+          "detail": "http://www.brasilcap.com/"
+        },
+        "quotas": [
+          {
+            "quota": 1,
+            "capitalizationQuota": "0.100000",
+            "raffleQuota": "0.013000",
+            "chargingQuota": "0.887000"
+          },
+          {
+            "quota": 36,
+            "capitalizationQuota": "0,9485724",
+            "raffleQuota": "0.013000",
+            "chargingQuota": "0,0384276"
+          }
+        ],
+        "validity": 36,
+        "serieSize":  1000000,
+        "capitalizationPeriod": {
+          "interestRate": " 0.427555",
+          "updateIndex": "IGPM",
+          "contributionAmount": [
+            {
+              "periodicity": "MENSAL",
+              "minimum": "300",
+              "maximum": "1000",
+              "allowedValue": 500
+            }
+          ],
+          "earlyRedemptions": [
+            {
+              "quota": 1,
+              "rate": 50.000000
+            },
+            {
+              "quota": 2,
+              "rate": 50.040540
+            },
+            {
+              "quota": 3,
+              "rate": 63.6695500
+            },
+            {
+              "quota": 4,
+              "rate": 70.5812400
+            },
+            {
+              "quota": 5,
+              "rate": 74.8063500
+            },
+            {
+              "quota": 6,
+              "rate": 77.6884300
+            },
+            {
+              "quota": 7,
+              "rate": 79.8033200
+            },
+            {
+              "quota": 8,
+              "rate": 81.4389100
+            },
+            {
+              "quota": 9,
+              "rate": 82.7551700
+            },
+            {
+              "quota": 10,
+              "rate": 83.8480600
+            },
+            {
+              "quota": 11,
+              "rate": 84.7786600
+            },
+            {
+              "quota": 12,
+              "rate": 85.5876800
+            },
+            {
+              "quota": 13,
+              "rate": 86.3033100
+            },  
+            {
+              "quota": 14,
+              "rate": 86.9456900
+            }, 
+            {
+              "quota": 15,
+              "rate": 87.5295800
+            },   
+            {
+              "quota": 16,
+              "rate": 88.0660800
+            },     
+            {
+              "quota": 17,
+              "rate": 88.5635900
+            },  
+            {
+              "quota": 18,
+              "rate": 89.0287700
+            },    
+            {
+              "quota": 19,
+              "rate": 89.4668000
+            },  
+            {
+              "quota": 20,
+              "rate": 89.8818400
+            }, 
+            {
+              "quota": 21,
+              "rate": 90.2772500
+            },
+            {
+              "quota": 22,
+              "rate": 90.6558000
+            },
+            {
+              "quota": 23,
+              "rate": 91.0197700
+            },
+            {
+              "quota": 24,
+              "rate": 91.3710400
+            },
+            {
+              "quota": 25,
+              "rate": 96.5381300
+            },
+            {
+              "quota": 26,
+              "rate": 96.8859500
+            },
+            {
+              "quota": 27,
+              "rate": 97.2247400
+            },
+            {
+              "quota": 28,
+              "rate": 97.5555100
+            },
+            {
+              "quota": 29,
+              "rate": 97.2247400
+            },
+            {
+              "quota": 30,
+              "rate": 98.1965000
+            },
+            {
+              "quota": 31,
+              "rate": 98.5081600
+            },
+            {
+              "quota": 32,
+              "rate": 98.8147600
+            },
+            {
+              "quota": 33,
+              "rate": 99.1168100
+            },
+            {
+              "quota": 34,
+              "rate": 99.4147700
+            },
+            {
+              "quota": 35,
+              "rate": 99.7090500
+            },
+            {
+              "quota": 36,
+              "rate": 100.0000100
+            }
+          ],
+          "redemptionPercentageEndTerm": "100.0000100",
+          "gracePeriodRedemption": 6
+        },
+        "latePayment": {
+          "suspensionMonths": 13,
+          "periodExtensionOption": true
+        },
+        "contributionPayment": {
+          "paymentMethod": "DEBITO_CONTA_CORRENTE",
+          "updateIndex": "IGPM"
+        },
+        "redemptionPercentageEndTerm": "100.0000100",
+        "finalRedemptionRate": "100.0000100",
+        "draws": [
+          {
+            "timeInterval": "MENSAL",
+            "quantity": 506,
+            "prizeMultiplier": 10,
+            "earlySettlementRaffle": false,
+            "mandatoryContemplation": true,
+            "ruleDescription": "Para cada contribuição paga nas respectivas datas de vencimento, sorteio mensal de 10 (dez) vezes o valor da última contribuição mensal, realizado na primeira quarta-feira de cada mês civil",
+            "minimumContemplationProbability": "0.050"
+          }
+        ],
+        "additionalInfo": "https://www.bb.com.br/docs/portal/pub/CGOurocapPagamentoMensal36.pdf?pk_vid=6094c38350765c7716510707364277c7&pk_vid=6094c38350765c7716510707364277c7&pk_vid=6094c38350765c7716510707364277c7",
+        "minimumRequirementDetails": "https://www.bb.com.br/docs/portal/pub/CGOurocapPagamentoMensal36.pdf?pk_vid=6094c38350765c7716510707364277c7&pk_vid=6094c38350765c7716510707364277c7&pk_vid=6094c38350765c7716510707364277c7",
+        "targetAudience": "PESSOA_NATURAL"
+      }
+    ],
+    "links": {
+      "self": "https://opendata.api.bb.com.br/open-banking/api/v1/resource",
+      "first":"https://opendata.api.bb.com.br/open-banking/api/v1/resource",
+      "prev": "https://opendata.api.bb.com.br/open-banking/api/v1/resource",
+      "next": "https://opendata.api.bb.com.br/open-banking/api/v1/resource",
+      "last": "https://opendata.api.bb.com.br/open-banking/api/v1/resource"
+    },
+    "meta": {
+      "totalRecords": 1,
+      "totalPages": 1
+    }
+  }
