@@ -1,5 +1,5 @@
 # Massa fase 4 v.1.0.0-rc1.0
-A fase 4 trata do compartilhamento de dados entre IFs sobre Capitalização, Investimentos, Câmbio, Credenciamento, Seguros e Previdência.
+Neste diretório estão documentadas as massas de dados da API de Capitalização da fase OpenInsurance do Open Banking Brasil.
 
 ## Cenários de Capitalização: 
 

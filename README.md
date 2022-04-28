@@ -1,11 +1,10 @@
 # Massas de Dados - Open Banking Brasil
 
-Repositório referente as massas de dados das Fases 1, 2 e 3 do Open Banking Brasil.
+Repositório referente as massas de dados das Fases 1, 2, 3 e 4 do Open Banking Brasil.
 
 ## Fases
 
-A fase 1 trás informações das instituições bancárias, a fase 2 trás o fluxo de compartilhamento de dados 
-enquanto que a fase 3 trás o fluxo de pagamentos. 
+A fase 1 trás informações das instituições bancárias, a fase 2 trás o fluxo de compartilhamento de dados enquanto que a fase 3 trás o fluxo de pagamentos. 
 As massas da fase 1 foram desenvolvidas com base em instituições participantes de exemplo com dados fictícios e não reais. 
 As massas da fase 2 foram desenvolvidas com base em cenários estabelecidos e personas fictícias construídas apenas para este propósito. 
 E as massas da fase 3 foram desenvolvidas com base em cenários estabelecidos e personas fictícias construídas apenas para este propósito. 
