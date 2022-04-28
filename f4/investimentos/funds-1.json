@@ -1,0 +1,63 @@
+{
+    "data": [
+      {
+        "participant": { 
+          "brand": "CAIXA FIC APORTE IMEDIATO 400 RENDA FIXA LONGO PRAZO",
+          "name": "FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO CAIXA APORTE IMEDIATO 400 RENDA FIXA LONGO PRAZO",
+          "cnpjNumber": "00360305000104",
+          "urlComplementaryList": "https://www.caixa.gov.br/"
+        },
+        "name": "Fundo de Investimento em Cotas de Fundos de Investimento CAIXA Capital Protegido Bolsa de Valores IV Multimercado",
+        "cnpjNumber": "44683343000173",
+        "isinCode": "BR0AW4CTF004",
+        "admin": {
+          "name": "CAIXA ECONÔMICA FEDERAL",
+          "cnpjNumber": "00.360.305/0001-04"
+        },
+        "fundManager": {
+          "name": "CAIXA Distribuidora de Títulos e Valores Mobiliários S.A",
+          "cnpjNumber": "42040639000140"
+        },
+        "anbimaCategory": "MULTIMERCADO",
+        "fees": {
+          "maxAdminFee": "0.0025",
+          "entryFee": "0.000000",
+          "performanceFee": {
+            "method": "ATIVO",
+            "benchmark": "IBOVESPA"
+          },
+          "exitFee": "0.000000"
+        },
+        "generalConditions": {
+          "minimumAmount": {
+            "value": "5000.00",
+            "currency": "BRL"
+          },
+          "redemption": {
+            "quotationDays": 0,
+            "quotationTerm": "DIAS_CORRIDOS",
+            "paymentDays": 2,
+            "paymentTerm": "DIAS_CORRIDOS",
+            "graceDays": 707
+          },
+          "application": {
+            "quotationDays": 707,
+            "quotationTerm": "DIAS_CORRIDOS"
+          },
+          "fundQuotaType": "COTA_FECHAMENTO"
+        },
+        "taxation": "LONGO_PRAZO"
+      }
+    ],
+    "links": {
+      "self": "https://api.caixa.gov.br/open-banking/api/v1/resource",
+      "first": "https://api.caixa.gov.br/open-banking/api/v1/resource",
+      "prev": "https://api.caixa.gov.br/open-banking/api/v1/resource",
+      "next": "https://api.caixa.gov.br/open-banking/api/v1/resource",
+      "last": "https://api.caixa.gov.br/open-banking/api/v1/resource"
+    },
+    "meta": {
+      "totalRecords": 1,
+      "totalPages": 1
+    }
+  }
