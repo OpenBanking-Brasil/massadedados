@@ -7,6 +7,10 @@ Neste diretório estão documentadas as massas de dados do compartilhamento de d
 
 ## Cenário de Investimentos
 
-1 - 1.0.0-rc1.0 - Fundo Multimercado
+1.0.0-rc1.0 - Renda Fixa CDB
+1.0.0-rc1.0 - Renda Fixa Debentures
+1.0.0-rc1.0 - Fundo Multimercado
+1.0.0-rc1.0 - Tesouro Direto
+1.0.0-rc1.0 - Renda Variavel Acoes
 
 
