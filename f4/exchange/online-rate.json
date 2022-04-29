@@ -1,0 +1,43 @@
+{
+    "data": [
+      {
+        "participant": {
+          "brand": "ALOCC CAMBIAL FC DE FI CAMBIAL",
+          "name": "ALOCC CAMBIAL FC DE FI CAMBIAL",
+          "cnpjNumber": "14843675000107",
+          "urlComplementaryList": "https://data.anbima.com.br/fundos/415944#rentabilidade"
+        },
+        "values": [
+          {
+            "foreignCurrency": "BRL",
+            "deliveryForeignCurrency": "ESPECIE",
+            "transactionType": "COMPRA",
+            "transactionCategory": "TRANSFERENCIAS_UNILATERAIS",
+            "targetAudience": "PF",
+            "value": "5560.00"
+          },
+          {
+            "foreignCurrency": "EUR",
+            "deliveryForeignCurrency": "ESPECIE",
+            "transactionType": "VENDA",
+            "transactionCategory": "TRANSFERENCIAS_UNILATERAIS",
+            "targetAudience": "PF",
+            "value": "1060.12"
+          }
+        ],
+        "timestamp": "2022-03-21T17:32:28Z",
+        "disclaimer": "Informamos que esta taxa é estimada e exclusiva para fins de Open Finance,  não sendo válida para a contratação de operações de câmbio. Para obter a taxa para fechamento do câmbio, pedimos consultar os canais disponíveis para contratação."
+      }
+    ],
+    "links": {
+      "self": "https://api.bradesco.com/open-banking/api/v1/resource",
+      "first": "https://api.bradesco.com/open-banking/api/v1/resource",
+      "prev": "https://api.bradesco.com/open-banking/api/v1/resource",
+      "next": "https://api.bradesco.com/open-banking/api/v1/resource",
+      "last": "https://api.bradesco.com/open-banking/api/v1/resource"
+    },
+    "meta": {
+      "totalRecords": 1,
+      "totalPages": 1
+    }
+  }
