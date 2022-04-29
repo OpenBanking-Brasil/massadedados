@@ -14,7 +14,7 @@
             "transactionType": "COMPRA",
             "transactionCategory": "TRANSFERENCIAS_UNILATERAIS",
             "targetAudience": "PF",
-            "value": "5560,00"
+            "value": "5560.00"
           },
           {
             "foreignCurrency": "EUR",
@@ -22,7 +22,7 @@
             "transactionType": "VENDA",
             "transactionCategory": "TRANSFERENCIAS_UNILATERAIS",
             "targetAudience": "PF",
-            "value": "1060,12"
+            "value": "1060.12"
           }
         ],
         "timestamp": "2022-03-21T17:32:28Z",
