@@ -1,0 +1,50 @@
+{
+    "data": [
+      {
+        "participant": {
+          "brand": "BANCO COOPERATIVO SICREDI S.A.",
+          "name": "BANCO COOPERATIVO SICREDI S.A.",
+          "cnpjNumber": "01181521000155",
+          "urlComplementaryList": "https://www.sicredi.com.br/home/"
+        },
+        "feeName": "TAXA_DESCONTO_MODALIDADE_CREDITO",
+        "code": "MDR_CREDITO",
+        "prices": [
+          {
+            "interval": "1_FAIXA",
+            "value": "0.0203",
+            "customerRate": "0.5000"
+          },
+          {
+            "interval": "2_FAIXA",
+            "value": "0.0306",
+            "customerRate": "0.1000"
+          },
+          {
+            "interval": "3_FAIXA",
+            "value": "0.0343",
+            "customerRate": "0.3000"
+          },
+          {
+            "interval": "4_FAIXA",
+            "value": "0.2468",
+            "customerRate": "0.1000"
+          }
+        ],
+        "chargingTriggerInfo": "NA",
+        "minimum": "2.0",
+        "maximum": "5.0"
+      }
+    ],
+    "links": {
+      "self": "https://api.sicredi.com.br/open-banking/api/v1/resource",
+      "first": "https://api.sicredi.com.br/open-banking/api/v1/resource",
+      "prev": "https://api.sicredi.com.br/open-banking/api/v1/resource",
+      "next": "https://api.sicredi.com.br/open-banking/api/v1/resource",
+      "last": "https://api.sicredi.com.br/open-banking/api/v1/resource"
+    },
+    "meta": {
+      "totalRecords": 1,
+      "totalPages": 1
+    }
+  }
