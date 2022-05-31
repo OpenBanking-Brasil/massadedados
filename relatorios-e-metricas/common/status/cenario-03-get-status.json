@@ -26,7 +26,7 @@
         "last": "https://api.bradesco.com/bradesco/open-banking/discovery/v1/status?page=14&page-size=1"
     },
     "meta": {
-        "totalRecords": 14,
-        "totalPages": 14
+        "totalRecords": 1,
+        "totalPages": 1
     }
 }
