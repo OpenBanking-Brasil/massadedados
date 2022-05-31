@@ -33,7 +33,7 @@
                 "outageTime": "2021-07-05T17:14:34Z",
                 "duration": "PT99H59M",
                 "isPartial": false,
-                "explanation": "Manutenção programada de banco de dados",
+                "explanation": "Manutenção programada no banco de dados",
                 "unavailableEndpoints": [
                     "https://openbanking.banrisul.com.br/open-banking/accounts/v1/accounts",
                     "https://openbanking.banrisul.com.br/open-banking/accounts/v1/accounts/{accountId}",
@@ -86,7 +86,7 @@
         "next": "https://openbanking.banrisul.com.br/open-banking/discovery/v1/outages?page=2&page-size=2"
     },
     "meta": {
-        "totalRecords": 4,
-        "totalPages": 2
+        "totalRecords": 2,
+        "totalPages": 1
     }
 }
