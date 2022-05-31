@@ -5,7 +5,7 @@
                 "outageTime": "2021-07-09T17:14:34Z",
                 "duration": "PT17H00M",
                 "isPartial": false,
-                "explanation": "Fase 1 APIs Unavailable",
+                "explanation": "Manuteção programada de servidor",
                 "unavailableEndpoints": [
                     "https://openbanking.banrisul.com.br/open-banking/channels/v1/banking-agents",
                     "https://openbanking.banrisul.com.br/open-banking/channels/v1/branches",
@@ -33,7 +33,7 @@
                 "outageTime": "2021-07-05T17:14:34Z",
                 "duration": "PT99H59M",
                 "isPartial": false,
-                "explanation": "APIs Unavailable until august",
+                "explanation": "Manutenção programada de banco de dados",
                 "unavailableEndpoints": [
                     "https://openbanking.banrisul.com.br/open-banking/accounts/v1/accounts",
                     "https://openbanking.banrisul.com.br/open-banking/accounts/v1/accounts/{accountId}",

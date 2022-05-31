@@ -16,4 +16,5 @@ Obtem a lista de indisponibilidade agendada para os serviços.
 
 ### Cenários:
 
-01 - Consulta interrupções parcieais e completas
+* 01 - Consulta interrupções parciais e completas
+* 02 - Consulta interrupções completa
