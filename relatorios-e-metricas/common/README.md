@@ -12,9 +12,11 @@ Obtém a descrição referente ao código de status retornado pelas APIs
 * 04 - Consulta com status OK e UNAVAILABLE
 
 ## Outages
-Obtem a lista de indisponibilidade agendada para os serviços.
+Obtêm a lista de indisponibilidade agendada para os serviços.
 
 ### Cenários:
 
 * 01 - Consulta interrupções parciais e completas
-* 02 - Consulta interrupções completas
+* 02 - Consulta interrupções completa
+* 03 - Consulta interrupções parciais e completas
+* 04 - Consulta interrupções parciais e completas

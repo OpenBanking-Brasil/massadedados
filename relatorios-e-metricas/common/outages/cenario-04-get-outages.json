@@ -54,7 +54,7 @@
         "next": "https://api.baninter.com/open-banking/discovery/v1/outages?page=2&page-size=3"
     },
     "meta": {
-        "totalRecords": 6,
-        "totalPages": 2
+        "totalRecords": 3,
+        "totalPages": 1
     }
 }

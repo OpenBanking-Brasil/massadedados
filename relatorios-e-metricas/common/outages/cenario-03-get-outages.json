@@ -5,7 +5,7 @@
                 "outageTime": "2021-10-03T00:00:00Z",
                 "duration": "PT2H20M",
                 "isPartial": false,
-                "explanation": "Atualização API",
+                "explanation": "Atualização versionamento",
                 "unavailableEndpoints": [
                     "https://api.bradesco.com/bradesco/open-banking/personal/identifications",
                     "https://api.bradesco.com/bradesco/open-banking/personal/qualifications",
@@ -20,7 +20,7 @@
                 "outageTime": "2021-10-01T00:00:00Z",
                 "duration": "PT1H47M",
                 "isPartial": true,
-                "explanation": "Atualização API",
+                "explanation": "Atualização de segurança",
                 "unavailableEndpoints": [
                     "https://api.bradesco.com/bradesco/open-banking/accounts",
                     "https://api.bradesco.com/bradesco/open-banking/accounts/{creditCardAccountId}",
@@ -37,7 +37,7 @@
         "last": "https://api.bradesco.com/bradesco/open-banking/discovery/v1/outages?page=12&page-size=2"
     },
     "meta": {
-        "totalRecords": 23,
-        "totalPages": 12
+        "totalRecords": 2,
+        "totalPages": 1
     }
 }
