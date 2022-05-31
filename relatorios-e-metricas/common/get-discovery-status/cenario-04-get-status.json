@@ -3,19 +3,19 @@
         "status": [
             {
                 "code": "OK",
-                "explanation": "Fase 1 APIs e Fase 2 APIs OK",
+                "explanation": "Retorno com Sucesso",
                 "updateTime": "2021-12-10T00:00:00Z",
                 "unavailableEndpoints": []
             },
             {
                 "code": "OK",
-                "explanation": "Fase 1 APIs e Fase 2 APIs OK",
+                "explanation": "Retorno com Sucesso",
                 "updateTime": "2021-11-10T00:00:00Z",
                 "unavailableEndpoints": []
             },
             {
                 "code": "OK",
-                "explanation": "Fase 1 APIs e Fase 2 APIs OK",
+                "explanation": "Retorno com Sucesso",
                 "updateTime": "2021-10-10T00:00:00Z",
                 "unavailableEndpoints": []
             },
@@ -35,7 +35,7 @@
             },
             {
                 "code": "OK",
-                "explanation": "Fase 1 APIs e Fase 2 APIs OK",
+                "explanation": "Retorno com Sucesso",
                 "updateTime": "2021-05-10T00:00:00Z",
                 "unavailableEndpoints": []
             },
@@ -53,7 +53,7 @@
             },
             {
                 "code": "OK",
-                "explanation": "Fase 1 APIs e Fase 2 APIs OK",
+                "explanation": "Retorno com Sucesso",
                 "updateTime": "2021-04-10T00:00:00Z",
                 "unavailableEndpoints": []
             },
@@ -80,19 +80,19 @@
             },
             {
                 "code": "OK",
-                "explanation": "Fase 1 APIs e Fase 2 APIs OK",
+                "explanation": "Retorno com Sucesso",
                 "updateTime": "2021-03-10T00:00:00Z",
                 "unavailableEndpoints": []
             },
             {
                 "code": "OK",
-                "explanation": "Fase 1 APIs e Fase 2 APIs OK",
+                "explanation": "Retorno com Sucesso",
                 "updateTime": "2021-02-10T00:00:00Z",
                 "unavailableEndpoints": []
             },
             {
                 "code": "OK",
-                "explanation": "Fase 1 APIs e Fase 2 APIs OK",
+                "explanation": "Retorno com Sucesso",
                 "updateTime": "2021-01-10T00:00:00Z",
                 "unavailableEndpoints": []
             }
@@ -105,7 +105,7 @@
         "last": "https://api.baninter.com/open-banking/discovery/v1/status?page=2&page-size=11"
     },
     "meta": {
-        "totalRecords": 22,
+        "totalRecords": 11,
         "totalPages": 2
     }
 }
