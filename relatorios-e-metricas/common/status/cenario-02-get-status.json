@@ -4,47 +4,8 @@
             {
                 "code": "OK",
                 "explanation": "Retorno com Sucesso",
-                "updateTime": "2021-07-10T09:14:34Z",
-                "unavailableEndpoints": [
-                    "https://openbanking.banrisul.com.br/open-banking/accounts/v1/accounts",
-                    "https://openbanking.banrisul.com.br/open-banking/accounts/v1/accounts/{accountId}",
-                    "https://openbanking.banrisul.com.br/open-banking/accounts/v1/accounts/{accountId}/balances",
-                    "https://openbanking.banrisul.com.br/open-banking/accounts/v1/accounts/{accountId}/overdraft-limits",
-                    "https://openbanking.banrisul.com.br/open-banking/accounts/v1/accounts/{accountId}/transactions",
-                    "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts",
-                    "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts/{creditCardAccountId}",
-                    "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts/{creditCardAccountId}/bills",
-                    "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts/{creditCardAccountId}/bills/{billId}/transactions",
-                    "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts/{creditCardAccountId}/limits",
-                    "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts/{creditCardAccountId}/transactions",
-                    "https://openbanking.banrisul.com.br/open-banking/consents/v1/consents",
-                    "https://openbanking.banrisul.com.br/open-banking/consents/v1/consents/{consentId}",
-                    "https://openbanking.banrisul.com.br/open-banking/customers/v1/business/financial-relations",
-                    "https://openbanking.banrisul.com.br/open-banking/customers/v1/business/identifications",
-                    "https://openbanking.banrisul.com.br/open-banking/customers/v1/business/qualifications",
-                    "https://openbanking.banrisul.com.br/open-banking/customers/v1/personal/financial-relations",
-                    "https://openbanking.banrisul.com.br/open-banking/customers/v1/personal/identifications",
-                    "https://openbanking.banrisul.com.br/open-banking/customers/v1/personal/qualifications",
-                    "https://openbanking.banrisul.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts",
-                    "https://openbanking.banrisul.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/{contractId}",
-                    "https://openbanking.banrisul.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/{contractId}/payments",
-                    "https://openbanking.banrisul.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/{contractId}/scheduled-instalments",
-                    "https://openbanking.banrisul.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/{contractId}/warranties",
-                    "https://openbanking.banrisul.com.br/open-banking/invoice-financings/v1/contracts",
-                    "https://openbanking.banrisul.com.br/open-banking/invoice-financings/v1/contracts/{contractId}",
-                    "https://openbanking.banrisul.com.br/open-banking/invoice-financings/v1/contracts/{contractId}/payments",
-                    "https://openbanking.banrisul.com.br/open-banking/invoice-financings/v1/contracts/{contractId}/scheduled-instalments",
-                    "https://openbanking.banrisul.com.br/open-banking/invoice-financings/v1/contracts/{contractId}/warranties",
-                    "https://openbanking.banrisul.com.br/open-banking/financings/v1/contracts",
-                    "https://openbanking.banrisul.com.br/open-banking/financings/v1/contracts/{contractId}",
-                    "https://openbanking.banrisul.com.br/open-banking/financings/v1/contracts/{contractId}/payments",
-                    "https://openbanking.banrisul.com.br/open-banking/financings/v1/contracts/{contractId}/scheduled-instalments",
-                    "https://openbanking.banrisul.com.br/open-banking/financings/v1/contracts/{contractId}/warranties",
-                    "https://openbanking.banrisul.com.br/open-banking/loans/v1/contracts",
-                    "https://openbanking.banrisul.com.br/open-banking/loans/v1/contracts/{contractId}",
-                    "https://openbanking.banrisul.com.br/open-banking/loans/v1/contracts/{contractId}/payments",
-                    "https://openbanking.banrisul.com.br/open-banking/loans/v1/contracts/{contractId}/scheduled-instalments"
-                ]
+                "updateTime": "2021-07-10T09:14:34Z"
+                
             },
             {
                 "code": "PARTIAL_FAILURE",
@@ -78,7 +39,7 @@
         "last": "https://openbanking.banrisul.com.br/open-banking/discovery/v1/status?page=2&page-size=5"
     },
     "meta": {
-        "totalRecords": 8,
-        "totalPages": 2
+        "totalRecords": 3,
+        "totalPages": 1
     }
 }
