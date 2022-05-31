@@ -70,7 +70,7 @@
             {
                 "outageTime": "2021-05-10T03:08:16Z",
                 "duration": "PT0H02M",
-                "isPartial": true,
+                "isPartial": false,
                 "explanation": "Manutenção no banco de dados",
                 "unavailableEndpoints": [
                     "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-accounts",
