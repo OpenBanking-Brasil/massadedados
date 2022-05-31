@@ -5,7 +5,7 @@
                 "outageTime": "2021-05-16T03:10:42Z",
                 "duration": "PT3H05M",
                 "isPartial": false,
-                "explanation": "Erro na atualização",
+                "explanation": "Atualização de servidor",
                 "unavailableEndpoints": [
                     "https://opendata.api.bb.com.br/open-banking/channels/v1/banking-agents",
                     "https://opendata.api.bb.com.br/open-banking/channels/v1/branches",
@@ -31,7 +31,7 @@
                 "outageTime": "2021-05-16T03:00:00Z",
                 "duration": "PT0H10M",
                 "isPartial": false,
-                "explanation": "Atualização em produção",
+                "explanation": "Manutenção no banco de dados",
                 "unavailableEndpoints": [
                     "https://opendata.api.bb.com.br/open-banking/channels/v1/banking-agents",
                     "https://opendata.api.bb.com.br/open-banking/channels/v1/branches",
@@ -57,7 +57,7 @@
                 "outageTime": "2021-05-10T03:10:00Z",
                 "duration": "PT0H30M",
                 "isPartial": true,
-                "explanation": "Erro na atualização",
+                "explanation": "Manutenção de servidor",
                 "unavailableEndpoints": [
                     "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-accounts",
                     "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-credit-cards",
@@ -71,7 +71,7 @@
                 "outageTime": "2021-05-10T03:08:16Z",
                 "duration": "PT0H02M",
                 "isPartial": true,
-                "explanation": "Erro na atualização",
+                "explanation": "Manutenção no banco de dados",
                 "unavailableEndpoints": [
                     "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-accounts",
                     "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-credit-cards",
@@ -85,7 +85,7 @@
                 "outageTime": "2021-05-10T03:00:00Z",
                 "duration": "PT0H14M",
                 "isPartial": true,
-                "explanation": "Atualização do API products-services",
+                "explanation": "Manutenção de servidor",
                 "unavailableEndpoints": [
                     "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-accounts",
                     "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-credit-cards",
@@ -104,7 +104,7 @@
         "last": "https://opendata.api.bb.com.br/open-banking/discovery/v1/outages?page=10&page-size=5"
     },
     "meta": {
-        "totalRecords": 50,
-        "totalPages": 10
+        "totalRecords": 5,
+        "totalPages": 1
     }
 }

@@ -13,3 +13,7 @@ Obtém a descrição referente ao código de status retornado pelas APIs
 
 ## Outages
 Obtem a lista de indisponibilidade agendada para os serviços.
+
+### Cenários:
+
+01 - Consulta interrupções parcieais e completas
