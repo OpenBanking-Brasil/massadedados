@@ -4,20 +4,17 @@
             {
                 "code": "OK",
                 "explanation": "Retorno com Sucesso",
-                "updateTime": "2021-12-10T00:00:00Z",
-                "unavailableEndpoints": []
+                "updateTime": "2021-12-10T00:00:00Z"
             },
             {
                 "code": "OK",
                 "explanation": "Retorno com Sucesso",
-                "updateTime": "2021-11-10T00:00:00Z",
-                "unavailableEndpoints": []
+                "updateTime": "2021-11-10T00:00:00Z"
             },
             {
                 "code": "OK",
                 "explanation": "Retorno com Sucesso",
-                "updateTime": "2021-10-10T00:00:00Z",
-                "unavailableEndpoints": []
+                "updateTime": "2021-10-10T00:00:00Z"
             },
             {
                 "code": "UNAVAILABLE",
@@ -36,8 +33,7 @@
             {
                 "code": "OK",
                 "explanation": "Retorno com Sucesso",
-                "updateTime": "2021-05-10T00:00:00Z",
-                "unavailableEndpoints": []
+                "updateTime": "2021-05-10T00:00:00Z"
             },
             {
                 "code": "UNAVAILABLE",
@@ -54,8 +50,7 @@
             {
                 "code": "OK",
                 "explanation": "Retorno com Sucesso",
-                "updateTime": "2021-04-10T00:00:00Z",
-                "unavailableEndpoints": []
+                "updateTime": "2021-04-10T00:00:00Z"
             },
             {
                 "code": "UNAVAILABLE",
@@ -81,20 +76,17 @@
             {
                 "code": "OK",
                 "explanation": "Retorno com Sucesso",
-                "updateTime": "2021-03-10T00:00:00Z",
-                "unavailableEndpoints": []
+                "updateTime": "2021-03-10T00:00:00Z"
             },
             {
                 "code": "OK",
                 "explanation": "Retorno com Sucesso",
-                "updateTime": "2021-02-10T00:00:00Z",
-                "unavailableEndpoints": []
+                "updateTime": "2021-02-10T00:00:00Z"
             },
             {
                 "code": "OK",
                 "explanation": "Retorno com Sucesso",
-                "updateTime": "2021-01-10T00:00:00Z",
-                "unavailableEndpoints": []
+                "updateTime": "2021-01-10T00:00:00Z"
             }
         ]
     },
@@ -106,6 +98,6 @@
     },
     "meta": {
         "totalRecords": 11,
-        "totalPages": 2
+        "totalPages": 1
     }
 }
