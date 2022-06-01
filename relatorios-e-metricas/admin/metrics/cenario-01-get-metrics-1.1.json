@@ -1,6 +1,6 @@
 {
     "data": {
-        "requestTime": "2021-05-16T10:00:00Z",
+        "requestTime": "2021-05-16T10:05:00Z",
         "availability": {
             "uptime": {
                 "generalUptimeRate": "0.9997",
@@ -626,7 +626,7 @@
         "last": "https://opendata.api.bb.com.br/open-banking/admin/v1/metrics?page=5period=ALL"
     },
     "meta": {
-        "totalRecords":125,
+        "totalRecords": 125,
         "totalPages": 5
     }
 }
