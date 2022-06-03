@@ -1,0 +1,50 @@
+{
+   "data":{
+      "consentId": "urn:bb:BB260817418",
+      "creationDateTime": "2021-08-19T17:42:54Z",
+      "expirationDateTime": "2021-08-19T18:42:54Z",
+      "statusUpdateDateTime": "2021-08-19T17:43:54Z",
+      "status": "RJCT ",
+      "loggedUser": {
+         "document": {
+            "identification": "51407217089",
+            "rel": "CPF"
+         }
+      },
+      "creditor": {
+         "personType": "PESSOA_NATURAL",
+         "cpfCnpj": "79619144554",
+         "name": "Fatima Antônia Silveira"
+      },
+      "payment": {
+         "type": "PIX",
+         "date": "2021-08-19",
+         "currency": "BRL",
+         "amount": "75.92",
+         "ibgeTownCode": "4313805",
+         "details": {
+            "localInstrument": "MANU",
+            "creditorAccount": {
+               "ispb": "607",
+               "issuer": "1745",
+               "number": "18549301",
+               "accountType": "CACC"
+            }
+         }
+      },
+      "debtorAccount": {
+         "ispb": "00000000",
+         "issuer": "1709",
+         "number": "11059338",
+         "accountType": "CACC"
+      },
+      "links":{
+         "self":"https://opendata.api.bb.com.br/open-banking/payments/v1/consents/urn:bb:BB260817418"
+      },
+      "meta":{
+         "totalRecords":1,
+         "totalPages":1,
+         "requestDateTime":"2021-08-19T17:43:54Z"
+      }
+   }
+}

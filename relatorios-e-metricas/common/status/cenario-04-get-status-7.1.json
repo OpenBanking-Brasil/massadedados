@@ -1,0 +1,103 @@
+{
+    "data": {
+        "status": [
+            {
+                "code": "OK",
+                "explanation": "Retorno com Sucesso",
+                "updateTime": "2021-12-10T00:00:00Z"
+            },
+            {
+                "code": "OK",
+                "explanation": "Retorno com Sucesso",
+                "updateTime": "2021-11-10T00:00:00Z"
+            },
+            {
+                "code": "OK",
+                "explanation": "Retorno com Sucesso",
+                "updateTime": "2021-10-10T00:00:00Z"
+            },
+            {
+                "code": "UNAVAILABLE",
+                "explanation": "Update Open Banking channels API",
+                "updateTime": "2021-05-19T21:13:84Z",
+                "detectionTime": "2021-05-19T21:13:84Z",
+                "expectedResolutionTime": "2021-05-20T04:13:84Z",
+                "unavailableEndpoints": [
+                    "https://api.baninter.com/open-banking/channels/v1/banking-agents",
+                    "https://api.baninter.com/open-banking/channels/v1/branches",
+                    "https://api.baninter.com/open-banking/channels/v1/eletronic-channels",
+                    "https://api.baninter.com/open-banking/channels/v1/phone-channels",
+                    "https://api.baninter.com/open-banking/channels/v1/shared-automated-teller-machines"
+                ]
+            },
+            {
+                "code": "OK",
+                "explanation": "Retorno com Sucesso",
+                "updateTime": "2021-05-10T00:00:00Z"
+            },
+            {
+                "code": "UNAVAILABLE",
+                "explanation": "Update Open Banking discovery and admin API",
+                "updateTime": "2021-04-29T22:00:00Z",
+                "detectionTime": "2021-04-29T22:00:00Z",
+                "expectedResolutionTime": "2021-04-30T00:30:00Z",
+                "unavailableEndpoints": [
+                    "https://api.baninter.com/open-banking/discovery/v1/status",
+                    "https://api.baninter.com/open-banking/discovery/v1/outages",
+                    "https://api.baninter.com/open-banking/admin/v1/metrics"
+                ]
+            },
+            {
+                "code": "OK",
+                "explanation": "Retorno com Sucesso",
+                "updateTime": "2021-04-10T00:00:00Z"
+            },
+            {
+                "code": "UNAVAILABLE",
+                "explanation": "Update Open Banking products and services API",
+                "updateTime": "2021-03-21T01:00:00Z",
+                "detectionTime": "2021-03-21T01:00:00Z",
+                "expectedResolutionTime": "2021-03-22T06:00:00Z",
+                "unavailableEndpoints": [
+                    "https://api.baninter.com/open-banking/products-services/v1/business-accounts",
+                    "https://api.baninter.com/open-banking/products-services/v1/business-credit-cards",
+                    "https://api.baninter.com/open-banking/products-services/v1/business-financings",
+                    "https://api.baninter.com/open-banking/products-services/v1/business-invoice-financings",
+                    "https://api.baninter.com/open-banking/products-services/v1/business-loans",
+                    "https://api.baninter.com/open-banking/products-services/v1/business-unarranged-account-overdraft",
+                    "https://api.baninter.com/open-banking/products-services/v1/personal-accounts",
+                    "https://api.baninter.com/open-banking/products-services/v1/personal-credit-cards",
+                    "https://api.baninter.com/open-banking/products-services/v1/personal-financings",
+                    "https://api.baninter.com/open-banking/products-services/v1/personal-invoice-financings",
+                    "https://api.baninter.com/open-banking/products-services/v1/personal-loans",
+                    "https://api.baninter.com/open-banking/products-services/v1/personal-unarranged-account-overdraft"
+                ]
+            },
+            {
+                "code": "OK",
+                "explanation": "Retorno com Sucesso",
+                "updateTime": "2021-03-10T00:00:00Z"
+            },
+            {
+                "code": "OK",
+                "explanation": "Retorno com Sucesso",
+                "updateTime": "2021-02-10T00:00:00Z"
+            },
+            {
+                "code": "OK",
+                "explanation": "Retorno com Sucesso",
+                "updateTime": "2021-01-10T00:00:00Z"
+            }
+        ]
+    },
+    "links": {
+        "self": "https://api.baninter.com/open-banking/discovery/v1/status?page=1&page-size=11",
+        "first": "https://api.baninter.com/open-banking/discovery/v1/status?page=1&page-size=11",
+        "next": "https://api.baninter.com/open-banking/discovery/v1/status?page=2&page-size=11",
+        "last": "https://api.baninter.com/open-banking/discovery/v1/status?page=2&page-size=11"
+    },
+    "meta": {
+        "totalRecords": 11,
+        "totalPages": 1
+    }
+}
