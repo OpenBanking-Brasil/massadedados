@@ -14,13 +14,13 @@
       "creditor": {
          "personType": "PESSOA_NATURAL",
          "cpfCnpj": "79619144554",
-         "name": "Fátima Antônia Silveira"
+         "name": "Fatima Antônia Silveira"
       },
       "payment": {
          "type": "PIX",
          "date": "2021-08-19",
          "currency": "BRL",
-         "amount": "75.90",
+         "amount": "75.92",
          "ibgeTownCode": "4313805",
          "details": {
             "localInstrument": "MANU",
