@@ -3,15 +3,18 @@
         {
             "billId": "4c772fcd-5a10-4468-aad2-c58eff0bcc40",
             "dueDate": "2021-06-10",
-            "billTotalAmount": 5245.8800,
-            "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 1049.1800,
-            "billMinimumAmountCurrency": "BRL",
-            "isInstalment": true,
+            "billTotalAmount": {
+                "amount": 5245.8800,
+                "currency": "BRL" 
+             },
+             "billMinimumAmount": {
+                "amount": 1049.1800,
+                "currency": "BRL" 
+             },
+             "isInstalment": true,
             "financeCharges": [
                 {
                     "type": "JUROS_REMUNERATORIOS_ATRASO_PAGAMENTO_FATURA",
-                    "additionalInfo": "NA",
                     "amount": 52.4600,
                     "currency": "BRL"
                 }
@@ -29,22 +32,25 @@
         {
             "billId": "c7d2f7a4-c23c-4319-9926-0fece3016650",
             "dueDate": "2021-05-10",
-            "billTotalAmount": 4852.2500,
-            "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 970.4500,
-            "billMinimumAmountCurrency": "BRL",
-            "isInstalment": true,
+            "billTotalAmount": {
+                "amount": 4852.2500,
+                "currency": "BRL" 
+             },
+             "billMinimumAmount": {
+                "amount": 970.4500,
+                "currency": "BRL" 
+             },
+             "isInstalment": true,
             "financeCharges": [
                 {
                     "type": "JUROS_REMUNERATORIOS_ATRASO_PAGAMENTO_FATURA",
-                    "additionalInfo": "NA",
                     "amount": 0.0000,
                     "currency": "BRL"
-                }
+                },
             ],
             "payments": [
                 {
-                    "valueType": "OUTRO_VALOR_PAGO_FATURA",
+                    "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
                     "paymentDate": "2021-05-09",
                     "paymentMode": "BOLETO_BANCARIO",
                     "amount": 4852.2500,
@@ -111,6 +117,6 @@
     "meta": {
         "totalRecords": 4,
         "totalPages": 1,
-        "requestDateTime": "2021-05-24T14:28:47Z"
+        "requestDateTime": "2021-05-21T08:30:00Z"
     }
 }
