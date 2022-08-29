@@ -10,20 +10,22 @@
             "CUSTOMERS_PERSONAL_IDENTIFICATIONS_READ",
             "CUSTOMERS_PERSONAL_ADITTIONALINFO_READ",
             "FINANCINGS_READ",
-            "FINANCINGS_INSTALMENTS_READ",
+            "FINANCINGS_SCHEDULED_INSTALMENTS_READ",
             "FINANCINGS_PAYMENTS_READ",
             "FINANCINGS_WARRANTIES_READ",
             "ACCOUNTS_READ",
             "ACCOUNTS_BALANCES_READ",
             "ACCOUNTS_TRANSACTIONS_READ",
-            "ACCOUNTS_OVERDRAFT_LIMITS_READ",
-            "CREDIT_CARDS_ACCOUNTS_READ",
-            "CREDIT_CARDS_ACCOUNTS_BILLS_READ",
-            "CREDIT_CARDS_ACCOUNTS_BILLS_TRANSACTIONS_READ",
-            "CREDIT_CARDS_ACCOUNTS_LIMITS_READ",
-            "CREDIT_CARDS_ACCOUNTS_TRANSACTIONS_READ",
-            "RESOURCES_READ"
+            "ACCOUNTS_OVERDRAFT_LIMITS_READ"
         ],
-        "expirationDateTime": "2022-01-05T12:59:59Z"
+        "expirationDateTime": "2023-08-15T09:35:00Z"
+    },
+    "links": {
+        "self": "https://api.sicredi.com.br/open-banking/consents/v1/consents/urn:sicredi:SCD654878654"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-08-15T09:35:00Z"
     }
 }
