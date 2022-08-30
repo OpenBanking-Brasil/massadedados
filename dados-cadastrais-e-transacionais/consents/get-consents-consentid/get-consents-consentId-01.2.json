@@ -3,7 +3,7 @@
         "consentId": "urn:bb:BB96925654",
         "creationDateTime": "2022-08-01T10:25:00Z",
         "status": "REJECTED",
-        "statusUpdateDateTime": "2022-08-01T10:25:00Z",
+        "statusUpdateDateTime": "2022-08-01T10:26:00Z",
         "permissions": [
             "ACCOUNTS_READ",
             "ACCOUNTS_BALANCES_READ",
