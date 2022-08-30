@@ -1,9 +1,9 @@
 {
     "data": {
         "consentId": "urn:bb:BB96825411",
-        "creationDateTime": "2022-08-01T10:30:00Z",
+        "creationDateTime": "2022-08-01T10:35:00Z",
         "status": "AUTHORISED",
-        "statusUpdateDateTime": "2022-08-01T10:30:00Z",
+        "statusUpdateDateTime": "2022-08-01T10:35:00Z",
         "permissions": [
             "ACCOUNTS_READ",
             "ACCOUNTS_BALANCES_READ",
@@ -14,7 +14,7 @@
             "CREDIT_CARDS_ACCOUNTS_LIMITS_READ",
             "RESOURCES_READ"
         ],
-        "expirationDateTime": "2023-08-01T10:30:00Z"
+        "expirationDateTime": "2023-08-01T10:35:00Z"
     },
     "links": {
         "self": "https://opendata.api.bb.com.br/open-banking/consents/v1/consents/urn:bb:BB96825411"
@@ -22,6 +22,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2022-08-01T10:30:00Z"
+        "requestDateTime": "2022-08-01T10:35:00Z"
     }
 }
