@@ -1,0 +1,24 @@
+{
+  "data": {
+    "availableAmount": {
+      "amount": 16025.6975,
+      "currency":"BRL"
+    },
+    "blockedAmount": {
+      "amount": 0.0000,
+      "currency":"BRL"
+    }, 
+    "automaticallyInvestedAmount": {
+      "amount": 0.0000,
+      "currency":"BRL"
+    }
+  },
+  "links": {
+    "self": "https://api.sicredi.com.br/open-banking/accounts/v1/accounts/6ffc471a-d461-11eb-b8bc-0242ac130003/balances"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-08-15T09:35:00Z"
+  }
+}

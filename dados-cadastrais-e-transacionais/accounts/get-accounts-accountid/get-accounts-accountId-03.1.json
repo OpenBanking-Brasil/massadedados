@@ -12,8 +12,8 @@
         "self": "https://api.sicredi.com.br/open-banking/accounts/v1/accounts/6ffc471a-d461-11eb-b8bc-0242ac130003"
     },
     "meta": {
-        "totalRecords": 250,
-        "totalPages": 10,
-        "requestDateTime": "2021-05-30T13:59:00Z"
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-08-15T09:35:00Z"
     }
 }
