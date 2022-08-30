@@ -15,11 +15,9 @@
                 "currency": "BRL"
             },
             "availableAmount": {
-
                 "amount": 5500.7500,
                 "currency": "BRL"
             }
-        
         }
     ],
     "links": {
@@ -28,6 +26,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2022-08-01T10:35:00Z"
+        "requestDateTime": "2022-08-01T11:35:00Z"
     }
 }
