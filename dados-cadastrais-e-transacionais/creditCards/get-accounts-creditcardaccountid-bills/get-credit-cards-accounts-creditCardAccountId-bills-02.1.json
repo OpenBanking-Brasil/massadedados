@@ -70,7 +70,7 @@
             "billId": "f13a5fcc-e874-4594-bcd4-83015d1847f2",
             "dueDate": "2022-05-08",
             "billTotalAmount": {
-                "amount": "2456.9600",
+                "amount": "2821.2100",
                 "currency": "BRL"
             },
             "billMinimumAmount": {
@@ -83,14 +83,14 @@
                     "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
                     "paymentDate": "2022-05-05",
                     "paymentMode": "BOLETO_BANCARIO",
-                    "amount": 2456.9600,
+                    "amount": "2821.2100",
                     "currency": "BRL"
                 }
             ]
         }
     ],
     "links": {
-        "self": "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts/659effc1-4526-4248-b6af-e3b4130e30891/bills"
+        "self": "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts/659effc1-4526-4248-b6af-e3b4130e3089/bills"
     },
     "meta": {
         "totalRecords": 4,
