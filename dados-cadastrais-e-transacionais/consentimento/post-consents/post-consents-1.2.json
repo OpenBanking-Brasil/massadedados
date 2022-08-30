@@ -5,13 +5,7 @@
                     "identification": "87517400444",
                     "rel": "CPF"
                 }
-            },
-            "businessEntity": {
-                "document": {
-                    "identification": "00000000000191",
-                    "rel": "CNPJ"
-                }
-            },   
+            }, 
         "permissions": [
             "ACCOUNTS_READ",
             "ACCOUNTS_BALANCES_READ",
