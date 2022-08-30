@@ -1,9 +1,17 @@
 {
     "data": {
-        "consentId": "urn:bb:BB96825411",
-        "creationDateTime": "2022-08-01T10:35:00Z",
-        "status": "AUTHORISED",
-        "statusUpdateDateTime": "2022-08-01T10:35:00Z",
+        "loggedUser": {
+            "document": {
+                "identification": "87517400444",
+                "rel": "CPF"
+            }
+        },
+        "businessEntity": {
+            "document": {
+                "identification": "00000000000191",
+                "rel": "CNPJ"
+            }
+        },
         "permissions": [
             "ACCOUNTS_READ",
             "ACCOUNTS_BALANCES_READ",
