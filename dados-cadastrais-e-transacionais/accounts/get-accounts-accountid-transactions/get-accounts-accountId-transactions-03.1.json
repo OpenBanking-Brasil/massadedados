@@ -8,7 +8,7 @@
             "type": "PIX",
             "transactionAmount": {
                 "amount": 1500.0000,
-                "currency":"BRL"
+                "currency": "BRL"
             },
             "transactionDate": "2022-08-15",
             "partieCnpjCpf": "82231095068",
@@ -22,7 +22,7 @@
             "type": "PIX",
             "transactionAmount": {
                 "amount": 15.0000,
-                "currency":"BRL"
+                "currency": "BRL"
             },
             "transactionDate": "2022-08-15",
             "partieCnpjCpf": "11990950019",
@@ -36,7 +36,7 @@
             "type": "RESGATE_APLIC_FINANCEIRA",
             "transactionAmount": {
                 "amount": 1600.0000,
-                "currency":"BRL"
+                "currency": "BRL"
             },
             "transactionDate": "2022-08-15",
             "partieCnpjCpf": "35571249000131",
@@ -49,6 +49,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2022-08-15T09:35:00Z"
+        "requestDateTime": "2022-08-15T09:40:00Z"
     }
 }
