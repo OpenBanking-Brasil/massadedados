@@ -1,16 +1,15 @@
 {
   "data": {
-    "creditCardNetwork": "VISA",
     "name": "Itaucard Click Visa Platinum",
-    "networkAdditionalInfo": "NA",    
+    "productType": "PLATINUM",
+    "creditCardNetwork": "VISA",
     "paymentMethod": [
       {
         "identificationNumber": "6578",
         "isMultipleCreditCard": false
       }
-    ],
-    "productType": "PLATINUM",
-    "productAdditionalInfo": "NA"
+    ]
+
   },
   "links": {
     "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/afe4fb0b-4479-4f52-9399-6a038ee62f02"
@@ -18,6 +17,6 @@
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2021-12-15T09:41:00Z"
+    "requestDateTime": "2022-08-30T14:48:00Z"
   }
 }

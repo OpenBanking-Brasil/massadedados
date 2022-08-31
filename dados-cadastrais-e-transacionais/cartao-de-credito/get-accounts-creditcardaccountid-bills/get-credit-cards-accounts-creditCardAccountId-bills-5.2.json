@@ -2,47 +2,50 @@
     "data": [
         {
             "billId": "fba2cc95-e6de-4cb5-99e6-24c403d79eb5",
-            "billMinimumAmount": 120.0000,
-            "billMinimumAmountCurrency": "BRL",
-            "billTotalAmount": 800.0000,
-            "billTotalAmountCurrency": "BRL",
-            "dueDate": "2021-11-10",
+            "dueDate": "2022-04-10",
+            "billTotalAmount": {
+                "amount": "800.0000",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "120.0000",
+                "currency": "BRL"
+            },
+            "isInstalment": true,
             "financeCharges": [
                 {
-                    "additionalInfo": "NA",
-                    "amount": 0.0000,
-                    "currency": "BRL",
-                    "type": "SEM_ENCARGO"
+                    "type": "SEM_ENCARGO",
+                    "amount": "0.0000",
+                    "currency": "BRL"
                 }
             ],
-            "isInstalment": true,
             "payments": [
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_PARCELADO",
-                    "paymentDate": "2021-10-05",
+                    "paymentDate": "2022-07-10",
                     "paymentMode": "BOLETO_BANCARIO",
-                    "amount": 200.0000,
+                    "amount": "200.0000",
                     "currency": "BRL"
                 },
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_PARCELADO",
-                    "paymentDate": "2021-09-07",
+                    "paymentDate": "2022-06-10",
                     "paymentMode": "BOLETO_BANCARIO",
-                    "amount": 200.0000,
+                    "amount": "200.0000",
                     "currency": "BRL"
                 },
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_PARCELADO",
-                    "paymentDate": "2021-08-10",
+                    "paymentDate": "2022-05-10",
                     "paymentMode": "BOLETO_BANCARIO",
-                    "amount": 200.0000,
+                    "amount": "200.0000",
                     "currency": "BRL"
                 },
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_PARCELADO",
-                    "paymentDate": "2021-07-10",
+                    "paymentDate": "2022-04-10",
                     "paymentMode": "BOLETO_BANCARIO",
-                    "amount": 200.0000,
+                    "amount": "200.0000",
                     "currency": "BRL"
                 }
             ]
@@ -54,6 +57,6 @@
     "meta": {
         "totalRecords": 4,
         "totalPages": 1,
-        "requestDateTime": "2021-12-15T09:41:00Z"
+        "requestDateTime": "2022-08-30T14:48:00Z"
     }
 }
