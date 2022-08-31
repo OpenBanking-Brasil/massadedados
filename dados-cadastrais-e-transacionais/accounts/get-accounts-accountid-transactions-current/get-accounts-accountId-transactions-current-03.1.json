@@ -8,7 +8,7 @@
             "type": "PIX",
             "transactionAmount": {
                 "amount": 1500.0000,
-                "currency":"BRL"
+                "currency": "BRL"
             },
             "transactionDate": "2022-08-15",
             "partieCnpjCpf": "82231095068",
@@ -22,7 +22,7 @@
             "type": "PIX",
             "transactionAmount": {
                 "amount": 15.0000,
-                "currency":"BRL"
+                "currency": "BRL"
             },
             "transactionDate": "2022-08-15",
             "partieCnpjCpf": "11990950019",
@@ -36,7 +36,7 @@
             "type": "RESGATE_APLIC_FINANCEIRA",
             "transactionAmount": {
                 "amount": 1600.0000,
-                "currency":"BRL"
+                "currency": "BRL"
             },
             "transactionDate": "2022-08-15",
             "partieCnpjCpf": "35571249000131",
@@ -47,7 +47,7 @@
         "self": "https://api.sicredi.com.br/open-banking/accounts/v1/accounts/6ffc471a-d461-11eb-b8bc-0242ac130003/transactions"
     },
     "meta": {
-        "totalRecords": 1,
+        "totalRecords": 3,
         "totalPages": 1,
         "requestDateTime": "2022-08-15T09:35:00Z"
     }
