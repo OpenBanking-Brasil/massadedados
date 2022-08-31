@@ -43,10 +43,5 @@
     },
     "links": {
         "self": "https://opendata.api.bb.com.br/open-banking/consents/v1/consents/urn:bb:BB96925654"
-    },
-    "meta": {
-        "totalRecords": 1,
-        "totalPages": 1,
-        "requestDateTime": "2022-08-01T10:25:00Z"
     }
 }

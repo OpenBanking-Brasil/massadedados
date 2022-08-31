@@ -4,9 +4,12 @@
       "amount": 4000.0000,
       "currency": "BRL"
     },
-    "blockedAmount": {},
+    "blockedAmount": {
+      "amount": 0.0000,
+      "currency": "BRL"
+    },
     "automaticallyInvestedAmount": {
-      "amount": 1800.0000,
+      "amount": 1200.0000,
       "currency": "BRL"
     }
   },
