@@ -7,15 +7,15 @@
             "lineName": "CREDITO_PARCELADO",
             "isLimitFlexible": true,
             "limitAmount": {
-                "amount": 25000.0000,
+                "amount": "25000.0000",
                 "currency": "BRL"
             },
             "usedAmount": {
-                "amount": 50.9900,
+                "amount": "50.9900",
                 "currency": "BRL"
             },
             "availableAmount": {
-                "amount": 24949.0100,
+                "amount": "24949.0100",
                 "currency": "BRL"
             }
         }

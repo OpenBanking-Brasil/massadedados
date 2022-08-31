@@ -4,11 +4,11 @@
             "billId": "730eb8f4-c3c3-425e-83c6-59d46fb8a19d",
             "dueDate": "2022-08-08",
             "billTotalAmount": {
-                "amount": 6018.8400,
+                "amount": "6018.8400",
                 "currency": "BRL"
             },
             "billMinimumAmount": {
-                "amount": 2089.1800,
+                "amount": "2089.1800",
                 "currency": "BRL"
             },
             "isInstalment": true,
@@ -17,7 +17,7 @@
                     "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
                     "paymentDate": "2022-08-05",
                     "paymentMode": "BOLETO_BANCARIO",
-                    "amount": 6018.8400,
+                    "amount": "6018.8400",
                     "currency": "BRL"
                 }
             ]
@@ -61,7 +61,7 @@
                     "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
                     "paymentDate": "2022-06-06",
                     "paymentMode": "BOLETO_BANCARIO",
-                    "amount": 4213.6700,
+                    "amount": "4213.6700",
                     "currency": "BRL"
                 }
             ]
