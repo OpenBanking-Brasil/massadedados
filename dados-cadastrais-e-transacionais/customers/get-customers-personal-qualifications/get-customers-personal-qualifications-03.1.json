@@ -6,8 +6,10 @@
         "occupationDescription": "Contador",
         "informedIncome": {
             "frequency": "MENSAL",
-            "amount": 7500.04,
-            "currency": "BRL",
+            "amount": {
+                "amount": 7500.04,
+                "currency": "BRL"
+            },
             "date": "2021-05-25"
         },
         "informedPatrimony": {
