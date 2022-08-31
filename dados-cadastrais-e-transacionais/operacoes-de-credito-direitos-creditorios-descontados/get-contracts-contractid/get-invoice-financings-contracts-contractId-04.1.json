@@ -5,18 +5,19 @@
     "productName": "Direitos Creditórios Descontados",
     "productType": "DIREITOS_CREDITORIOS_DESCONTADOS",
     "productSubType": "ANTECIPACAO_FATURA_CARTAO_CREDITO",
-    "contractDate": "2021-06-21",
-    "disbursementDate": "2021-06-21",
-    "settlementDate": "NA",
-    "contractAmount": 1990.0000,
+    "contractDate": "2022-08-05",
+    "disbursementDate": [
+      "2022-08-15"
+    ],
+    "settlementDate": "2022-08-15",
+    "contractAmount": "1990.0000",
     "currency": "BRL",
-    "dueDate": "2021-07-15",
+    "dueDate": "2028-08-05",
     "instalmentPeriodicity": "SEM_PERIODICIDADE_REGULAR",
     "instalmentPeriodicityAdditionalInfo": "Adiantamento de fatura.",
-    "firstInstalmentDueDate": "2021-06-21",
-    "CET": 0.0990,
+    "firstInstalmentDueDate": "2022-09-15",
+    "CET": "0.0990",
     "amortizationScheduled": "SAC",
-    "amortizationScheduledAdditionalInfo": "NA",
     "interestRates": [
       {
         "taxType": "EFETIVA",
@@ -25,10 +26,8 @@
         "calculation": "30/365",
         "referentialRateIndexerType": "PRE_FIXADO",
         "referentialRateIndexerSubType": "PRE_FIXADO",
-        "referentialRateIndexerAdditionalInfo": "NA",
-        "preFixedRate": 0.0690,
-        "postFixedRate": 0.0000,
-        "additionalInfo": "NA"
+        "preFixedRate": "0.0690",
+        "postFixedRate": "0.0000"
       }
     ],
     "contractedFees": [
@@ -37,30 +36,26 @@
         "feeCode": "ANTECIPA_FATURA_CREDITO",
         "feeChargeType": "UNICA",
         "feeCharge": "MAXIMO",
-        "feeAmount": 165.0000,
-        "feeRate": 0.0000
+        "feeAmount": "165.0000",
+        "feeRate": "0.0000"
       }
     ],
     "contractedFinanceCharges": [
       {
         "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
-        "chargeAdditionalInfo": "NA",
-        "chargeRate": 0.0210
+        "chargeRate": "0.0210"
       },
       {
         "chargeType": "JUROS_MORA_ATRASO",
-        "chargeAdditionalInfo": "NA",
-        "chargeRate": 0.0710
+        "chargeRate": "0.0710"
       },
       {
         "chargeType": "IOF_CONTRATACAO",
-        "chargeAdditionalInfo": "NA",
-        "chargeRate": 0.0190
+        "chargeRate": "0.0190"
       },
       {
         "chargeType": "IOF_POR_ATRASO",
-        "chargeAdditionalInfo": "NA",
-        "chargeRate": 0.0180
+        "chargeRate": "0.0180"
       }
     ]
   },
@@ -70,6 +65,6 @@
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2021-06-24T09:20:00Z"
+    "requestDateTime": "2022-08-29T10:47:00Z"
   }
 }

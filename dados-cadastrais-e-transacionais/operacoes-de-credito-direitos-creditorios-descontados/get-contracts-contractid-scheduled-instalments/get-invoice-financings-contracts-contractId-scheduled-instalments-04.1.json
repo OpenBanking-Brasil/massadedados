@@ -5,13 +5,15 @@
     "typeContractRemaining": "SEM_PRAZO_REMANESCENTE",
     "contractRemainingNumber": 0,
     "paidInstalments": 0,
-    "dueInstalments": 4,
+    "dueInstalments": 0,
     "pastDueInstalments": 0,
     "balloonPayments": [
       {
-        "dueDate": "2021-06-15",
-        "currency": "BRL",
-        "amount": 0.0000
+        "dueDate": "2022-07-15",
+        "amount": {
+          "amount": "0.0000",
+          "currency": "BRL"
+        }
       }
     ]
   },
@@ -21,6 +23,6 @@
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2021-06-24T10:01:00Z"
+    "requestDateTime": "2022-08-29T10:47:00Z"
   }
 }

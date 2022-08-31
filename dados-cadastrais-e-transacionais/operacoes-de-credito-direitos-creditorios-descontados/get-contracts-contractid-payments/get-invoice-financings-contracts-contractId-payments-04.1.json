@@ -4,25 +4,24 @@
     "contractOutstandingBalance": 1990.0000,
     "releases": [
       {
-        "paymentId": "NA",
+        "paymentId": "PARCELA",
         "isOverParcelPayment": false,
         "instalmentId": "bdb90d7c-10a4-351e-b62e-8435d531492c",
-        "paidDate": "2021-02-23",
+        "paidDate": "2022-03-05",
         "currency": "BRL",
-        "paidAmount": 0.0000,
+        "paidAmount": "0.0000",
         "overParcel": {
           "fees": [
             {
-              "feeName": "NA",
-              "feeCode": "NA",
-              "feeAmount": 0.0000
+              "feeName": "JUROS",
+              "feeCode": "JUROS_CONTA",
+              "feeAmount": "0.0000"
             }
           ],
           "charges": [
             {
               "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
-              "chargeAdditionalInfo": "string",
-              "chargeAmount": 50
+              "chargeAmount": "97.6700"
             }
           ]
         }
@@ -35,6 +34,6 @@
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2021-05-28T16:05:00Z"
+    "requestDateTime": "2022-08-29T10:47:00Z"
   }
 }
