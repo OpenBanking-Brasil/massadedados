@@ -1,11 +1,11 @@
 {
     "data": {
-            "loggedUser": {
-                "document": {
-                    "identification": "87517400444",
-                    "rel": "CPF"
-                }
-            }, 
+        "loggedUser": {
+            "document": {
+                "identification": "87517400444",
+                "rel": "CPF"
+            }
+        },
         "permissions": [
             "ACCOUNTS_READ",
             "ACCOUNTS_BALANCES_READ",
@@ -38,10 +38,6 @@
             "UNARRANGED_ACCOUNTS_OVERDRAFT_WARRANTIES_READ",
             "RESOURCES_READ"
         ],
-        "expirationDateTime": "2023-08-01T10:26:00Z"     
-
-    },
-    "links": {
-        "self": "https://opendata.api.bb.com.br/open-banking/consents/v1/consents/urn:bb:BB96925654"
+        "expirationDateTime": "2023-08-01T10:25:00Z"
     }
 }
