@@ -37,9 +37,11 @@
             "RESOURCES_READ"
         ],
         "expirationDateTime": "2023-08-01T10:25:00Z",
-        "rejection":{
+        "rejection": {
             "rejectedBy": "USER",
-            "code": "CUSTOMER_MANUALLY_REVOKED"
+            "reason": {
+                "code": "CUSTOMER_MANUALLY_REVOKED"
+            }
         }
     },
     "links": {
