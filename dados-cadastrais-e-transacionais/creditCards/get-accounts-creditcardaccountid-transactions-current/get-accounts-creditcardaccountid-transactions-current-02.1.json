@@ -1,0 +1,60 @@
+{
+    "data": [
+        {
+            "transactionId": "1157db41-f19a-4042-96db-e92ede32479a",
+            "identificationNumber": "9846",
+            "transactionName": "PAGAMENTO",
+            "billId": "730eb8f4-c3c3-425e-83c6-59d46fb8a19d",
+            "creditDebitType": "CREDITO",
+            "transactionType": "PAGAMENTO",
+            "paymentType": "CREDITO_A_VISTA",
+            "feeType": "ANUIDADE",
+            "otherCreditsType": "CREDITO_ROTATIVO",
+            "chargeIdentificator": "Coco Bambu Porto Alegre",
+            "chargeNumber": 1,
+            "brazilianAmount": {
+                "amount": "420.0000",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "420.0000",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-08-20",
+            "billPostDate": "2022-08-20",
+            "payeeMCC": 5812
+        },
+        {
+            "transactionId": "21bf962e-2d45-4127-ba52-cae680083939",
+            "identificationNumber": "9846",
+            "transactionName": "PAGAMENTO",
+            "billId": "730eb8f4-c3c3-425e-83c6-59d46fb8a19d",
+            "creditDebitType": "CREDITO",
+            "transactionType": "PAGAMENTO",
+            "paymentType": "CREDITO_A_VISTA",
+            "feeType": "ANUIDADE",
+            "otherCreditsType": "CREDITO_ROTATIVO",
+            "chargeIdentificator": "Coco Bambu Porto Alegre",
+            "chargeNumber": 1,
+            "brazilianAmount": {
+                "amount": "888.6700",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "888.6700",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-08-25",
+            "billPostDate": "2022-08-25",
+            "payeeMCC": 5812
+        }
+    ],
+    "links": {
+        "self": "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts/659effc1-4526-4248-b6af-e3b4130e3089/transactions-current"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-08-25T11:35:00"
+    }
+}

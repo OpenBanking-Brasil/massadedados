@@ -1,0 +1,17 @@
+{
+    "data": [
+        {
+            "resourceId": "659effc1-4526-4248-b6af-e3b4130e3089",
+            "type": "CREDIT_CARD_ACCOUNT",
+            "status": "AVAILABLE"
+        }
+    ],
+    "links": {
+        "self": "https://openbanking.banrisul.com.br/open-banking/resources/v1/resources"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-05-28T13:40:00Z"
+    }
+}

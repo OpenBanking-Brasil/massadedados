@@ -1,0 +1,60 @@
+{
+    "data": [
+        {
+            "transactionId": "9952dd41-f66a-4b57-9cda-e1d792d0fe01",
+            "identificationNumber": "9846",
+            "transactionName": "PAGAMENTO",
+            "billId": "f13a5fcc-e874-4594-bcd4-83015d1847f2",
+            "creditDebitType": "CREDITO",
+            "transactionType": "PAGAMENTO",
+            "paymentType": "A_PRAZO",
+            "feeType": "ANUIDADE",
+            "otherCreditsType": "CREDITO_ROTATIVO",
+            "chargeIdentificator": "Pousada Carcara",
+            "chargeNumber": 4,
+            "brazilianAmount": {
+                "amount": "1428.7500",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "1428.7500",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-04-20",
+            "billPostDate": "2022-04-21",
+            "payeeMCC": 7011
+        },
+        {
+            "transactionId": "182a367c-00c5-449c-bea4-a14981f3276f",
+            "identificationNumber": "9846",
+            "transactionName": "PAGAMENTO",
+            "billId": "f13a5fcc-e874-4594-bcd4-83015d1847f2",
+            "creditDebitType": "CREDITO",
+            "transactionType": "PAGAMENTO",
+            "paymentType": "A_PRAZO",
+            "feeType": "ANUIDADE",
+            "otherCreditsType": "CREDITO_ROTATIVO",
+            "chargeIdentificator": "Azul Passagens Aéreas",
+            "chargeNumber": 2,
+            "brazilianAmount": {
+                "amount": "1392.4600",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "1392.4600",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-04-18",
+            "billPostDate": "2022-04-19",
+            "payeeMCC": 5962
+        }
+    ],
+    "links": {
+        "self": "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts/659effc1-4526-4248-b6af-e3b4130e3089/bills/f13a5fcc-e874-4594-bcd4-83015d1847f2/transactions"
+    },
+    "meta": {
+        "totalRecords": 2,
+        "totalPages": 1,
+        "requestDateTime": "2022-08-25T11:30:00"
+    }
+}

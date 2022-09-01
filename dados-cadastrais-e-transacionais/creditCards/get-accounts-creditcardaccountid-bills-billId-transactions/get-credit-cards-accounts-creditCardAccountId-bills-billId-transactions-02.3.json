@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "transactionId": "9952dd41-f66a-4b57-9cda-e1d792d0fe01",
+            "identificationNumber": "9846",
+            "transactionName": "PAGAMENTO",
+            "billId": "4dd1d250-5d03-4b2b-9918-ee69de49fdf0",
+            "creditDebitType": "CREDITO",
+            "transactionType": "PAGAMENTO",
+            "paymentType": "A_PRAZO",
+            "feeType": "ANUIDADE",
+            "otherCreditsType": "CREDITO_ROTATIVO",
+            "chargeIdentificator": "Pousada Carcara",
+            "chargeNumber": 4,
+            "brazilianAmount": {
+                "amount": "1428.7500",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "1428.7500",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-04-20",
+            "billPostDate": "2022-04-21",
+            "payeeMCC": 7011
+        },
+        {
+            "transactionId": "182a367c-00c5-449c-bea4-a14981f3276f",
+            "identificationNumber": "9846",
+            "transactionName": "PAGAMENTO",
+            "billId": "4dd1d250-5d03-4b2b-9918-ee69de49fdf0",
+            "creditDebitType": "CREDITO",
+            "transactionType": "PAGAMENTO",
+            "paymentType": "A_PRAZO",
+            "feeType": "ANUIDADE",
+            "otherCreditsType": "CREDITO_ROTATIVO",
+            "chargeIdentificator": "Azul Passagens Aéreas",
+            "chargeNumber": 2,
+            "brazilianAmount": {
+                "amount": "1392.4600",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "1392.4600",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-04-18",
+            "billPostDate": "2022-04-19",
+            "payeeMCC": 5962
+        },
+        {
+            "transactionId": "508cb2bf-ec1a-4238-9d13-c6a82e24d284",
+            "identificationNumber": "9846",
+            "transactionName": "PAGAMENTO",
+            "billId": "4dd1d250-5d03-4b2b-9918-ee69de49fdf0",
+            "creditDebitType": "CREDITO",
+            "transactionType": "PAGAMENTO",
+            "paymentType": "CREDITO_A_VISTA",
+            "feeType": "ANUIDADE",
+            "otherCreditsType": "CREDITO_ROTATIVO",
+            "chargeIdentificator": "Cia. Marítima",
+            "chargeNumber": 1,
+            "brazilianAmount": {
+                "amount": "1392.4600",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "1392.4600",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-05-15",
+            "billPostDate": "2022-05-16",
+            "payeeMCC": 5137
+        }
+    ],
+    "links": {
+        "self": "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts/659effc1-4526-4248-b6af-e3b4130e3089/bills/4dd1d250-5d03-4b2b-9918-ee69de49fdf0/transactions"
+    },
+    "meta": {
+        "totalRecords": 3,
+        "totalPages": 1,
+        "requestDateTime": "2022-08-25T11:30:00"
+    }
+}
