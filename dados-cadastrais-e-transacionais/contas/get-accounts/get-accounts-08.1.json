@@ -3,7 +3,7 @@
         {
             "brandName": "Caixa Econômica Federal",
             "companyCnpj": "00360305000104",
-            "type": "CONTA_PAGAMENTO_PRE_PAGA",
+            "type": "CONTA_POUPANCA",
             "compeCode": "104",
             "branchCode": "2231",
             "number": "33256455",
@@ -17,6 +17,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-10-26T00:00:00Z"
+        "requestDateTime": "2022-08-24T09:35:00Z"
     }
 }

@@ -5,18 +5,18 @@
         "productName": "Capital de Giro com Prazo de Vencimento até 365 dias",
         "productType": "EMPRESTIMOS",
         "productSubType": "CAPITAL_GIRO_PRAZO_VENCIMENTO_ATE_365_DIAS",
-        "contractDate": "2019-11-24",
-        "disbursementDate": "2019-11-24",
-        "settlementDate": "2020-11-24",
-        "contractAmount": 100000.0000,
+        "contractDate": "2022-02-24",
+        "disbursementDate": [
+            "2022-02-24"
+        ],
+        "settlementDate": "2022-05-24",
+        "contractAmount": "100000.0000",
         "currency": "BRL",
         "dueDate": "2020-11-24",
         "instalmentPeriodicity": "TRIMESTRAL",
-        "instalmentPeriodicityAdditionalInfo": "NA",
         "firstInstalmentDueDate": "2020-02-24",
         "CET": 0.0534,
         "amortizationScheduled": "SAM",
-        "amortizationScheduledAdditionalInfo": "NA",
         "cnpjConsignee": "00360305000104",
         "interestRates": [
             {
@@ -26,10 +26,8 @@
                 "calculation": "30/365",
                 "referentialRateIndexerType": "SEM_TIPO_INDEXADOR",
                 "referentialRateIndexerSubType": "SEM_SUB_TIPO_INDEXADOR",
-                "referentialRateIndexerAdditionalInfo": "NA",
-                "preFixedRate": 0.0434,
-                "postFixedRate": 0.0000,
-                "additionalInfo": "NA"
+                "preFixedRate": "0.0434",
+                "postFixedRate": "0.0000"
             }
         ],
         "contractedFees": [
@@ -56,6 +54,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-10-26T00:00:00Z"
+        "requestDateTime": "2022-08-24T09:35:00Z"
     }
 }

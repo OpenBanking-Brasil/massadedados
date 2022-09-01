@@ -6,9 +6,11 @@
             "creditDebitType": "DEBITO",
             "transactionName": "PAGAMENTO",
             "type": "CARTAO",
-            "amount": 39.5200,
-            "transactionCurrency": "BRL",
-            "transactionDate": "2021-10-20",
+            "transactionAmount": {
+                "amount": "39.5200",
+                "Currency": "BRL"
+            },
+            "transactionDate": "2022-08-19",
             "partieCnpjCpf": "30742928497",
             "partiePersonType": "PESSOA_NATURAL",
             "partieCompeCode": "001",
@@ -22,23 +24,23 @@
             "creditDebitType": "DEBITO",
             "transactionName": "TRANS07f76f7a-d205-44aa-936f-1653a2c5a502",
             "type": "PIX",
-            "amount": 36.1100,
-            "transactionCurrency": "BRL",
-            "transactionDate": "2021-11-07",
+            "transactionAmount": {
+                "amount": "36.1100",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-08-25",
             "partieCnpjCpf": "29750879422",
             "partiePersonType": "PESSOA_NATURAL",
             "partieCompeCode": "104",
             "partieBranchCode": "3272",
             "partieNumber": "81290854360",
             "partieCheckDigit": "7"
-          }
+        }
     ],
     "links": {
         "self": "https://api.caixa.gov.br/open-banking/accounts/v1/accounts/b569dcaf-aef4-44cc-bd84-b12ae26cb16b/transactions"
     },
     "meta": {
-        "totalRecords": 1,
-        "totalPages": 1,
-        "requestDateTime": "2021-10-26T00:00:00Z"
+        "requestDateTime": "2022-08-24T09:35:00Z"
     }
 }

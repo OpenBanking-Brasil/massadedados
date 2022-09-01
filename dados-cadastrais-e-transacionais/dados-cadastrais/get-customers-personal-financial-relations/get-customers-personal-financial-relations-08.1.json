@@ -1,0 +1,31 @@
+{
+  "data": {
+    "updateDateTime": "2022-08-24T09:35:00Z",
+    "startDate": "2015-04-09T08:30:00Z",
+    "productsServicesType": [
+      "CONTA_POUPANCA",
+      "OPERACAO_CREDITO",
+      "SEGURO",
+      "PREVIDENCIA",
+      "OPERACOES_CAMBIO"
+    ],
+    "accounts": [
+      {
+        "compeCode": "104",
+        "branchCode": "2231",
+        "number": "33256455",
+        "checkDigit": "3",
+        "type": "CONTA_POUPANCA",
+        "subtype": "INDIVIDUAL"
+      }
+    ]
+  },
+  "links": {
+    "self": "https://api.caixa.gov.br/open-banking/customers/v1/personal/financial-relations"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-08-24T09:35:00Z"
+  }
+}

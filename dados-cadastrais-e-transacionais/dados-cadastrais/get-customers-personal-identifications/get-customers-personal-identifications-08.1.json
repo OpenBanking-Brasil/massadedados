@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "updateDateTime": "2022-08-24T09:35:00Z",
+      "personalId": "90e-6bd2-s58f11eb85-85258",
+      "brandName": "Caixa Econômica Federal",
+      "civilName": "Deise Argolo Henrique",
+      "socialName": "Deise Argolo Henrique",
+      "birthDate": "1992-05-17",
+      "maritalStatusCode": "SOLTEIRO",
+      "sex": "FEMININO",
+      "companyCnpj": [
+        "00360305000104"
+      ],
+      "documents": {
+        "cpfNumber": "15719158502",
+        "passport": {
+          "number": "63217862134502971120",
+          "country": "BRA",
+          "expirationDate": "2026-11-12",
+          "issueDate": "2016-11-12"
+        }
+      },
+      "otherDocuments": [
+        {
+          "type": "CNH",
+          "number": "34931352",
+          "checkDigit": "B",
+          "additionalInfo": "SSP/RN",
+          "expirationDate": "2027-08-22"
+        }
+      ],
+      "hasBrazilianNationality": true,
+      "filiation": [
+        {
+          "type": "MAE",
+          "civilName": "Giovana Henrique"
+        },
+        {
+          "type": "PAI",
+          "civilName": "Marcelo Fernandes"
+        }
+      ],
+      "contacts": {
+        "postalAddresses": [
+          {
+            "isMain": true,
+            "address": "Rua Estudante Luiz Antônio Costa, 833",
+            "districtName": "Abolição",
+            "townName": "Mossoró",
+            "ibgeTownCode": "2408003",
+            "countrySubDivision": "RN",
+            "postCode": "59611210",
+            "country": "Brasil",
+            "countryCode": "BRA",
+            "geographicCoordinates": {
+              "latitude": "-5.18804",
+              "longitude": "-37.3441"
+            }
+          }
+        ],
+        "phones": [
+          {
+            "isMain": true,
+            "type": "FIXO",
+            "countryCallingCode": "55",
+            "areaCode": "84",
+            "number": "994646723"
+          }
+        ],
+        "emails": [
+          {
+            "isMain": true,
+            "email": "deise.argolo.08@email.com"
+          }
+        ]
+      }
+    }
+  ],
+  "links": {
+    "self": "https://api.caixa.gov.br/open-banking/customers/v1/personal/identifications"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-08-24T09:35:00Z"
+  }
+}
