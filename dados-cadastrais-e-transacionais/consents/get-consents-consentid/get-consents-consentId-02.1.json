@@ -2,7 +2,7 @@
     "data": {
         "consentId": "urn:banrisul:BRS913310259",
         "creationDateTime": "2022-08-28T11:30:00Z",
-        "status": "AWAITING_AUTHORISATION",
+        "status": "AUTHORISED",
         "statusUpdateDateTime": "2022-08-28T11:30:00Z",
         "permissions": [
             "CREDIT_CARDS_ACCOUNTS_READ",
