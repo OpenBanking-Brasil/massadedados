@@ -1,27 +1,22 @@
 {
     "data": [
         {
-            "resourceId": "291e5a29-49ed-401f-a583-193caa7ac79d",
+            "resourceId": "aaa",
             "type": "ACCOUNT",
-            "status": "AVAILABLE"
+            "status": "aa"
         },
         {
-            "resourceId": "79113c2d-978d-43c6-a5a3-05484695e90d",
-            "type": "ACCOUNT",
-            "status": "AVAILABLE"
-        },
-        {
-            "resourceId": "923abd08-aa82-3559-a56e-0e785b230831",
+            "resourceId": "aaa",
             "type": "CREDIT_CARD_ACCOUNT",
-            "status": "AVAILABLE"
+            "status": "a"
         }
     ],
     "links": {
         "self": "https://opendata.api.bb.com.br/open-banking/resources/v1/resources"
     },
     "meta": {
-        "totalRecords": 3,
+        "totalRecords": 2,
         "totalPages": 1,
-        "requestDateTime": "2022-08-15T10:35:00Z"
+        "requestDateTime": "2022-09-01T10:35:00Z"
     }
 }
