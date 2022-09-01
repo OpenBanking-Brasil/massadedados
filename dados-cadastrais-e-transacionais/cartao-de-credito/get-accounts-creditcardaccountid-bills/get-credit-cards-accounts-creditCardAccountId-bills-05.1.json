@@ -2,45 +2,32 @@
     "data": [
         {
             "billId": "c605833a-3518-4f2f-8df2-cacdc6d8b9b4",
-            "dueDate": "2022-07-10",
+            "dueDate": "2022-08-10",
             "billTotalAmount": {
-                "amount": "376.0000",
+                "amount": "1257.7800",
                 "currency": "BRL"
             },
             "billMinimumAmount": {
-                "amount": "56.4000",
+                "amount": "188.6600",
                 "currency": "BRL"
             },
             "isInstalment": false,
-            "financeCharges": [
-                {
-                    "type": "JUROS_REMUNERATORIOS_ATRASO_PAGAMENTO_FATURA",
-                    "amount": "120.5400",
-                    "currency": "BRL"
-                },
-                {
-                    "type": "MULTA_ATRASO_PAGAMENTO_FATURA",
-                    "amount": "56.4000",
-                    "currency": "BRL"
-                }
-            ],
             "payments": [
                 {
-                    "valueType": "OUTRO_VALOR_PAGO_FATURA",
-                    "paymentDate": "2022-07-10",
+                    "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
+                    "paymentDate": "2022-08-09",
                     "paymentMode": "BOLETO_BANCARIO",
-                    "amount": "56.4000",
+                    "amount": "1257.7800",
                     "currency": "BRL"
                 }
             ]
         }
     ],
     "links": {
-        "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/f116b8b0-d64f-4c89-91e3-8022915366ab/bills?fromDueDate=2021-06-01"
-    },
-    "meta": {
-        "totalRecords": 1,
-        "totalPages": 1,
-        "requestDateTime": "2022-08-30T14:48:00Z"
+        "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/f116b8b0-d64f-4c89-91e3-8022915366ab/bills",
+        "meta": {
+            "totalRecords": 1,
+            "totalPages": 1,
+            "requestDateTime": "2022-08-30T14:48:00Z"
+        }
     }
-}

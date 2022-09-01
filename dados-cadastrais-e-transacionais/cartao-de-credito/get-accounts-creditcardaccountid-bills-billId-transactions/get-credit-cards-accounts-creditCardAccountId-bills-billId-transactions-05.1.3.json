@@ -10,7 +10,7 @@
             "paymentType": "A_PRAZO",
             "feeType": "ANUIDADE",
             "otherCreditsType": "CREDITO_ROTATIVO",
-            "chargeIdentificator": "PARCELAMENTO DE FATURA_01",
+            "chargeIdentificator": "PARCELAMENTO DE FATURA_03",
             "chargeNumber": 4,
             "brazilianAmount": {
                 "amount": "200.0000",

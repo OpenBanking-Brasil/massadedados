@@ -5,14 +5,19 @@
             "consolidationType": "CONSOLIDADO",
             "identificationNumber": "6578",
             "lineName": "CREDITO_PARCELADO",
-            "lineNameAdditionalInfo": "NA",
             "isLimitFlexible": false,
-            "limitAmountCurrency": "BRL",
-            "limitAmount": 5000.0000,
-            "usedAmountCurrency": "BRL",
-            "usedAmount": 0.0000,
-            "availableAmountCurrency": "BRL",
-            "availableAmount": 5000.0000
+            "limitAmount": {
+                "amount": "5000.0000",
+                "currency": "BRL"
+            },
+            "usedAmount": {
+                "amount": "0.0000",
+                "currency": "BRL"
+            },
+            "availableAmount": {
+                "amount": "5000.0000",
+                "currency": "BRL"
+            }
         }
     ],
     "links": {
@@ -21,6 +26,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-12-15T09:41:00Z"
+        "requestDateTime": "2022-08-30T14:48:00Z"
     }
 }

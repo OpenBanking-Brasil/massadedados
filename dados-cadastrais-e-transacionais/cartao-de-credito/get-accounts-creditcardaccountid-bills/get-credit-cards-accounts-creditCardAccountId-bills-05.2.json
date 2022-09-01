@@ -52,7 +52,7 @@
         }
     ],
     "links": {
-        "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/afe4fb0b-4479-4f52-9399-6a038ee62f02/bills?fromDueDate=2021-07-01&toDueDate=2021-11-10"
+        "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/afe4fb0b-4479-4f52-9399-6a038ee62f02/bills"
     },
     "meta": {
         "totalRecords": 4,
