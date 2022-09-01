@@ -1,0 +1,19 @@
+{
+    "data": {
+        "compeCode": "001",
+        "branchCode": "1478",
+        "number": "8541394",
+        "checkDigit": "4",
+        "type": "CONTA_POUPANCA",
+        "subtype": "INDIVIDUAL",
+        "currency": "BRL"
+    },
+    "links": {
+        "self": "https://opendata.api.bb.com.br/open-banking/accounts/v1/accounts/79113c2d-978d-43c6-a5a3-05484695e90d"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-08-03T10:35:10Z"
+    }
+}
