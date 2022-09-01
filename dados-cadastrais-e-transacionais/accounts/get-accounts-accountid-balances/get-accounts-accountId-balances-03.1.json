@@ -2,15 +2,15 @@
   "data": {
     "availableAmount": {
       "amount": 16025.6975,
-      "currency":"BRL"
+      "currency": "BRL"
     },
     "blockedAmount": {
       "amount": 0.0000,
-      "currency":"BRL"
-    }, 
+      "currency": "BRL"
+    },
     "automaticallyInvestedAmount": {
       "amount": 0.0000,
-      "currency":"BRL"
+      "currency": "BRL"
     }
   },
   "links": {
@@ -19,6 +19,6 @@
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2022-08-15T09:40:00Z"
+    "requestDateTime": "2022-08-22T09:40:00Z"
   }
 }
