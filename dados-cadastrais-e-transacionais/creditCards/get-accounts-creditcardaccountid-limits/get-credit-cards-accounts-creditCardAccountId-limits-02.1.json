@@ -3,29 +3,29 @@
         {
             "creditLineLimitType": "LIMITE_CREDITO_TOTAL",
             "consolidationType": "CONSOLIDADO",
-            "identificationNumber": "8921",
+            "identificationNumber": "9846",
             "lineName": "CREDITO_PARCELADO",
             "isLimitFlexible": true,
             "limitAmount": {
-                "amount": 23000.0000,
+                "amount": "25000.0000",
                 "currency": "BRL"
             },
             "usedAmount": {
-                "amount": 17500.2500,
+                "amount": "50.9900",
                 "currency": "BRL"
             },
             "availableAmount": {
-                "amount": 5500.7500,
+                "amount": "24949.0100",
                 "currency": "BRL"
             }
         }
     ],
     "links": {
-        "self": "https://opendata.api.bb.com.br/open-banking/credit-cards-accounts/v1/accounts/923abd08-aa82-3559-a56e-0e785b230831/limits"
+        "self": "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts/659effc1-4526-4248-b6af-e3b4130e3089/limits"
     },
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2022-08-01T11:35:00Z"
+        "requestDateTime": "2022-08-25T11:50:00Z"
     }
 }
