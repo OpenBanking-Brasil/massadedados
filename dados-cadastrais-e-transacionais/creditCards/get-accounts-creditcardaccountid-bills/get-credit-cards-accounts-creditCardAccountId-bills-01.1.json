@@ -1,100 +1,100 @@
 {
     "data": [
         {
-            "billId": "730eb8f4-c3c3-425e-83c6-59d46fb8a19d",
-            "dueDate": "2022-08-08",
+            "billId": "4c772fcd-5a10-4468-aad2-c58eff0bcc40",
+            "dueDate": "2022-07-10",
             "billTotalAmount": {
-                "amount": "6018.8400",
+                "amount": 5245.8800,
                 "currency": "BRL"
             },
             "billMinimumAmount": {
-                "amount": "2089.1800",
+                "amount": 786.8820,
                 "currency": "BRL"
             },
             "isInstalment": true,
             "payments": [
                 {
-                    "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
-                    "paymentDate": "2022-08-05",
-                    "paymentMode": "BOLETO_BANCARIO",
-                    "amount": "6018.8400",
+                    "valueType": "OUTRO_VALOR_PAGO_FATURA",
+                    "paymentDate": "2022-07-09",
+                    "paymentMode": "DEBITO_CONTA_CORRENTE",
+                    "amount": 2600.0000,
                     "currency": "BRL"
                 }
             ]
         },
         {
-            "billId": "7371df40-f395-40ac-a936-bb55877f28d2",
-            "dueDate": "2022-07-08",
+            "billId": "c7d2f7a4-c23c-4319-9926-0fece3016650",
+            "dueDate": "2022-06-10",
             "billTotalAmount": {
-                "amount": "4839.7500",
+                "amount": 4852.2500,
                 "currency": "BRL"
             },
             "billMinimumAmount": {
-                "amount": "1227.4500",
+                "amount": 727.8375,
                 "currency": "BRL"
             },
             "isInstalment": true,
             "payments": [
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
-                    "paymentDate": "2022-07-05",
-                    "paymentMode": "BOLETO_BANCARIO",
-                    "amount": 4839.7500,
+                    "paymentDate": "2022-06-10",
+                    "paymentMode": "DEBITO_CONTA_CORRENTE",
+                    "amount": 4852.2500,
                     "currency": "BRL"
                 }
             ]
         },
         {
-            "billId": "4dd1d250-5d03-4b2b-9918-ee69de49fdf0",
-            "dueDate": "2022-06-08",
+            "billId": "d3422c82-aae4-4ab5-93b2-5c06e9a8a0e1",
+            "dueDate": "2022-05-10",
             "billTotalAmount": {
-                "amount": "4213.6700",
+                "amount": 5498.9800,
                 "currency": "BRL"
             },
             "billMinimumAmount": {
-                "amount": "1970.2300",
+                "amount": 824.8470,
                 "currency": "BRL"
             },
             "isInstalment": true,
             "payments": [
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
-                    "paymentDate": "2022-06-06",
-                    "paymentMode": "BOLETO_BANCARIO",
-                    "amount": "4213.6700",
+                    "paymentDate": "2022-05-09",
+                    "paymentMode": "DEBITO_CONTA_CORRENTE",
+                    "amount": 5498.9800,
                     "currency": "BRL"
                 }
             ]
         },
         {
-            "billId": "f13a5fcc-e874-4594-bcd4-83015d1847f2",
-            "dueDate": "2022-05-08",
+            "billId": "e766a53a-15f0-4d87-b526-b1995bf0e5af",
+            "dueDate": "2022-04-10",
             "billTotalAmount": {
-                "amount": "2821.2100",
+                "amount": 1905.0000,
                 "currency": "BRL"
             },
             "billMinimumAmount": {
-                "amount": "730.9600",
+                "amount": 285.7500,
                 "currency": "BRL"
             },
             "isInstalment": true,
             "payments": [
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
-                    "paymentDate": "2022-05-05",
+                    "paymentDate": "2022-04-10",
                     "paymentMode": "BOLETO_BANCARIO",
-                    "amount": "2821.2100",
+                    "amount": 1905.0000,
                     "currency": "BRL"
                 }
             ]
         }
     ],
     "links": {
-        "self": "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts/659effc1-4526-4248-b6af-e3b4130e3089/bills"
+        "self": "https://opendata.api.bb.com.br/open-banking/credit-cards-accounts/v1/accounts/923abd08-aa82-3559-a56e-0e785b230831/bills"
     },
     "meta": {
         "totalRecords": 4,
         "totalPages": 1,
-        "requestDateTime": "2022-08-25T11:30:00"
+        "requestDateTime": "2022-08-03T10:45:00Z"
     }
 }
