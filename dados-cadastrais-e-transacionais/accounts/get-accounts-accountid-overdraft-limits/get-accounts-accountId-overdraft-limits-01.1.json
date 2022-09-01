@@ -1,10 +1,10 @@
 {
     "data": {
-        "overdraftContractedLimit": 14500.0000,
+        "overdraftContractedLimit": 5000.0000,
         "overdraftContractedLimitCurrency": "BRL",
         "overdraftUsedLimit": 0.0000,
         "overdraftUsedLimitCurrency": "BRL",
-        "unarrangedOverdraftAmount": 1640.0600,
+        "unarrangedOverdraftAmount": 5000.0000,
         "unarrangedOverdraftAmountCurrency": "BRL"
     },
     "links": {
@@ -13,6 +13,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2022-08-03T10:35:10Z"
+        "requestDateTime": "2022-08-03T10:42:10Z"
     }
 }

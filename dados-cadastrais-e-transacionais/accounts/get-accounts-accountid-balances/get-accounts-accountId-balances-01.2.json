@@ -9,7 +9,7 @@
       "currency": "BRL"
     },
     "automaticallyInvestedAmount": {
-      "amount": 1200.0000,
+      "amount": 0.0000,
       "currency": "BRL"
     }
   },
@@ -19,6 +19,6 @@
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2022-08-03T10:35:10Z"
+    "requestDateTime": "2022-08-03T11:42:10Z"
   }
 }
