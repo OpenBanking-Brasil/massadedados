@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "creditCardAccountId": "659effc1-4526-4248-b6af-e3b4130e3089",
+      "brandName": "Banco do Estado do Rio Grande do Sul S.A",
+      "companyCnpj": "92702067000196",
+      "name": "Banrisul Visa Platinum",
+      "productType": "PLATINUM",
+      "creditCardNetwork": "VISA"
+    }
+  ],
+  "links": {
+    "self": "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-08-29T11:45:00Z"
+  }
+}
