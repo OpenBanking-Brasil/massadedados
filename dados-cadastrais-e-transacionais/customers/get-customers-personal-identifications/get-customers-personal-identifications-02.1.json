@@ -5,7 +5,6 @@
       "personalId": "c57-466-1254590932-3fa314",
       "brandName": "Banco do Estado do Rio Grande do Sul S.A",
       "civilName": "Tatiana Galvão",
-      "socialName": "NA",
       "birthDate": "1989-03-23",
       "maritalStatusCode": "SOLTEIRO",
       "sex": "FEMININO",
@@ -49,8 +48,7 @@
       "filiation": [
         {
           "type": "MAE",
-          "civilName": "Andreia Galvão",
-          "socialName": "NA"
+          "civilName": "Andreia Galvão"
         }
       ],
       "contacts": {
