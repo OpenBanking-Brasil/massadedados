@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "transactionId": "80d5e2c0-00f3-40e1-8b3b-9db9ebbfa0d4",
+            "transactionId": "1157db41-f19a-4042-96db-e92ede32479a",
             "identificationNumber": "9846",
             "transactionName": "PAGAMENTO",
             "billId": "730eb8f4-c3c3-425e-83c6-59d46fb8a19d",
@@ -10,19 +10,43 @@
             "paymentType": "CREDITO_A_VISTA",
             "feeType": "ANUIDADE",
             "otherCreditsType": "CREDITO_ROTATIVO",
-            "chargeIdentificator": "Magazine Luiza",
+            "chargeIdentificator": "Coco Bambu Porto Alegre",
             "chargeNumber": 1,
             "brazilianAmount": {
-                "amount": "3701.4200",
+                "amount": "420.0000",
                 "currency": "BRL"
             },
             "amount": {
-                "amount": "3701.4200",
+                "amount": "420.0000",
                 "currency": "BRL"
             },
-            "transactionDate": "2022-07-05",
-            "billPostDate": "2022-07-06",
-            "payeeMCC": 5311
+            "transactionDate": "2022-08-20",
+            "billPostDate": "2022-08-20",
+            "payeeMCC": 5812
+        },
+        {
+            "transactionId": "21bf962e-2d45-4127-ba52-cae680083939",
+            "identificationNumber": "9846",
+            "transactionName": "PAGAMENTO",
+            "billId": "730eb8f4-c3c3-425e-83c6-59d46fb8a19d",
+            "creditDebitType": "CREDITO",
+            "transactionType": "PAGAMENTO",
+            "paymentType": "CREDITO_A_VISTA",
+            "feeType": "ANUIDADE",
+            "otherCreditsType": "CREDITO_ROTATIVO",
+            "chargeIdentificator": "Coco Bambu Porto Alegre",
+            "chargeNumber": 1,
+            "brazilianAmount": {
+                "amount": "888.6700",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "888.6700",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-08-25",
+            "billPostDate": "2022-08-25",
+            "payeeMCC": 5812
         }
     ],
     "links": {
@@ -31,6 +55,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2022-08-28T11:30:00"
+        "requestDateTime": "2022-08-25T11:35:00"
     }
 }
