@@ -1,0 +1,32 @@
+{
+  "data": {
+    "updateDateTime": "2022-08-25T14:48:00Z",
+    "startDate": "2010-04-05T08:30:00Z",
+    "productsServicesType": [
+      "CONTA_POUPANCA",
+      "CARTAO_CREDITO",
+      "OPERACAO_CREDITO",
+      "SEGURO",
+      "PREVIDENCIA",
+      "OPERACOES_CAMBIO"
+    ],
+    "accounts": [
+      {
+        "compeCode": "077",
+        "branchCode": "0001",
+        "number": "25663125",
+        "checkDigit": "9",
+        "type": "CONTA_POUPANCA",
+        "subtype": "INDIVIDUAL"
+      }
+    ]
+  },
+  "links": {
+    "self": "https://api.baninter.com.br/open-banking/customers/v1/personal/financial-relations"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-08-25T14:48:00Z"
+  }
+}

@@ -1,11 +1,11 @@
 {
     "data": {
-    "loggedUser": {
-      "document": {
-        "identification": "24184276504",
-        "rel": "CPF"
-      }
-	},
+        "loggedUser": {
+            "document": {
+                "identification": "24184276504",
+                "rel": "CPF"
+            }
+        },
         "businessEntity": {
             "document": {
                 "identification": "00416968000101",
@@ -13,10 +13,6 @@
             }
         },
         "permissions": [
-            "ACCOUNTS_READ",
-            "ACCOUNTS_BALANCES_READ",
-            "ACCOUNTS_TRANSACTIONS_READ",
-            "ACCOUNTS_OVERDRAFT_LIMITS_READ",
             "CUSTOMERS_PERSONAL_IDENTIFICATIONS_READ",
             "CUSTOMERS_PERSONAL_ADITTIONALINFO_READ",
             "UNARRANGED_ACCOUNTS_OVERDRAFT_READ",
@@ -25,6 +21,6 @@
             "UNARRANGED_ACCOUNTS_OVERDRAFT_PAYMENTS_READ",
             "RESOURCES_READ"
         ],
-        "expirationDateTime": "2022-11-15T22:00:00Z"
+        "expirationDateTime": "2022-08-25T14:48:00Z"
     }
 }
