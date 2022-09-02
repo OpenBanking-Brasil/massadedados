@@ -11,12 +11,12 @@
             {
                 "dueDate": "2007-06-25",
                 "currency": "BRL",
-                "amount": 49221.4500
+                "amount": "49221.4500"
             },
             {
                 "dueDate": "2007-06-15",
                 "currency": "BRL",
-                "amount": 49221.4500
+                "amount": "49221.4500"
             }
         ]
     },
@@ -26,6 +26,6 @@
     "meta": {
         "totalRecords": 2,
         "totalPages": 1,
-        "requestDateTime": "2021-12-10T00:00:00Z"
+        "requestDateTime": "2022-08-15T06:00:00Z"
     }
 }

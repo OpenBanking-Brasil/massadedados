@@ -6,16 +6,17 @@
         "productType": "EMPRESTIMOS",
         "productSubType": "HOME_EQUITY",
         "contractDate": "2021-12-01",
-        "settlementDate": "NA",
-        "contractAmount": 800000.0000,
+        "disbursementDates": [
+            "2021-12-01"
+        ],
+        "settlementDate": "2021-12-01",
+        "contractAmount": "800000.0000",
         "currency": "BRL",
         "dueDate": "2022-12-01",
         "instalmentPeriodicity": "MENSAL",
-        "instalmentPeriodicityAdditionalInfo": "NA",
         "firstInstalmentDueDate": "2022-01-01",
-        "CET": 0.0300,
+        "CET": "0.0300",
         "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
-        "amortizationScheduledAdditionalInfo": "NA",
         "cnpjConsignee": "00416968000101",
         "interestRates": [
             {
@@ -25,9 +26,8 @@
                 "calculation": "21/252",
                 "referentialRateIndexerType": "PRE_FIXADO",
                 "referentialRateIndexerSubType": "PRE_FIXADO",
-                "preFixedRate": 0.0300,
-                "postFixedRate": 0.0000,
-                "additionalInfo": "NA"
+                "preFixedRate": "0.0300",
+                "postFixedRate": "0.0000"
             }
         ],
         "contractedFees": [
@@ -36,15 +36,14 @@
                 "feeCode": "CADASTRO",
                 "feeChargeType": "UNICA",
                 "feeCharge": "MINIMO",
-                "feeAmount": 200.0000,
-                "feeRate": 0.0000
+                "feeAmount": "200.0000",
+                "feeRate": "0.0000"
             }
         ],
         "contractedFinanceCharges": [
             {
                 "chargeType": "JUROS_MORA_ATRASO",
-                "chargeAdditionalInfo": "NA",
-                "chargeRate": 0.0100
+                "chargeRate": "0.0100"
             }
         ]
     },
@@ -54,6 +53,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-12-10T00:00:00Z"
+        "requestDateTime": "2022-08-15T06:00:00Z"
     }
 }
