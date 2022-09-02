@@ -1,11 +1,6 @@
 {
     "data": [
         {
-            "resourceId": "d2ce265c-5c1f-330d-8f21-c4733e1e614f",
-            "type": "CREDIT_CARD_ACCOUNT",
-            "status": "AVAILABLE"
-        },
-        {
             "resourceId": "2ec8fbe4-09e4-305d-bf8c-cdae1c298183",
             "type": "INVOICE_FINANCING",
             "status": "AVAILABLE"
@@ -17,6 +12,6 @@
     "meta": {
         "totalRecords": 2,
         "totalPages": 1,
-        "requestDateTime": "2021-06-15T09:39:00Z"
+        "requestDateTime": "2022-08-24T09:35:00Z"
     }
 }
