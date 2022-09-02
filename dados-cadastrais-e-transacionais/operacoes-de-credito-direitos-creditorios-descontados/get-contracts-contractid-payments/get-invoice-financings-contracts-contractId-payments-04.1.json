@@ -1,0 +1,39 @@
+{
+  "data": {
+    "paidInstalments": 0,
+    "contractOutstandingBalance": 1990.0000,
+    "releases": [
+      {
+        "paymentId": "PARCELA",
+        "isOverParcelPayment": false,
+        "instalmentId": "bdb90d7c-10a4-351e-b62e-8435d531492c",
+        "paidDate": "2022-03-05",
+        "currency": "BRL",
+        "paidAmount": "0.0000",
+        "overParcel": {
+          "fees": [
+            {
+              "feeName": "JUROS",
+              "feeCode": "JUROS_CONTA",
+              "feeAmount": "0.0000"
+            }
+          ],
+          "charges": [
+            {
+              "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
+              "chargeAmount": "97.6700"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "links": {
+    "self": "https://api.bradesco.com/bradesco/open-banking/invoice-financings/v1/contracts/3ce5ba54-95fa-4e0b-bb94-5ff0ad3db515/payments"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-08-29T10:47:00Z"
+  }
+}

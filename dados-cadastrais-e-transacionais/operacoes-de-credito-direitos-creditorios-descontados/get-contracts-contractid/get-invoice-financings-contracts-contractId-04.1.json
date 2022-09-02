@@ -1,0 +1,70 @@
+{
+  "data": {
+    "contractNumber": "989898456",
+    "ipocCode": "607469480303196644087000989898456",
+    "productName": "Direitos Creditórios Descontados",
+    "productType": "DIREITOS_CREDITORIOS_DESCONTADOS",
+    "productSubType": "ANTECIPACAO_FATURA_CARTAO_CREDITO",
+    "contractDate": "2022-08-05",
+    "disbursementDate": [
+      "2022-08-15"
+    ],
+    "settlementDate": "2022-08-15",
+    "contractAmount": "1990.0000",
+    "currency": "BRL",
+    "dueDate": "2028-08-05",
+    "instalmentPeriodicity": "SEM_PERIODICIDADE_REGULAR",
+    "instalmentPeriodicityAdditionalInfo": "Adiantamento de fatura.",
+    "firstInstalmentDueDate": "2022-09-15",
+    "CET": "0.0990",
+    "amortizationScheduled": "SAC",
+    "interestRates": [
+      {
+        "taxType": "EFETIVA",
+        "interestRateType": "COMPOSTO",
+        "taxPeriodicity": "AM",
+        "calculation": "30/365",
+        "referentialRateIndexerType": "PRE_FIXADO",
+        "referentialRateIndexerSubType": "PRE_FIXADO",
+        "preFixedRate": "0.0690",
+        "postFixedRate": "0.0000"
+      }
+    ],
+    "contractedFees": [
+      {
+        "feeName": "Anteciação de Fatura",
+        "feeCode": "ANTECIPA_FATURA_CREDITO",
+        "feeChargeType": "UNICA",
+        "feeCharge": "MAXIMO",
+        "feeAmount": "165.0000",
+        "feeRate": "0.0000"
+      }
+    ],
+    "contractedFinanceCharges": [
+      {
+        "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
+        "chargeRate": "0.0210"
+      },
+      {
+        "chargeType": "JUROS_MORA_ATRASO",
+        "chargeRate": "0.0710"
+      },
+      {
+        "chargeType": "IOF_CONTRATACAO",
+        "chargeRate": "0.0190"
+      },
+      {
+        "chargeType": "IOF_POR_ATRASO",
+        "chargeRate": "0.0180"
+      }
+    ]
+  },
+  "links": {
+    "self": "https://api.bradesco.com/bradesco/open-banking/invoice-financings/v1/contracts/2ec8fbe4-09e4-305d-bf8c-cdae1c298183"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-08-29T10:47:00Z"
+  }
+}
