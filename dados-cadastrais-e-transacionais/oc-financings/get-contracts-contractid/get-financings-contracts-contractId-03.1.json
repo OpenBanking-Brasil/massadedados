@@ -1,0 +1,52 @@
+{
+  "data": {
+    "contractNumber": "25587487101",
+    "ipocCode": "01181521040211011740907325668478542336599",
+    "productName": "Aquisição de veículo passeio",
+    "productType": "FINANCIAMENTOS",
+    "productSubType": "AQUISICAO_BENS_VEICULOS_AUTOMOTORES",
+    "contractDate": "2021-08-01",
+    "contractAmount": 122075.0000,
+    "currency": "BRL",
+    "dueDate": "2024-08-01",
+    "instalmentPeriodicity": "MENSAL",
+    "firstInstalmentDueDate": "2021-08-02",
+    "CET": 0.0150,
+    "amortizationScheduled": "PRICE",
+    "interestRates": [
+      {
+        "taxType": "NOMINAL",
+        "interestRateType": "SIMPLES",
+        "taxPeriodicity": "AA",
+        "calculation": "21/252",
+        "referentialRateIndexerType": "PRE_FIXADO",
+        "referentialRateIndexerSubType": "PRE_FIXADO",
+        "preFixedRate": 0.0150,
+        "postFixedRate": 0.0000
+      }
+    ],
+    "contractedFees": [
+      {
+        "feeName": "Taxa de administracao",
+        "feeCode": "ADMNISTRACAO",
+        "feeChargeType": "UNICA",
+        "feeCharge": "FIXO",
+        "feeAmount": 122075.0000
+      }
+    ],
+    "contractedFinanceCharges": [
+      {
+        "chargeType": "MULTA_ATRASO_PAGAMENTO",
+        "chargeRate": 0.0600
+      }
+    ]
+  },
+  "links": {
+    "self": "https://api.sicredi.com.br/open-banking/financings/v1/contracts/3a74427a-9c10-3779-a5ac-3f65c3e815aa"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-08-22T15:36:00Z"
+  }
+}

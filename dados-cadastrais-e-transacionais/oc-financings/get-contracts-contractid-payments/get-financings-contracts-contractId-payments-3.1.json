@@ -1,0 +1,88 @@
+{
+    "data": {
+        "paidInstalments": 3,
+        "contractOutstandingBalance": 14402.3790,
+        "releases": [
+            {
+                "paymentId": "6bf425f8-d500-11eb-b8bc-0242ac130003",
+                "isOverParcelPayment": false,
+                "instalmentId": "6fcf6e8a-d500-11eb-b8bc-0242ac130003",
+                "paidDate": "2021-08-04",
+                "currency": "BRL",
+                "paidAmount": 220.5870,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "Taxa de administracao",
+                            "feeCode": "ADMNISTRACAO",
+                            "feeAmount": 200.5000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "MULTA_ATRASO_PAGAMENTO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.9921
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "e7cce9de-d4fc-11eb-b8bc-0242ac130003",
+                "isOverParcelPayment": false,
+                "instalmentId": "6053ecec-d500-11eb-b8bc-0242ac130003",
+                "paidDate": "2021-08-03",
+                "currency": "BRL",
+                "paidAmount": 20.0870,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            },
+            {
+                "paymentId": "b60f7c86-d4fc-11eb-b8bc-0242ac130003",
+                "isOverParcelPayment": false,
+                "instalmentId": "e7cce722-d4fc-11eb-b8bc-0242ac130003",
+                "paidDate": "2021-08-02",
+                "currency": "BRL",
+                "paidAmount": 20.0870,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "links": {
+        "self": "https://api.sicredi.com.br/open-banking/financings/v1/contracts/3a74427a-9c10-3779-a5ac-3f65c3e815aa/payments"
+    },
+    "meta": {
+        "totalRecords": 3,
+        "totalPages": 1,
+        "requestDateTime": "2021-08-06T08:30:00Z"
+    }
+}
