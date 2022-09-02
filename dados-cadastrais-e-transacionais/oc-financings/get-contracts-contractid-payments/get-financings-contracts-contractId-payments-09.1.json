@@ -9,20 +9,19 @@
         "instalmentId": "94c4bc62-2375-3f80-a8cc-73583187a38d",
         "paidDate": "2021-05-15",
         "currency": "BRL",
-        "paidAmount": 1507.7000,
+        "paidAmount": "1507.7000",
         "overParcel": {
           "fees": [
             {
-              "feeName": "NA",
-              "feeCode": "NA",
-              "feeAmount": 0.0000
+              "feeName": "Taxa de administração",
+              "feeCode": "ADMINISTRACAO",
+              "feeAmount": "56.0000"
             }
           ],
           "charges": [
             {
               "chargeType": "SEM_ENCARGO",
-              "chargeAdditionalInfo": "NA",
-              "chargeAmount": 0.0000
+              "chargeAmount": "0.0000"
             }
           ]
         }
@@ -33,20 +32,19 @@
         "instalmentId": "51f2bf93-bfea-36cb-963d-2d41b0a73e69",
         "paidDate": "2021-01-23",
         "currency": "BRL",
-        "paidAmount": 8332.4217,
+        "paidAmount": "8332.4217",
         "overParcel": {
           "fees": [
             {
               "feeName": "Taxa de administração",
               "feeCode": "ADMINISTRACAO",
-              "feeAmount": 54.0000
+              "feeAmount": "54.0000"
             }
           ],
           "charges": [
             {
               "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
-              "chargeAdditionalInfo": "NA",
-              "chargeAmount": 545.1117
+              "chargeAmount": "545.1117"
             }
           ]
         }
@@ -57,20 +55,19 @@
         "instalmentId": "77f87599-1eb6-312a-b44d-29dca8a70d3b",
         "paidDate": "2020-01-17",
         "currency": "BRL",
-        "paidAmount": 8332.4217,
+        "paidAmount": "8332.4217",
         "overParcel": {
           "fees": [
             {
               "feeName": "Taxa de administração",
               "feeCode": "ADMINISTRACAO",
-              "feeAmount": 54.0000
+              "feeAmount": "54.0000"
             }
           ],
           "charges": [
             {
               "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
-              "chargeAdditionalInfo": "NA",
-              "chargeAmount": 545.1117
+              "chargeAmount": "545.1117"
             }
           ]
         }
@@ -81,20 +78,19 @@
         "instalmentId": "3993d0b8-97eb-33ee-ad27-b37576c67c50",
         "paidDate": "2019-01-15",
         "currency": "BRL",
-        "paidAmount": 7787.3100,
+        "paidAmount": "7787.3100",
         "overParcel": {
           "fees": [
             {
               "feeName": "Taxa de administração",
               "feeCode": "ADMINISTRACAO",
-              "feeAmount": 54.0000
+              "feeAmount": "54.0000"
             }
           ],
           "charges": [
             {
               "chargeType": "SEM_ENCARGO",
-              "chargeAdditionalInfo": "NA",
-              "chargeAmount": 0.0000
+              "chargeAmount": "0.0000"
             }
           ]
         }
@@ -105,20 +101,19 @@
         "instalmentId": "44b216aa-3461-33ac-9e0b-8f6cd2371474",
         "paidDate": "2018-01-30",
         "currency": "BRL",
-        "paidAmount": 8332.4217,
+        "paidAmount": "8332.4217",
         "overParcel": {
           "fees": [
             {
               "feeName": "Taxa de administração",
               "feeCode": "ADMINISTRACAO",
-              "feeAmount": 54.0000
+              "feeAmount": "54.0000"
             }
           ],
           "charges": [
             {
               "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
-              "chargeAdditionalInfo": "NA",
-              "chargeAmount": 545.1117
+              "chargeAmount": "545.1117"
             }
           ]
         }
@@ -129,20 +124,19 @@
         "instalmentId": "3e569093-13dc-310b-a8ab-cba9d573e236",
         "paidDate": "2017-01-18",
         "currency": "BRL",
-        "paidAmount": 8332.4217,
+        "paidAmount": "8332.4217",
         "overParcel": {
           "fees": [
             {
               "feeName": "Taxa de administração",
               "feeCode": "ADMINISTRACAO",
-              "feeAmount": 54.0000
+              "feeAmount": "54.0000"
             }
           ],
           "charges": [
             {
               "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
-              "chargeAdditionalInfo": "NA",
-              "chargeAmount": 545.1117
+              "chargeAmount": "545.1117"
             }
           ]
         }
@@ -153,20 +147,19 @@
         "instalmentId": "9153784e-cb05-33fd-b84e-a705b737f905",
         "paidDate": "2016-01-15",
         "currency": "BRL",
-        "paidAmount": 7787.3100,
+        "paidAmount": "7787.3100",
         "overParcel": {
           "fees": [
             {
               "feeName": "Taxa de administração",
               "feeCode": "ADMINISTRACAO",
-              "feeAmount": 54.0000
+              "feeAmount": "54.0000"
             }
           ],
           "charges": [
             {
               "chargeType": "SEM_ENCARGO",
-              "chargeAdditionalInfo": "NA",
-              "chargeAmount": 0.0000
+              "chargeAmount": "0.0000"
             }
           ]
         }
@@ -177,20 +170,19 @@
         "instalmentId": "efb6e971-bb0c-35fd-a743-1dad4f9b727d",
         "paidDate": "2015-01-21",
         "currency": "BRL",
-        "paidAmount": 8332.4217,
+        "paidAmount": "8332.4217",
         "overParcel": {
           "fees": [
             {
               "feeName": "Taxa de administração",
               "feeCode": "ADMINISTRACAO",
-              "feeAmount": 54.0000
+              "feeAmount": "54.0000"
             }
           ],
           "charges": [
             {
               "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
-              "chargeAdditionalInfo": "NA",
-              "chargeAmount": 545.1117
+              "chargeAmount": "545.1117"
             }
           ]
         }
@@ -201,20 +193,19 @@
         "instalmentId": "d04ad275-d11c-3e65-926f-f9978d0705fe",
         "paidDate": "2014-01-15",
         "currency": "BRL",
-        "paidAmount": 7787.3100,
+        "paidAmount": "7787.3100",
         "overParcel": {
           "fees": [
             {
               "feeName": "Taxa de administração",
               "feeCode": "ADMINISTRACAO",
-              "feeAmount": 54.0000
+              "feeAmount": "54.0000"
             }
           ],
           "charges": [
             {
               "chargeType": "SEM_ENCARGO",
-              "chargeAdditionalInfo": "NA",
-              "chargeAmount": 0.0000
+              "chargeAmount": "0.0000"
             }
           ]
         }
@@ -225,20 +216,19 @@
         "instalmentId": "b8c680f0-4251-386d-86a7-afa2f2103376",
         "paidDate": "2013-01-15",
         "currency": "BRL",
-        "paidAmount": 7787.3100,
+        "paidAmount": "7787.3100",
         "overParcel": {
           "fees": [
             {
               "feeName": "Taxa de administração",
               "feeCode": "ADMINISTRACAO",
-              "feeAmount": 54.0000
+              "feeAmount": "54.0000"
             }
           ],
           "charges": [
             {
               "chargeType": "SEM_ENCARGO",
-              "chargeAdditionalInfo": "NA",
-              "chargeAmount": 0.0000
+              "chargeAmount": "0.0000"
             }
           ]
         }
@@ -249,20 +239,19 @@
         "instalmentId": "fa5825cd-de06-30ae-8e2c-4553f15b6e70",
         "paidDate": "2012-01-15",
         "currency": "BRL",
-        "paidAmount": 7915.8500,
+        "paidAmount": "7915.8500",
         "overParcel": {
           "fees": [
             {
               "feeName": "Taxa de administração",
               "feeCode": "ADMINISTRACAO",
-              "feeAmount": 54.0000
+              "feeAmount": "54.0000"
             }
           ],
           "charges": [
             {
               "chargeType": "IOF_CONTRATACAO",
-              "chargeAdditionalInfo": "NA",
-              "chargeAmount": 128.5400
+              "chargeAmount": "128.5400"
             }
           ]
         }
@@ -275,6 +264,6 @@
   "meta": {
     "totalRecords": 11,
     "totalPages": 1,
-    "requestDateTime": "2021-05-21T08:30:00Z"
+    "requestDateTime": "2022-08-22T11:59:59Z"
   }
 }

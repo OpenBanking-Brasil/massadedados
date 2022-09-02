@@ -1,21 +1,13 @@
 {
   "data": {
-    "updateDateTime": "2021-05-21T08:30:00Z",
+    "updateDateTime": "2022-08-22T11:59:59Z",
     "startDate": "2018-08-15T08:30:00Z",
     "productsServicesType": [
-	  "CONTA_DEPOSITO_A_VISTA",
-	  "CARTAO_CREDITO",
-	  "OUTROS"
+      "CONTA_DEPOSITO_A_VISTA",
+      "CARTAO_CREDITO",
+      "OUTROS"
     ],
     "productsServicesTypeAdditionalInfo": "FINANCIAMENTO",
-    "procurators": [
-      {
-        "type": "NA",
-        "cpfNumber": "NA",
-        "civilName": "NA",
-        "socialName": "NA"
-      }
-    ],
     "accounts": [
       {
         "compeCode": "341",
@@ -24,7 +16,7 @@
         "checkDigit": "7",
         "type": "CONTA_DEPOSITO_A_VISTA",
         "subtype": "INDIVIDUAL"
-      }	  
+      }
     ]
   },
   "links": {
@@ -33,6 +25,6 @@
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2021-06-28T08:30:00Z"
+    "requestDateTime": "2022-08-22T11:59:59Z"
   }
 }

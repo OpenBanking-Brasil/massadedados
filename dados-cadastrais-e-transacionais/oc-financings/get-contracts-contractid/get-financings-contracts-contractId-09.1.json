@@ -6,16 +6,17 @@
     "productType": "FINANCIAMENTOS_RURAIS",
     "productSubType": "CUSTEIO",
     "contractDate": "2011-01-15",
-    "settlementDate": "NA",
+    "disbursementDates": [
+      "2011-01-15"
+    ],
+    "settlementDate": "2011-01-15",
     "contractAmount": 105000.4000,
     "currency": "BRL",
     "dueDate": "2027-01-15",
     "instalmentPeriodicity": "ANUAL",
-    "instalmentPeriodicityAdditionalInfo": "NA",
     "firstInstalmentDueDate": "2012-01-15",
     "CET": 0.0200,
     "amortizationScheduled": "SAC",
-    "amortizationScheduledAdditionalInfo": "NA",
     "interestRates": [
       {
         "taxType": "NOMINAL",
@@ -25,8 +26,7 @@
         "referentialRateIndexerType": "PRE_FIXADO",
         "referentialRateIndexerSubType": "PRE_FIXADO",
         "preFixedRate": 0.0200,
-        "postFixedRate": 0.0000,
-        "additionalInfo": "NA"
+        "postFixedRate": 0.0000
       }
     ],
     "contractedFees": [
@@ -42,12 +42,10 @@
     "contractedFinanceCharges": [
       {
         "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
-        "chargeAdditionalInfo": "NA",
         "chargeRate": 0.0700
       },
       {
         "chargeType": "IOF_CONTRATACAO",
-        "chargeAdditionalInfo": "NA",
         "chargeAmount": 128.5400
       }
     ]
@@ -58,6 +56,6 @@
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2021-05-21T08:30:00Z"
+    "requestDateTime": "2022-08-22T11:59:59Z"
   }
 }
