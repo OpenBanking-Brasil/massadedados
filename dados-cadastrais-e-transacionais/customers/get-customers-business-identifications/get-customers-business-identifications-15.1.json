@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "updateDateTime": "2021-05-24T08:42:35Z",
+            "updateDateTime": "2022-09-01T11:04:00Z",
             "businessId": "f551ee68-6467-4008-90a5-cfa39acc59a7",
             "brandName": "Banco Cooperativo Sicredi S.A. – Bansicredi",
             "companyName": "Igor e Rodrigo Corretores Associados ME",
@@ -10,14 +10,6 @@
             "cnpjNumber": "34541366000190",
             "companyCnpjNumber": [
                 "01181521000155"
-            ],
-            "otherDocuments": [
-                {
-                    "type": "NA",
-                    "number": "NA",
-                    "country": "NA",
-                    "expirationDate": "NA"
-                }
             ],
             "parties": [
                 {
@@ -31,7 +23,6 @@
                     "shareholding": "0.51",
                     "documentType": "CNH",
                     "documentNumber": "73858756042",
-                    "documentAdditionalInfo": "NA",
                     "documentCountry": "BRA",
                     "documentExpirationDate": "2024-04-29",
                     "documentIssueDate": "2019-04-29"
@@ -52,14 +43,12 @@
                     "documentExpirationDate": "NA",
                     "documentIssueDate": "1970-11-09"
                 }
-
             ],
             "contacts": {
                 "postalAddresses": [
                     {
                         "isMain": true,
                         "address": "Rua Gregório Marcílio Rosa, 552",
-                        "additionalInfo": "NA",
                         "districtName": "Parque Esplanada",
                         "townName": "Campos dos Goytacazes",
                         "ibgeTownCode": "3301009",
@@ -77,11 +66,9 @@
                     {
                         "isMain": true,
                         "type": "FIXO",
-                        "additionalInfo": "NA",
                         "countryCallingCode": "55",
                         "areaCode": "22",
-                        "number": "28783760",
-                        "phoneExtension": "NA"
+                        "number": "28783760"
                     }
                 ],
                 "emails": [
@@ -97,8 +84,8 @@
         "self": "https://api.sicredi.com.br/open-banking/customers/v1/business/identifications"
     },
     "meta": {
-        "totalRecords": 2,
+        "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-09-28T00:00:00Z"
+        "requestDateTime": "2022-09-01T11:04:00Z"
     }
 }

@@ -4,19 +4,19 @@
       "currency": "BRL",
       "warrantyType": "CESSAO_DIREITOS_CREDITORIOS",
       "warrantySubType": "ACOES_DEBENTURES ",
-      "warrantyAmount": 10000.0000
+      "warrantyAmount": "10000.0000"
     },
     {
       "currency": "BRL",
       "warrantyType": "PENHOR",
       "warrantySubType": "VEICULOS",
-      "warrantyAmount": 45500.0000
+      "warrantyAmount": "45500.0000"
     },
     {
       "currency": "BRL",
       "warrantyType": "GARANTIA_FIDEJUSSORIA",
       "warrantySubType": "PESSOA_FISICA",
-      "warrantyAmount": 30000.0000
+      "warrantyAmount": "30000.0000"
     }
   ],
   "links": {
@@ -25,6 +25,6 @@
   "meta": {
     "totalRecords": 3,
     "totalPages": 1,
-    "requestDateTime": "2021-09-19T19:14:00Z"
+    "requestDateTime": "2022-09-01T11:04:00Z"
   }
 } 
