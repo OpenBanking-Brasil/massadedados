@@ -7,6 +7,8 @@
             }
         },
         "permissions": [
+            "CUSTOMERS_PERSONAL_IDENTIFICATIONS_READ",
+            "CUSTOMERS_PERSONAL_ADITTIONALINFO_READ",
             "FINANCINGS_READ",
             "FINANCINGS_SCHEDULED_INSTALMENTS_READ",
             "FINANCINGS_PAYMENTS_READ",
@@ -18,6 +20,6 @@
             "CREDIT_CARDS_ACCOUNTS_TRANSACTIONS_READ",
             "RESOURCES_READ"
         ],
-        "expirationDateTime": "2022-05-19T10:00:00Z"
+        "expirationDateTime": "2023-08-31T09:37:00Z"
     }
 }

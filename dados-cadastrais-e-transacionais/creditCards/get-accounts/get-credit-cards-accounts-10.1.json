@@ -7,8 +7,7 @@
       "name": "Hipercard Internacional Mastercard",
       "productType": "OUTROS",
       "productAdditionalInfo": "Hipercard Internacional",
-      "creditCardNetwork": "MASTERCARD",
-      "networkAdditionalInfo": "NA"
+      "creditCardNetwork": "MASTERCARD"
     }
   ],
   "links": {
@@ -17,6 +16,6 @@
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2021-12-10T15:37:00Z"
+    "requestDateTime": "2022-08-31T09:37:00Z"
   }
 }

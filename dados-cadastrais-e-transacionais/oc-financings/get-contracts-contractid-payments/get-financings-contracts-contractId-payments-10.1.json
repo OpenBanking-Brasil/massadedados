@@ -1,7 +1,7 @@
 {
   "data": {
     "paidInstalments": 1,
-    "contractOutstandingBalance": 110000.0000,
+    "contractOutstandingBalance": "110000.0000",
     "releases": [
       {
         "paymentId": "8af14d7d-f244-3064-a5f0-eabbc2d4b9af",
@@ -9,20 +9,19 @@
         "instalmentId": "5fe7928e-4c00-36e4-b3d2-f80314f74e77",
         "paidDate": "2021-06-25",
         "currency": "BRL",
-        "paidAmount": 10000.0000,
+        "paidAmount": "10000.0000",
         "overParcel": {
           "fees": [
             {
               "feeName": "Taxa de administração",
               "feeCode": "ADMINISTRACAO",
-              "feeAmount": 200.0000
+              "feeAmount": "200.0000"
             }
           ],
           "charges": [
             {
               "chargeType": "IOF_CONTRATACAO",
-              "chargeAdditionalInfo": "NA",
-              "chargeAmount": 0.0000
+              "chargeAmount": "0.0000"
             }
           ]
         }
@@ -35,6 +34,6 @@
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2021-06-25T11:59:00Z"
+    "requestDateTime": "2022-08-31T09:37:00Z"
   }
 }

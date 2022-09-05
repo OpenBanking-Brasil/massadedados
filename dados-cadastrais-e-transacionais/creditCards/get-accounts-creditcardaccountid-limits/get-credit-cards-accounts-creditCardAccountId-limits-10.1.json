@@ -4,15 +4,20 @@
             "creditLineLimitType": "LIMITE_CREDITO_TOTAL",
             "consolidationType": "INDIVIDUAL",
             "identificationNumber": "1250",
-            "lineName": "CREDITO_A_VISTA",
-            "lineNameAdditionalInfo": "NA",
+            "lineName": "CREDITO_PARCELADO",
             "isLimitFlexible": true,
-            "limitAmountCurrency": "BRL",
-            "limitAmount": 4000.0000,
-            "usedAmountCurrency": "BRL",
-            "usedAmount": 2368.4870,
-            "availableAmountCurrency": "BRL",
-            "availableAmount": 1631.5130
+            "limitAmount": {
+                "amount": "18000.0000",
+                "currency": "BRL"
+            },
+            "usedAmount": {
+                "amount": "3213.8270",
+                "currency": "BRL"
+            },
+            "availableAmount": {
+                "amount": "15631.5130",
+                "currency": "BRL"
+            }
         }
     ],
     "links": {
@@ -21,6 +26,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-12-10T16:32:59Z"
+        "requestDateTime": "2022-08-31T09:37:00Z"
     }
 }

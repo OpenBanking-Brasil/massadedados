@@ -1,10 +1,10 @@
 {
     "data": [
         {
-            "transactionId": "ae5b312d-32e0-33d6-9988-54c1ba8177b6",
+            "transactionId": "c0f9e79a-5ed8-3633-91f4-d6d03fc899bc",
             "identificationNumber": "0896",
             "lineName": "CREDITO_A_VISTA",
-            "transactionName": "Panificadora Italia",
+            "transactionName": "Digital Games Platform PDJ",
             "billId": "f9672f09-3b9d-3d8b-9487-7df5626cdf00",
             "creditDebitType": "DEBITO",
             "transactionType": "PAGAMENTO",
@@ -15,43 +15,20 @@
             "otherCreditsType": "CREDITO_ROTATIVO",
             "chargeIdentificator": "PARCELA_1",
             "chargeNumber": 1,
-            "brazilianAmount": 76.9400,
-            "amount": 0.0000,
+            "brazilianAmount": 0.0000,
+            "amount": 77.7205,
             "currency": "BRL",
-            "transactionDate": "2021-04-15",
-            "billPostDate": "2021-04-15",
-            "payeeMCC": 5411
-        },
-        {
-            "transactionId": "c83ea688-025c-3d9e-b577-db4125370ec5",
-            "identificationNumber": "0896",
-            "lineName": "CREDITO_A_VISTA",
-            "transactionName": "Panificadora Italia",
-            "billId": "f9672f09-3b9d-3d8b-9487-7df5626cdf00",
-            "creditDebitType": "DEBITO",
-            "transactionType": "OPERACOES_CREDITO_CONTRATADAS_CARTAO",
-            "transactionalAdditionalInfo": "NA",
-            "paymentType": "A_VISTA",
-            "feeType": "SMS",
-            "feeTypeAdditionalInfo": "NA",
-            "otherCreditsType": "OUTROS",
-            "otherCreditsAdditionalInfo": "DEBITO IPT",
-            "chargeIdentificator": "PARCELA_1",
-            "chargeNumber": 1,
-            "brazilianAmount": 6.1600,
-            "amount": 0.0000,
-            "currency": "BRL",
-            "transactionDate": "2021-04-15",
-            "billPostDate": "2021-04-15",
-            "payeeMCC": 5411
+            "transactionDate": "2021-05-01",
+            "billPostDate": "2021-05-01",
+            "payeeMCC": 5816
         }
     ],
     "links": {
-        "self": "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts/471856b2-cae3-31a6-b4f7-b3d13fe625ee/bills/f9672f09-3b9d-3d8b-9487-7df5626cdf00/transactions?toTransactionDate=2021-04-15"
+        "self": "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts/471856b2-cae3-31a6-b4f7-b3d13fe625ee/bills/f9672f09-3b9d-3d8b-9487-7df5626cdf00/transactions?fromTransactionDate=2021-05-01"
     },
     "meta": {
-        "totalRecords": 2,
+        "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-12-10T11:57:21Z"
+        "requestDateTime": "2021-12-10T13:42:21Z"
     }
 }

@@ -1,50 +1,6 @@
 {
     "data": [
         {
-            "transactionId": "41fe8812-8c2b-3937-93a1-1f3966aea777",
-            "identificationNumber": "0896",
-            "lineName": "CREDITO_A_VISTA",
-            "transactionName": "Supermercado Bom Retiro",
-            "billId": "43a15d0f-b61e-36ea-9dc7-9b2377db9dd5",
-            "creditDebitType": "DEBITO",
-            "transactionType": "PAGAMENTO",
-            "transactionalAdditionalInfo": "NA",
-            "paymentType": "A_VISTA",
-            "feeType": "SMS",
-            "feeTypeAdditionalInfo": "NA",
-            "otherCreditsType": "NA",
-            "chargeIdentificator": "PARCELA_1",
-            "chargeNumber": 1,
-            "brazilianAmount": 62.6289,
-            "amount": 0.0000,
-            "currency": "BRL",
-            "transactionDate": "2021-05-24",
-            "billPostDate": "2021-05-24",
-            "payeeMCC": 5411
-        },
-        {
-            "transactionId": "f23b168e-3403-30f9-ad1e-1dd24e16122c",
-            "identificationNumber": "0896",
-            "lineName": "CREDITO_A_VISTA",
-            "transactionName": "Supermercado Bom Retiro",
-            "billId": "43a15d0f-b61e-36ea-9dc7-9b2377db9dd5",
-            "creditDebitType": "DEBITO",
-            "transactionType": "OPERACOES_CREDITO_CONTRATADAS_CARTAO",
-            "transactionalAdditionalInfo": "NA",
-            "paymentType": "A_PRAZO",
-            "feeType": "SMS",
-            "feeTypeAdditionalInfo": "NA",
-            "otherCreditsType": "CREDITO_ROTATIVO",
-            "chargeIdentificator": "PARCELA_2",
-            "chargeNumber": 2,
-            "brazilianAmount": 156.9812,
-            "amount": 0.0000,
-            "currency": "BRL",
-            "transactionDate": "2021-05-24",
-            "billPostDate": "2021-05-24",
-            "payeeMCC": 5411
-        },
-        {
             "transactionId": "8312e42f-9bde-347f-bfd0-f0665e3d5c1b",
             "identificationNumber": "0896",
             "lineName": "CREDITO_A_VISTA",
@@ -133,28 +89,6 @@
             "payeeMCC": 6012
         },
         {
-            "transactionId": "dde923fa-f8ee-3c2b-acdc-9aaede420beb",
-            "identificationNumber": "0896",
-            "lineName": "CREDITO_A_VISTA",
-            "transactionName": "Tarifa para Saque com cartão",
-            "billId": "43a15d0f-b61e-36ea-9dc7-9b2377db9dd5",
-            "creditDebitType": "DEBITO",
-            "transactionType": "TARIFA",
-            "transactionalAdditionalInfo": "NA",
-            "paymentType": "A_VISTA",
-            "feeType": "SAQUE_CARTAO_BRASIL",
-            "feeTypeAdditionalInfo": "NA",
-            "otherCreditsType": "NA",
-            "chargeIdentificator": "PARCELA_UNICA",
-            "chargeNumber": 1,
-            "brazilianAmount": 100.0000,
-            "amount": 0.0000,
-            "currency": "BRL",
-            "transactionDate": "2021-05-12",
-            "billPostDate": "2021-05-12",
-            "payeeMCC": 6010
-        },
-        {
             "transactionId": "5129eb28-e4c9-33d3-9049-332d1bd2427f",
             "identificationNumber": "0896",
             "lineName": "CREDITO_A_VISTA",
@@ -189,6 +123,7 @@
             "feeType": "SMS",
             "feeTypeAdditionalInfo": "NA",
             "otherCreditsType": "OUTROS",
+            "otherCreditsAdditionalInfo": "DEBITO IPT",
             "chargeIdentificator": "PARCELA_UNICA",
             "chargeNumber": 1,
             "brazilianAmount": 260.6500,
@@ -200,11 +135,11 @@
         }
     ],
     "links": {
-        "self": "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts/471856b2-cae3-31a6-b4f7-b3d13fe625ee/bills/43a15d0f-b61e-36ea-9dc7-9b2377db9dd5/transactions"
+        "self": "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts/471856b2-cae3-31a6-b4f7-b3d13fe625ee/bills/43a15d0f-b61e-36ea-9dc7-9b2377db9dd5/transactions?payeeMCC=6012"
     },
     "meta": {
-        "totalRecords": 9,
+        "totalRecords": 6,
         "totalPages": 1,
-        "requestDateTime": "2021-12-10T11:57:21Z"
+        "requestDateTime": "2021-12-10T14:33:21Z"
     }
 }
