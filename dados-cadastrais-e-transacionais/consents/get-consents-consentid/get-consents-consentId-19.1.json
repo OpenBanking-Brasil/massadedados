@@ -1,9 +1,9 @@
 {
     "data": {
         "consentId": "urn:itau:ITU200147892",
-        "creationDateTime": "2021-05-28T10:30:00Z",
+        "creationDateTime": "2022-08-29T11:04:00Z",
         "status": "AUTHORISED",
-        "statusUpdateDateTime": "2021-05-28T10:45:00Z",
+        "statusUpdateDateTime": "2022-08-29T11:04:00Z",
         "permissions": [
             "ACCOUNTS_READ",
             "ACCOUNTS_TRANSACTIONS_READ",
@@ -11,7 +11,7 @@
             "ACCOUNTS_OVERDRAFT_LIMITS_READ",
             "RESOURCES_READ"
         ],
-        "expirationDateTime": "2021-10-10T00:00:00Z"
+        "expirationDateTime": "2023-08-29T11:04:00Z"
     },
     "links": {
         "self": "https://api.itau/open-banking/consents/v1/consents/urn:itau:ITU200147892"
@@ -19,6 +19,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-05-28T11:04:00Z"
+        "requestDateTime": "2022-08-29T11:04:00Z"
     }
 }

@@ -6,8 +6,10 @@
             "creditDebitType": "CREDITO",
             "transactionName": "PAGAMENTO",
             "type": "OPERACAO_CREDITO",
-            "amount": 200.0000,
-            "transactionCurrency": "BRL",
+            "transactionAmount": {
+                "amount": "200.0000",
+                "currency": "BRL"
+            },
             "transactionDate": "2021-05-20",
             "partieCnpjCpf": "72288270071",
             "partiePersonType": "PESSOA_NATURAL",
@@ -22,8 +24,10 @@
             "creditDebitType": "CREDITO",
             "transactionName": "TRANSFERENCIA",
             "type": "OPERACAO_CREDITO",
-            "amount": 5609.9490,
-            "transactionCurrency": "BRL",
+            "transactionAmount": {
+                "amount": "5609.9490",
+                "currency": "BRL"
+            },
             "transactionDate": "2021-10-06",
             "partieCnpjCpf": "78570962000173",
             "partiePersonType": "PESSOA_JURIDICA",
@@ -39,6 +43,6 @@
     "meta": {
         "totalRecords": 2,
         "totalPages": 1,
-        "requestDateTime": "2021-05-25T15:43:00Z"
+        "requestDateTime": "2022-08-29T11:04:00Z"
     }
 }
