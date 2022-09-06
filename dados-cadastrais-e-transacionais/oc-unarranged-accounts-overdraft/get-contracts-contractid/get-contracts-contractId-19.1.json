@@ -6,16 +6,13 @@
         "productType": "ADIANTAMENTO_A_DEPOSITANTES",
         "productSubType": "ADIANTAMENTO_A_DEPOSITANTES",
         "contractDate": "2021-01-12",
-        "settlementDate": "NA",
-        "contractAmount": 89400.0000,
+        "contractAmount": "89400.0000",
         "currency": "BRL",
         "dueDate": "2022-01-12",
         "instalmentPeriodicity": "BIMESTRAL",
-        "instalmentPeriodicityAdditionalInfo": "NA",
         "firstInstalmentDueDate": "2021-03-12",
-        "CET": 0.0210,
+        "CET": "0.0210",
         "amortizationScheduled": "PRICE",
-        "amortizationScheduledAdditionalInfo": "NA",
         "interestRates": [
             {
                 "taxType": "EFETIVA",
@@ -24,9 +21,8 @@
                 "calculation": "30/365",
                 "referentialRateIndexerType": "FLUTUANTES",
                 "referentialRateIndexerSubType": "CDI",
-                "preFixedRate": 0.0110,
-                "postFixedRate": 0.0000,
-                "additionalInfo": "NA"
+                "preFixedRate": "0.0110",
+                "postFixedRate": "0.0000"
             },
             {
                 "taxType": "EFETIVA",
@@ -35,9 +31,8 @@
                 "calculation": "30/365",
                 "referentialRateIndexerType": "FLUTUANTES",
                 "referentialRateIndexerSubType": "SELIC",
-                "preFixedRate": 0.0100,
-                "postFixedRate": 0.0000,
-                "additionalInfo": "NA"
+                "preFixedRate": "0.0100",
+                "postFixedRate": "0.0000"
             }
         ],
         "contractedFees": [
@@ -46,15 +41,14 @@
                 "feeCode": "ADESAO",
                 "feeChargeType": "UNICO",
                 "feeCharge": "MINIMO",
-                "feeAmount": 430.0000,
-                "feeRate": 0.0000
+                "feeAmount": "430.0000",
+                "feeRate": "0.0000"
             }
         ],
         "contractedFinanceCharges": [
             {
                 "chargeType": "MULTA_ATRASO_PAGAMENTO",
-                "chargeAdditionalInfo": "NA",
-                "chargeRate": 0.0900
+                "chargeRate": "0.0900"
             }
         ]
     },
@@ -64,6 +58,6 @@
     "meta": {
         "totalRecords": 2,
         "totalPages": 1,
-        "requestDateTime": "2021-05-19T10:47:00Z"
+        "requestDateTime": "2022-09-01T11:04:00Z"
     }
 }

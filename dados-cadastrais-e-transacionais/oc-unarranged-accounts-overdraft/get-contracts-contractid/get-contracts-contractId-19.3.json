@@ -7,15 +7,13 @@
         "productSubType": "ADIANTAMENTO_A_DEPOSITANTES",
         "contractDate": "2014-08-23",
         "settlementDate": "2018-08-23",
-        "contractAmount": 75000.0000,
+        "contractAmount": "75000.0000",
         "currency": "BRL",
         "dueDate": "2018-08-23",
         "instalmentPeriodicity": "ANUAL",
-        "instalmentPeriodicityAdditionalInfo": "NA",
         "firstInstalmentDueDate": "2015-08-23",
         "CET": 0.0230,
         "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
-        "amortizationScheduledAdditionalInfo": "NA",
         "interestRates": [
             {
                 "taxType": "EFETIVA",
@@ -24,9 +22,8 @@
                 "calculation": "30/365",
                 "referentialRateIndexerType": "FLUTUANTES",
                 "referentialRateIndexerSubType": "SELIC",
-                "preFixedRate": 0.0230,
-                "postFixedRate": 0.0000,
-                "additionalInfo": "NA"
+                "preFixedRate": "0.0230",
+                "postFixedRate": "0.0000"
             }
         ],
         "contractedFees": [
@@ -35,15 +32,14 @@
                 "feeCode": "ADESAO",
                 "feeChargeType": "UNICO",
                 "feeCharge": "FIXO",
-                "feeAmount": 220.0000,
-                "feeRate": 0.0000
+                "feeAmount": "220.0000",
+                "feeRate": "0.0000"
             }
         ],
         "contractedFinanceCharges": [
             {
                 "chargeType": "MULTA_ATRASO_PAGAMENTO",
-                "chargeAdditionalInfo": "NA",
-                "chargeRate": 0.0700
+                "chargeRate": "0.0700"
             }
         ]
     },
@@ -53,6 +49,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-05-20T16:58:00Z"
+        "requestDateTime": "2022-09-01T11:04:00Z"
     }
 }

@@ -1,7 +1,7 @@
 {
     "data": {
         "paidInstalments": 5,
-        "contractOutstandingBalance": 59539.3400,
+        "contractOutstandingBalance": "59539.3400",
         "releases": [
             {
                 "paymentId": "82d32c10-1048-3ea3-8d7c-b7ed4f43a190",
@@ -9,22 +9,19 @@
                 "instalmentId": "d173c108-5680-31cb-aa3e-22b06625ffe2",
                 "paidDate": "2021-06-12",
                 "currency": "BRL",
-                "paidAmount": 8505.6200,
+                "paidAmount": "8505.6200",
                 "overParcel": {
                     "fees": [
                         {
-                            "feeName": "NA",
-                            "feeCode": "NA",
-                            "feeAmount": 0.0000
+                            "feeName": "Taxa de administração",
+                            "feeCode": "ADMINISTRACAO",
+                            "feeAmount": "109.0000"
                         }
                     ],
-                    "charges": [
-                        {
-                            "chargeType": "SEM_ENCARGO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
-                        }
-                    ]
+                    "charges": {
+                        "chargeType": "IOF_CONTRATACAO",
+                        "chargeAmount": "0.0098"
+                    }
                 }
             },
             {
@@ -33,22 +30,19 @@
                 "instalmentId": "801d610d-585b-3fe0-aeea-2a156211204a",
                 "paidDate": "2021-05-12",
                 "currency": "BRL",
-                "paidAmount": 8505.6200,
+                "paidAmount": "8505.6200",
                 "overParcel": {
                     "fees": [
                         {
-                            "feeName": "NA",
-                            "feeCode": "NA",
-                            "feeAmount": 0.0000
+                            "feeName": "Taxa de administração",
+                            "feeCode": "ADMINISTRACAO",
+                            "feeAmount": "109.0000"
                         }
                     ],
-                    "charges": [
-                        {
-                            "chargeType": "SEM_ENCARGO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
-                        }
-                    ]
+                    "charges": {
+                        "chargeType": "IOF_CONTRATACAO",
+                        "chargeAmount": "0.0098"
+                    }
                 }
             },
             {
@@ -57,23 +51,7 @@
                 "instalmentId": "289f91f3-97a7-3b66-aa90-de3b0a23adfc",
                 "paidDate": "2021-04-12",
                 "currency": "BRL",
-                "paidAmount": 8505.6200,
-                "overParcel": {
-                    "fees": [
-                        {
-                            "feeName": "NA",
-                            "feeCode": "NA",
-                            "feeAmount": 0.0000
-                        }
-                    ],
-                    "charges": [
-                        {
-                            "chargeType": "SEM_ENCARGO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
-                        }
-                    ]
-                }
+                "paidAmount": "8505.6200"
             },
             {
                 "paymentId": "5805b5ba-7e9a-38ce-912f-d2a0844f266a",
@@ -81,20 +59,19 @@
                 "instalmentId": "6c9f2abe-44a2-322c-98e3-cc1bbf2ea91",
                 "paidDate": "2021-03-12",
                 "currency": "BRL",
-                "paidAmount": 8935.6200,
+                "paidAmount": "8935.6200",
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "Taxa de Adesão",
                             "feeCode": "ADESAO",
-                            "feeAmount": 430.0000
+                            "feeAmount": "430.0000"
                         }
                     ],
                     "charges": [
                         {
-                            "chargeType": "SEM_ENCARGO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
+                            "chargeType": "IOF_CONTRATACAO",
+                            "chargeAmount": "0.0098"
                         }
                     ]
                 }
@@ -105,23 +82,7 @@
                 "instalmentId": "848713fa-1e97-327f-8e88-0a9428d8c134",
                 "paidDate": "2021-02-12",
                 "currency": "BRL",
-                "paidAmount": 8505.6200,
-                "overParcel": {
-                    "fees": [
-                        {
-                            "feeName": "NA",
-                            "feeCode": "NA",
-                            "feeAmount": 0.0000
-                        }
-                    ],
-                    "charges": [
-                        {
-                            "chargeType": "SEM_ENCARGO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
-                        }
-                    ]
-                }
+                "paidAmount": "8505.6200"
             }
         ]
     },
@@ -131,6 +92,6 @@
     "meta": {
         "totalRecords": 5,
         "totalPages": 1,
-        "requestDateTime": "2021-06-19T11:19:00Z"
+        "requestDateTime": "2022-09-01T11:04:00Z"
     }
 }

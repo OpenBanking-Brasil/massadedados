@@ -1,36 +1,42 @@
 {
-    "data": {
-      "typeNumberOfInstalments": "MES",
-      "totalNumberOfInstalments": 12,
-      "typeContractRemaining": "MES",
-      "contractRemainingNumber": 10,
-      "paidInstalments": 2,
-      "dueInstalments": 10,
-      "pastDueInstalments": 0,
-      "balloonPayments": [ 
-        {
-          "dueDate": "2021-06-12",
-          "currency": "BRL",
-          "amount": 8505.6200
-        },
-        {
-            "dueDate": "2021-04-12",
-            "currency": "BRL",
-            "amount": 8505.6200
-        },
-        {
-            "dueDate": "2021-02-12",
-            "currency": "BRL",
-            "amount": 8505.6200
+  "data": {
+    "typeNumberOfInstalments": "MES",
+    "totalNumberOfInstalments": 12,
+    "typeContractRemaining": "MES",
+    "contractRemainingNumber": 10,
+    "paidInstalments": 2,
+    "dueInstalments": 10,
+    "pastDueInstalments": 0,
+    "balloonPayments": [
+      {
+        "dueDate": "2021-06-12",
+        "amount": {
+          "amount": "8505.6200",
+          "currency": "BRL"
         }
-      ]
-    },
-    "links": {
-      "self": "https://openbanking.api.santander.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/bc679050-515e-3cd8-9cc2-ed9c60725862/scheduled-instalments"
-    },
-    "meta": {
-      "totalRecords": 3,
-      "totalPages": 1,
-      "requestDateTime": "2021-05-19T11:10:00Z"
-    }
+      },
+      {
+        "dueDate": "2021-04-12",
+        "amount": {
+          "amount": "8505.6200",
+          "currency": "BRL"
+        }
+      },
+      {
+        "dueDate": "2021-02-12",
+        "amount": {
+          "amount": "8505.6200",
+          "currency": "BRL"
+        }
+      }
+    ]
+  },
+  "links": {
+    "self": "https://openbanking.api.santander.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/bc679050-515e-3cd8-9cc2-ed9c60725862/scheduled-instalments"
+  },
+  "meta": {
+    "totalRecords": 3,
+    "totalPages": 1,
+    "requestDateTime": "2022-09-01T11:04:00Z"
+  }
 }
