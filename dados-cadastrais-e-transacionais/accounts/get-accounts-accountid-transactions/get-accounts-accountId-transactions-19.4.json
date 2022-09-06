@@ -6,8 +6,10 @@
             "creditDebitType": "CREDITO",
             "transactionName": "TRANSFERENCIA",
             "type": "OPERACAO_CREDITO",
-            "amount": 0.5000,
-            "transactionCurrency": "BRL",
+            "transactionAmount": {
+                "amount": "0.5000",
+                "currency": "BRL"
+            },
             "transactionDate": "2021-05-23",
             "partieCnpjCpf": "78570962000173",
             "partiePersonType": "PESSOA_JURIDICA",
@@ -22,8 +24,10 @@
             "creditDebitType": "CREDITO",
             "transactionName": "TRANSFERENCIA",
             "type": "OPERACAO_CREDITO",
-            "amount": 0.2600,
-            "transactionCurrency": "BRL",
+            "transactionAmount": {
+                "amount": "0.2600",
+                "currency": "BRL"
+            },
             "transactionDate": "2021-05-23",
             "partieCnpjCpf": "78570962000173",
             "partiePersonType": "PESSOA_JURIDICA",
@@ -38,8 +42,10 @@
             "creditDebitType": "CREDITO",
             "transactionName": "TRANSFERENCIA",
             "type": "OPERACAO_CREDITO",
-            "amount": 0.2400,
-            "transactionCurrency": "BRL",
+            "transactionAmount": {
+                "amount": "0.2400",
+                "currency": "BRL"
+            },
             "transactionDate": "2021-05-23",
             "partieCnpjCpf": "78570962000173",
             "partiePersonType": "PESSOA_JURIDICA",
@@ -54,8 +60,10 @@
             "creditDebitType": "CREDITO",
             "transactionName": "TRANSFERENCIA",
             "type": "OPERACAO_CREDITO",
-            "amount": 220000.9571,
-            "transactionCurrency": "BRL",
+            "transactionAmount": {
+                "amount": "220000.9571",
+                "currency": "BRL"
+            },
             "transactionDate": "2021-05-23",
             "partieCnpjCpf": "78570962000173",
             "partiePersonType": "PESSOA_JURIDICA",
@@ -71,6 +79,6 @@
     "meta": {
         "totalRecords": 4,
         "totalPages": 1,
-        "requestDateTime": "2021-05-25T15:43:00Z"
+        "requestDateTime": "2022-09-02T10:04:00Z"
     }
 }
