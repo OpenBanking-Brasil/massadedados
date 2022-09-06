@@ -6,8 +6,10 @@
             "creditDebitType": "CREDITO",
             "transactionName": "TRANSFSCD552347902",
             "type": "DEPOSITO",
-            "amount": 25030.1600,
-            "transactionCurrency": "BRL",
+            "transactionAmount": {
+                "amount": "25030.1600",
+                "currency": "BRL"
+            },
             "transactionDate": "2021-06-20",
             "partieCnpjCpf": "90400888000142",
             "partiePersonType": "PESSOA_JURIDICA",
@@ -22,8 +24,10 @@
             "creditDebitType": "CREDITO",
             "transactionName": "TRANSFSRR000391244",
             "type": "DOC",
-            "amount": 200961.1600,
-            "transactionCurrency": "BRL",
+            "transactionAmount": {
+                "amount": "200961.1600",
+                "currency": "BRL"
+            },
             "transactionDate": "2021-06-18",
             "partieCnpjCpf": "90400888000142",
             "partiePersonType": "PESSOA_JURIDICA",
@@ -38,8 +42,10 @@
             "creditDebitType": "CREDITO",
             "transactionName": "TRANSFSCD552347902",
             "type": "TED",
-            "amount": 300000.0000,
-            "transactionCurrency": "BRL",
+            "transactionAmount": {
+                "amount": "300000.0000",
+                "transactionCurrency": "BRL"
+            },
             "transactionDate": "2021-06-15",
             "partieCnpjCpf": "90400888000142",
             "partiePersonType": "PESSOA_JURIDICA",
@@ -54,8 +60,10 @@
             "creditDebitType": "CREDITO",
             "transactionName": "TRANSFSES676230112",
             "type": "PIX",
-            "amount": 15790.7800,
-            "transactionCurrency": "BRL",
+            "transactionAmount": {
+                "amount": "15790.7800",
+                "transactionCurrency": "BRL"
+            },
             "transactionDate": "2021-06-15",
             "partieCnpjCpf": "90400888000142",
             "partiePersonType": "PESSOA_JURIDICA",
@@ -71,6 +79,6 @@
     "meta": {
         "totalRecords": 4,
         "totalPages": 1,
-        "requestDateTime": "2021-07-18T17:24:10Z"
+        "requestDateTime": "2022-09-06T15:24:00Z"
     }
 }

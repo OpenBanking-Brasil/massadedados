@@ -1,6 +1,6 @@
 {
   "data": {
-    "updateDateTime": "2021-05-21T08:30:00Z",
+    "updateDateTime": "2022-09-06T15:24:00Z",
     "startDate": "1999-12-03T16:35:12Z",
     "productsServicesType": [
       "CONTA_DEPOSITO_A_VISTA", 
@@ -12,14 +12,12 @@
       {
         "type": "REPRESENTANTE_LEGAL",
         "cnpjCpfNumber": "15694123000147",
-        "civilName": "Ian e Nathan Marketing Ltda",
-        "socialName": "NA"
+        "civilName": "Ian e Nathan Marketing Ltda"
       },
       {
         "type": "REPRESENTANTE_LEGAL",
         "cnpjCpfNumber": "74889937000104",
-        "civilName": "Summit Fotografias Ltda",
-        "socialName": "NA"
+        "civilName": "Summit Fotografias Ltda"
       }
     ],
     "accounts": [
@@ -38,6 +36,6 @@
   "meta": {
     "totalRecords": 4,
     "totalPages": 1,
-    "requestDateTime": "2021-09-12T17:32:00Z"
+    "requestDateTime": "2022-09-06T15:24:00Z"
   }
 } 

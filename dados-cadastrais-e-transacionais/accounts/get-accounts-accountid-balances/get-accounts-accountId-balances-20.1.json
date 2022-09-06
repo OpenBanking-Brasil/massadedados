@@ -1,11 +1,17 @@
 {
   "data": {
-    "availableAmount": 1000200.9200,
-    "availableAmountCurrency": "BRL",
-    "blockedAmount": 500961.8350,
-    "blockedAmountCurrency": "BRL",
-    "automaticallyInvestedAmount": 35652.9000,
-    "automaticallyInvestedAmountCurrency": "BRL"
+    "availableAmount": {
+      "amount": "1000200.9200",
+      "currency": "BRL"
+    },
+    "blockedAmount": {
+      "amount": "500961.8350",
+      "currency": "BRL"
+    },
+    "automaticallyInvestedAmount": {
+      "amount": "35652.9000",
+      "currency": "BRL"
+    }
   },
   "links": {
     "self": "https://openbanking.api.santander.com.br/open-banking/accounts/v1/accounts/d448bbb0-9d53-306f-816a-d59c12d73630/balances"
@@ -13,6 +19,6 @@
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2021-07-18T16:15:23Z"
+    "requestDateTime": "2022-09-06T15:24:00Z"
   }
-} 
+}

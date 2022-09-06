@@ -17,12 +17,13 @@
             "ACCOUNTS_BALANCES_READ",
             "ACCOUNTS_TRANSACTIONS_READ",
             "ACCOUNTS_OVERDRAFT_LIMITS_READ",
+            "CUSTOMERS_BUSINESS_ADITTIONALINFO_READ",
             "LOANS_READ",
             "LOANS_SCHEDULED_INSTALMENTS_READ",
             "LOANS_PAYMENTS_READ",
             "LOANS_WARRANTIES_READ",
             "RESOURCES_READ"
         ],
-        "expirationDateTime": "2022-01-05T00:00:00Z"
+        "expirationDateTime": "2023-09-06T15:24:00Z"
     }
 }
