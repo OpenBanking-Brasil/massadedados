@@ -9,7 +9,7 @@
       "birthDate": "1982-02-18",
       "maritalStatusCode": "UNIAO_ESTAVEL",
       "sex": "MASCULINO",
-      "companyCnpj": [
+      "companiesCnpj": [
         "60701190000104"
       ],
       "documents": {
