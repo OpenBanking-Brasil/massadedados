@@ -6,14 +6,8 @@
     "contractRemainingNumber": 0,
     "paidInstalments": 16,
     "dueInstalments": 0,
-    "pastDueInstalments": 0,
-    "balloonPayments": [
-      {
-        "dueDate": "NA",
-        "currency": "BRL",
-        "amount": 0.0000
-      }
-    ]
+    "pastDueInstalments": 0
+
   },
   "links": {
     "self": "https://api.itau/open-banking/financings/v1/contracts/f96b10e8-5aa7-32fe-b029-3ad7873fdef4/scheduled-instalments"
@@ -21,6 +15,6 @@
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2022-02-11T13:09:13Z"
+    "requestDateTime": "2022-09-05T09:45:50Z"
   }
 } 

@@ -1,7 +1,7 @@
 {
     "data": {
         "paidInstalments": 2,
-        "contractOutstandingBalance": 0.0000,
+        "contractOutstandingBalance": "0.0000",
         "releases": [
             {
                 "paymentId": "03dff7e2-c0de-399b-adc9-a0b79a655ac7",
@@ -9,23 +9,7 @@
                 "instalmentId": "a7d8b511-d733-3501-b42d-b971ea0a3cbd",
                 "paidDate": "2020-03-19",
                 "currency": "BRL",
-                "paidAmount": 24651.8400,
-                "overParcel": {
-                    "fees": [
-                        {
-                            "feeName": "NA",
-                            "feeCode": "NA",
-                            "feeAmount": 0.0000
-                        }
-                    ],
-                    "charges": [
-                        {
-                            "chargeType": "SEM_ENCARGO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
-                        }
-                    ]
-                }
+                "paidAmount": "24651.8400"
             },
             {
                 "paymentId": "9e65c454-0929-3c5c-9252-b78ec23185db",
@@ -33,20 +17,19 @@
                 "instalmentId": "90663fd5-99f1-3fa1-9239-24bbb817db05",
                 "paidDate": "2019-03-19",
                 "currency": "BRL",
-                "paidAmount": 25061.8400,
+                "paidAmount": "25061.8400",
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "Taxa de Adesao",
                             "feeCode": "ADESAO",
-                            "feeAmount": 410.0000
+                            "feeAmount": "410.0000"
                         }
                     ],
                     "charges": [
                         {
                             "chargeType": "SEM_ENCARGO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
+                            "chargeAmount": "0.0000"
                         }
                     ]
                 }
@@ -59,6 +42,6 @@
     "meta": {
         "totalRecords": 2,
         "totalPages": 1,
-        "requestDateTime": "2022-06-29T09:45:00Z"
+        "requestDateTime": "2022-09-05T09:45:50Z"
     }
 }

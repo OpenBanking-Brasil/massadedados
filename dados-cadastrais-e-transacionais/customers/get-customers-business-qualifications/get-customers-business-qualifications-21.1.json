@@ -9,14 +9,18 @@
         ],
         "informedRevenue": {
             "frequency": "SEMANAL",
-            "amount": 4584.5600,
-            "currency": "BRL",
-            "year": 2020
+            "amount": {
+                "amount": "4584.5600",
+                "currency": "BRL"
+            },
+            "year": 2021
         },
         "informedPatrimony": {
-            "amount": 306210.2500,
-            "currency": "BRL",
-            "date": "2020-12-31"
+            "amount": {
+                "amount": "306210.2500",
+                "currency": "BRL"
+            },
+            "date": "2021-12-31"
         }
     },
     "links": {
@@ -25,6 +29,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-09-12T11:02:52Z"
+        "requestDateTime": "2022-09-05T09:45:50Z"
     }
-} 
+}

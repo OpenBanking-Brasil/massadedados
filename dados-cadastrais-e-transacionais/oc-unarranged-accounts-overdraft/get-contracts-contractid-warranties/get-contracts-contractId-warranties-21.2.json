@@ -4,7 +4,7 @@
             "currency": "BRL",
             "warrantyType": "CAUCAO",
             "warrantySubType": "CHEQUES",
-            "warrantyAmount": 22000.0000
+            "warrantyAmount": "22000.0000"
         }
     ],
     "links": {
@@ -13,6 +13,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2022-07-11T45:56:00Z"
+        "requestDateTime": "2022-09-05T09:45:50Z"
     }
 }

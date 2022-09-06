@@ -6,14 +6,8 @@
       "contractRemainingNumber": 22,
       "paidInstalments": 1,
       "dueInstalments": 22,
-      "pastDueInstalments": 1,
-      "balloonPayments": [
-        {
-          "dueDate": "NA",
-          "currency": "BRL",
-          "amount": 0.0000
-        }
-      ]
+      "pastDueInstalments": 1
+
     },
     "links": {
       "self": "https://api.itau/open-banking/unarranged-accounts-overdraft/v1/contracts/09111ff2-b903-3552-bdba-44b48d626b78/scheduled-instalments"
@@ -21,6 +15,6 @@
     "meta": {
       "totalRecords": 1,
       "totalPages": 1,
-      "requestDateTime": "2022-08-10T15:59:00Z"
+      "requestDateTime": "2022-09-05T09:45:50Z"
     }
 }

@@ -4,13 +4,13 @@
             "currency": "BRL",
             "warrantyType": "GARANTIA_FIDEJUSSORIA",
             "warrantySubType": "PESSOA_FISICA",
-            "warrantyAmount": 4000.0000
+            "warrantyAmount": "4000.0000"
         },
         {
             "currency": "BRL",
             "warrantyType": "PENHOR",
             "warrantySubType": "EQUIPAMENTOS",
-            "warrantyAmount": 2300.0000
+            "warrantyAmount": "2300.0000"
         }
     ],
     "links": {
@@ -19,6 +19,6 @@
     "meta": {
         "totalRecords": 2,
         "totalPages": 1,
-        "requestDateTime": "2022-06-10T08:17:00Z"
+        "requestDateTime": "2022-09-05T09:45:50Z"
     }
 }

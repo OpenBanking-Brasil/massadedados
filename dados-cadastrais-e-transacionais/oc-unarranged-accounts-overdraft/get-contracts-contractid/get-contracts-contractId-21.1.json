@@ -6,16 +6,13 @@
         "productType": "ADIANTAMENTO_A_DEPOSITANTES",
         "productSubType": "ADIANTAMENTO_A_DEPOSITANTES",
         "contractDate": "2022-06-05",
-        "settlementDate": "NA",
-        "contractAmount": 60000.0000,
+        "contractAmount": "60000.0000",
         "currency": "BRL",
         "dueDate": "2024-07-30",
         "instalmentPeriodicity": "MENSAL",
-        "instalmentPeriodicityAdditionalInfo": "NA",
         "firstInstalmentDueDate": "2022-07-05",
-        "CET": 0.0140,
+        "CET": "0.0140",
         "amortizationScheduled": "PRICE",
-        "amortizationScheduledAdditionalInfo": "NA",
         "interestRates": [
             {
                 "taxType": "EFETIVA",
@@ -24,9 +21,8 @@
                 "calculation": "21/252",
                 "referentialRateIndexerType": "PRE_FIXADO",
                 "referentialRateIndexerSubType": "PRE_FIXADO",
-                "preFixedRate": 0.0140,
-                "postFixedRate": 0.0000,
-                "additionalInfo": "NA"
+                "preFixedRate": "0.0140",
+                "postFixedRate": "0.0000"
             }
         ],
         "contractedFees": [
@@ -35,23 +31,22 @@
                 "feeCode": "MANUTENCAO_CONTRATO",
                 "feeChargeType": "POR_PARCELA",
                 "feeCharge": "FIXO",
-                "feeAmount": 59.9000,
-                "feeRate": 0.0000
+                "feeAmount": "59.9000",
+                "feeRate": "0.0000"
             },
             {
                 "feeName": "Taxa de Adesao",
                 "feeCode": "ADESAO",
                 "feeChargeType": "UNICA",
                 "feeCharge": "PERCENTUAL",
-                "feeAmount": 0.0000,
-                "feeRate": 0.2000
+                "feeAmount": "0.0000",
+                "feeRate": "0.2000"
             }
         ],
         "contractedFinanceCharges": [
             {
                 "chargeType": "MULTA_ATRASO_PAGAMENTO",
-                "chargeAdditionalInfo": "NA",
-                "chargeRate": 0.0810
+                "chargeRate": "0.0810"
             }
         ]
     },
@@ -61,6 +56,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2022-08-10T15:47:00Z"
+        "requestDateTime": "2022-09-05T09:45:50Z"
     }
 }

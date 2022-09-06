@@ -1,26 +1,28 @@
 {
-    "data": {
-      "typeNumberOfInstalments": "DIA",
-      "totalNumberOfInstalments": 7,
-      "typeContractRemaining": "DIA",
-      "contractRemainingNumber": 0,
-      "paidInstalments": 7,
-      "dueInstalments": 0,
-      "pastDueInstalments": 0,
-      "balloonPayments": [
-        {
-          "dueDate": "2022-05-08",
-          "currency": "BRL",
-          "amount": 4873.1176
+  "data": {
+    "typeNumberOfInstalments": "DIA",
+    "totalNumberOfInstalments": 7,
+    "typeContractRemaining": "DIA",
+    "contractRemainingNumber": 0,
+    "paidInstalments": 7,
+    "dueInstalments": 0,
+    "pastDueInstalments": 0,
+    "balloonPayments": [
+      {
+        "dueDate": "2022-05-08",
+        "amount": {
+          "amount": "4873.1176",
+          "currency": "BRL"
         }
-      ]
-    },
-    "links": {
-      "self": "https://api.itau/open-banking/unarranged-accounts-overdraft/v1/contracts/a41a1fdf-18f0-35ac-98ac-8a6b592b980a/scheduled-instalments"
-    },
-    "meta": {
-      "totalRecords": 1,
-      "totalPages": 1,
-      "requestDateTime": "2022-06-10T08:10:00Z"
-    }
+      }
+    ]
+  },
+  "links": {
+    "self": "https://api.itau/open-banking/unarranged-accounts-overdraft/v1/contracts/a41a1fdf-18f0-35ac-98ac-8a6b592b980a/scheduled-instalments"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-09-05T09:45:50Z"
+  }
 }

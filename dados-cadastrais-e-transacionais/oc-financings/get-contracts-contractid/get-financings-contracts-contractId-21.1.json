@@ -7,15 +7,13 @@
     "productSubType": "FINANCIAMENTO_HABITACIONAL_SFH",
     "contractDate": "2002-03-01",
     "settlementDate": "2018-03-01",
-    "contractAmount": 250000.6000,
+    "contractAmount": "250000.6000",
     "currency": "BRL",
     "dueDate": "2018-03-01",
     "instalmentPeriodicity": "ANUAL",
-    "instalmentPeriodicityAdditionalInfo": "NA",
     "firstInstalmentDueDate": "2003-03-01",
-    "CET": 0.0130,
+    "CET": "0.0130",
     "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
-    "amortizationScheduledAdditionalInfo": "NA",
     "interestRates": [
       {
         "taxType": "NOMINAL",
@@ -24,9 +22,8 @@
         "calculation": "30/365",
         "referentialRateIndexerType": "PRE_FIXADO",
         "referentialRateIndexerSubType": "PRE_FIXADO",
-        "preFixedRate": 0.0130,
-        "postFixedRate": 0.0000,
-        "additionalInfo": "NA"
+        "preFixedRate": "0.0130",
+        "postFixedRate": "0.0054"
       }
     ],
     "contractedFees": [
@@ -35,20 +32,18 @@
         "feeCode": "ADMINISTRACAO",
         "feeChargeType": "UNICA",
         "feeCharge": "FIXO",
-        "feeAmount": 5080.0000,
-        "feeRate": 0.0000
+        "feeAmount": "5080.0000",
+        "feeRate": "0.0000"
       }
     ],
     "contractedFinanceCharges": [
       {
         "chargeType": "MULTA_ATRASO_PAGAMENTO",
-        "chargeAdditionalInfo": "NA",
-        "chargeRate": 0.0730
+        "chargeRate": "0.0730"
       },
       {
         "chargeType": "IOF_CONTRATACAO",
-        "chargeAdditionalInfo": "NA",
-        "chargeRate": 0.0500
+        "chargeRate": "0.0500"
       }
     ]
   },
@@ -58,6 +53,6 @@
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2022-02-11T10:40:00Z"
+    "requestDateTime": "2022-09-05T09:45:50Z"
   }
-} 
+}

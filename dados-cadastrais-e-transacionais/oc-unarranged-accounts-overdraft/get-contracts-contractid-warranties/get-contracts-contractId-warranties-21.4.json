@@ -4,7 +4,7 @@
             "currency": "BRL",
             "warrantyType": "CESSAO_DIREITOS_CREDITORIOS",
             "warrantySubType": "APLICACOES_FINANCEIRAS_RENDA_VARIAVEL",
-            "warrantyAmount": 10540.1600
+            "warrantyAmount": "10540.1600"
         }
     ],
     "links": {
@@ -13,6 +13,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2022-06-23T23:29:00Z"
+        "requestDateTime": "2022-09-05T09:45:50Z"
     }
 }

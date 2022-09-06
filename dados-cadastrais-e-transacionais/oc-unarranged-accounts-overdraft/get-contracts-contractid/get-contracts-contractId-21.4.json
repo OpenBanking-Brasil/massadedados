@@ -7,15 +7,13 @@
         "productSubType": "ADIANTAMENTO_A_DEPOSITANTES",
         "contractDate": "2021-12-16",
         "settlementDate": "2022-04-16",
-        "contractAmount": 8770.0000,
+        "contractAmount": "8770.0000",
         "currency": "BRL",
         "dueDate": "2022-04-16",
         "instalmentPeriodicity": "BIMESTRAL",
-        "instalmentPeriodicityAdditionalInfo": "NA",
         "firstInstalmentDueDate": "2022-02-16",
-        "CET": 0.0160,
+        "CET": "0.0160",
         "amortizationScheduled": "SAM",
-        "amortizationScheduledAdditionalInfo": "NA",
         "interestRates": [
             {
                 "taxType": "NOMINAL",
@@ -24,9 +22,8 @@
                 "calculation": "30/365",
                 "referentialRateIndexerType": "FLUTUANTES",
                 "referentialRateIndexerSubType": "CDI",
-                "preFixedRate": 0.0000,
-                "postFixedRate": 0.0160,
-                "additionalInfo": "NA"
+                "preFixedRate": "0.0000",
+                "postFixedRate": "0.0160"
             }
         ],
         "contractedFees": [
@@ -35,20 +32,18 @@
                 "feeCode": "ADESAO",
                 "feeChargeType": "UNICA",
                 "feeCharge": "FIXO",
-                "feeAmount": 650.0000,
-                "feeRate": 0.0000
+                "feeAmount": "650.0000",
+                "feeRate": "0.0000"
             }
         ],
         "contractedFinanceCharges": [
             {
                 "chargeType": "MULTA_ATRASO_PAGAMENTO",
-                "chargeAdditionalInfo": "NA",
-                "chargeRate": 0.1000
+                "chargeRate": "0.1000"
             },
             {
                 "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
-                "chargeAdditionalInfo": "NA",
-                "chargeRate": 0.0900
+                "chargeRate": "0.0900"
             }
         ]
     },
@@ -58,6 +53,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2022-06-23T23:18:00Z"
+        "requestDateTime": "2022-09-05T09:45:50Z"
     }
 }

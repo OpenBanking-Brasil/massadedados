@@ -1,31 +1,28 @@
 {
   "data": {
-    "updateDateTime": "2021-05-28T08:30:00Z",
+    "updateDateTime": "2022-09-05T09:45:50Z",
     "startDate": "2018-06-30T08:35:12Z",
     "productsServicesType": [
-        "CONTA_DEPOSITO_A_VISTA", 
-        "CONTA_POUPANCA", 
-        "CARTAO_CREDITO",
-        "SEGURO"
+      "CONTA_DEPOSITO_A_VISTA",
+      "CONTA_POUPANCA",
+      "CARTAO_CREDITO",
+      "SEGURO"
     ],
     "procurators": [
       {
         "type": "REPRESENTANTE_LEGAL",
         "cnpjCpfNumber": "37964623168",
-        "civilName": "Lilian Vanessa Cristiane Monteiro",
-        "socialName": "NA"
+        "civilName": "Lilian Vanessa Cristiane Monteiro"
       },
       {
         "type": "REPRESENTANTE_LEGAL",
         "cnpjCpfNumber": "74930176972",
-        "civilName": "Bruno Carlos Duarte",
-        "socialName": "NA"
+        "civilName": "Bruno Carlos Duarte"
       },
       {
         "type": "REPRESENTANTE_LEGAL",
         "cnpjCpfNumber": "30290686000163",
-        "civilName": "Patrícia Psicologia Progressiva ME",
-        "socialName": "NA"
+        "civilName": "Patrícia Psicologia Progressiva ME"
       }
     ],
     "accounts": [
@@ -51,6 +48,6 @@
   "meta": {
     "totalRecords": 4,
     "totalPages": 1,
-    "requestDateTime": "2021-09-12T12:10:00Z"
+    "requestDateTime": "2022-09-05T09:45:50Z"
   }
-} 
+}

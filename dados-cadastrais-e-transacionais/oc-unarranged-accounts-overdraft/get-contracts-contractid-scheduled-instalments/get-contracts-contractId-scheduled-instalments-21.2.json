@@ -1,31 +1,35 @@
 {
-    "data": {
-      "typeNumberOfInstalments": "SEMANA",
-      "totalNumberOfInstalments": 10,
-      "typeContractRemaining": "SEMANA",
-      "contractRemainingNumber": 8,
-      "paidInstalments": 2,
-      "dueInstalments": 8,
-      "pastDueInstalments": 0,
-      "balloonPayments": [
-        {
-          "dueDate": "2022-07-19",
-          "currency": "BRL",
-          "amount": 900.0000
-        },
-        {
-            "dueDate": "2022-07-10",
-            "currency": "BRL",
-            "amount": 1520.3300
+  "data": {
+    "typeNumberOfInstalments": "SEMANA",
+    "totalNumberOfInstalments": 10,
+    "typeContractRemaining": "SEMANA",
+    "contractRemainingNumber": 8,
+    "paidInstalments": 2,
+    "dueInstalments": 8,
+    "pastDueInstalments": 0,
+    "balloonPayments": [
+      {
+        "dueDate": "2022-07-19",
+        "amount": {
+          "amount": "900.0000",
+          "currency": "BRL"
         }
-      ]
-    },
-    "links": {
-      "self": "https://api.itau/open-banking/unarranged-accounts-overdraft/v1/contracts/33e70dfb-68a8-3ef1-9553-8481ae8c1bca/scheduled-instalments"
-    },
-    "meta": {
-      "totalRecords": 2,
-      "totalPages": 1,
-      "requestDateTime": "2022-07-20T46:04:00Z"
-    }
+      },
+      {
+        "dueDate": "2022-07-10",
+        "amount": {
+          "amount": "1520.3300",
+          "currency": "BRL"
+        }
+      }
+    ]
+  },
+  "links": {
+    "self": "https://api.itau/open-banking/unarranged-accounts-overdraft/v1/contracts/33e70dfb-68a8-3ef1-9553-8481ae8c1bca/scheduled-instalments"
+  },
+  "meta": {
+    "totalRecords": 2,
+    "totalPages": 1,
+    "requestDateTime": "2022-09-05T09:45:50Z"
+  }
 }

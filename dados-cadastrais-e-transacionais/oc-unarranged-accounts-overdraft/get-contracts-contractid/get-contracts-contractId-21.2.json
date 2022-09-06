@@ -6,16 +6,13 @@
         "productType": "ADIANTAMENTO_A_DEPOSITANTES",
         "productSubType": "ADIANTAMENTO_A_DEPOSITANTES",
         "contractDate": "2022-07-01",
-        "settlementDate": "NA",
-        "contractAmount": 18000.0000,
+        "contractAmount": "18000.0000",
         "currency": "BRL",
         "dueDate": "2022-09-09",
         "instalmentPeriodicity": "SEMANAL",
-        "instalmentPeriodicityAdditionalInfo": "NA",
         "firstInstalmentDueDate": "2022-07-08",
-        "CET": 0.0351,
+        "CET": "0.0351",
         "amortizationScheduled": "PRICE",
-        "amortizationScheduledAdditionalInfo": "NA",
         "interestRates": [
             {
                 "taxType": "NOMINAL",
@@ -24,9 +21,8 @@
                 "calculation": "30/365",
                 "referentialRateIndexerType": "PRE_FIXADO",
                 "referentialRateIndexerSubType": "PRE_FIXADO",
-                "preFixedRate": 0.0351,
-                "postFixedRate": 0.0000,
-                "additionalInfo": "NA"
+                "preFixedRate": "0.0351",
+                "postFixedRate": "0.0000"
             }
         ],
         "contractedFees": [
@@ -35,31 +31,30 @@
                 "feeCode": "MANUTENCAO_CONTRATO",
                 "feeChargeType": "POR_PARCELA",
                 "feeCharge": "MAXIMO",
-                "feeAmount": 158.0000,
-                "feeRate": 0.0000
+                "feeAmount": "158.0000",
+                "feeRate": "0.0000"
             },
             {
                 "feeName": "Taxa de Adesao",
                 "feeCode": "ADESAO",
                 "feeChargeType": "UNICA",
                 "feeCharge": "PERCENTUAL",
-                "feeAmount": 0.0000,
-                "feeRate": 0.3200
+                "feeAmount": "0.0000",
+                "feeRate": "0.3200"
             },
             {
                 "feeName": "Taxa de administração",
                 "feeCode": "ADMINISTRACAO",
                 "feeChargeType": "POR_PARCELA",
                 "feeCharge": "MAXIMO",
-                "feeAmount": 109.0000,
-                "feeRate": 0.0000
-              }
+                "feeAmount": "109.0000",
+                "feeRate": "0.0000"
+            }
         ],
         "contractedFinanceCharges": [
             {
                 "chargeType": "MULTA_ATRASO_PAGAMENTO",
-                "chargeAdditionalInfo": "NA",
-                "chargeRate": 0.0810
+                "chargeRate": "0.0810"
             }
         ]
     },
@@ -69,6 +64,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2022-07-11T45:48:00Z"
+        "requestDateTime": "2022-09-05T09:45:50Z"
     }
 }

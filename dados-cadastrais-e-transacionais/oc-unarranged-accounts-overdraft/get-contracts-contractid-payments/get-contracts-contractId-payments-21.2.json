@@ -1,7 +1,7 @@
 {
     "data": {
         "paidInstalments": 4,
-        "contractOutstandingBalance": 13930.5250,
+        "contractOutstandingBalance": "13930.5250",
         "releases": [
             {
                 "paymentId": "f0836b08-fa79-3fd5-bd9a-75416ab89419",
@@ -9,25 +9,24 @@
                 "instalmentId": "53a1b835-01aa-3dbf-a4ab-8b2c745212c0",
                 "paidDate": "2022-07-19",
                 "currency": "BRL",
-                "paidAmount": 900.0000,
+                "paidAmount": "900.0000",
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "Manutenção de Contrato",
                             "feeCode": "MANUTENCAO_CONTRATO",
-                            "feeAmount": 158.0000
+                            "feeAmount": "158.0000"
                         },
                         {
                             "feeName": "Taxa de administração",
                             "feeCode": "ADMINISTRACAO",
-                            "feeAmount": 109.0000
+                            "feeAmount": "109.0000"
                         }
                     ],
                     "charges": [
                         {
                             "chargeType": "SEM_ENCARGO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
+                            "chargeAmount": "0.0000"
                         }
                     ]
                 }
@@ -38,25 +37,24 @@
                 "instalmentId": "7aeb9519-58b8-310f-be1a-6c424c458694",
                 "paidDate": "2022-07-15",
                 "currency": "BRL",
-                "paidAmount": 2369.1425,
+                "paidAmount": "2369.1425",
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "Manutenção de Contrato",
                             "feeCode": "MANUTENCAO_CONTRATO",
-                            "feeAmount": 158.0000
+                            "feeAmount": "158.0000"
                         },
                         {
                             "feeName": "Taxa de administração",
                             "feeCode": "ADMINISTRACAO",
-                            "feeAmount": 109.0000
+                            "feeAmount": "109.0000"
                         }
                     ],
                     "charges": [
                         {
                             "chargeType": "SEM_ENCARGO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
+                            "chargeAmount": "0.0000"
                         }
                     ]
                 }
@@ -67,25 +65,24 @@
                 "instalmentId": "34f944ed-686c-353d-a900-8c0d00abd480",
                 "paidDate": "2022-07-10",
                 "currency": "BRL",
-                "paidAmount": 1520.3300,
+                "paidAmount": "1520.3300",
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "Manutenção de Contrato",
                             "feeCode": "MANUTENCAO_CONTRATO",
-                            "feeAmount": 158.0000
+                            "feeAmount": "158.0000"
                         },
                         {
                             "feeName": "Taxa de administração",
                             "feeCode": "ADMINISTRACAO",
-                            "feeAmount": 109.0000
+                            "feeAmount": "109.0000"
                         }
                     ],
                     "charges": [
                         {
                             "chargeType": "SEM_ENCARGO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
+                            "chargeAmount": "0.0000"
                         }
                     ]
                 }
@@ -96,25 +93,24 @@
                 "instalmentId": "5c683392-dd5a-36a5-abb5-26c53fec2365",
                 "paidDate": "2022-07-08",
                 "currency": "BRL",
-                "paidAmount": 2369.1425,
+                "paidAmount": "2369.1425",
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "Manutenção de Contrato",
                             "feeCode": "MANUTENCAO_CONTRATO",
-                            "feeAmount": 158.0000
+                            "feeAmount": "158.0000"
                         },
                         {
                             "feeName": "Taxa de administração",
                             "feeCode": "ADMINISTRACAO",
-                            "feeAmount": 109.0000
+                            "feeAmount": "109.0000"
                         }
                     ],
                     "charges": [
                         {
                             "chargeType": "SEM_ENCARGO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
+                            "chargeAmount": "0.0000"
                         }
                     ]
                 }
@@ -127,6 +123,6 @@
     "meta": {
         "totalRecords": 4,
         "totalPages": 1,
-        "requestDateTime": "2022-07-20T46:09:00Z"
+        "requestDateTime": "2022-09-05T09:45:50Z"
     }
 }

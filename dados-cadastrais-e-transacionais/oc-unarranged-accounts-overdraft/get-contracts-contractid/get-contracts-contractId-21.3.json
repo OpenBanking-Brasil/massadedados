@@ -7,15 +7,13 @@
         "productSubType": "ADIANTAMENTO_A_DEPOSITANTES",
         "contractDate": "2022-05-01",
         "settlementDate": "2022-05-08",
-        "contractAmount": 5500.0000,
+        "contractAmount": "5500.0000",
         "currency": "BRL",
         "dueDate": "2022-05-29",
         "instalmentPeriodicity": "QUINZENAL",
-        "instalmentPeriodicityAdditionalInfo": "NA",
         "firstInstalmentDueDate": "2022-05-15",
-        "CET": 0.0490,
+        "CET": "0.0490",
         "amortizationScheduled": "PRICE",
-        "amortizationScheduledAdditionalInfo": "NA",
         "interestRates": [
             {
                 "taxType": "NOMINAL",
@@ -24,9 +22,8 @@
                 "calculation": "30/365",
                 "referentialRateIndexerType": "FLUTUANTES",
                 "referentialRateIndexerSubType": "SELIC",
-                "preFixedRate": 0.0000,
-                "postFixedRate": 0.0490,
-                "additionalInfo": "NA"
+                "preFixedRate": "0.0000",
+                "postFixedRate": "0.0490"
             }
         ],
         "contractedFees": [
@@ -35,28 +32,26 @@
                 "feeCode": "ADESAO",
                 "feeChargeType": "UNICA",
                 "feeCharge": "PERCENTUAL",
-                "feeAmount": 0.0000,
-                "feeRate": 0.3800
+                "feeAmount": "0.0000",
+                "feeRate": "0.3800"
             },
             {
                 "feeName": "Taxa de administração",
                 "feeCode": "ADMINISTRACAO",
                 "feeChargeType": "POR_PARCELA",
                 "feeCharge": "MINIMO",
-                "feeAmount": 26.0000,
-                "feeRate": 0.0000
-              }
+                "feeAmount": "26.0000",
+                "feeRate": "0.0000"
+            }
         ],
         "contractedFinanceCharges": [
             {
                 "chargeType": "MULTA_ATRASO_PAGAMENTO",
-                "chargeAdditionalInfo": "NA",
-                "chargeRate": 0.0960
+                "chargeRate": "0.0960"
             },
             {
                 "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
-                "chargeAdditionalInfo": "NA",
-                "chargeRate": 0.0700
+                "chargeRate": "0.0700"
             }
         ]
     },
@@ -66,6 +61,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2022-06-10T08:12:00Z"
+        "requestDateTime": "2022-09-05T09:45:50Z"
     }
 }
