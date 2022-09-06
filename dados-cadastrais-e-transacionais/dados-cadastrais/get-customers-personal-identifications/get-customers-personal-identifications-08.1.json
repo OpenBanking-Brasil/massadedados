@@ -9,7 +9,7 @@
       "birthDate": "1992-05-17",
       "maritalStatusCode": "SOLTEIRO",
       "sex": "FEMININO",
-      "companyCnpj": [
+      "companiesCnpj": [
         "00360305000104"
       ],
       "documents": {
