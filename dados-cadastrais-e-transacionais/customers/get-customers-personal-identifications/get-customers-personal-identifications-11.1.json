@@ -8,7 +8,7 @@
       "birthDate": "1994-04-08",
       "maritalStatusCode": "SOLTEIRO",
       "sex": "OUTRO",
-      "companyCnpj": [
+      "companiesCnpj": [
         "00416968000101"
       ],
       "documents": {

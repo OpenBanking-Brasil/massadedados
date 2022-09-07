@@ -7,15 +7,13 @@
         "productSubType": "CREDITO_PESSOAL_COM_CONSIGNACAO",
         "contractDate": "2009-01-01",
         "settlementDate": "2011-01-01",
-        "contractAmount": 15000.0000,
+        "contractAmount": "15000.0000",
         "currency": "BRL",
         "dueDate": "2011-01-01",
         "instalmentPeriodicity": "ANUAL",
-        "instalmentPeriodicityAdditionalInfo": "NA",
         "firstInstalmentDueDate": "2010-01-01",
-        "CET": 0.0300,
+        "CET": "0.0300",
         "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
-        "amortizationScheduledAdditionalInfo": "NA",
         "cnpjConsignee": "00416968000101",
         "interestRates": [
             {
@@ -25,9 +23,8 @@
                 "calculation": "30/365",
                 "referentialRateIndexerType": "PRE_FIXADO",
                 "referentialRateIndexerSubType": "PRE_FIXADO",
-                "preFixedRate": 0.0300,
-                "postFixedRate": 0.0000,
-                "additionalInfo": "NA"
+                "preFixedRate": "0.0300",
+                "postFixedRate": "0.0000"
             }
         ],
         "contractedFees": [
@@ -36,15 +33,14 @@
                 "feeCode": "CADASTRO",
                 "feeChargeType": "UNICA",
                 "feeCharge": "FIXO",
-                "feeAmount": 500.0000,
-                "feeRate": 0.0000
+                "feeAmount": "500.0000",
+                "feeRate": "0.0000"
             }
         ],
         "contractedFinanceCharges": [
             {
                 "chargeType": "JUROS_MORA_ATRASO",
-                "chargeAdditionalInfo": "NA",
-                "chargeRate": 0.0100
+                "chargeRate": "0.0100"
             }
         ]
     },
@@ -54,6 +50,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-12-10T00:00:00Z"
+        "requestDateTime": "2022-08-15T06:00:00Z"
     }
 }
