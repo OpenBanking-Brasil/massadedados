@@ -5,31 +5,43 @@
       "personalId": "d59-99a6-e78f18eb87-ac130",
       "brandName": "Banco Inter S.A.",
       "civilName": "Sarah Miranda Rosman",
+      "socialName": "NA",
       "birthDate": "1994-04-08",
       "maritalStatusCode": "SOLTEIRO",
-      "sex": "OUTRO",
-      "companiesCnpj": [
+      "sex": "NAO_DISPONIVEL",
+      "companyCnpj": [
         "00416968000101"
       ],
       "documents": {
         "cpfNumber": "84154817728",
-        "passport": {
-          "number": "36637678823849498278",
-          "country": "BRA",
-          "expirationDate": "2025-07-18",
-          "issueDate": "2015-07-18"
-        }
+        "passportNumber": "36637678823849498278",
+        "passportCountry": "BRA",		
+        "passportExpirationDate": "2021-07-18",
+        "passportIssueDate": "2011-07-18"
       },
       "otherDocuments": [
         {
           "type": "CNH",
+          "typeAdditionalInfo": "NA",
           "number": "17238865003",
-          "checkDigit": "8",
+          "checkDigit": "NA",
           "additionalInfo": "SSP/BA",
-          "expirationDate": "2027-03-28"
+          "expirationDate": "2023-03-28"	
         }
       ],
-      "hasBrazilianNationality": true,
+      "nationality": [
+        {
+          "otherNationalitiesInfo": "NA",
+          "documents": [
+            {
+              "type": "NA",
+              "number": "NA",
+              "expirationDate": "NA",
+              "issueDate": "NA"
+            }
+          ]
+        }
+      ],
       "filiation": [
         {
           "type": "MAE",
@@ -60,7 +72,8 @@
             "type": "MOVEL",
             "countryCallingCode": "55",
             "areaCode": "71",
-            "number": "994287711"
+            "number": "994287711",
+            "phoneExtension": "NA"
           }
         ],
         "emails": [
@@ -78,6 +91,6 @@
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2022-08-15T06:00:00Z"
+    "requestDateTime": "2021-12-10T10:10:00Z"
   }
 }

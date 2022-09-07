@@ -1,9 +1,9 @@
 {
     "data": {
         "consentId": "urn:baninter:ITR256356985",
-        "creationDateTime": "2022-08-15T06:00:00Z",
+        "creationDateTime": "2021-06-11T09:37:00Z",
         "status": "AUTHORISED",
-        "statusUpdateDateTime": "2022-08-15T06:00:00Z",
+        "statusUpdateDateTime": "2021-06-14T09:42:00Z",
         "permissions": [
             "CUSTOMERS_PERSONAL_IDENTIFICATIONS_READ",
             "CUSTOMERS_PERSONAL_ADITTIONALINFO_READ",
@@ -13,7 +13,7 @@
             "LOANS_WARRANTIES_READ",
             "RESOURCES_READ"
         ],
-        "expirationDateTime": "2023-08-15T06:00:00Z"
+        "expirationDateTime": "2022-06-09T06:00:00Z"
     },
     "links": {
         "self": "https://api.baninter.com/open-banking/consents/v1/consents/urn:baninter:ITR256356985"
@@ -21,6 +21,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2022-08-15T06:00:00Z"
+        "requestDateTime": "2022-05-07T06:00:00Z"
     }
 }

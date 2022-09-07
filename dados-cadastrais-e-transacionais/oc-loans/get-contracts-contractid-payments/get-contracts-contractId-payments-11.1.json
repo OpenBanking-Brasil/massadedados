@@ -1,7 +1,7 @@
 {
     "data": {
         "paidInstalments": 1,
-        "contractOutstandingBalance": "964636.4000",
+        "contractOutstandingBalance": 964636.4000,
         "releases": [
             {
                 "paymentId": "gb7ijcg1-b7cd-4729-89c1-mxmhs5ia4hlp",
@@ -9,7 +9,23 @@
                 "instalmentId": "ji9l6aow-b064-4f60-9f27-91ndj61nz8ot",
                 "paidDate": "2021-12-01",
                 "currency": "BRL",
-                "paidAmount": "0.0000"
+                "paidAmount": 0.0000,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
             }
         ]
     },
@@ -19,6 +35,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2022-08-15T06:00:00Z"
+        "requestDateTime": "2021-05-21T08:30:00Z"
     }
 }

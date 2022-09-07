@@ -1,7 +1,7 @@
 {
     "data": {
         "paidInstalments": 3,
-        "contractOutstandingBalance": "0.0000",
+        "contractOutstandingBalance": 0.0000,
         "releases": [
             {
                 "paymentId": "lbk1zqbb-b7cd-4729-89c1-s9ys2tzunck2",
@@ -9,7 +9,23 @@
                 "instalmentId": "xds81rsi-b064-4f60-9f27-4eaqlgh441gy",
                 "paidDate": "2006-04-01",
                 "currency": "BRL",
-                "paidAmount": "45958.9700"
+                "paidAmount": 45958.9700,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
             },
             {
                 "paymentId": "rqyaza6s-b7cd-4729-89c1-pscjyfy7k2c5",
@@ -17,7 +33,23 @@
                 "instalmentId": "fxlx5lsh-b064-4f60-9f27-88um6xtdx5tx",
                 "paidDate": "2006-03-01",
                 "currency": "BRL",
-                "paidAmount": "45958.9700"
+                "paidAmount": 45958.9700,
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "NA",
+                            "feeCode": "NA",
+                            "feeAmount": 0.0000
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
+                        }
+                    ]
+                }
             },
             {
                 "paymentId": "kbn4l2rg-b7cd-4729-89c1-s22rr5qa5fsx",
@@ -25,19 +57,20 @@
                 "instalmentId": "0u0eu7ba-b064-4f60-9f27-q0q41p0wt1d6",
                 "paidDate": "2006-02-01",
                 "currency": "BRL",
-                "paidAmount": "46458.9700",
+                "paidAmount": 46458.9700,
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "Taxa de Cadastro",
                             "feeCode": "CADASTRO",
-                            "feeAmount": "500.0000"
+                            "feeAmount": 500.0000
                         }
                     ],
                     "charges": [
                         {
                             "chargeType": "SEM_ENCARGO",
-                            "chargeAmount": "0.0000"
+                            "chargeAdditionalInfo": "NA",
+                            "chargeAmount": 0.0000
                         }
                     ]
                 }
@@ -50,6 +83,6 @@
     "meta": {
         "totalRecords": 3,
         "totalPages": 1,
-        "requestDateTime": "2022-08-15T06:00:00Z"
+        "requestDateTime": "2021-05-21T08:30:00Z"
     }
 }

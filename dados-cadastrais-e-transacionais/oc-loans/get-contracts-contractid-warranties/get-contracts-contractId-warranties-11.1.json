@@ -4,37 +4,37 @@
             "currency": "BRL",
             "warrantyType": "HIPOTECA",
             "warrantySubType": "IMOVEIS_RESIDENCIAIS",
-            "warrantyAmount": "180000.0000"
+            "warrantyAmount": 180000.0000
         },
         {
             "currency": "BRL",
             "warrantyType": "BENS_ARRENDADOS",
             "warrantySubType": "OUTROS_IMOVEIS",
-            "warrantyAmount": "155000.0000"
+            "warrantyAmount": 155000.0000
         },
         {
             "currency": "BRL",
             "warrantyType": "BENS_ARRENDADOS",
             "warrantySubType": "OUTROS_IMOVEIS",
-            "warrantyAmount": "150000.0000"
+            "warrantyAmount": 150000.0000
         },
         {
             "currency": "BRL",
             "warrantyType": "BENS_ARRENDADOS",
             "warrantySubType": "OUTROS_IMOVEIS",
-            "warrantyAmount": "145000.0000"
+            "warrantyAmount": 145000.0000
         },
         {
             "currency": "BRL",
             "warrantyType": "BENS_ARRENDADOS",
             "warrantySubType": "OUTROS_IMOVEIS",
-            "warrantyAmount": "140000.0000"
+            "warrantyAmount": 140000.0000
         },
         {
             "currency": "BRL",
             "warrantyType": "BENS_ARRENDADOS",
             "warrantySubType": "OUTROS_IMOVEIS",
-            "warrantyAmount": "135000.0000"
+            "warrantyAmount": 135000.0000
         }
     ],
     "links": {
@@ -43,6 +43,6 @@
     "meta": {
         "totalRecords": 6,
         "totalPages": 1,
-        "requestDateTime": "2022-08-15T06:00:00Z"
+        "requestDateTime": "2021-12-10T00:00:00Z"
     }
 }
