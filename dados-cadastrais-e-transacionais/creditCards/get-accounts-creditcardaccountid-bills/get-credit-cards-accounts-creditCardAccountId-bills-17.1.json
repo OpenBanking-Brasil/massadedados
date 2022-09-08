@@ -2,25 +2,29 @@
     "data": [
         {
             "billId": "1e1f17da-da9a-11eb-8d19-0242ac130003",
-            "dueDate": "2021-06-10",
-            "billTotalAmount": 1154.8200,
-            "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 115.4820,
-            "billMinimumAmountCurrency": "BRL",
+            "dueDate": "2022-08-10",
+            "billTotalAmount": {
+                "amount": "1154.8200",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "115.4820",
+                "currency": "BRL"
+            },
             "isInstalment": false,
             "financeCharges": [
                 {
                     "type": "JUROS_REMUNERATORIOS_ATRASO_PAGAMENTO_FATURA",
-                    "amount": 154.7800,
+                    "amount": "154.7800",
                     "currency": "BRL"
                 }
             ],
             "payments": [
                 {
                     "valueType": "OUTRO_VALOR_PAGO_FATURA",
-                    "paymentDate": "2021-06-15",
+                    "paymentDate": "2022-08-01",
                     "paymentMode": "BOLETO_BANCARIO",
-                    "amount": 574.2600,
+                    "amount": "574.2600",
                     "currency": "BRL"
                 }
             ]
@@ -32,6 +36,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-06-16T14:28:47Z"
+        "requestDateTime": "2022-08-30T11:04:00Z"
     }
 }

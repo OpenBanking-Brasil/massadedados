@@ -3,23 +3,25 @@
         {
             "transactionId": "5405901c-da9b-11eb-8d19-0242ac130003",
             "identificationNumber": "7890",
-            "lineName": "CREDITO_PARCELADO",
-            "transactionName": "PAGAMENTO",
+            "transactionName": "e-cadeiras",
             "billId": "1e1f17da-da9a-11eb-8d19-0242ac130003",
-            "creditDebitType": "DEBITO",
+            "creditDebitType": "CREDITO",
             "transactionType": "PAGAMENTO",
-            "transactionalAdditionalInfo": "NA",
             "paymentType": "A_PRAZO",
             "feeType": "ANUIDADE",
-            "feeTypeAdditionalInfo": "NA",
             "otherCreditsType": "OUTROS",
-            "chargeIdentificator": "PARCELA 1",
-            "chargeNumber": 2,
-            "brazilianAmount": 1000.0400,
-            "amount": 0.0000,
-            "currency": "BRL",
-            "transactionDate": "2021-05-20",
-            "billPostDate": "2021-05-21",
+            "chargeIdentificator": "e-cadeiras",
+            "chargeNumber": 1,
+            "brazilianAmount": {
+                "amount": "1154.8200",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "1154.8200",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-07-20",
+            "billPostDate": "2022-07-21",
             "payeeMCC": 5912
         }
     ],
@@ -29,6 +31,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-06-11T15:11:21Z"
+        "requestDateTime": "2022-08-30T11:04:00Z"
     }
 }
