@@ -5,14 +5,19 @@
             "consolidationType": "CONSOLIDADO",
             "identificationNumber": "3783",
             "lineName": "SAQUE_CREDITO_BRASIL",
-            "lineNameAdditionalInfo": "NA",
             "isLimitFlexible": true,
-            "limitAmountCurrency": "BRL",
-            "limitAmount": 50000.0000,
-            "usedAmountCurrency": "BRL",
-            "usedAmount": 0.0000,
-            "availableAmountCurrency": "BRL",
-            "availableAmount": 50000.0000
+            "limitAmount": {
+                "amount": "50000.0000",
+                "currency": "BRL"
+            },
+            "usedAmount": {
+                "amount": "0.0000",
+                "currency": "BRL"
+            },
+            "availableAmount": {
+                "amount": "50000.0000",
+                "currency": "BRL"
+            }
         }
     ],
     "links": {
@@ -21,6 +26,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2022-03-28T00:00:00Z"
+        "requestDateTime": "2022-09-01T10:45:00Z"
     }
 }

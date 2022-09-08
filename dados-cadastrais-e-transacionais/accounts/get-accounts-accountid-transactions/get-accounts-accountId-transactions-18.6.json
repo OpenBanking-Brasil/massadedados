@@ -1,68 +1,76 @@
 {
     "data": [
         {
-            "amount": 7422.9745,
-            "partieCompeCode": "001",
-            "partieBranchCode": "5429",
-            "partieNumber": "12583783",
-            "partieCheckDigit": "7",
-            "partiePersonType": "PESSOA_JURIDICA",
-            "partieCnpjCpf": "79317559000108",
-            "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
-            "creditDebitType": "CREDITO",
-            "type": "DEPOSITO",
-            "transactionCurrency": "BRL",
-            "transactionDate": "2021-10-16",
             "transactionId": "1145c2cb-4496-49c5-9433-e89b1080670a",
-            "transactionName": "1145c2cb-4496-49c5-9433-e89b1080670a"
-        },
-        {
-            "amount": 6635.2288,
-            "partieCompeCode": "001",
-            "partieBranchCode": "5429",
-            "partieNumber": "12583783",
-            "partieCheckDigit": "7",
-            "partiePersonType": "PESSOA_JURIDICA",
-            "partieCnpjCpf": "79317559000108",
             "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
             "creditDebitType": "CREDITO",
-            "type": "OPERACAO_CREDITO",
-            "transactionCurrency": "BRL",
-            "transactionDate": "2021-10-15",
+            "transactionName": "1145c2cb-4496-49c5-9433-e89b1080670a",
+            "type": "DEPOSITO",
+            "transactionAmount": {
+                "amount": "7422.9745",
+                "currency": "BRL"
+            },
+            "transactionDate": "2021-10-16",
+            "partieCnpjCpf": "79317559000108",
+            "partiePersonType": "PESSOA_JURIDICA",
+            "partieCompeCode": "001",
+            "partieBranchCode": "5429",
+            "partieNumber": "12583783",
+            "partieCheckDigit": "7"
+        },
+        {
             "transactionId": "c3807789-f42e-4881-b96f-96069880b532",
-            "transactionName": "c3807789-f42e-4881-b96f-96069880b532"
-        },
-        {
-            "amount": 92.4869,
+            "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
+            "creditDebitType": "CREDITO",
+            "transactionName": "c3807789-f42e-4881-b96f-96069880b532",
+            "type": "OPERACAO_CREDITO",
+            "transactionAmount": {
+                "amount": "6635.2288",
+                "currency": "BRL"
+            },
+            "transactionDate": "2021-10-15",
+            "partieCnpjCpf": "79317559000108",
+            "partiePersonType": "PESSOA_JURIDICA",
             "partieCompeCode": "001",
             "partieBranchCode": "5429",
             "partieNumber": "12583783",
-            "partieCheckDigit": "7",
-            "partiePersonType": "PESSOA_JURIDICA",
-            "partieCnpjCpf": "79317559000108",
-            "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
-            "creditDebitType": "DEBITO",
-            "type": "DOC",
-            "transactionCurrency": "BRL",
-            "transactionDate": "2021-10-14",
+            "partieCheckDigit": "7"
+        },
+        {
             "transactionId": "75425614-da8b-464d-aa79-b150177b7e95",
-            "transactionName": "75425614-da8b-464d-aa79-b150177b7e95"
-        },
-        {
-            "amount": 101.1483,
+            "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
+            "creditDebitType": "DEBITO",
+            "transactionName": "75425614-da8b-464d-aa79-b150177b7e95",
+            "type": "DOC",
+            "transactionAmount": {
+                "amount": "92.4869",
+                "currency": "BRL"
+            },
+            "transactionDate": "2021-10-14",
+            "partieCnpjCpf": "79317559000108",
+            "partiePersonType": "PESSOA_JURIDICA",
             "partieCompeCode": "001",
             "partieBranchCode": "5429",
             "partieNumber": "12583783",
-            "partieCheckDigit": "7",
-            "partiePersonType": "PESSOA_JURIDICA",
-            "partieCnpjCpf": "79317559000108",
+            "partieCheckDigit": "7"
+        },
+        {
+            "transactionId": "8e4a65c9-330b-46bb-8eb4-b59c3904572c",
             "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
             "creditDebitType": "DEBITO",
+            "transactionName": "8e4a65c9-330b-46bb-8eb4-b59c3904572c",
             "type": "BOLETO",
-            "transactionCurrency": "BRL",
+            "transactionAmount": {
+                "amount": "101.1483",
+                "currency": "BRL"
+            },
             "transactionDate": "2021-09-14",
-            "transactionId": "8e4a65c9-330b-46bb-8eb4-b59c3904572c",
-            "transactionName": "8e4a65c9-330b-46bb-8eb4-b59c3904572c"
+            "partieCnpjCpf": "79317559000108",
+            "partiePersonType": "PESSOA_JURIDICA",
+            "partieCompeCode": "001",
+            "partieBranchCode": "5429",
+            "partieNumber": "12583783",
+            "partieCheckDigit": "7"
         }
     ],
     "links": {
@@ -74,6 +82,6 @@
     "meta": {
         "totalRecords": 54,
         "totalPages": 6,
-        "requestDateTime": "2022-03-28T00:00:00Z"
+        "requestDateTime": "2022-09-01T10:45:00Z"
     }
 }

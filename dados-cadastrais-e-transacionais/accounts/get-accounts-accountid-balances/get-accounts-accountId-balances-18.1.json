@@ -1,11 +1,17 @@
 {
   "data": {
-    "availableAmount": 556200.0000,
-    "availableAmountCurrency": "BRL",
-    "blockedAmount": 25611.9490,
-    "blockedAmountCurrency": "BRL",
-    "automaticallyInvestedAmount": 1.0000,
-    "automaticallyInvestedAmountCurrency": "BRL"
+    "availableAmount": {
+      "amount": "556200.0000",
+      "currency": "BRL"
+    },
+    "blockedAmount": {
+      "amount": "25611.9490",
+      "currency": "BRL"
+    },
+    "automaticallyInvestedAmount": {
+      "amount": "1.0000",
+      "currency": "BRL"
+    }
   },
   "links": {
     "self": "https://opendata.api.bb.com.br/open-banking/accounts/v1/accounts/0e49a20b-33c3-42ac-876c-567c78673abd/balances"
@@ -13,6 +19,6 @@
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2022-03-28T00:00:00Z"
+    "requestDateTime": "2022-09-01T10:45:00Z"
   }
 }

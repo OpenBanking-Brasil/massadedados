@@ -1,164 +1,184 @@
 {
     "data": [
         {
-            "amount": 7697.0303,
-            "partieCompeCode": "001",
-            "partieBranchCode": "5429",
-            "partieNumber": "12583783",
-            "partieCheckDigit": "7",
-            "partiePersonType": "PESSOA_JURIDICA",
-            "partieCnpjCpf": "79317559000108",
+            "transactionId": "5b131fa0-8989-447c-b4e3-65082d178bd9",
             "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
             "creditDebitType": "CREDITO",
+            "transactionName": "5b131fa0-8989-447c-b4e3-65082d178bd9",
             "type": "RENDIMENTO_APLIC_FINANCEIRA",
-            "transactionCurrency": "BRL",
+            "transactionAmount": {
+                "amount": "7697.0303",
+                "currency": "BRL"
+            },
             "transactionDate": "2022-03-08",
-            "transactionId": "5b131fa0-8989-447c-b4e3-65082d178bd9",
-            "transactionName": "5b131fa0-8989-447c-b4e3-65082d178bd9"
-        },
-        {
-            "amount": 6850.5643,
+            "partieCnpjCpf": "79317559000108",
+            "partiePersonType": "PESSOA_JURIDICA",
             "partieCompeCode": "001",
             "partieBranchCode": "5429",
             "partieNumber": "12583783",
-            "partieCheckDigit": "7",
-            "partiePersonType": "PESSOA_JURIDICA",
-            "partieCnpjCpf": "79317559000108",
+            "partieCheckDigit": "7"
+        },
+        {
+            "transactionId": "61251c88-c923-4f6b-a6a2-cb750c59748e",
             "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
             "creditDebitType": "DEBITO",
+            "transactionName": "61251c88-c923-4f6b-a6a2-cb750c59748e",
             "type": "CARTAO",
-            "transactionCurrency": "BRL",
+            "transactionAmount": {
+                "amount": "6850.5643",
+                "currency": "BRL"
+            },
             "transactionDate": "2022-03-06",
-            "transactionId": "61251c88-c923-4f6b-a6a2-cb750c59748e",
-            "transactionName": "61251c88-c923-4f6b-a6a2-cb750c59748e"
-        },
-        {
-            "amount": 6581.3958,
+            "partieCnpjCpf": "79317559000108",
+            "partiePersonType": "PESSOA_JURIDICA",
             "partieCompeCode": "001",
             "partieBranchCode": "5429",
             "partieNumber": "12583783",
-            "partieCheckDigit": "7",
-            "partiePersonType": "PESSOA_JURIDICA",
-            "partieCnpjCpf": "79317559000108",
-            "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
-            "creditDebitType": "CREDITO",
-            "type": "DEPOSITO",
-            "transactionCurrency": "BRL",
-            "transactionDate": "2022-02-23",
+            "partieCheckDigit": "7"
+        },
+        {
             "transactionId": "99869e2e-5e46-4cf8-b258-d3ab67a3045a",
-            "transactionName": "99869e2e-5e46-4cf8-b258-d3ab67a3045a"
-        },
-        {
-            "amount": 9382.3471,
+            "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
+            "creditDebitType": "CREDITO",
+            "transactionName": "99869e2e-5e46-4cf8-b258-d3ab67a3045a",
+            "type": "DEPOSITO",
+            "transactionAmount": {
+                "amount": "6581.3958",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-02-23",
+            "partieCnpjCpf": "79317559000108",
+            "partiePersonType": "PESSOA_JURIDICA",
             "partieCompeCode": "001",
             "partieBranchCode": "5429",
             "partieNumber": "12583783",
-            "partieCheckDigit": "7",
-            "partiePersonType": "PESSOA_JURIDICA",
-            "partieCnpjCpf": "79317559000108",
-            "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
-            "creditDebitType": "CREDITO",
-            "type": "DOC",
-            "transactionCurrency": "BRL",
-            "transactionDate": "2022-02-16",
+            "partieCheckDigit": "7"
+        },
+        {
             "transactionId": "5568d0b3-dacd-49f3-8313-5612c50e8a0a",
-            "transactionName": "5568d0b3-dacd-49f3-8313-5612c50e8a0a"
-        },
-        {
-            "amount": 8606.3783,
-            "partieCompeCode": "001",
-            "partieBranchCode": "5429",
-            "partieNumber": "12583783",
-            "partieCheckDigit": "7",
-            "partiePersonType": "PESSOA_JURIDICA",
-            "partieCnpjCpf": "79317559000108",
             "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
             "creditDebitType": "CREDITO",
+            "transactionName": "5568d0b3-dacd-49f3-8313-5612c50e8a0a",
             "type": "DOC",
-            "transactionCurrency": "BRL",
-            "transactionDate": "2022-02-06",
+            "transactionAmount": {
+                "amount": "9382.3471",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-02-16",
+            "partieCnpjCpf": "79317559000108",
+            "partiePersonType": "PESSOA_JURIDICA",
+            "partieCompeCode": "001",
+            "partieBranchCode": "5429",
+            "partieNumber": "12583783",
+            "partieCheckDigit": "7"
+        },
+        {
             "transactionId": "10a53d58-7aad-467a-a14e-810a462f6370",
-            "transactionName": "10a53d58-7aad-467a-a14e-810a462f6370"
-        },
-        {
-            "amount": 7672.1459,
+            "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
+            "creditDebitType": "CREDITO",
+            "transactionName": "10a53d58-7aad-467a-a14e-810a462f6370",
+            "type": "DOC",
+            "transactionAmount": {
+                "amount": "8606.3783",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-02-06",
+            "partieCnpjCpf": "79317559000108",
+            "partiePersonType": "PESSOA_JURIDICA",
             "partieCompeCode": "001",
             "partieBranchCode": "5429",
             "partieNumber": "12583783",
-            "partieCheckDigit": "7",
-            "partiePersonType": "PESSOA_JURIDICA",
-            "partieCnpjCpf": "79317559000108",
-            "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
-            "creditDebitType": "CREDITO",
-            "type": "OUTROS",
-            "transactionCurrency": "BRL",
-            "transactionDate": "2022-02-02",
+            "partieCheckDigit": "7"
+        },
+        {
             "transactionId": "9d40e7fa-131b-489d-8b38-7e88faf1dbdc",
-            "transactionName": "9d40e7fa-131b-489d-8b38-7e88faf1dbdc"
-        },
-        {
-            "amount": 5867.9832,
+            "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
+            "creditDebitType": "CREDITO",
+            "transactionName": "9d40e7fa-131b-489d-8b38-7e88faf1dbdc",
+            "type": "OUTROS",
+            "transactionAmount": {
+                "amount": "7672.1459",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-02-02",
+            "partieCnpjCpf": "79317559000108",
+            "partiePersonType": "PESSOA_JURIDICA",
             "partieCompeCode": "001",
             "partieBranchCode": "5429",
             "partieNumber": "12583783",
-            "partieCheckDigit": "7",
-            "partiePersonType": "PESSOA_JURIDICA",
-            "partieCnpjCpf": "79317559000108",
-            "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
-            "creditDebitType": "CREDITO",
-            "type": "OPERACAO_CREDITO",
-            "transactionCurrency": "BRL",
-            "transactionDate": "2022-01-31",
+            "partieCheckDigit": "7"
+        },
+        {
             "transactionId": "de94a535-7c46-4437-a755-a4eb60016e38",
-            "transactionName": "de94a535-7c46-4437-a755-a4eb60016e38"
-        },
-        {
-            "amount": 9060.7773,
+            "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
+            "creditDebitType": "CREDITO",
+            "transactionName": "de94a535-7c46-4437-a755-a4eb60016e38",
+            "type": "OPERACAO_CREDITO",
+            "transactionAmount": {
+                "amount": "5867.9832",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-01-31",
+            "partieCnpjCpf": "79317559000108",
+            "partiePersonType": "PESSOA_JURIDICA",
             "partieCompeCode": "001",
             "partieBranchCode": "5429",
             "partieNumber": "12583783",
-            "partieCheckDigit": "7",
-            "partiePersonType": "PESSOA_JURIDICA",
-            "partieCnpjCpf": "79317559000108",
-            "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
-            "creditDebitType": "CREDITO",
-            "type": "TRANSFERENCIA_MESMA_INSTITUICAO",
-            "transactionCurrency": "BRL",
-            "transactionDate": "2022-01-28",
+            "partieCheckDigit": "7"
+        },
+        {
             "transactionId": "4e42c9cd-4ae3-4d72-a573-573357e37814",
-            "transactionName": "4e42c9cd-4ae3-4d72-a573-573357e37814"
-        },
-        {
-            "amount": 6076.7831,
+            "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
+            "creditDebitType": "CREDITO",
+            "transactionName": "4e42c9cd-4ae3-4d72-a573-573357e37814",
+            "type": "TRANSFERENCIA_MESMA_INSTITUICAO",
+            "transactionAmount": {
+                "amount": "9060.7773",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-01-28",
+            "partieCnpjCpf": "79317559000108",
+            "partiePersonType": "PESSOA_JURIDICA",
             "partieCompeCode": "001",
             "partieBranchCode": "5429",
             "partieNumber": "12583783",
-            "partieCheckDigit": "7",
-            "partiePersonType": "PESSOA_JURIDICA",
-            "partieCnpjCpf": "79317559000108",
-            "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
-            "creditDebitType": "CREDITO",
-            "type": "CARTAO",
-            "transactionCurrency": "BRL",
-            "transactionDate": "2022-01-27",
+            "partieCheckDigit": "7"
+        },
+        {
             "transactionId": "e49fbe42-e0aa-4bd2-817f-d026f8428516",
-            "transactionName": "e49fbe42-e0aa-4bd2-817f-d026f8428516"
-        },
-        {
-            "amount": 8331.0816,
+            "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
+            "creditDebitType": "CREDITO",
+            "transactionName": "e49fbe42-e0aa-4bd2-817f-d026f8428516",
+            "type": "CARTAO",
+            "transactionAmount": {
+                "amount": "6076.7831",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-01-27",
+            "partieCnpjCpf": "79317559000108",
+            "partiePersonType": "PESSOA_JURIDICA",
             "partieCompeCode": "001",
             "partieBranchCode": "5429",
             "partieNumber": "12583783",
-            "partieCheckDigit": "7",
-            "partiePersonType": "PESSOA_JURIDICA",
-            "partieCnpjCpf": "79317559000108",
+            "partieCheckDigit": "7"
+        },
+        {
+            "transactionId": "ea18f567-38ec-4d9b-929f-df45bf63961d",
             "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
             "creditDebitType": "CREDITO",
+            "transactionName": "ea18f567-38ec-4d9b-929f-df45bf63961d",
             "type": "RESGATE_APLIC_FINANCEIRA",
-            "transactionCurrency": "BRL",
+            "transactionAmount": {
+                "amount": "8331.0816",
+                "currency": "BRL"
+            },
             "transactionDate": "2022-01-26",
-            "transactionId": "ea18f567-38ec-4d9b-929f-df45bf63961d",
-            "transactionName": "ea18f567-38ec-4d9b-929f-df45bf63961d"
+            "partieCnpjCpf": "79317559000108",
+            "partiePersonType": "PESSOA_JURIDICA",
+            "partieCompeCode": "001",
+            "partieBranchCode": "5429",
+            "partieNumber": "12583783",
+            "partieCheckDigit": "7"
         }
     ],
     "links": {
@@ -171,6 +191,6 @@
     "meta": {
         "totalRecords": 54,
         "totalPages": 6,
-        "requestDateTime": "2022-03-28T00:00:00Z"
+        "requestDateTime": "2022-09-01T10:45:00Z"
     }
 }

@@ -1,49 +1,51 @@
 {
     "data": [
         {
-            "transactionId": "992c590d-32ab-426e-9372-347dcc14ce1e",
+            "transactionId": "959bc3a2-15e7-49e4-ba44-663048cbb8ef",
             "identificationNumber": "3783",
-            "lineName": "SAQUE_CREDITO_BRASIL",
-            "transactionName": "SAQUE",
+            "transactionName": "Leroy Merlin",
             "billId": "40ec23a0-b78f-46de-82cd-3535b46c55e1",
-            "creditDebitType": "DEBITO",
+            "creditDebitType": "CREDITO",
             "transactionType": "PAGAMENTO",
-            "transactionalAdditionalInfo": "NA",
             "paymentType": "A_VISTA",
-            "feeType": "SAQUE_CARTAO_BRASIL",
-            "feeTypeAdditionalInfo": "NA",
-            "otherCreditsType": "NA",
-            "otherCreditsAdditionalInfo": "NA",
-            "chargeIdentificator": "NA",
-            "chargeNumber": 0.0000,
-            "brazilianAmount": 6850.5643,
-            "amount": 0.0000,
-            "currency": "BRL",
-            "transactionDate": "2022-03-01",
-            "billPostDate": "2022-03-30",
+            "feeType": "ANUIDADE",
+            "otherCreditsType": "CREDITO_ROTATIVO",
+            "chargeIdentificator": "Leroy Merlin",
+            "chargeNumber": 1,
+            "brazilianAmount": {
+                "amount": "6850.5643",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "6850.5643",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-07-16",
+            "billPostDate": "2022-07-17",
             "payeeMCC": 7379
         },
         {
-            "transactionId": "959bc3a2-15e7-49e4-ba44-663048cbb8ef",
+            "transactionId": "9e532fb7-c6c3-4b59-8ba7-6339d25db885",
             "identificationNumber": "3783",
-            "lineName": "SAQUE_CREDITO_BRASIL",
-            "transactionName": "SAQUE",
+            "transactionName": "Mercado Livre Brasil",
             "billId": "359a9b72-201e-4966-a4c4-5cd77654614f",
-            "creditDebitType": "DEBITO",
+            "creditDebitType": "CREDITO",
             "transactionType": "PAGAMENTO",
-            "transactionalAdditionalInfo": "NA",
             "paymentType": "A_VISTA",
-            "feeType": "SAQUE_CARTAO_BRASIL",
-            "feeTypeAdditionalInfo": "NA",
-            "otherCreditsType": "NA",
-            "otherCreditsAdditionalInfo": "NA",
-            "chargeIdentificator": "NA",
-            "chargeNumber": 0.0000,
-            "brazilianAmount": 9393.0721,
-            "amount": 0.0000,
-            "currency": "BRL",
-            "transactionDate": "2022-01-16",
-            "billPostDate": "2021-11-01",
+            "feeType": "ANUIDADE",
+            "otherCreditsType": "CREDITO_ROTATIVO",
+            "chargeIdentificator": "Mercado Livre Brasil",
+            "chargeNumber": 1,
+            "brazilianAmount": {
+                "amount": "9393.0721",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "9393.0721",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-06-22",
+            "billPostDate": "2022-06-23",
             "payeeMCC": 7379
         }
     ],
@@ -53,6 +55,6 @@
     "meta": {
         "totalRecords": 2,
         "totalPages": 1,
-        "requestDateTime": "2022-03-28T00:00:00Z"
+        "requestDateTime": "2022-09-01T10:45:00Z"
     }
 }
