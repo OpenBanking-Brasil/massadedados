@@ -3,7 +3,7 @@
         "consentId": "urn:bradesco:BDC568642159",
         "creationDateTime": "2022-08-24T09:32:00Z",
         "status": "AUTHORISED",
-        "statusUpdateDateTime": "2022-08-24T09:35:00Z",
+        "statusUpdateDateTime": "2022-08-24T09:36:00Z",
         "permissions": [
             "INVOICE_FINANCINGS_READ",
             "INVOICE_FINANCINGS_SCHEDULED_INSTALMENTS_READ",
@@ -11,7 +11,7 @@
             "INVOICE_FINANCINGS_WARRANTIES_READ",
             "RESOURCES_READ"
         ],
-        "expirationDateTime": "2023-08-24T09:35:00Z"
+        "expirationDateTime": "2023-08-24T09:36:00Z"
     },
     "links": {
         "self": "https://api.bradesco.com/bradesco/open-banking/consents/v1/consents/urn:bradesco:BDC568642159"
