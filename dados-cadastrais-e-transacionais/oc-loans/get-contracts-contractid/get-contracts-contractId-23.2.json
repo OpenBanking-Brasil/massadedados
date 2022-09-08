@@ -6,18 +6,17 @@
         "productType": "EMPRESTIMOS",
         "productSubType": "CAPITAL_GIRO_TETO_ROTATIVO",
         "contractDate": "2019-08-27",
-        "disbursementDate": "2019-08-30",
+        "disbursementDate": [
+            "2019-08-30"
+        ],
         "settlementDate": "2020-09-29",
-        "contractAmount": 300000.0000,
+        "contractAmount": "300000.0000",
         "currency": "BRL",
         "dueDate": "2020-09-27",
         "instalmentPeriodicity": "BIMESTRAL",
-        "instalmentPeriodicityAdditionalInfo": "NA",
         "firstInstalmentDueDate": "2019-10-27",
-        "CET": 0.0715,
+        "CET": "0.0715",
         "amortizationScheduled": "SAM",
-        "amortizationScheduledAdditionalInfo": "NA",
-        "cnpjConsignee": "NA",
         "interestRates": [
             {
                 "taxType": "EFETIVA",
@@ -26,10 +25,8 @@
                 "calculation": "30/360",
                 "referentialRateIndexerType": "FLUTUANTES",
                 "referentialRateIndexerSubType": "OUTRAS_TAXAS_FLUTUANTES",
-                "referentialRateIndexerAdditionalInfo": "NA",
-                "preFixedRate": 0.0715,
-                "postFixedRate": 0.0000,
-                "additionalInfo": "NA"
+                "preFixedRate": "0.0715",
+                "postFixedRate": "0.0000"
             }
         ],
         "contractedFees": [
@@ -38,30 +35,30 @@
                 "feeCode": "MANUTENCAO",
                 "feeChargeType": "UNICA",
                 "feeCharge": "PERCENTUAL",
-                "feeAmount": 0.0000,
-                "feeRate": 0.0560
+                "feeAmount": "0.0000",
+                "feeRate": "0.0560"
             }
         ],
         "contractedFinanceCharges": [
             {
                 "chargeType": "MULTA_ATRASO_PAGAMENTO",
                 "chargeAdditionalInfo": "Multa para casos de atraso de pagamento.",
-                "chargeRate": 0.0160
+                "chargeRate": "0.0160"
             },
             {
                 "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
                 "chargeAdditionalInfo": "Juros remuneratórios por atraso.",
-                "chargeRate": 0.0310
+                "chargeRate": "0.0310"
             },
             {
                 "chargeType": "JUROS_MORA_ATRASO",
                 "chargeAdditionalInfo": "Juros mora atraso.",
-                "chargeRate": 0.0150
+                "chargeRate": "0.0150"
             },
             {
                 "chargeType": "IOF_POR_ATRASO",
                 "chargeAdditionalInfo": "IOF atraso.",
-                "chargeRate": 0.0256
+                "chargeRate": "0.0256"
             }
         ]
     },
@@ -71,6 +68,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-09-27T14:15:00Z"
+        "requestDateTime": "2022-09-06T10:00:00Z"
     }
 }

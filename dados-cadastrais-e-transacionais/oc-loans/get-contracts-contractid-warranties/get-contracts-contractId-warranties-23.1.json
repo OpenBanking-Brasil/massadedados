@@ -4,49 +4,49 @@
             "currency": "BRL",
             "warrantyType": "BENS_ARRENDADOS",
             "warrantySubType": "OUTROS_IMOVEIS",
-            "warrantyAmount": 40000.0000
+            "warrantyAmount": "40000.0000"
         },
         {
             "currency": "BRL",
             "warrantyType": "GARANTIA_FIDEJUSSORIA",
             "warrantySubType": "PESSOA_FISICA",
-            "warrantyAmount": 16000.0000
+            "warrantyAmount": "16000.0000"
         },
         {
             "currency": "BRL",
             "warrantyType": "PENHOR",
             "warrantySubType": "OUTROS_BENS",
-            "warrantyAmount": 50000.0000
+            "warrantyAmount": "50000.0000"
         },
         {
             "currency": "BRL",
             "warrantyType": "CESSAO_DIREITOS_CREDITORIOS",
             "warrantySubType": "FATURA_CARTAO_CREDITO",
-            "warrantyAmount": 25000.0000
+            "warrantyAmount": "25000.0000"
         },
         {
             "currency": "BRL",
             "warrantyType": "GARANTIA_FIDEJUSSORIA",
             "warrantySubType": "PESSOA_JURIDICA",
-            "warrantyAmount": 180000.0000
+            "warrantyAmount": "180000.0000"
         },
         {
             "currency": "BRL",
             "warrantyType": "GARANTIA_FIDEJUSSORIA",
             "warrantySubType": "PESSOA_FISICA",
-            "warrantyAmount": 120000.0000
+            "warrantyAmount": "120000.0000"
         },
         {
             "currency": "BRL",
             "warrantyType": "GARANTIA_FIDEJUSSORIA",
             "warrantySubType": "PESSOA_FISICA",
-            "warrantyAmount": 80000.0000
+            "warrantyAmount": "80000.0000"
         },
         {
             "currency": "BRL",
             "warrantyType": "GARANTIA_FIDEJUSSORIA",
             "warrantySubType": "PESSOA_FISICA",
-            "warrantyAmount": 95000.0000
+            "warrantyAmount": "95000.0000"
         }
     ],
     "links": {
@@ -55,6 +55,6 @@
     "meta": {
         "totalRecords": 8,
         "totalPages": 1,
-        "requestDateTime": "2021-09-27T15:32:00Z"
+        "requestDateTime": "2022-09-06T10:00:00Z"
     }
 }

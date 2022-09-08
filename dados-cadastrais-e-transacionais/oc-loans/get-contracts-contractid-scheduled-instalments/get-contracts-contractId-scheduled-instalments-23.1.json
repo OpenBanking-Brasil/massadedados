@@ -10,9 +10,11 @@
         "balloonPayments": [
             {
                 "dueDate": "2021-08-27",
-                "currency": "BRL",
-                "amount": 63439.1400
-            }         
+                "amount": {
+                    "amount": "63439.1400",
+                    "currency": "BRL"
+                }
+            }
         ]
     },
     "links": {
@@ -21,6 +23,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-09-27T10:56:00Z"
+        "requestDateTime": "2022-09-06T10:00:00Z"
     }
 }

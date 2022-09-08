@@ -1,6 +1,6 @@
 {
   "data": {
-    "updateDateTime": "2021-05-21T08:30:00Z",
+    "updateDateTime": "2022-09-06T10:00:00Z",
     "startDate": "2020-05-21T08:30:00Z",
     "productsServicesType": [
       "CONTA_DEPOSITO_A_VISTA",
@@ -13,20 +13,17 @@
       {
         "type": "REPRESENTANTE_LEGAL",
         "cnpjCpfNumber": "88770695000131",
-        "civilName": "Cecília Rebeca Sueli Corte Real",
-        "socialName": "NA"
+        "civilName": "Cecília Rebeca Sueli Corte Real"
       },
       {
         "type": "REPRESENTANTE_LEGAL",
         "cnpjCpfNumber": "58532169000172",
-        "civilName": "Francisca Carolina Moraes",
-        "socialName": "NA"
+        "civilName": "Francisca Carolina Moraes"
       },
       {
         "type": "PROCURADOR",
         "cnpjCpfNumber": "46242505240",
-        "civilName": "Augusto Benjamin Caleb Nascimento",
-        "socialName": "NA"
+        "civilName": "Augusto Benjamin Caleb Nascimento"
       }
     ],
     "accounts": [
@@ -59,6 +56,6 @@
   "meta": {
     "totalRecords": 3,
     "totalPages": 1,
-    "requestDateTime": "2022-01-18T00:00:00Z"
+    "requestDateTime": "2022-09-06T10:00:00Z"
   }
 }

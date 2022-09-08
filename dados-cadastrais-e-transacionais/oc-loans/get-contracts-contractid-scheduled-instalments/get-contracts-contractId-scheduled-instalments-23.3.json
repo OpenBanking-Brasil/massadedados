@@ -10,19 +10,25 @@
         "balloonPayments": [
             {
                 "dueDate": "2019-05-27",
-                "currency": "BRL",
-                "amount": 15000.0000
-            } ,
+                "amount": {
+                    "amount": "15000.0000",
+                    "currency": "BRL"
+                }
+            },
             {
                 "dueDate": "2019-02-30",
-                "currency": "BRL",
-                "amount": 15000.0000
+                "amount": {
+                    "amount": "15000.0000",
+                    "currency": "BRL"
+                }
             },
             {
                 "dueDate": "2019-01-04",
-                "currency": "BRL",
-                "amount": 15000.0000
-            }       
+                "amount": {
+                    "amount": "15000.0000",
+                    "currency": "BRL"
+                }
+            }
         ]
     },
     "links": {
@@ -31,6 +37,6 @@
     "meta": {
         "totalRecords": 3,
         "totalPages": 1,
-        "requestDateTime": "2021-12-09T10:56:00Z"
+        "requestDateTime": "2022-09-06T10:00:00Z"
     }
 }

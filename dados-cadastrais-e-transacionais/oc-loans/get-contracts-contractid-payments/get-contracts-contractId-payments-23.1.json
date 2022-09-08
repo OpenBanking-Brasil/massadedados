@@ -1,7 +1,7 @@
 {
     "data": {
         "paidInstalments": 6,
-        "contractOutstandingBalance": 0.0000,
+        "contractOutstandingBalance": "0.0000",
         "releases": [
             {
                 "paymentId": "e2aa0605-bdfc-3a07-98d3-0623a19dfe51",
@@ -9,35 +9,31 @@
                 "instalmentId": "e2aa0605-bdfc-3a07-98d3-0623a19dfe52",
                 "paidDate": "2020-09-29",
                 "currency": "BRL",
-                "paidAmount": 61892.5099,
+                "paidAmount": "61892.5099",
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "Taxa de manutenção",
                             "feeCode": "MANUTENCAO",
-                            "feeAmount": 0.0000
+                            "feeAmount": "0.0000"
                         }
                     ],
                     "charges": [
                         {
                             "chargeType": "MULTA_ATRASO_PAGAMENTO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 910.5187
+                            "chargeAmount": "910.5187"
                         },
                         {
                             "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 1764.1300
+                            "chargeAmount": "1764.1300"
                         },
                         {
                             "chargeType": "JUROS_MORA_ATRASO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 853.6113
+                            "chargeAmount": "853.6113"
                         },
                         {
                             "chargeType": "IOF_POR_ATRASO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 1456.8299
+                            "chargeAmount": "1456.8299"
                         }
                     ]
                 }
@@ -48,38 +44,7 @@
                 "instalmentId": "e2aa0605-bdfc-3a07-98d3-0623a19dfe54",
                 "paidDate": "2020-07-27",
                 "currency": "BRL",
-                "paidAmount": 56907.4200,
-                "overParcel": {
-                    "fees": [
-                        {
-                            "feeName": "Taxa de manutenção",
-                            "feeCode": "MANUTENCAO",
-                            "feeAmount": 0.0000
-                        }
-                    ],
-                    "charges": [
-                        {
-                            "chargeType": "MULTA_ATRASO_PAGAMENTO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
-                        },
-                        {
-                            "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
-                        },
-                        {
-                            "chargeType": "JUROS_MORA_ATRASO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
-                        },
-                        {
-                            "chargeType": "IOF_POR_ATRASO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
-                        }
-                    ]
-                }
+                "paidAmount": "56907.4200"
             },
             {
                 "paymentId": "e2aa0605-bdfc-3a07-98d3-0623a19dfe55",
@@ -87,38 +52,7 @@
                 "instalmentId": "e2aa0605-bdfc-3a07-98d3-0623a19dfe56",
                 "paidDate": "2020-05-27",
                 "currency": "BRL",
-                "paidAmount": 56907.4200,
-                "overParcel": {
-                    "fees": [
-                        {
-                            "feeName": "Taxa de manutenção",
-                            "feeCode": "MANUTENCAO",
-                            "feeAmount": 0.0000
-                        }
-                    ],
-                    "charges": [
-                        {
-                            "chargeType": "MULTA_ATRASO_PAGAMENTO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
-                        },
-                        {
-                            "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
-                        },
-                        {
-                            "chargeType": "JUROS_MORA_ATRASO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
-                        },
-                        {
-                            "chargeType": "IOF_POR_ATRASO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
-                        }
-                    ]
-                }
+                "paidAmount": "56907.4200"
             },
             {
                 "paymentId": "e2aa0605-bdfc-3a07-98d3-0623a19dfe57",
@@ -126,38 +60,7 @@
                 "instalmentId": "e2aa0605-bdfc-3a07-98d3-0623a19dfe58",
                 "paidDate": "2020-03-27",
                 "currency": "BRL",
-                "paidAmount": 56907.4200,
-                "overParcel": {
-                    "fees": [
-                        {
-                            "feeName": "Taxa de manutenção",
-                            "feeCode": "MANUTENCAO",
-                            "feeAmount": 0.0000
-                        }
-                    ],
-                    "charges": [
-                        {
-                            "chargeType": "MULTA_ATRASO_PAGAMENTO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
-                        },
-                        {
-                            "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
-                        },
-                        {
-                            "chargeType": "JUROS_MORA_ATRASO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
-                        },
-                        {
-                            "chargeType": "IOF_POR_ATRASO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
-                        }
-                    ]
-                }
+                "paidAmount": "56907.4200"
             },
             {
                 "paymentId": "e2aa0605-bdfc-3a07-98d3-0623a19dfe59",
@@ -165,38 +68,7 @@
                 "instalmentId": "e2aa0605-bdfc-3a07-98d3-0623a19dfe50",
                 "paidDate": "2020-01-27",
                 "currency": "BRL",
-                "paidAmount": 56907.4200,
-                "overParcel": {
-                    "fees": [
-                        {
-                            "feeName": "Taxa de manutenção",
-                            "feeCode": "MANUTENCAO",
-                            "feeAmount": 0.0000
-                        }
-                    ],
-                    "charges": [
-                        {
-                            "chargeType": "MULTA_ATRASO_PAGAMENTO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
-                        },
-                        {
-                            "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
-                        },
-                        {
-                            "chargeType": "JUROS_MORA_ATRASO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
-                        },
-                        {
-                            "chargeType": "IOF_POR_ATRASO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
-                        }
-                    ]
-                }
+                "paidAmount": "56907.4200"
             },
             {
                 "paymentId": "e2aa0605-bdfc-3a07-98d3-0623a19dfe11",
@@ -204,38 +76,7 @@
                 "instalmentId": "e2aa0605-bdfc-3a07-98d3-0623a19dfe21",
                 "paidDate": "2019-11-27",
                 "currency": "BRL",
-                "paidAmount": 60094.2355,
-                "overParcel": {
-                    "fees": [
-                        {
-                            "feeName": "Taxa de manutenção",
-                            "feeCode": "MANUTENCAO",
-                            "feeAmount": 3186.8155
-                        }
-                    ],
-                    "charges": [
-                        {
-                            "chargeType": "MULTA_ATRASO_PAGAMENTO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
-                        },
-                        {
-                            "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
-                        },
-                        {
-                            "chargeType": "JUROS_MORA_ATRASO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
-                        },
-                        {
-                            "chargeType": "IOF_POR_ATRASO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
-                        }
-                    ]
-                }
+                "paidAmount": "60094.2355"
             },
             {
                 "paymentId": "e2aa0605-bdfc-3a07-98d3-0623a19dfe31",
@@ -243,38 +84,7 @@
                 "instalmentId": "e2aa0605-bdfc-3a07-98d3-0623a19dfe41",
                 "paidDate": "2019-08-27",
                 "currency": "BRL",
-                "paidAmount": 30000.0000,
-                "overParcel": {
-                    "fees": [
-                        {
-                            "feeName": "Taxa de manutenção",
-                            "feeCode": "MANUTENCAO",
-                            "feeAmount": 0.0000
-                        }
-                    ],
-                    "charges": [
-                        {
-                            "chargeType": "MULTA_ATRASO_PAGAMENTO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
-                        },
-                        {
-                            "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
-                        },
-                        {
-                            "chargeType": "JUROS_MORA_ATRASO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
-                        },
-                        {
-                            "chargeType": "IOF_POR_ATRASO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
-                        }
-                    ]
-                }
+                "paidAmount": "30000.0000"
             }
         ]
     },
@@ -284,6 +94,6 @@
     "meta": {
         "totalRecords": 7,
         "totalPages": 1,
-        "requestDateTime": "2021-12-26T00:00:00Z"
+        "requestDateTime": "2022-09-06T10:00:00Z"
     }
 }

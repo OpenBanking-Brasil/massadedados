@@ -6,18 +6,17 @@
         "productType": "EMPRESTIMOS",
         "productSubType": "CONTA_GARANTIDA",
         "contractDate": "2018-03-30",
-        "disbursementDate": "2018-03-30",
+        "disbursementDate": [
+            "2018-03-30"
+        ],
         "settlementDate": "2018-12-30",
-        "contractAmount": 150000.0000,
+        "contractAmount": "150000.0000",
         "currency": "BRL",
         "dueDate": "2018-12-30",
         "instalmentPeriodicity": "BIMESTRAL",
-        "instalmentPeriodicityAdditionalInfo": "NA",
         "firstInstalmentDueDate": "2018-05-30",
-        "CET": 0.0452,
+        "CET": "0.0452",
         "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
-        "amortizationScheduledAdditionalInfo": "NA",
-        "cnpjConsignee": "NA",
         "interestRates": [
             {
                 "taxType": "EFETIVA",
@@ -26,10 +25,8 @@
                 "calculation": "30/360",
                 "referentialRateIndexerType": "FLUTUANTES",
                 "referentialRateIndexerSubType": "CDI",
-                "referentialRateIndexerAdditionalInfo": "NA",
-                "preFixedRate": 0.0452,
-                "postFixedRate": 0.0000,
-                "additionalInfo": "NA"
+                "preFixedRate": "0.0452",
+                "postFixedRate": "0.0000"
             }
         ],
         "contractedFees": [
@@ -38,15 +35,15 @@
                 "feeCode": "MANUTENCAO",
                 "feeChargeType": "UNICA",
                 "feeCharge": "PERCENTUAL",
-                "feeAmount": 0.0000,
-                "feeRate": 0.0560
+                "feeAmount": "0.0000",
+                "feeRate": "0.0560"
             }
         ],
         "contractedFinanceCharges": [
             {
                 "chargeType": "SEM_ENCARGO",
                 "chargeAdditionalInfo": "Programa de incentivo ao empréstimo.",
-                "chargeRate": 0.0000
+                "chargeRate": "0.0000"
             }
         ]
     },
@@ -56,6 +53,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-09-27T14:15:00Z"
+        "requestDateTime": "2022-09-06T10:00:00Z"
     }
 }

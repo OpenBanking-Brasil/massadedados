@@ -6,14 +6,7 @@
         "contractRemainingNumber": 0,
         "paidInstalments": 4,
         "dueInstalments": 0,
-        "pastDueInstalments": 0,
-        "balloonPayments": [
-            {
-                "dueDate": "NA",
-                "currency": "BRL",
-                "amount": 0.0000
-            }      
-        ]
+        "pastDueInstalments": 0
     },
     "links": {
         "self": "https://api.baninter.com/open-banking/loans/v1/contracts/82cd3d66-f6d7-3e47-a4f9-131d297f16db/scheduled-instalments"
@@ -21,6 +14,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-12-09T10:56:00Z"
+        "requestDateTime": "2022-09-06T10:00:00Z"
     }
 }

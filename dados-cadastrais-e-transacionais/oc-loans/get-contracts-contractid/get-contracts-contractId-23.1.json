@@ -6,17 +6,16 @@
         "productType": "EMPRESTIMOS",
         "productSubType": "CONTA_GARANTIDA",
         "contractDate": "2021-08-27",
-        "disbursementDate": "2021-08-30",
-        "settlementDate": "NA",
-        "contractAmount": 600000.0000,
+        "disbursementDate": [
+            "2021-08-30"
+        ],
+        "contractAmount": "600000.0000",
         "currency": "BRL",
         "dueDate": "2023-09-27",
         "instalmentPeriodicity": "MENSAL",
-        "instalmentPeriodicityAdditionalInfo": "NA",
         "firstInstalmentDueDate": "2021-09-27",
-        "CET": 0.0615,
+        "CET": "0.0615",
         "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
-        "cnpjConsignee": "NA",
         "interestRates": [
             {
                 "taxType": "EFETIVA",
@@ -25,9 +24,8 @@
                 "calculation": "30/360",
                 "referentialRateIndexerType": "PRE_FIXADO",
                 "referentialRateIndexerSubType": "PRE_FIXADO",
-                "preFixedRate": 0.0615,
-                "postFixedRate": 0.0000,
-                "additionalInfo": "NA"
+                "preFixedRate": "0.0615",
+                "postFixedRate": "0.0000"
             }
         ],
         "contractedFees": [
@@ -36,30 +34,30 @@
                 "feeCode": "CADASTRO",
                 "feeChargeType": "UNICA",
                 "feeCharge": "FIXO",
-                "feeAmount": 150.0000,
-                "feeRate": 0.0000
+                "feeAmount": "150.0000",
+                "feeRate": "0.0000"
             }
         ],
         "contractedFinanceCharges": [
             {
                 "chargeType": "MULTA_ATRASO_PAGAMENTO",
                 "chargeAdditionalInfo": "Multa para casos de atraso de pagamento.",
-                "chargeRate": 0.0200
+                "chargeRate": "0.0200"
             },
             {
                 "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
                 "chargeAdditionalInfo": "Juros remuneratórios por atraso.",
-                "chargeRate": 0.0310
+                "chargeRate": "0.0310"
             },
             {
                 "chargeType": "JUROS_MORA_ATRASO",
                 "chargeAdditionalInfo": "Juros mora atraso.",
-                "chargeRate": 0.0150
+                "chargeRate": "0.0150"
             },
             {
                 "chargeType": "IOF_POR_ATRASO",
                 "chargeAdditionalInfo": "IOF atraso.",
-                "chargeRate": 0.0256
+                "chargeRate": "0.0256"
             }
         ]
     },
@@ -69,6 +67,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-09-27T14:15:00Z"
+        "requestDateTime": "2022-09-06T10:00:00Z"
     }
 }
