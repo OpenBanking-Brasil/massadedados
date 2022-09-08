@@ -6,9 +6,7 @@
         "companyCnpj": "60746948000112",
         "name": "Mastercard Platinum",
         "productType": "PLATINUM",
-        "productAdditionalInfo": "NA",
-        "creditCardNetwork": "MASTERCARD",
-        "networkAdditionalInfo": "NA"
+        "creditCardNetwork": "MASTERCARD"
       }
     ],
     "links": {
@@ -17,6 +15,6 @@
     "meta": {
       "totalRecords": 1,
       "totalPages": 1,
-      "requestDateTime": "2021-10-01T00:00:00Z"
+      "requestDateTime": "2022-09-02T09:00:00Z"
     }
 }

@@ -1,32 +1,29 @@
 {
   "data": {
-    "updateDateTime": "2021-10-01T00:00:00Z",
+    "updateDateTime": "2022-09-02T09:00:00Z",
     "startDate": "2020-07-10T08:30:00Z",
     "productsServicesType": [
-      "CONTA_DEPOSITO_A_VISTA", 
-      "CONTA_POUPANCA", 
+      "CONTA_DEPOSITO_A_VISTA",
+      "CONTA_POUPANCA",
       "CONTA_PAGAMENTO",
-      "PRE_PAGA", 
+      "PRE_PAGA",
       "CONTA_SALARIO"
     ],
     "procurators": [
       {
         "type": "REPRESENTANTE_LEGAL",
         "cnpjCpfNumber": "37799610166",
-        "civilName": "Natali Gael Campos",
-        "socialName": "Natali Gael Campos"
+        "civilName": "Natali Gael Campos"
       },
       {
         "type": "REPRESENTANTE_LEGAL",
         "cnpjCpfNumber": "17349285060",
-        "civilName": "Ricardo Otávio Leonardo Souza",
-        "socialName": "Ricardo Otávio Leonardo Souza"
+        "civilName": "Ricardo Otávio Leonardo Souza"
       },
       {
         "type": "REPRESENTANTE_LEGAL",
         "cnpjCpfNumber": "50498732746",
-        "civilName": "Cecília Sara Larissa Lopes",
-        "socialName": "Cecília Sara Larissa Lopess"
+        "civilName": "Cecília Sara Larissa Lopes"
       }
     ],
     "accounts": [
@@ -66,6 +63,6 @@
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2021-10-01T00:00:00Z"
+    "requestDateTime": "2022-09-02T09:00:00Z"
   }
 }

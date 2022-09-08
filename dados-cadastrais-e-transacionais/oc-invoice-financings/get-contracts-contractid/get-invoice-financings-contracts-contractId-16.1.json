@@ -6,17 +6,16 @@
     "productType": "DIREITOS_CREDITORIOS_DESCONTADOS",
     "productSubType": "OUTROS_DIREITOS_CREDITORIOS_DESCONTADOS",
     "contractDate": "2021-06-01",
-    "disbursementDate": "2021-06-01",
-    "settlementDate": "NA",
-    "contractAmount": 320000.0000,
+    "disbursementDate": [
+      "2021-06-01"
+    ],
+    "contractAmount": "320000.0000",
     "currency": "BRL",
     "dueDate": "2023-06-01",
     "instalmentPeriodicity": "SEMESTRAL",
-    "instalmentPeriodicityAdditionalInfo": "NA",
     "firstInstalmentDueDate": "2021-12-01",
-    "CET": 0.0900,
+    "CET": "0.0900",
     "amortizationScheduled": "SAM",
-    "amortizationScheduledAdditionalInfo": "NA",
     "interestRates": [
       {
         "taxType": "EFETIVA",
@@ -25,10 +24,8 @@
         "calculation": "30/365",
         "referentialRateIndexerType": "INDICES_PRECOS",
         "referentialRateIndexerSubType": "IGPM",
-        "referentialRateIndexerAdditionalInfo": "NA",
-        "preFixedRate": 0.0000,
-        "postFixedRate": 0.0690,
-        "additionalInfo": "NA"
+        "preFixedRate": "0.0000",
+        "postFixedRate": "0.0690"
       }
     ],
     "contractedFees": [
@@ -37,15 +34,14 @@
         "feeCode": "CADASTRO",
         "feeChargeType": "UNICA",
         "feeCharge": "FIXO",
-        "feeAmount": 150.0000,
-        "feeRate": 0.0000
+        "feeAmount": "150.0000",
+        "feeRate": "0.0000"
       }
     ],
     "contractedFinanceCharges": [
       {
         "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
-        "chargeAdditionalInfo": "NA",
-        "chargeRate": 0.0210
+        "chargeRate": "0.0210"
       }
     ]
   },
@@ -55,6 +51,6 @@
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2021-10-01T00:00:00Z"
+    "requestDateTime": "2022-09-02T09:00:00Z"
   }
 }
