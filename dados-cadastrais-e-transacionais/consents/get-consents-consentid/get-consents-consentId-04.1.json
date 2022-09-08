@@ -1,7 +1,7 @@
 {
     "data": {
         "consentId": "urn:bradesco:BDC568642159",
-        "creationDateTime": "2022-08-24T09:35:00Z",
+        "creationDateTime": "2022-08-24T09:32:00Z",
         "status": "AUTHORISED",
         "statusUpdateDateTime": "2022-08-24T09:35:00Z",
         "permissions": [
