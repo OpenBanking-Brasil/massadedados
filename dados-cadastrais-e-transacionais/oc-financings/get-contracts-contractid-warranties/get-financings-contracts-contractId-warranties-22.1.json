@@ -4,7 +4,7 @@
       "currency": "BRL",
       "warrantyType": "OPERACOES_GARANTIDAS_PELO_GOVERNO",
       "warrantySubType": "FGI_FUNDO_GARANTIDOR_INVESTIMENTOS",
-      "warrantyAmount": 170000.3100
+      "warrantyAmount": "170000.3100"
     }
   ],
   "links": {
@@ -13,6 +13,6 @@
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2021-06-22T09:35:01Z"
+    "requestDateTime": "2022-08-30T11:04:00Z"
   }
 }

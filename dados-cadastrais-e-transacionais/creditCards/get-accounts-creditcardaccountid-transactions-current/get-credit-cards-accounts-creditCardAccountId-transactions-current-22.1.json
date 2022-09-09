@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "transactionId": "0f4f788c-b5d6-4297-8917-26791c1929bc",
+            "transactionId": "a8ce87e5-f191-482d-93c9-8a4730c2ddd9",
             "identificationNumber": "2205",
-            "transactionName": "MadeiraMadeira Loja Oficial Online",
-            "billId": "63627e5f-4376-4fce-a094-458ed002c820",
+            "transactionName": "McDonald's",
+            "billId": "f698b97d-39c8-437e-8932-2a7bdb6c2d41",
             "creditDebitType": "CREDITO",
             "transactionType": "PAGAMENTO",
             "paymentType": "A_VISTA",
             "feeType": "ANUIDADE",
             "otherCreditsType": "CREDITO_ROTATIVO",
-            "chargeIdentificator": "MadeiraMadeira Loja Oficial",
+            "chargeIdentificator": "McDonald's",
             "chargeNumber": 1,
             "brazilianAmount": {
-                "amount": "5075.4500",
+                "amount": "104.6700",
                 "currency": "BRL"
             },
             "amount": {
-                "amount": "5075.4500",
+                "amount": "104.6700",
                 "currency": "BRL"
             },
-            "transactionDate": "2022-07-29",
-            "billPostDate": "2022-07-29",
-            "payeeMCC": 5712
+            "transactionDate": "2022-08-28",
+            "billPostDate": "2022-08-28",
+            "payeeMCC": 5814
         },
         {
-            "transactionId": "12c13ca0-6a5f-48ed-8a82-58b2fa140e3f",
+            "transactionId": "c81c2979-9134-4985-8878-aeb540d10ab2",
             "identificationNumber": "2205",
-            "transactionName": "Barcellos construtora",
-            "billId": "63627e5f-4376-4fce-a094-458ed002c820",
+            "transactionName": "Starbucks",
+            "billId": "f698b97d-39c8-437e-8932-2a7bdb6c2d41",
             "creditDebitType": "CREDITO",
             "transactionType": "PAGAMENTO",
             "paymentType": "A_VISTA",
             "feeType": "ANUIDADE",
             "otherCreditsType": "CREDITO_ROTATIVO",
-            "chargeIdentificator": "Barcellos construtora",
+            "chargeIdentificator": "Starbucks",
             "chargeNumber": 1,
             "brazilianAmount": {
-                "amount": "12000,0000",
+                "amount": "74.9800",
                 "currency": "BRL"
             },
             "amount": {
-                "amount": "12000,0000",
+                "amount": "74.9800",
                 "currency": "BRL"
             },
-            "transactionDate": "2022-07-25",
-            "billPostDate": "2022-07-25",
-            "payeeMCC": 5039
+            "transactionDate": "2022-08-28",
+            "billPostDate": "2022-08-28",
+            "payeeMCC": 5814
         }
     ],
     "links": {
-        "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/27daf004-7a54-43e6-acef-3180d26c025d/bills/63627e5f-4376-4fce-a094-458ed002c820/transactions"
+        "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/27daf004-7a54-43e6-acef-3180d26c025d/transactions-current"
     },
     "meta": {
         "totalRecords": 2,

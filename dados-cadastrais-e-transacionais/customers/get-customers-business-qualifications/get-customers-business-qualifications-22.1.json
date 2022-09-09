@@ -1,6 +1,6 @@
 {
     "data": {
-        "updateDateTime": "2021-06-29T09:32:33Z",
+        "updateDateTime": "2022-08-30T11:04:00Z",
         "economicActivities": [
             {
                 "code": 4649403,
@@ -9,15 +9,18 @@
         ],
         "informedRevenue": {
             "frequency": "QUINZENAL",
-            "frequencyAdditionalInfo": "NA",
-            "amount": 10798.5500,
-            "currency": "BRL",
-            "year": 2020
+            "amount": {
+                "amount": "10798.5500",
+                "currency": "BRL"
+            },
+            "year": 2021
         },
         "informedPatrimony": {
-            "amount": 354856.5300,
-            "currency": "BRL",
-            "date": "2020-06-29"
+            "amount": {
+                "amount": "354856.5300",
+                "currency": "BRL"
+            },
+            "date": "2021-12-29"
         }
     },
     "links": {
@@ -26,6 +29,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-09-03T09:34:00Z"
+        "requestDateTime": "2022-08-30T11:04:00Z"
     }
 }

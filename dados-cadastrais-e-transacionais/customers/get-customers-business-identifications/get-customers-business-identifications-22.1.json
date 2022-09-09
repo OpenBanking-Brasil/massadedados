@@ -1,71 +1,55 @@
 {
     "data": [
         {
-            "updateDateTime": "2021-06-29T09:01:35Z",
+            "updateDateTime": "2022-08-30T11:04:00Z",
             "businessId": "gf1h56gf-51re-3515-ewes-132nmnb5vz56",
             "brandName": "Banco Itaú Unibanco S.A.",
             "companyName": "Bice Bicicletas Ltda",
             "tradeName": "Bice Bicicletas",
             "incorporationDate": "2010-02-28T10:35:00Z",
             "cnpjNumber": "85443926000104",
-            "companyCnpjNumber": [
+            "companiesCnpj": [
                 "60701190000104"
             ],
-            "otherDocuments": [
-                {
-                    "type": "NA",
-                    "number": "NA",
-                    "country": "NA",
-                    "expirationDate": "NA"
-                }
-            ],
+
             "parties": [
                 {
                     "personType": "PESSOA_NATURAL",
                     "type": "ADMINISTRADOR",
                     "civilName": "Fabrice Rezende",
-                    "socialName": "NA",
                     "companyName": "Bice Bicicletas Ltda",
                     "tradeName": "Bice Bicicletas",
                     "startDate": "2010-02-28T10:35:00Z",
                     "shareholding": "0.40",
                     "documentType": "CPF",
                     "documentNumber": "94478415030",
-                    "documentAdditionalInfo": "NA",
                     "documentCountry": "BRA",
-                    "documentExpirationDate": "NA",
                     "documentIssueDate": "2018-04-01"
                 },
                 {
                     "personType": "PESSOA_JURIDICA",
                     "type": "SOCIO",
                     "civilName": "Cauã Mota Ribeiro",
-                    "socialName": "NA",
                     "companyName": "Cauã e Maya Vidros ME",
                     "tradeName": "Cauã e Maya Vidros",
                     "startDate": "1992-06-11T15:00:00Z",
                     "shareholding": "0.30",
                     "documentType": "CNPJ",
                     "documentNumber": "68979365000143",
-                    "documentAdditionalInfo": "NA",
                     "documentCountry": "BRA",
-                    "documentExpirationDate": "NA",
                     "documentIssueDate": "1992-06-11"
                 },
                 {
                     "personType": "PESSOA_JURIDICA",
                     "type": "SOCIO",
                     "civilName": "Osvaldo Miranda Medeiros",
-                    "socialName": "NA",
                     "companyName": "OPM Telecom ME",
                     "tradeName": "OPM Telecom",
                     "startDate": "2006-04-17T12:52:00Z",
                     "shareholding": "0.30",
                     "documentType": "CNPJ",
                     "documentNumber": "90110605000128",
-                    "documentAdditionalInfo": "NA",
                     "documentCountry": "BRA",
-                    "documentExpirationDate": "NA",
                     "documentIssueDate": "2006-04-17"
                 }
             ],
@@ -74,7 +58,6 @@
                     {
                         "isMain": true,
                         "address": "Rua Doutor João Soledade, 434",
-                        "additionalInfo": "NA",
                         "districtName": "Marechal Hermes",
                         "townName": "Rio de Janeiro",
                         "ibgeTownCode": "3304557",
@@ -90,7 +73,6 @@
                     {
                         "isMain": false,
                         "address": "Rodovia para cidade Ocidental",
-                        "additionalInfo": "NA",
                         "districtName": "Parque Nova Friburgo",
                         "townName": "Cidade Ocidental",
                         "ibgeTownCode": "5205497",
@@ -106,7 +88,6 @@
                     {
                         "isMain": false,
                         "address": "Rua José Trajano, 506",
-                        "additionalInfo": "NA",
                         "districtName": "Itararé",
                         "townName": "Vitória",
                         "ibgeTownCode": "3205309",
@@ -124,29 +105,23 @@
                     {
                         "isMain": true,
                         "type": "FIXO",
-                        "additionalInfo": "NA",
                         "countryCallingCode": "55",
                         "areaCode": "21",
-                        "number": "36645841",
-                        "phoneExtension": "NA"
+                        "number": "36645841"
                     },
                     {
                         "isMain": false,
                         "type": "FIXO",
-                        "additionalInfo": "NA",
                         "countryCallingCode": "55",
                         "areaCode": "61",
-                        "number": "37949905",
-                        "phoneExtension": "NA"
+                        "number": "37949905"
                     },
                     {
                         "isMain": false,
                         "type": "FIXO",
-                        "additionalInfo": "NA",
                         "countryCallingCode": "55",
                         "areaCode": "27",
-                        "number": "25178455",
-                        "phoneExtension": "NA"
+                        "number": "25178455"
                     }
                 ],
                 "emails": [
@@ -164,6 +139,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-09-03T09:31:00Z"
+        "requestDateTime": "2022-08-30T11:04:00Z"
     }
 }
