@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "creditCardAccountId": "afe4fb0b-4479-4f52-9399-6a038ee62f02",
+      "brandName": "Banco Itaú Unibanco S.A.",
+      "companyCnpj": "60701190000104",
+      "name": "Itaucard Click Visa Platinum",
+      "productType": "PLATINUM",
+      "creditCardNetwork": "VISA"
+    },
+    {
+      "creditCardAccountId": "f116b8b0-d64f-4c89-91e3-8022915366ab",
+      "brandName": "Banco Itaú Unibanco S.A.",
+      "companyCnpj": "60701190000104",
+      "name": "Itaucard Gold Visa",
+      "productType": "GOLD",
+      "creditCardNetwork": "VISA"
+    }
+  ],
+  "links": {
+    "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts"
+  },
+  "meta": {
+    "totalRecords": 2,
+    "totalPages": 1,
+    "requestDateTime": "2022-08-30T14:48:00Z"
+  }
+}
