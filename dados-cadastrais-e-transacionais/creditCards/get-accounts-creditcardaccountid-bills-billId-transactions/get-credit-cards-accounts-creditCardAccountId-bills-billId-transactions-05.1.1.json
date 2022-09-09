@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "transactionId": "278c9b3b-91b4-430c-b2fc-9184e5beae5d",
+            "identificationNumber": "6578",
+            "transactionName": "PAGAMENTO",
+            "billId": "fba2cc95-e6de-4cb5-99e6-24c403d79eb5",
+            "creditDebitType": "CREDITO",
+            "transactionType": "PAGAMENTO",
+            "paymentType": "A_PRAZO",
+            "feeType": "ANUIDADE",
+            "otherCreditsType": "CREDITO_ROTATIVO",
+            "chargeIdentificator": "PARCELAMENTO DE FATURA_01",
+            "chargeNumber": 4,
+            "brazilianAmount": {
+                "amount": "200.0000",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "200.0000",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-04-08",
+            "billPostDate": "2022-04-09",
+            "payeeMCC": 6011
+        }
+    ],
+    "links": {
+        "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/afe4fb0b-4479-4f52-9399-6a038ee62f02/bills/fba2cc95-e6de-4cb5-99e6-24c403d79eb5/transactions"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-08-30T14:48:00Z"
+    }
+}
