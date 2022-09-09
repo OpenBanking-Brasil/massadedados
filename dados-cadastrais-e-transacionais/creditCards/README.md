@@ -1,4 +1,4 @@
-Exemplos de responses dos endpoints da API de Accounts:  
+Exemplos de responses dos endpoints da API de CreditCards:  
 
 GET	/credit-cards-accounts/v1/accounts  
 GET	/credit-cards-accounts/v1/accounts/{creditCardAccountId}  
