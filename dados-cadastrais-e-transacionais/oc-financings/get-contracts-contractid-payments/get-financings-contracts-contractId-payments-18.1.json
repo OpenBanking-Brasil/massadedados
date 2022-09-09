@@ -1,7 +1,7 @@
 {
     "data": {
         "paidInstalments": 3,
-        "contractOutstandingBalance": 28200.0315,
+        "contractOutstandingBalance": "28200.0315",
         "releases": [
             {
                 "paymentId": "1599831b-78e0-4874-9426-a76afa25d31b",
@@ -9,25 +9,23 @@
                 "instalmentId": "c1ca1c0b-fa68-48a4-a83c-ab4c21c150da",
                 "paidDate": "2021-10-04",
                 "currency": "BRL",
-                "paidAmount": 39.1824,
+                "paidAmount": "39.1824",
                 "overParcel": {
                     "fees": [
                         {
-                            "feeName": "NA",
-                            "feeCode": "NA",
-                            "feeAmount": 0.0000
+                            "feeName": "Taxa de manutenção",
+                            "feeCode": "MANUTENCAO",
+                            "feeAmount": "138.6218"
                         }
                     ],
                     "charges": [
                         {
                             "chargeType": "JUROS_MORA_ATRASO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.5042
+                            "chargeAmount": "0.5042"
                         },
                         {
                             "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.3929
+                            "chargeAmount": "0.3929"
                         }
                     ]
                 }
@@ -38,23 +36,7 @@
                 "instalmentId": "aec8b819-4672-421b-91dd-12572604910c",
                 "paidDate": "2021-10-02",
                 "currency": "BRL",
-                "paidAmount": 38.7895,
-                "overParcel": {
-                    "fees": [
-                        {
-                            "feeName": "NA",
-                            "feeCode": "NA",
-                            "feeAmount": 0.0000
-                        }
-                    ],
-                    "charges": [
-                        {
-                            "chargeType": "SEM_ENCARGO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
-                        }
-                    ]
-                }
+                "paidAmount": "38.7895"
             },
             {
                 "paymentId": "e6a33593-1a85-4815-861b-62a83e7535eb",
@@ -62,20 +44,19 @@
                 "instalmentId": "593ce944-366e-486a-91e4-72f581f74d74",
                 "paidDate": "2021-10-01",
                 "currency": "BRL",
-                "paidAmount": 248.7895,
+                "paidAmount": "248.7895",
                 "overParcel": {
                     "fees": [
                         {
                             "feeName": "Tarifa de Abertura de Crédito",
                             "feeCode": "TAC",
-                            "feeAmount": 210.0000
+                            "feeAmount": "210.0000"
                         }
                     ],
                     "charges": [
                         {
                             "chargeType": "SEM_ENCARGO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
+                            "chargeAmount": "0.0000"
                         }
                     ]
                 }
@@ -88,6 +69,5 @@
     "meta": {
         "totalRecords": 3,
         "totalPages": 1,
-        "requestDateTime": "2021-10-04T00:00:00Z"
+        "requestDateTime": "2022-09-01T10:45:00Z"
     }
-}

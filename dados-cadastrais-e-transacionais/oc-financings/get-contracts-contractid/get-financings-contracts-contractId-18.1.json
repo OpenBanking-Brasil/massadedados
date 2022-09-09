@@ -6,17 +6,17 @@
         "productType": "FINANCIAMENTOS",
         "productSubType": "MICROCREDITO",
         "contractDate": "2021-10-01",
-        "disbursementDate": "2021-12-31",
-        "settlementDate": "NA",
-        "contractAmount": 21000.0000,
+        "disbursementDate": [
+            "2021-12-31"
+        ],
+        "contractAmount": "21000.0000",
         "currency": "BRL",
         "dueDate": "2023-10-01",
         "instalmentPeriodicity": "OUTROS",
         "instalmentPeriodicityAdditionalInfo": "DIA",
         "firstInstalmentDueDate": "2021-10-01",
-        "CET": 0.0933,
+        "CET": "0.0933",
         "amortizationScheduled": "SAC",
-        "amortizationScheduledAdditionalInfo": "NA",
         "interestRates": [
             {
                 "taxType": "NOMINAL",
@@ -25,10 +25,8 @@
                 "calculation": "30/365",
                 "referentialRateIndexerType": "PRE_FIXADO",
                 "referentialRateIndexerSubType": "PRE_FIXADO",
-                "referentialRateIndexerAdditionalInfo": "NA",
-                "preFixedRate": 0.0069,
-                "postFixedRate": 0.0000,
-                "additionalInfo": "NA"
+                "preFixedRate": "0.0069",
+                "postFixedRate": "0.0000"
             },
             {
                 "taxType": "NOMINAL",
@@ -37,10 +35,8 @@
                 "calculation": "30/365",
                 "referentialRateIndexerType": "FLUTUANTES",
                 "referentialRateIndexerSubType": "CDI",
-                "referentialRateIndexerAdditionalInfo": "NA",
-                "preFixedRate": 0.0000,
-                "postFixedRate": 0.0864,
-                "additionalInfo": "NA"
+                "preFixedRate": "0.0000",
+                "postFixedRate": "0.0864"
             }
         ],
         "contractedFees": [
@@ -49,20 +45,18 @@
                 "feeCode": "TAC",
                 "feeChargeType": "UNICA",
                 "feeCharge": "MINIMO",
-                "feeAmount": 210.0000,
-                "feeRate": 0.0000
+                "feeAmount": "210.0000",
+                "feeRate": "0.0000"
             }
         ],
         "contractedFinanceCharges": [
             {
                 "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
-                "chargeAdditionalInfo": "NA",
-                "chargeRate": 0.0100
+                "chargeRate": "0.0100"
             },
             {
                 "chargeType": "JUROS_MORA_ATRASO",
-                "chargeAdditionalInfo": "NA",
-                "chargeRate": 0.0130
+                "chargeRate": "0.0130"
             }
         ]
     },
@@ -72,6 +66,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2022-03-28T00:00:00Z"
+        "requestDateTime": "2022-09-01T10:45:00Z"
     }
 }
