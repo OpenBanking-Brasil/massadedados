@@ -1,0 +1,89 @@
+{
+  "data": [
+    {
+      "updateDateTime": "2021-11-15T00:00:00Z",
+      "personalId": "775-cde2-l58f11eb85-29024",
+      "brandName": "Banco Inter S.A.",
+      "civilName": "Marta Abranches Braga",
+      "socialName": "Marta Abranches Braga",
+      "birthDate": "1981-07-15",
+      "maritalStatusCode": "UNIÃO ESTÁVEL",
+      "sex": "FEMININO",
+      "companiesCnpj": [
+        "00416968000101"
+      ],
+      "documents": {
+        "cpfNumber": "24184276504",
+        "passport": {
+          "number": "88682946659963602513",
+          "country": "BRA",
+          "expirationDate": "2024-07-12",
+          "issueDate": "2014-07-12"
+        }
+      },
+      "otherDocuments": [
+        {
+          "type": "CNH",
+          "number": "25484785",
+          "checkDigit": "A",
+          "additionalInfo": "SSP/TO",
+          "expirationDate": "2027-12-06"
+        }
+      ],
+      "hasBrazilianNationality": true,
+      "filiation": [
+        {
+          "type": "MAE",
+          "civilName": "Marcela Braga"
+        },
+        {
+          "type": "PAI",
+          "civilName": "Fernando Braga"
+        }
+      ],
+      "contacts": {
+        "postalAddresses": [
+          {
+            "isMain": true,
+            "address": "Rua SF 9, 558",
+            "districtName": "Setor Santa Fé 2 (Taquaralto)",
+            "townName": "Palmas",
+            "ibgeTownCode": "1721000",
+            "countrySubDivision": "TO",
+            "postCode": "77064106",
+            "country": "Brasil",
+            "countryCode": "BRA",
+            "geographicCoordinates": {
+              "latitude": "-10.1689",
+              "longitude": "-48.3317"
+            }
+          }
+        ],
+        "phones": [
+          {
+            "isMain": true,
+            "type": "MOVEL",
+            "additionalInfo": "Informações adicionais.",
+            "countryCallingCode": "55",
+            "areaCode": "63",
+            "number": "982686100"
+          }
+        ],
+        "emails": [
+          {
+            "isMain": true,
+            "email": "marta.braga05@email.com"
+          }
+        ]
+      }
+    }
+  ],
+  "links": {
+    "self": "https://api.baninter.com.br/open-banking/customers/v1/personal/identifications"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-08-25T14:48:00Z"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "typeNumberOfInstalments": "MES",
+    "totalNumberOfInstalments": 12,
+    "typeContractRemaining": "MES",
+    "contractRemainingNumber": 8,
+    "paidInstalments": 4,
+    "dueInstalments": 8,
+    "pastDueInstalments": 0,
+    "balloonPayments": [
+      {
+        "dueDate": "2022-06-05",
+        "amount": {
+          "amount": "1346.0600",
+          "currency": "BRL"
+        }
+      }
+    ]
+  },
+  "links": {
+    "self": "https://api.baninter.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/5ef4185e-f1e5-n196-q51w-d5fv1e51f51s/scheduled-instalments"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-08-25T14:48:00Z"
+  }
+}
