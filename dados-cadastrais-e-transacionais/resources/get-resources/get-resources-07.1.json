@@ -1,0 +1,17 @@
+{
+    "data": [
+        {
+            "resourceId": "5ef4185e-f1e5-n196-q51w-d5fv1e51f51s",
+            "type": "UNARRANGED_ACCOUNT_OVERDRAFT",
+            "status": "AVAILABLE"
+        }
+    ],
+    "links": {
+        "self": "https://api.baninter.com.br/open-banking/resources/v1/resources"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-08-25T14:48:00Z"
+    }
+}
