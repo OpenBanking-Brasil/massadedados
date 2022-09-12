@@ -1,0 +1,17 @@
+{
+    "data": [
+        {
+            "resourceId": "2ec8fbe4-09e4-305d-bf8c-cdae1c298183",
+            "type": "INVOICE_FINANCING",
+            "status": "AVAILABLE"
+        }
+    ],
+    "links": {
+        "self": "https://api.bradesco.com/bradesco/open-banking/resources/v1/resources"
+    },
+    "meta": {
+        "totalRecords": 2,
+        "totalPages": 1,
+        "requestDateTime": "2022-08-24T09:35:00Z"
+    }
+}

@@ -1,0 +1,56 @@
+{
+  "data": {
+    "contractNumber": "0467476436897234",
+    "ipocCode": "00416968010112418427650409572405540002312",
+    "productName": "AD",
+    "productType": "ADIANTAMENTO_A_DEPOSITANTES",
+    "productSubType": "ADIANTAMENTO_A_DEPOSITANTES",
+    "contractDate": "2021-01-05",
+    "disbursementDates": [
+      "2021-01-05"
+    ],
+    "contractAmount": 18500.0000,
+    "currency": "BRL",
+    "dueDate": "2023-02-05",
+    "instalmentPeriodicity": "MENSAL",
+    "firstInstalmentDueDate": "2021-02-05",
+    "CET": 0.0150,
+    "amortizationScheduled": "SAC",
+    "interestRates": [
+      {
+        "taxType": "EFETIVA",
+        "interestRateType": "COMPOSTO",
+        "taxPeriodicity": "AM",
+        "calculation": "30/360",
+        "referentialRateIndexerType": "PRE_FIXADO",
+        "referentialRateIndexerSubType": "PRE_FIXADO",
+        "preFixedRate": 0.0130,
+        "postFixedRate": 0.0000
+      }
+    ],
+    "contractedFees": [
+      {
+        "feeName": "Manutenção de Contrato",
+        "feeCode": "MANUTENCAO_CONTRATO",
+        "feeChargeType": "POR_PARCELA",
+        "feeCharge": "Percentual",
+        "feeAmount": 0.0000,
+        "feeRate": 0.0020
+      }
+    ],
+    "contractedFinanceCharges": [
+      {
+        "chargeType": "MULTA_ATRASO_PAGAMENTO",
+        "chargeRate": 0.0700
+      }
+    ]
+  },
+  "links": {
+    "self": "https://api.baninter.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/5ef4185e-f1e5-n196-q51w-d5fv1e51f51s"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-08-25T14:48:00Z"
+  }
+}

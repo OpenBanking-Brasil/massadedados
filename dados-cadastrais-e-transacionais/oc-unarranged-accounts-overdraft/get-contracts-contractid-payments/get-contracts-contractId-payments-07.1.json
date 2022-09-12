@@ -1,0 +1,108 @@
+{
+  "data": {
+    "paidInstalments": 4,
+    "contractOutstandingBalance": 13426.9604,
+    "releases": [
+      {
+        "paymentId": "469fcba8-5be9-3bb0-82d5-a5c2c1d4e0e0",
+        "isOverParcelPayment": false,
+        "instalmentId": "53e9d383-0b87-35e2-8973-c3eb23627b9a",
+        "paidDate": "2022-06-05",
+        "currency": "BRL",
+        "paidAmount": 1678.3700,
+        "overParcel": {
+          "fees": [
+            {
+              "feeName": "Manutenção de Contrato",
+              "feeCode": "MANUTENCAO_CONTRATO",
+              "feeAmount": 3.3500
+            }
+          ],
+          "charges": [
+            {
+              "chargeType": "MULTA_ATRASO_PAGAMENTO",
+              "chargeAmount": 0.0000
+            }
+          ]
+        }
+      },
+      {
+        "paymentId": "57efe3b5-6426-3446-ba18-1164cdc78d55",
+        "isOverParcelPayment": false,
+        "instalmentId": "34c88273-a28e-3fbe-8e54-30b56941f2ba",
+        "paidDate": "2022-05-05",
+        "currency": "BRL",
+        "paidAmount": 1678.3700,
+        "overParcel": {
+          "fees": [
+            {
+              "feeName": "Manutenção de Contrato",
+              "feeCode": "MANUTENCAO_CONTRATO",
+              "feeAmount": 3.3500
+            }
+          ],
+          "charges": [
+            {
+              "chargeType": "MULTA_ATRASO_PAGAMENTO",
+              "chargeAmount": 0.0000
+            }
+          ]
+        }
+      },
+      {
+        "paymentId": "2488c991-d622-3c75-8fca-07b756482f76",
+        "isOverParcelPayment": false,
+        "instalmentId": "7efc8c1a-3757-303e-816a-45385c70f9cf",
+        "paidDate": "2022-04-05",
+        "currency": "BRL",
+        "paidAmount": 1678.3700,
+        "overParcel": {
+          "fees": [
+            {
+              "feeName": "Manutenção de Contrato",
+              "feeCode": "MANUTENCAO_CONTRATO",
+              "feeAmount": 3.3500
+            }
+          ],
+          "charges": [
+            {
+              "chargeType": "MULTA_ATRASO_PAGAMENTO",
+              "chargeAmount": 0.0000
+            }
+          ]
+        }
+      },
+      {
+        "paymentId": "93470b38-fff3-3305-b08b-46f86af02959",
+        "isOverParcelPayment": false,
+        "instalmentId": "8f916840-053e-3de6-833e-db9d6e0e18e1",
+        "paidDate": "2022-03-05",
+        "currency": "BRL",
+        "paidAmount": 1678.3700,
+        "overParcel": {
+          "fees": [
+            {
+              "feeName": "Manutenção de Contrato",
+              "feeCode": "MANUTENCAO_CONTRATO",
+              "feeAmount": 3.3500
+            }
+          ],
+          "charges": [
+            {
+              "chargeType": "MULTA_ATRASO_PAGAMENTO",
+              "chargeAmount": 0.0000
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "links": {
+    "self": "https://api.baninter.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/5ef4185e-f1e5-n196-q51w-d5fv1e51f51s/payments"
+  },
+  "meta": {
+    "totalRecords": 4,
+    "totalPages": 1,
+    "requestDateTime": "2022-08-25T14:48:00Z"
+  }
+}
