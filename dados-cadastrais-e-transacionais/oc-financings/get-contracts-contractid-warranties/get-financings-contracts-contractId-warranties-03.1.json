@@ -3,8 +3,7 @@
     {
       "currency": "BRL",
       "warrantyType": "CESSAO_DIREITOS_CREDITORIOS",
-      "warrantySubType": "ACOES_DEBENTURES ",
-      "warrantyAmount": 15000.3100
+      "warrantySubType": "SEM_SUB_TIPO_GARANTIA"
     }
   ],
   "links": {
