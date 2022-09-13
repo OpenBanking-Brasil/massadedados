@@ -38,7 +38,7 @@
         }
     ],
     "links": {
-        "self": "https://openbanking.banrisul.com.br/open-banking/accounts/v1/accounts/5575b3ad-b534-3901-8be4-bac02436f02d/transactions"
+        "self": "https://openbanking.banrisul.com.br/open-banking/accounts/v1/accounts/5575b3ad-b534-3901-8be4-bac02436f02d/transactions-current"
     },
     "meta": {
         "totalRecords": 2,

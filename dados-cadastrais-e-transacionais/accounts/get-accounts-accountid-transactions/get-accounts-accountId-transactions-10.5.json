@@ -1,14 +1,16 @@
 {
-    "data": [      
+    "data": [
         {
             "transactionId": "65a6adbb-c8df-3cd0-9a65-e86884ba1e13",
             "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
             "creditDebitType": "DEBITO",
             "transactionName": "SAQ65a6adbb-c8df-3cd0-9a65-e86884ba1e13",
             "type": "SAQUE",
-            "amount": 500.0000,
-            "transactionCurrency": "BRL",
-            "transactionDate": "2021-06-15",
+            "transactionAmount": {
+                "amount": "500.0000",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-06-15",
             "partieCnpjCpf": "29750879422",
             "partiePersonType": "PESSOA_NATURAL",
             "partieCompeCode": "001",
@@ -22,9 +24,11 @@
             "creditDebitType": "CREDITO",
             "transactionName": "PIX para a conta conjunta.",
             "type": "PIX",
-            "amount": 8600.0000,
-            "transactionCurrency": "BRL",
-            "transactionDate": "2021-06-05",
+            "transactionAmount": {
+                "amount": "8600.0000",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-06-05",
             "partieCnpjCpf": "29750879422",
             "partiePersonType": "PESSOA_NATURAL",
             "partieCompeCode": "341",
@@ -39,6 +43,6 @@
     "meta": {
         "totalRecords": 2,
         "totalPages": 1,
-        "requestDateTime": "2021-12-26T13:59:00Z"
+        "requestDateTime": "2022-09-12T09:37:00Z"
     }
 }
