@@ -1,31 +1,31 @@
 {
     "data": {
-        "updateDateTime": "2022-08-31T09:37:00Z",
-        "companyCnpj": "60701190000104",
+        "updateDateTime": "2022-09-12T09:37:00Z",
+        "companyCnpj": "92702067000196",
         "occupationCode": "CBO",
-        "occupationDescription": "Head of Product",
+        "occupationDescription": "Freelancer",
         "informedIncome": {
             "frequency": "QUINZENAL",
             "amount": {
-                "amount": "18700.5980",
+                "amount": "10000.5980",
                 "currency": "BRL"
             },
-            "date": "2021-05-20"
+            "date": "2021-12-20"
         },
         "informedPatrimony": {
             "amount": {
-                "amount": "854254.2000",
+                "amount": "12000.0000",
                 "currency": "BRL"
             },
             "year": 2021
         }
     },
     "links": {
-        "self": "https://api.itau/open-banking/customers/v1/personal/qualifications"
+        "self": "https://openbanking.banrisul.com.br/open-banking/customers/v1/personal/qualifications"
     },
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2022-08-31T09:37:00Z"
+        "requestDateTime": "2022-09-12T09:37:00Z"
     }
 }

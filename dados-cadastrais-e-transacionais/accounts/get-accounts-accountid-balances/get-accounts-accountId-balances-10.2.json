@@ -1,18 +1,24 @@
 {
   "data": {
-    "availableAmount": 0.0000,
-    "availableAmountCurrency": "BRL",
-    "blockedAmount": 611.9490,
-    "blockedAmountCurrency": "BRL",
-    "automaticallyInvestedAmount": 0.0000,
-    "automaticallyInvestedAmountCurrency": "BRL"
-  },
-  "links": {
-    "self": "https://openbanking.banrisul.com.br/open-banking/accounts/v1/accounts/5575b3ad-b534-3901-8be4-bac02436f02d/balances"
-  },
-  "meta": {
-    "totalRecords": 1,
-    "totalPages": 1,
-    "requestDateTime": "2021-12-26T12:13:00Z"
+    "availableAmount": {
+      "amount": "00.0000",
+      "currency": "BRL"
+    },
+    "blockedAmount": {
+      "amount": "611.9490",
+      "currency": "BRL"
+    },
+    "automaticallyInvestedAmount": {
+      "amount": "00.0000",
+      "currency": "BRL"
+    },
+    "links": {
+      "self": "https://openbanking.banrisul.com.br/open-banking/accounts/v1/accounts/5575b3ad-b534-3901-8be4-bac02436f02d/balances"
+    },
+    "meta": {
+      "totalRecords": 1,
+      "totalPages": 1,
+      "requestDateTime": "2022-09-12T09:37:00Z"
+    }
   }
 }

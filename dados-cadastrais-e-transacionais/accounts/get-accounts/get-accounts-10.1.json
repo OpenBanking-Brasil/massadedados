@@ -10,7 +10,7 @@
             "checkDigit": "1",
             "accountId": "1a9df2e9-baa7-3c8f-98b8-cc2d56211275"
         },
-		{
+        {
             "brandName": "Banco do Estado do Rio Grande do Sul S.A",
             "companyCnpj": "92702067000196",
             "type": "CONTA_POUPANCA",
@@ -37,6 +37,6 @@
     "meta": {
         "totalRecords": 3,
         "totalPages": 1,
-        "requestDateTime": "2021-12-10T13:48:00Z"
+        "requestDateTime": "2022-09-12T09:37:00Z"
     }
 }
