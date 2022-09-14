@@ -1,0 +1,112 @@
+{
+    "data": {
+        "paidInstalments": 13,
+        "contractOutstandingBalance": 14402.3790,
+        "releases": [
+            {
+                "paymentId": "ef786f39-654b-423e-b4fb-177f9eee3a41",
+                "isOverParcelPayment": false,
+                "instalmentId": "5c5b1de9-18db-4dd4-8df7-b1de8cdf6908",
+                "paidDate": "2022-08-01",
+                "currency": "BRL",
+                "paidAmount": 3051.8800
+            },
+            {
+                "paymentId": "5c05ac97-9a08-44ed-911c-1af4fa8739a9",
+                "isOverParcelPayment": false,
+                "instalmentId": "202f9815-063c-4b76-96ec-de8d1dabaca0",
+                "paidDate": "2022-07-01",
+                "currency": "BRL",
+                "paidAmount": 3051.8800
+            },
+            {
+                "paymentId": "948e9de6-b547-4293-bbfd-725ed0b23ce3",
+                "isOverParcelPayment": false,
+                "instalmentId": "b5fb712c-5ff7-4400-8053-069350e73d7f",
+                "paidDate": "2022-06-01",
+                "currency": "BRL",
+                "paidAmount": 3051.8800
+            },
+            {
+                "paymentId": "7cf2963b-0ad0-48a5-a26f-772e74765f71",
+                "isOverParcelPayment": false,
+                "instalmentId": "8ec8f6d4-477e-44ca-83aa-058ffe9fd628",
+                "paidDate": "2022-04-25",
+                "currency": "BRL",
+                "paidAmount": 3051.8800
+            },
+            {
+                "paymentId": "1202465d-8e5b-4ebe-9423-8aaf26268355",
+                "isOverParcelPayment": false,
+                "instalmentId": "013bb6c8-0c9a-4c7e-aa68-0c7f4079ca8c",
+                "paidDate": "2022-03-23",
+                "currency": "BRL",
+                "paidAmount": 3051.8800
+            },
+            {
+                "paymentId": "4d2b4200-1408-4b30-9675-f618208b5d3f",
+                "isOverParcelPayment": false,
+                "instalmentId": "6b062786-3456-4dc3-9012-8b3d448b1919",
+                "paidDate": "2022-03-01",
+                "currency": "BRL",
+                "paidAmount": 3051.8800
+            },
+            {
+                "paymentId": "700759aa-8c31-4f25-9477-30107f74b768",
+                "isOverParcelPayment": false,
+                "instalmentId": "ce15a968-8715-4da9-b256-ea836e15d98b",
+                "paidDate": "2022-01-31",
+                "currency": "BRL",
+                "paidAmount": 3051.8800
+            },
+            {
+                "paymentId": "7e27240e-e44c-4dfb-885b-f421213757fd",
+                "isOverParcelPayment": false,
+                "instalmentId": "cb7ca3c7-b6a2-453b-a0ad-73c6134b6094",
+                "paidDate": "2022-01-01",
+                "currency": "BRL",
+                "paidAmount": 3051.8800
+            },
+            {
+                "paymentId": "edaf2e00-1683-4564-a6b0-1b0bee1f7ab6",
+                "isOverParcelPayment": false,
+                "instalmentId": "942a4443-15e0-4b82-ab86-3c8282b52fa4",
+                "paidDate": "2021-12-01",
+                "currency": "BRL",
+                "paidAmount": 3051.8800
+            },
+            {
+                "paymentId": "517f2c95-554d-488c-ae66-71cecb60abaf",
+                "isOverParcelPayment": false,
+                "instalmentId": "b3ad3d9d-b458-4311-870d-96dd3f2ebc07",
+                "paidDate": "2021-11-01",
+                "currency": "BRL",
+                "paidAmount": 3051.8800
+            },
+            {
+                "paymentId": "e7ad450e-2ba9-4a70-8650-ae7f3206067a",
+                "isOverParcelPayment": false,
+                "instalmentId": "2e52fc7d-65a5-4569-a6d0-80803c8fb8a3",
+                "paidDate": "2021-10-01",
+                "currency": "BRL",
+                "paidAmount": 3051.8800
+            },
+            {
+                "paymentId": "6bf425f8-d500-11eb-b8bc-0242ac130003",
+                "isOverParcelPayment": false,
+                "instalmentId": "6fcf6e8a-d500-11eb-b8bc-0242ac130003",
+                "paidDate": "2021-09-04",
+                "currency": "BRL",
+                "paidAmount": 3051.8800
+            }
+        ]
+    },
+    "links": {
+        "self": "https://api.sicredi.com.br/open-banking/financings/v1/contracts/3a74427a-9c10-3779-a5ac-3f65c3e815aa/payments"
+    },
+    "meta": {
+        "totalRecords": 12,
+        "totalPages": 1,
+        "requestDateTime": "2022-08-06T08:30:00Z"
+    }
+}

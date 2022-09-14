@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "transactionId": "72f985f8-d4ee-11eb-b8bc-0242ac130003",
+            "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
+            "creditDebitType": "CREDITO",
+            "transactionName": "PIX224325",
+            "type": "PIX",
+            "transactionAmount": {
+                "amount": 1500.0000,
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-08-15",
+            "partieCnpjCpf": "82231095068",
+            "partiePersonType": "PESSOA_NATURAL"
+        },
+        {
+            "transactionId": "b63c144f-a2d2-438d-b5b5-0bc937e65949",
+            "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
+            "creditDebitType": "DEBITO",
+            "transactionName": "PIX222585",
+            "type": "PIX",
+            "transactionAmount": {
+                "amount": 15.0000,
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-08-15",
+            "partieCnpjCpf": "11990950019",
+            "partiePersonType": "PESSOA_NATURAL"
+        },
+        {
+            "transactionId": "ff46ecac-d144-4bfa-8b07-07c46aadc233",
+            "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
+            "creditDebitType": "CREDITO",
+            "transactionName": "RAF229684",
+            "type": "RESGATE_APLIC_FINANCEIRA",
+            "transactionAmount": {
+                "amount": 1600.0000,
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-08-15",
+            "partieCnpjCpf": "35571249000131",
+            "partiePersonType": "PESSOA_JURIDICA "
+        }
+    ],
+    "links": {
+        "self": "https://api.sicredi.com.br/open-banking/accounts/v1/accounts/6ffc471a-d461-11eb-b8bc-0242ac130003/transactions"
+    },
+    "meta": {
+        "totalRecords": 3,
+        "totalPages": 1,
+        "requestDateTime": "2022-08-22T09:40:00Z"
+    }
+}
