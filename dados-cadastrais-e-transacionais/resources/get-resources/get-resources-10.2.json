@@ -6,38 +6,8 @@
             "status": "AVAILABLE"
         },
         {
-            "resourceId": "5575b3ad-b534-3901-8be4-bac02436f02d",
-            "type": "ACCOUNT",
-            "status": "AVAILABLE"
-        },
-        {
-            "resourceId": "be3d308b-d113-3b73-9a95-2b3c87688878",
-            "type": "ACCOUNT",
-            "status": "AVAILABLE"
-        },
-        {
             "resourceId": "471856b2-cae3-31a6-b4f7-b3d13fe625ee",
             "type": "CREDIT_CARD_ACCOUNT",
-            "status": "AVAILABLE"
-        },
-        {
-            "resourceId": "902d4fff-ad6f-339e-8fcf-dc5cc4fe6487",
-            "type": "UNARRANGED_ACCOUNT_OVERDRAFT",
-            "status": "AVAILABLE"
-        },
-        {
-            "resourceId": "790b1bd3-0614-33d5-83c9-01044e5efeca",
-            "type": "UNARRANGED_ACCOUNT_OVERDRAFT",
-            "status": "AVAILABLE"
-        },
-        {
-            "resourceId": "657cfd40-a1b8-35fa-85f5-666f79afb63e",
-            "type": "UNARRANGED_ACCOUNT_OVERDRAFT",
-            "status": "AVAILABLE"
-        },
-        {
-            "resourceId": "ff0b84d8-bd29-3d03-b76d-5432db2c665d",
-            "type": "UNARRANGED_ACCOUNT_OVERDRAFT",
             "status": "AVAILABLE"
         }
     ],
@@ -45,8 +15,8 @@
         "self": "https://openbanking.banrisul.com.br/open-banking/resources/v1/resources"
     },
     "meta": {
-        "totalRecords": 6,
+        "totalRecords": 2,
         "totalPages": 1,
-        "requestDateTime": "2021-06-15T09:54:00Z"
+        "requestDateTime": "2022-09-12T09:37:00Z"
     }
 }
