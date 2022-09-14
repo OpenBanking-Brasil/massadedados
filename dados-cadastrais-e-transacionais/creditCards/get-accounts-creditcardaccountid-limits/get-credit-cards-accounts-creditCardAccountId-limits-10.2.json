@@ -5,28 +5,38 @@
             "consolidationType": "INDIVIDUAL",
             "identificationNumber": "0896",
             "lineName": "CREDITO_A_VISTA",
-            "lineNameAdditionalInfo": "NA",
             "isLimitFlexible": false,
-            "limitAmountCurrency": "BRL",
-            "limitAmount": 2000.0000,
-            "usedAmountCurrency": "BRL",
-            "usedAmount": 0.0000,
-            "availableAmountCurrency": "BRL",
-            "availableAmount": 2000.0000
+            "limitAmount": {
+                "amount": "2000.0000",
+                "currency": "BRL"
+            },
+            "usedAmount": {
+                "amount": "0.0000",
+                "currency": "BRL"
+            },
+            "availableAmount": {
+                "amount": "2000.0000",
+                "currency": "BRL"
+            }
         },
         {
             "creditLineLimitType": "LIMITE_CREDITO_MODALIDADE_OPERACAO",
             "consolidationType": "INDIVIDUAL",
             "identificationNumber": "0896",
             "lineName": "SAQUE_CREDITO_BRASIL",
-            "lineNameAdditionalInfo": "NA",
             "isLimitFlexible": false,
-            "limitAmountCurrency": "BRL",
-            "limitAmount": 500.0000,
-            "usedAmountCurrency": "BRL",
-            "usedAmount": 0.0000,
-            "availableAmountCurrency": "BRL",
-            "availableAmount": 500.0000
+            "limitAmount": {
+                "amount": "500.0000",
+                "currency": "BRL"
+            },
+            "usedAmount": {
+                "cmount": "0.0000",
+                "currency": "BRL"
+            },
+            "availableAmount": {
+                "cmount": "500.0000",
+                "currency": "BRL"
+            }
         }
     ],
     "links": {
@@ -35,6 +45,6 @@
     "meta": {
         "totalRecords": 2,
         "totalPages": 1,
-        "requestDateTime": "2021-12-10T16:32:59Z"
+        "requestDateTime": "2022-09-12T09:37:00Z"
     }
 }

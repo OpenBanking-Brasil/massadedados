@@ -3,112 +3,122 @@
         {
             "transactionId": "c0f9e79a-5ed8-3633-91f4-d6d03fc899bc",
             "identificationNumber": "0896",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "Digital Games Platform PDJ",
             "billId": "f9672f09-3b9d-3d8b-9487-7df5626cdf00",
-            "creditDebitType": "DEBITO",
+            "creditDebitType": "CREDITO",
             "transactionType": "PAGAMENTO",
-            "transactionalAdditionalInfo": "NA",
             "paymentType": "A_VISTA",
             "feeType": "SMS",
-            "feeTypeAdditionalInfo": "NA",
             "otherCreditsType": "CREDITO_ROTATIVO",
             "chargeIdentificator": "PARCELA_1",
             "chargeNumber": 1,
-            "brazilianAmount": 0.0000,
-            "amount": 77.7205,
-            "currency": "BRL",
-            "transactionDate": "2021-05-01",
-            "billPostDate": "2021-05-01",
+            "brazilianAmount": {
+                "amount": "0.0000",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "77.7205",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-07-01",
+            "billPostDate": "2022-07-01",
             "payeeMCC": 5816
         },
         {
             "transactionId": "cb7dad64-0f46-35eb-abcf-66c2d4ffa13b",
             "identificationNumber": "0896",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "Taxa de parcelamento",
             "billId": "f9672f09-3b9d-3d8b-9487-7df5626cdf00",
-            "creditDebitType": "DEBITO",
+            "creditDebitType": "CREDITO",
             "transactionType": "OPERACOES_CREDITO_CONTRATADAS_CARTAO",
-            "transactionalAdditionalInfo": "NA",
             "paymentType": "A_VISTA",
             "feeType": "SMS",
-            "feeTypeAdditionalInfo": "NA",
             "otherCreditsType": "PARCELAMENTO_FATURA",
             "chargeIdentificator": "PARCELA_1",
             "chargeNumber": 1,
-            "brazilianAmount": 10.6500,
-            "amount": 0.0000,
-            "currency": "BRL",
-            "transactionDate": "2021-04-24",
-            "billPostDate": "2021-04-24",
+            "brazilianAmount": {
+                "amount": "50.6500",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "50.6500",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-07-24",
+            "billPostDate": "2022-07-24",
             "payeeMCC": 5411
         },
         {
             "transactionId": "63ab34a5-70ce-3ab6-8c6c-c5b6954519ef",
             "identificationNumber": "0896",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "Supermercado Bom Retiro",
             "billId": "f9672f09-3b9d-3d8b-9487-7df5626cdf00",
-            "creditDebitType": "DEBITO",
+            "creditDebitType": "CREDITO",
             "transactionType": "OPERACOES_CREDITO_CONTRATADAS_CARTAO",
-            "transactionalAdditionalInfo": "NA",
             "paymentType": "A_VISTA",
             "feeType": "SMS",
-            "feeTypeAdditionalInfo": "NA",
             "otherCreditsType": "CREDITO_ROTATIVO",
             "chargeIdentificator": "PARCELA_1",
             "chargeNumber": 2,
-            "brazilianAmount": 156.9812,
-            "amount": 0.0000,
-            "currency": "BRL",
-            "transactionDate": "2021-04-24",
-            "billPostDate": "2021-04-24",
+            "brazilianAmount": {
+                "amount": "156.9812",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "156.9812",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-07-24",
+            "billPostDate": "2022-07-24",
             "payeeMCC": 5411
         },
         {
             "transactionId": "ae5b312d-32e0-33d6-9988-54c1ba8177b6",
             "identificationNumber": "0896",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "Panificadora Italia",
             "billId": "f9672f09-3b9d-3d8b-9487-7df5626cdf00",
-            "creditDebitType": "DEBITO",
+            "creditDebitType": "CREDITO",
             "transactionType": "PAGAMENTO",
-            "transactionalAdditionalInfo": "NA",
             "paymentType": "A_VISTA",
             "feeType": "SMS",
-            "feeTypeAdditionalInfo": "NA",
             "otherCreditsType": "CREDITO_ROTATIVO",
             "chargeIdentificator": "PARCELA_1",
             "chargeNumber": 1,
-            "brazilianAmount": 76.9400,
-            "amount": 0.0000,
-            "currency": "BRL",
-            "transactionDate": "2021-04-15",
-            "billPostDate": "2021-04-15",
+            "brazilianAmount": {
+                "amount": "376.9400",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "376.9400",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-07-15",
+            "billPostDate": "2022-07-15",
             "payeeMCC": 5411
         },
         {
             "transactionId": "c83ea688-025c-3d9e-b577-db4125370ec5",
             "identificationNumber": "0896",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "Panificadora Italia",
             "billId": "f9672f09-3b9d-3d8b-9487-7df5626cdf00",
-            "creditDebitType": "DEBITO",
+            "creditDebitType": "CREDITO",
             "transactionType": "OPERACOES_CREDITO_CONTRATADAS_CARTAO",
-            "transactionalAdditionalInfo": "NA",
             "paymentType": "A_VISTA",
             "feeType": "SMS",
-            "feeTypeAdditionalInfo": "NA",
             "otherCreditsType": "OUTROS",
             "otherCreditsAdditionalInfo": "DEBITO IPT",
             "chargeIdentificator": "PARCELA_1",
             "chargeNumber": 1,
-            "brazilianAmount": 6.1600,
-            "amount": 0.0000,
-            "currency": "BRL",
-            "transactionDate": "2021-04-15",
-            "billPostDate": "2021-04-15",
+            "brazilianAmount": {
+                "amount": "176.1600",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "176.1600",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-07-15",
+            "billPostDate": "2022-07-15",
             "payeeMCC": 5411
         }
     ],
@@ -118,6 +128,6 @@
     "meta": {
         "totalRecords": 5,
         "totalPages": 1,
-        "requestDateTime": "2021-12-10T11:57:21Z"
+        "requestDateTime": "2022-09-12T09:37:00Z"
     }
 }
