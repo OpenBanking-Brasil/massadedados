@@ -1,0 +1,96 @@
+{
+  "data": {
+    "contractNumber": "25587487101",
+    "ipocCode": "01181521040211011740907325668478542336599",
+    "productName": "Aquisição de veículo passeio",
+    "productType": "FINANCIAMENTOS",
+    "productSubType": "AQUISICAO_BENS_VEICULOS_AUTOMOTORES",
+    "contractDate": "2021-08-01",
+    "disbursementDates": [
+      "2021-09-01",
+      "2021-10-01",
+      "2021-11-01",
+      "2021-12-01",
+      "2022-01-01",
+      "2022-02-01",
+      "2022-03-01",
+      "2022-04-01",
+      "2022-05-01",
+      "2022-06-01",
+      "2022-07-01",
+      "2022-08-01",
+      "2022-09-01",
+      "2022-10-01",
+      "2022-11-01",
+      "2022-12-01",
+      "2022-12-01",
+      "2023-01-01",
+      "2023-02-01",
+      "2023-03-01",
+      "2023-04-01",
+      "2023-05-01",
+      "2023-06-01",
+      "2023-07-01",
+      "2023-08-01",
+      "2023-09-01",
+      "2023-10-01",
+      "2023-11-01",
+      "2023-12-01",
+      "2024-01-01",
+      "2024-02-01",
+      "2024-03-01",
+      "2024-04-01",
+      "2024-05-01",
+      "2024-06-01",
+      "2024-07-01",
+      "2024-08-01",
+      "2024-09-01",
+      "2024-10-01",
+      "2024-11-01",
+      "2024-12-01"
+    ],
+    "settlementDate": "2021-09-01",
+    "contractAmount": 122075.0000,
+    "currency": "BRL",
+    "dueDate": "2024-12-01",
+    "instalmentPeriodicity": "MENSAL",
+    "firstInstalmentDueDate": "2021-09-01",
+    "CET": 0.0150,
+    "amortizationScheduled": "PRICE",
+    "interestRates": [
+      {
+        "taxType": "NOMINAL",
+        "interestRateType": "SIMPLES",
+        "taxPeriodicity": "AA",
+        "calculation": "21/252",
+        "referentialRateIndexerType": "PRE_FIXADO",
+        "referentialRateIndexerSubType": "PRE_FIXADO",
+        "preFixedRate": 0.0150,
+        "postFixedRate": 0.0000
+      }
+    ],
+    "contractedFees": [
+      {
+        "feeName": "Taxa de administracao",
+        "feeCode": "ADMNISTRACAO",
+        "feeChargeType": "UNICA",
+        "feeCharge": "PERCENTUAL",
+        "feeRate": "0.1500"
+      }
+    ],
+    "contractedFinanceCharges": [
+      {
+        "chargeType": "MULTA_ATRASO_PAGAMENTO",
+        "chargeRate": 0.0600
+      }
+    ]
+  },
+  "links": {
+    "self": "https://api.sicredi.com.br/open-banking/financings/v1/contracts/3a74427a-9c10-3779-a5ac-3f65c3e815aa"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-08-22T15:36:00Z"
+  }
+}

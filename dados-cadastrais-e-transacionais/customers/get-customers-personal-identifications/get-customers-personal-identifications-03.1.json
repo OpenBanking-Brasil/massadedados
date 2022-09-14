@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "updateDateTime": "2022-08-15T09:35:00Z",
+      "personalId": "0db-52a-30b8dd-11eb-85292",
+      "brandName": "Banco Cooperativo Sicredi S.A. – Bansicredi",
+      "civilName": "Eliane Sophia Melo",
+      "birthDate": "1975-12-05",
+      "maritalStatusCode": "CASADO",
+      "sex": "FEMININO",
+      "companiesCnpj": [
+        "01181521000155"
+      ],
+      "documents": {
+        "cpfNumber": "10117409073",
+        "passport": {
+          "number": "22459031982954795537",
+          "country": "BRA",
+          "expirationDate": "2028-03-23",
+          "issueDate": "2018-03-23"
+        },
+        "otherDocuments": [
+          {
+            "type": "RG",
+            "number": "40701685",
+            "additionalInfo": "SSP/ES"
+          }
+        ],
+        "hasBrazilianNationality": true,
+        "filiation": [
+          {
+            "type": "MAE",
+            "civilName": "Lidiane Silva Melo"
+          },
+          {
+            "type": "PAI",
+            "civilName": "Luiz Miguel Melo"
+          }
+        ],
+        "contacts": {
+          "postalAddresses": [
+            {
+              "isMain": true,
+              "address": "Travessa Santo André, 498",
+              "districtName": "Santo André",
+              "townName": "Vitória",
+              "ibgeTownCode": "3205309",
+              "countrySubDivision": "ES",
+              "postCode": "29032267",
+              "country": "Brasil",
+              "countryCode": "BRA"
+            }
+          ],
+          "phones": [
+            {
+              "isMain": true,
+              "type": "MOVEL",
+              "countryCallingCode": "55",
+              "areaCode": "27",
+              "number": "996328736"
+            }
+          ],
+          "emails": [
+            {
+              "isMain": true,
+              "email": "eliane0512@email.com"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "links": {
+    "self": "https://api.sicredi.com.br/open-banking/customers/v1/personal/identifications"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-08-15T09:35:00Z"
+  }
+}
