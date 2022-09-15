@@ -1,9 +1,9 @@
 {
     "data": {
         "consentId": "urn:caixa:CEF565555555",
-        "creationDateTime": "2021-06-11T09:37:00Z",
+        "creationDateTime": "2022-09-09T09:56:00Z",
         "status": "AUTHORISED",
-        "statusUpdateDateTime": "2021-06-14T09:42:00Z",
+        "statusUpdateDateTime": "2022-09-09T09:56:00Z",
         "permissions": [
             "CUSTOMERS_PERSONAL_IDENTIFICATIONS_READ",
             "CUSTOMERS_PERSONAL_ADITTIONALINFO_READ",
@@ -22,7 +22,7 @@
             "LOANS_WARRANTIES_READ",
             "RESOURCES_READ"
         ],
-        "expirationDateTime": "2022-02-27T11:00:00Z"
+        "expirationDateTime": "2023-09-09T09:56:00Z"
     },
     "links": {
         "self": "https://api.caixa.gov.br/open-banking/consents/v1/consents/urn:caixa:CEF565555555"
@@ -30,6 +30,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-06-15T09:56:00Z"
+        "requestDateTime": "2022-09-09T09:56:00Z"
     }
 }

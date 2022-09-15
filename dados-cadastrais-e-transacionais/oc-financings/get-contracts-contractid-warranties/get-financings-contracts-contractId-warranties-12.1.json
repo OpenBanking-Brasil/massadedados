@@ -4,19 +4,19 @@
       "currency": "BRL",
       "warrantyType": "HIPOTECA",
       "warrantySubType": "PRIMEIRO_GRAU_IMOVEIS_RESIDENCIAIS",
-      "warrantyAmount": 200700.4500
+      "warrantyAmount": "200700.4500"
     },
     {
       "currency": "BRL",
       "warrantyType": "PENHOR",
       "warrantySubType": "VEICULO",
-      "warrantyAmount": 48500.5000
+      "warrantyAmount": "48500.5000"
     },
     {
       "currency": "BRL",
       "warrantyType": "GARANTIA_FIDEJUSSORIA",
       "warrantySubType": "PESSOA_FISICA",
-      "warrantyAmount": 200000.0000
+      "warrantyAmount": "200000.0000"
     }
   ],
   "links": {
@@ -25,6 +25,6 @@
   "meta": {
     "totalRecords": 3,
     "totalPages": 1,
-    "requestDateTime": "2021-09-04T08:19:32Z"
+    "requestDateTime": "2022-09-09T09:56:00Z"
   }
 }

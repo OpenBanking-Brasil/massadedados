@@ -6,16 +6,13 @@
     "productType": "FINANCIAMENTOS_IMOBILIARIOS",
     "productSubType": "FINANCIAMENTO_HABITACIONAL_SFH",
     "contractDate": "2012-01-01",
-    "settlementDate": "NA",
-    "contractAmount": 35000.0000,
+    "contractAmount": "35000.0000",
     "currency": "BRL",
     "dueDate": "2015-01-01",
     "instalmentPeriodicity": "BIMESTRAL",
-    "instalmentPeriodicityAdditionalInfo": "NA",
     "firstInstalmentDueDate": "2015-07-01",
-    "CET": 0.0470,
+    "CET": "0.0470",
     "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
-    "amortizationScheduledAdditionalInfo": "NA",
     "interestRates": [
       {
         "taxType": "NOMINAL",
@@ -24,9 +21,8 @@
         "calculation": "30/365",
         "referentialRateIndexerType": "FLUTUANTES",
         "referentialRateIndexerSubType": "SELIC",
-        "preFixedRate": 0.0000,
-        "postFixedRate": 0.0470,
-        "additionalInfo": "NA"
+        "preFixedRate": "0.0000",
+        "postFixedRate": "0.0470"
       }
     ],
     "contractedFees": [
@@ -35,15 +31,14 @@
         "feeCode": "ADMINISTRACAO",
         "feeChargeType": "UNICA",
         "feeCharge": "FIXO",
-        "feeAmount": 2980.0000,
-        "feeRate": 0.0000
+        "feeAmount": "2980.0000",
+        "feeRate": "0.0000"
       }
     ],
     "contractedFinanceCharges": [
       {
         "chargeType": "SEM_ENCARGO",
-        "chargeAdditionalInfo": "NA",
-        "chargeRate": 0.0000
+        "chargeRate": "0.0000"
       }
     ]
   },
@@ -53,6 +48,6 @@
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2021-09-03T10:19:00Z"
+    "requestDateTime": "2022-09-09T09:56:00Z"
   }
-} 
+}

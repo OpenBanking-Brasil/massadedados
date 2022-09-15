@@ -2,43 +2,40 @@
     "data": [
         {
             "billId": "7963f0b6-d8e7-11eb-b8bc-0242ac130003",
-            "dueDate": "2021-06-05",
-            "billTotalAmount": 6210.4800,
-            "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 62.1048,
-            "billMinimumAmountCurrency": "BRL",
+            "dueDate": "2022-06-05",
+            "billTotalAmount": {
+                "amount": "6210.4800",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "62.1048",
+                "currency": "BRL"
+            },
             "isInstalment": true,
-            "financeCharges": [
-                {
-                    "type": "SEM_ENCARGO",
-                    "amount": 0.0000,
-                    "currency": "BRL"
-                }
-            ],
             "payments": [
                 {
                     "valueType": "OUTRO_VALOR_PAGO_FATURA",
-                    "paymentDate": "2021-06-04",
+                    "paymentDate": "2022-06-04",
                     "paymentMode": "DEBITO_CONTA_CORRENTE",
-                    "amount": 4600.0000,
+                    "amount": "4600.0000",
                     "currency": "BRL"
                 },
                 {
                     "valueType": "OUTRO_VALOR_PAGO_FATURA",
-                    "paymentDate": "2021-07-04",
+                    "paymentDate": "2022-07-04",
                     "paymentMode": "DEBITO_CONTA_CORRENTE",
-                    "amount": 1610.4800,
+                    "amount": "1610.4800",
                     "currency": "BRL"
                 }
             ]
         }
     ],
     "links": {
-        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?fromDueDate=2021-06-04&toDueDate=2021-06-04"
+        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?fromDueDate=2022-06-05&toDueDate=2022-06-05"
     },
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-08-28T08:20:12Z"
+        "requestDateTime": "2022-09-09T09:56:00Z"
     }
-} 
+}

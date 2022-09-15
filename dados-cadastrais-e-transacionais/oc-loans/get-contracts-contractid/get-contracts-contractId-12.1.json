@@ -7,15 +7,13 @@
         "productSubType": "CREDITO_PESSOAL_SEM_CONSIGNACAO",
         "contractDate": "2009-07-04",
         "settlementDate": "2010-06-04",
-        "contractAmount": 6000.0000,
+        "contractAmount": "6000.0000",
         "currency": "BRL",
         "dueDate": "2010-06-04",
         "instalmentPeriodicity": "TRIMESTRAL",
-        "instalmentPeriodicityAdditionalInfo": "NA",
         "firstInstalmentDueDate": "2009-10-04",
-        "CET": 0.0500,
+        "CET": "0.0500",
         "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
-        "amortizationScheduledAdditionalInfo": "NA",
         "cnpjConsignee": "00360305000104",
         "interestRates": [
             {
@@ -25,9 +23,8 @@
                 "calculation": "30/365",
                 "referentialRateIndexerType": "PRE_FIXADO",
                 "referentialRateIndexerSubType": "PRE_FIXADO",
-                "preFixedRate": 0.0151,
-                "postFixedRate": 0.0000,
-                "additionalInfo": "NA"
+                "preFixedRate": "0.0151",
+                "postFixedRate": "0.0000"
             }
         ],
         "contractedFees": [
@@ -36,25 +33,25 @@
                 "feeCode": "ADESAO",
                 "feeChargeType": "POR_PARCELA",
                 "feeCharge": "FIXO",
-                "feeAmount": 10.9000,
-                "feeRate": 0.0000
+                "feeAmount": "10.9000",
+                "feeRate": "0.0000"
             }
         ],
         "contractedFinanceCharges": [
             {
                 "chargeType": "MULTA_ATRASO_PAGAMENTO",
                 "chargeAdditionalInfo": "Multa para casos de atraso de pagamento.",
-                "chargeRate": 0.0100
+                "chargeRate": "0.0100"
             },
             {
                 "chargeType": "IOF_POR_ATRASO",
                 "chargeAdditionalInfo": "Imposto sobre Operações Financeiras para casos de atraso de pagamento.",
-                "chargeRate": 0.0250
+                "chargeRate": "0.0250"
             },
             {
                 "chargeType": "IOF_CONTRATACAO",
                 "chargeAdditionalInfo": "Imposto sobre Operações Financeiras para contratação do financiamento.",
-                "chargeRate": 0.0080
+                "chargeRate": "0.0080"
             }
         ]
     },
@@ -64,6 +61,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-09-16T22:52:00Z"
+        "requestDateTime": "2022-09-09T09:56:00Z"
     }
 }

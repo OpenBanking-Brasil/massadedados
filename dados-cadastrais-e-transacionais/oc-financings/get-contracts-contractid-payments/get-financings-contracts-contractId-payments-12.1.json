@@ -1,7 +1,7 @@
 {
     "data": {
         "paidInstalments": 3,
-        "contractOutstandingBalance": 399233.2267,
+        "contractOutstandingBalance": "399233.2267",
         "releases": [
             {
                 "paymentId": "e1d77fd0-d4fc-11eb-b8bc-0242ac130003",
@@ -9,21 +9,19 @@
                 "instalmentId": "c0773aba-daab-11eb-8d19-0242ac130003",
                 "paidDate": "2021-08-22",
                 "currency": "BRL",
-                "paidAmount": 366.5811,
+                "paidAmount": "366.5811",
                 "overParcel": {
                     "fees": [
-                         {
-                          "feeName": "Taxa de administração",
-                          "feeCode": "ADMINISTRACAO",
-                          "feeAmount": 110.9900
-
+                        {
+                            "feeName": "Taxa de administração",
+                            "feeCode": "ADMINISTRACAO",
+                            "feeAmount": "110.9900"
                         }
                     ],
                     "charges": [
                         {
                             "chargeType": "SEM_ENCARGO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
+                            "chargeAmount": " 0.0000"
                         }
                     ]
                 }
@@ -34,20 +32,19 @@
                 "instalmentId": "d46fec24-daab-11eb-8d19-0242ac130003",
                 "paidDate": "2021-08-15",
                 "currency": "BRL",
-                "paidAmount": 366.5811,
+                "paidAmount": "366.5811",
                 "overParcel": {
                     "fees": [
                         {
-                          "feeName": "Taxa de administração",
-                          "feeCode": "ADMINISTRACAO",
-                          "feeAmount": 110.9900
+                            "feeName": "Taxa de administração",
+                            "feeCode": "ADMINISTRACAO",
+                            "feeAmount": "110.9900"
                         }
                     ],
                     "charges": [
                         {
                             "chargeType": "SEM_ENCARGO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
+                            "chargeAmount": "0.0000"
                         }
                     ]
                 }
@@ -58,20 +55,19 @@
                 "instalmentId": "cb1816f6-daab-11eb-8d19-0242ac130003",
                 "paidDate": "2021-08-08",
                 "currency": "BRL",
-                "paidAmount": 366.5811,
+                "paidAmount": "366.5811",
                 "overParcel": {
                     "fees": [
                         {
-                          "feeName": "Taxa de administração",
-                          "feeCode": "ADMINISTRACAO",
-                          "feeAmount": 110.9900
+                            "feeName": "Taxa de administração",
+                            "feeCode": "ADMINISTRACAO",
+                            "feeAmount": "110.9900"
                         }
                     ],
                     "charges": [
                         {
                             "chargeType": "SEM_ENCARGO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
+                            "chargeAmount": "0.0000"
                         }
                     ]
                 }
@@ -84,6 +80,6 @@
     "meta": {
         "totalRecords": 3,
         "totalPages": 1,
-        "requestDateTime": "2021-08-26T13:15:00Z"
+        "requestDateTime": "2022-09-09T09:56:00Z"
     }
 }

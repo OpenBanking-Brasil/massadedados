@@ -2,640 +2,565 @@
     "data": [
         {
             "billId": "06267c94-d8f7-11eb-b8bc-0242ac130003",
-            "dueDate": "2019-07-05",
-            "billTotalAmount": 4222.0000,
-            "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 42.2200,
-            "billMinimumAmountCurrency": "BRL",
+            "dueDate": "2020-07-05",
+            "billTotalAmount": {
+                "amount": "4222.0000",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "42.2200",
+                "currency": "BRL"
+            },
             "isInstalment": true,
-            "financeCharges": [
-                {
-                    "type": "SEM_ENCARGO",
-                    "amount": 0.0000,
-                    "currency": "BRL"
-                }
-            ],
             "payments": [
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
-                    "paymentDate": "2021-08-04",
+                    "paymentDate": "2020-07-04",
                     "paymentMode": "DEBITO_CONTA_CORRENTE",
-                    "amount": 4222.0000,
+                    "amount": "4222.0000",
                     "currency": "BRL"
                 }
             ]
         },
         {
             "billId": "21d466ea-d8f7-11eb-b8bc-0242ac130003",
-            "dueDate": "2019-06-05",
-            "billTotalAmount": 4693.1500,
-            "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 46.9315,
-            "billMinimumAmountCurrency": "BRL",
+            "dueDate": "2020-06-05",
+            "billTotalAmount": {
+                "amount": "4693.1500",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "46.9315",
+                "currency": "BRL"
+            },
             "isInstalment": true,
-            "financeCharges": [
-                {
-                    "type": "SEM_ENCARGO",
-                    "amount": 0.0000,
-                    "currency": "BRL"
-                }
-            ],
             "payments": [
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
-                    "paymentDate": "2019-06-04",
+                    "paymentDate": "2020-06-04",
                     "paymentMode": "DEBITO_CONTA_CORRENTE",
-                    "amount": 4693.1500,
+                    "amount": "4693.1500",
                     "currency": "BRL"
                 }
             ]
         },
         {
             "billId": "45b320f6-d8f7-11eb-b8bc-0242ac130003",
-            "dueDate": "2019-05-05",
-            "billTotalAmount": 4701.3600,
-            "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 47.0136,
-            "billMinimumAmountCurrency": "BRL",
+            "dueDate": "2020-05-05",
+            "billTotalAmount": {
+                "amount": "4701.3600",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "47.0136",
+                "currency": "BRL"
+            },
             "isInstalment": true,
-            "financeCharges": [
-                {
-                    "type": "SEM_ENCARGO",
-                    "amount": 0.0000,
-                    "currency": "BRL"
-                }
-            ],
             "payments": [
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
-                    "paymentDate": "2019-05-04",
+                    "paymentDate": "2020-05-04",
                     "paymentMode": "DEBITO_CONTA_CORRENTE",
-                    "amount": 4701.3600,
+                    "amount": "4701.3600",
                     "currency": "BRL"
                 }
             ]
         },
         {
             "billId": "688c28ac-d8f7-11eb-b8bc-0242ac130003",
-            "dueDate": "2019-04-05",
-            "billTotalAmount": 5320.6100,
-            "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 53.2061,
-            "billMinimumAmountCurrency": "BRL",
+            "dueDate": "2020-04-05",
+            "billTotalAmount": {
+                "amount": "5320.6100",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "53.2061",
+                "currency": "BRL"
+            },
             "isInstalment": true,
-            "financeCharges": [
-                {
-                    "type": "SEM_ENCARGO",
-                    "amount": 0.0000,
-                    "currency": "BRL"
-                }
-            ],
             "payments": [
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
-                    "paymentDate": "2019-04-04",
+                    "paymentDate": "2020-04-04",
                     "paymentMode": "DEBITO_CONTA_CORRENTE",
-                    "amount": 5320.6100,
+                    "amount": "5320.6100",
                     "currency": "BRL"
                 }
             ]
         },
         {
             "billId": "8593de4a-d8f7-11eb-b8bc-0242ac130003",
-            "dueDate": "2019-03-05",
-            "billTotalAmount": 4917.8400,
-            "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 49.1784,
-            "billMinimumAmountCurrency": "BRL",
+            "dueDate": "2020-03-05",
+            "billTotalAmount": {
+                "amount": "4917.8400",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "49.1784",
+                "currency": "BRL"
+            },
             "isInstalment": true,
-            "financeCharges": [
-                {
-                    "type": "SEM_ENCARGO",
-                    "amount": 0.0000,
-                    "currency": "BRL"
-                }
-            ],
             "payments": [
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
-                    "paymentDate": "2019-03-04",
+                    "paymentDate": "2020-03-04",
                     "paymentMode": "BOLETO_BANCARIO",
-                    "amount": 4917.8400,
+                    "amount": "4917.8400",
                     "currency": "BRL"
                 }
             ]
         },
         {
             "billId": "a5763410-d8f7-11eb-b8bc-0242ac130003",
-            "dueDate": "2019-02-05",
-            "billTotalAmount": 6438.4700,
-            "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 64.3847,
-            "billMinimumAmountCurrency": "BRL",
+            "dueDate": "2020-02-05",
+            "billTotalAmount": {
+                "amount": "6438.4700",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "64.3847",
+                "cCurrency": "BRL"
+            },
             "isInstalment": true,
-            "financeCharges": [
-                {
-                    "type": "SEM_ENCARGO",
-                    "amount": 0.0000,
-                    "currency": "BRL"
-                }
-            ],
             "payments": [
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
-                    "paymentDate": "2019-02-04",
+                    "paymentDate": "2020-02-04",
                     "paymentMode": "AVERBACAO_FOLHA",
-                    "amount": 6438.4700,
+                    "amount": "6438.4700",
                     "currency": "BRL"
                 }
             ]
         },
         {
             "billId": "bf6b314a-d8f7-11eb-b8bc-0242ac130003",
-            "dueDate": "2019-01-05",
-            "billTotalAmount": 6952.7400,
-            "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 69.5274,
-            "billMinimumAmountCurrency": "BRL",
+            "dueDate": "2020-01-05",
+            "billTotalAmount": {
+                "amount": "6952.7400",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "69.5274",
+                "currency": "BRL"
+            },
             "isInstalment": true,
-            "financeCharges": [
-                {
-                    "type": "SEM_ENCARGO",
-                    "amount": 0.0000,
-                    "currency": "BRL"
-                }
-            ],
             "payments": [
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
-                    "paymentDate": "2019-01-04",
+                    "paymentDate": "2020-01-04",
                     "paymentMode": "PIX",
-                    "amount": 6952.7400,
+                    "amount": "6952.7400",
                     "currency": "BRL"
                 }
             ]
         },
         {
             "billId": "c588b034-d8f7-11eb-b8bc-0242ac130003",
-            "dueDate": "2018-12-05",
-            "billTotalAmount": 7001.6900,
-            "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 70.0169,
-            "billMinimumAmountCurrency": "BRL",
+            "dueDate": "2019-12-05",
+            "billTotalAmount": {
+                "amount": "7001.6900",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "70.0169",
+                "currency": "BRL"
+            },
             "isInstalment": true,
-            "financeCharges": [
-                {
-                    "type": "SEM_ENCARGO",
-                    "amount": 0.0000,
-                    "currency": "BRL"
-                }
-            ],
             "payments": [
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
-                    "paymentDate": "2018-12-04",
+                    "paymentDate": "2019-12-04",
                     "paymentMode": "DEBITO_CONTA_CORRENTE",
-                    "amount": 7001.6900,
+                    "amount": "7001.6900",
                     "currency": "BRL"
                 }
             ]
         },
         {
             "billId": "0346e594-d8f8-11eb-b8bc-0242ac130003",
-            "dueDate": "2018-11-05",
-            "billTotalAmount": 6102.8800,
-            "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 61.0288,
-            "billMinimumAmountCurrency": "BRL",
+            "dueDate": "2019-11-05",
+            "billTotalAmount": {
+                "amount": "6102.8800",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "61.0288",
+                "currency": "BRL"
+            },
             "isInstalment": true,
-            "financeCharges": [
-                {
-                    "type": "SEM_ENCARGO",
-                    "amount": 0.0000,
-                    "currency": "BRL"
-                }
-            ],
             "payments": [
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
-                    "paymentDate": "2018-11-04",
+                    "paymentDate": "2019-11-04",
                     "paymentMode": "DEBITO_CONTA_CORRENTE",
-                    "amount": 6102.8800,
+                    "amount": "6102.8800",
                     "currency": "BRL"
                 }
             ]
         },
         {
             "billId": "1b067fbe-d8ec-11eb-b8bc-0242ac130003",
-            "dueDate": "2018-10-05",
-            "billTotalAmount": 7998.1300,
-            "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 79.9813,
-            "billMinimumAmountCurrency": "BRL",
+            "dueDate": "2019-10-05",
+            "billTotalAmount": {
+                "amount": "7998.1300",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "79.9813",
+                "currency": "BRL"
+            },
             "isInstalment": true,
-            "financeCharges": [
-                {
-                    "type": "SEM_ENCARGO",
-                    "amount": 0.0000,
-                    "currency": "BRL"
-                }
-            ],
             "payments": [
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
-                    "paymentDate": "2018-10-04",
+                    "paymentDate": "2019-10-04",
                     "paymentMode": "DEBITO_CONTA_CORRENTE",
-                    "amount": 7998.1300,
+                    "amount": "7998.1300",
                     "currency": "BRL"
                 }
             ]
         },
         {
             "billId": "2ffa275e-d8ec-11eb-b8bc-0242ac130003",
-            "dueDate": "2018-09-05",
-            "billTotalAmount": 3298.7600,
-            "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 32.9876,
-            "billMinimumAmountCurrency": "BRL",
+            "dueDate": "2019-09-05",
+            "billTotalAmount": {
+                "amount": "3298.7600",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "32.9876",
+                "currency": "BRL"
+            },
             "isInstalment": true,
-            "financeCharges": [
-                {
-                    "type": "SEM_ENCARGO",
-                    "amount": 0.0000,
-                    "currency": "BRL"
-                }
-            ],
             "payments": [
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
-                    "paymentDate": "2018-09-04",
+                    "paymentDate": "2019-09-04",
                     "paymentMode": "DEBITO_CONTA_CORRENTE",
-                    "amount": 3298.7600,
+                    "amount": "3298.7600",
                     "currency": "BRL"
                 }
             ]
         },
         {
             "billId": "5940a372-d8ec-11eb-b8bc-0242ac130003",
-            "dueDate": "2018-08-05",
-            "billTotalAmount": 5788.0500,
-            "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 57.88056,
-            "billMinimumAmountCurrency": "BRL",
+            "dueDate": "2019-08-05",
+            "billTotalAmount": {
+                "amount": "5788.0500",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "57.88056",
+                "currency": "BRL"
+            },
             "isInstalment": true,
-            "financeCharges": [
-                {
-                    "type": "SEM_ENCARGO",
-                    "amount": 0.0000,
-                    "currency": "BRL"
-                }
-            ],
             "payments": [
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
-                    "paymentDate": "2018-08-04",
+                    "paymentDate": "2019-08-04",
                     "paymentMode": "DEBITO_CONTA_CORRENTE",
-                    "amount": 5788.0500,
+                    "amount": "5788.0500",
                     "currency": "BRL"
                 }
             ]
         },
         {
             "billId": "5940a4d0-d8ed-11eb-b8bc-0242ac130003",
-            "dueDate": "2018-07-05",
-            "billTotalAmount": 4923.1700,
-            "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 49.2317,
-            "billMinimumAmountCurrency": "BRL",
+            "dueDate": "2019-07-05",
+            "billTotalAmount": {
+                "amount": "4923.1700",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "49.2317",
+                "currency": "BRL"
+            },
             "isInstalment": true,
-            "financeCharges": [
-                {
-                    "type": "SEM_ENCARGO",
-                    "amount": 0.0000,
-                    "currency": "BRL"
-                }
-            ],
             "payments": [
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
-                    "paymentDate": "2018-07-04",
+                    "paymentDate": "2019-07-04",
                     "paymentMode": "DEBITO_CONTA_CORRENTE",
-                    "amount": 4923.1700,
+                    "amount": "4923.1700",
                     "currency": "BRL"
                 }
             ]
         },
         {
             "billId": "8e3b4d0c-d8ed-11eb-b8bc-0242ac130003",
-            "dueDate": "2018-06-05",
-            "billTotalAmount": 4622.8500,
-            "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 46.2285,
-            "billMinimumAmountCurrency": "BRL",
+            "dueDate": "2019-06-05",
+            "billTotalAmount": {
+                "amount": "4622.8500",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "46.2285",
+                "currency": "BRL"
+            },
             "isInstalment": true,
-            "financeCharges": [
-                {
-                    "type": "SEM_ENCARGO",
-                    "amount": 0.0000,
-                    "currency": "BRL"
-                }
-            ],
             "payments": [
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
-                    "paymentDate": "2018-06-04",
+                    "paymentDate": "2019-06-04",
                     "paymentMode": "DEBITO_CONTA_CORRENTE",
-                    "amount": 4622.8500,
+                    "amount": "4622.8500",
                     "currency": "BRL"
                 }
             ]
         },
         {
             "billId": "b70685da-d8ed-11eb-b8bc-0242ac130003",
-            "dueDate": "2018-05-05",
-            "billTotalAmount": 5106.3000,
-            "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 51.0630,
-            "billMinimumAmountCurrency": "BRL",
+            "dueDate": "2019-05-05",
+            "billTotalAmount": {
+                "amount": "5106.3000",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "51.0630",
+                "currency": "BRL"
+            },
             "isInstalment": true,
-            "financeCharges": [
-                {
-                    "type": "SEM_ENCARGO",
-                    "amount": 0.0000,
-                    "currency": "BRL"
-                }
-            ],
             "payments": [
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
-                    "paymentDate": "2018-05-04",
+                    "paymentDate": "2019-05-04",
                     "paymentMode": "DEBITO_CONTA_CORRENTE",
-                    "amount": 5106.3000,
+                    "amount": "5106.3000",
                     "currency": "BRL"
                 }
             ]
         },
         {
             "billId": "cd03ff3e-d8ed-11eb-b8bc-0242ac130003",
-            "dueDate": "2018-04-05",
-            "billTotalAmount": 3831.9600,
-            "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 38.3196,
-            "billMinimumAmountCurrency": "BRL",
+            "dueDate": "2019-04-05",
+            "billTotalAmount": {
+                "amount": "3831.9600",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "38.3196",
+                "currency": "BRL"
+            },
             "isInstalment": true,
-            "financeCharges": [
-                {
-                    "type": "SEM_ENCARGO",
-                    "amount": 0.0000,
-                    "currency": "BRL"
-                }
-            ],
             "payments": [
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
-                    "paymentDate": "2018-04-04",
+                    "paymentDate": "2019-04-04",
                     "paymentMode": "DEBITO_CONTA_CORRENTE",
-                    "amount": 3831.9600,
+                    "amount": "3831.9600",
                     "currency": "BRL"
                 }
             ]
         },
         {
             "billId": "f8cc75b0-d8ed-11eb-b8bc-0242ac130003",
-            "dueDate": "2018-03-05",
-            "billTotalAmount": 5272.1800,
-            "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 52.7218,
-            "billMinimumAmountCurrency": "BRL",
+            "dueDate": "2019-03-05",
+            "billTotalAmount": {
+                "amount": "5272.1800",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "52.7218",
+                "currency": "BRL"
+            },
             "isInstalment": true,
-            "financeCharges": [
-                {
-                    "type": "SEM_ENCARGO",
-                    "amount": 0.0000,
-                    "currency": "BRL"
-                }
-            ],
             "payments": [
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
-                    "paymentDate": "2018-03-04",
+                    "paymentDate": "2019-03-04",
                     "paymentMode": "DEBITO_CONTA_CORRENTE",
-                    "amount": 5272.1800,
+                    "amount": "5272.1800",
                     "currency": "BRL"
                 }
             ]
         },
         {
             "billId": "0f0f253e-d8ed-11eb-b8bc-0242ac130003",
-            "dueDate": "2018-02-05",
-            "billTotalAmount": 4022.2200,
-            "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 40.2220,
-            "billMinimumAmountCurrency": "BRL",
+            "dueDate": "2019-02-05",
+            "billTotalAmount": {
+                "amount": "4022.2200",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "40.2220",
+                "currency": "BRL"
+            },
             "isInstalment": true,
-            "financeCharges": [
-                {
-                    "type": "SEM_ENCARGO",
-                    "amount": 0.0000,
-                    "currency": "BRL"
-                }
-            ],
             "payments": [
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
-                    "paymentDate": "2018-02-04",
+                    "paymentDate": "2019-02-04",
                     "paymentMode": "DEBITO_CONTA_CORRENTE",
-                    "amount": 4022.2200,
+                    "amount": "4022.2200",
                     "currency": "BRL"
                 }
             ]
         },
         {
             "billId": "0f0f479e-d8ee-11eb-b8bc-0242ac130003",
-            "dueDate": "2018-01-05",
-            "billTotalAmount": 4163.8500,
-            "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 41.6385,
-            "billMinimumAmountCurrency": "BRL",
+            "dueDate": "2019-01-05",
+            "billTotalAmount": {
+                "amount": "4163.8500",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "41.6385",
+                "currency": "BRL"
+            },
             "isInstalment": true,
-            "financeCharges": [
-                {
-                    "type": "SEM_ENCARGO",
-                    "amount": 0.0000,
-                    "currency": "BRL"
-                }
-            ],
             "payments": [
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
-                    "paymentDate": "2018-01-04",
+                    "paymentDate": "2019-01-04",
                     "paymentMode": "DEBITO_CONTA_CORRENTE",
-                    "amount": 4163.8500,
+                    "amount": "4163.8500",
                     "currency": "BRL"
                 }
             ]
         },
         {
             "billId": "0f0f4ffa-d8ee-11eb-b8bc-0242ac130003",
-            "dueDate": "2017-12-05",
-            "billTotalAmount": 6189.3600,
-            "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 61.8936,
-            "billMinimumAmountCurrency": "BRL",
+            "dueDate": "2018-12-05",
+            "billTotalAmount": {
+                "amount": "6189.3600",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "61.8936",
+                "currency": "BRL"
+            },
             "isInstalment": true,
-            "financeCharges": [
-                {
-                    "type": "SEM_ENCARGO",
-                    "amount": 0.0000,
-                    "currency": "BRL"
-                }
-            ],
             "payments": [
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
-                    "paymentDate": "2017-12-04",
+                    "paymentDate": "2018-12-04",
                     "paymentMode": "DEBITO_CONTA_CORRENTE",
-                    "amount": 6189.3600,
+                    "amount": "6189.3600",
                     "currency": "BRL"
                 }
             ]
         },
         {
             "billId": "612eb41a-d8ee-11eb-b8bc-0242ac130003",
-            "dueDate": "2017-11-05",
-            "billTotalAmount": 8721.4900,
-            "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 87.2149,
-            "billMinimumAmountCurrency": "BRL",
+            "dueDate": "2018-11-05",
+            "billTotalAmount": {
+                "amount": "8721.4900",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "87.2149",
+                "currency": "BRL"
+            },
             "isInstalment": true,
-            "financeCharges": [
-                {
-                    "type": "SEM_ENCARGO",
-                    "amount": 0.0000,
-                    "currency": "BRL"
-                }
-            ],
             "payments": [
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
-                    "paymentDate": "2017-11-04",
+                    "paymentDate": "2018-11-04",
                     "paymentMode": "DEBITO_CONTA_CORRENTE",
-                    "amount": 8721.4900,
+                    "amount": "8721.4900",
                     "currency": "BRL"
                 }
             ]
         },
         {
             "billId": "612eb80c-d8ee-11eb-b8bc-0242ac130003",
-            "dueDate": "2017-10-05",
-            "billTotalAmount": 5352.8400,
-            "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 53.5284,
-            "billMinimumAmountCurrency": "BRL",
+            "dueDate": "2018-10-05",
+            "billTotalAmount": {
+                "amount": "5352.8400",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "53.5284",
+                "currency": "BRL"
+            },
             "isInstalment": true,
-            "financeCharges": [
-                {
-                    "type": "SEM_ENCARGO",
-                    "amount": 0.0000,
-                    "currency": "BRL"
-                }
-            ],
             "payments": [
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
-                    "paymentDate": "2017-10-04",
+                    "paymentDate": "2018-10-04",
                     "paymentMode": "DEBITO_CONTA_CORRENTE",
-                    "amount": 5352.8400,
+                    "amount": "5352.8400",
                     "currency": "BRL"
                 }
             ]
         },
         {
             "billId": "612ec3d8-d8ee-11eb-b8bc-0242ac130003",
-            "dueDate": "2017-09-05",
-            "billTotalAmount": 5964.0600,
-            "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 59.6406,
-            "billMinimumAmountCurrency": "BRL",
+            "dueDate": "2018-09-05",
+            "billTotalAmount": {
+                "amount": "5964.0600",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "59.6406",
+                "currency": "BRL"
+            },
             "isInstalment": true,
-            "financeCharges": [
-                {
-                    "type": "SEM_ENCARGO",
-                    "amount": 0.0000,
-                    "currency": "BRL"
-                }
-            ],
             "payments": [
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
-                    "paymentDate": "2017-09-04",
+                    "paymentDate": "2018-09-04",
                     "paymentMode": "DEBITO_CONTA_CORRENTE",
-                    "amount": 5964.0600,
+                    "amount": "5964.0600",
                     "currency": "BRL"
                 }
             ]
         },
         {
             "billId": "612ed17a-d8ee-11eb-b8bc-0242ac130003",
-            "dueDate": "2017-08-05",
-            "billTotalAmount": 4872.7000,
-            "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 48.7270,
-            "billMinimumAmountCurrency": "BRL",
+            "dueDate": "2018-08-05",
+            "billTotalAmount": {
+                "amount": "4872.7000",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "48.7270",
+                "currency": "BRL"
+            },
             "isInstalment": true,
-            "financeCharges": [
-                {
-                    "type": "SEM_ENCARGO",
-                    "amount": 0.0000,
-                    "currency": "BRL"
-                }
-            ],
             "payments": [
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
-                    "paymentDate": "2017-08-04",
+                    "paymentDate": "2018-08-04",
                     "paymentMode": "DEBITO_CONTA_CORRENTE",
-                    "amount": 4872.7000,
+                    "amount": "4872.7000",
                     "currency": "BRL"
                 }
             ]
         },
         {
             "billId": "612ed648-d8ef-11eb-b8bc-0242ac130003",
-            "dueDate": "2017-07-05",
-            "billTotalAmount": 3687.6900,
-            "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 36.8769,
-            "billMinimumAmountCurrency": "BRL",
+            "dueDate": "2018-07-05",
+            "billTotalAmount": {
+                "amount": "3687.6900",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "36.8769",
+                "currency": "BRL"
+            },
             "isInstalment": true,
-            "financeCharges": [
-                {
-                    "type": "SEM_ENCARGO",
-                    "amount": 0.0000,
-                    "currency": "BRL"
-                }
-            ],
             "payments": [
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
-                    "paymentDate": "2017-07-04",
+                    "paymentDate": "2018-07-04",
                     "paymentMode": "DEBITO_CONTA_CORRENTE",
-                    "amount": 3687.6900,
+                    "amount": "3687.6900",
                     "currency": "BRL"
                 }
             ]
         }
     ],
     "links": {
-        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?page=2&page-size=25&fromDueDate=2017-05-01?toDueDate=2021-08-31",
-        "first": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?page=1&page-size=25&fromDueDate=2017-05-01?toDueDate=2021-08-31",
-        "prev": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?page=1&page-size=25&fromDueDate=2017-05-01?toDueDate=2021-08-31",
-        "next": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?page=3&page-size=25&fromDueDate=2017-05-01?toDueDate=2021-08-31",
-        "last": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?page=3&page-size=25&fromDueDate=2017-05-01?toDueDate=2021-08-31"
+        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?page=2&page-size=25&fromDueDate=2018-05-01?toDueDate=2022-08-31",
+        "first": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?page=1&page-size=25&fromDueDate=2018-05-01?toDueDate=2022-08-31",
+        "prev": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?page=1&page-size=25&fromDueDate=2018-05-01?toDueDate=2022-08-31",
+        "next": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?page=3&page-size=25&fromDueDate=2018-05-01?toDueDate=2022-08-31",
+        "last": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?page=3&page-size=25&fromDueDate=2018-05-01?toDueDate=2022-08-31"
     },
     "meta": {
         "totalRecords": 52,
         "totalPages": 3,
-        "requestDateTime": "2021-08-28T08:25:10Z"
+        "requestDateTime": "2022-09-09T09:56:00Z"
     }
-} 
+}

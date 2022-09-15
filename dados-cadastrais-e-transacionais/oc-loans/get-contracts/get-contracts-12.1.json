@@ -7,8 +7,7 @@
             "productType": "EMPRESTIMOS",
             "productSubType": "CREDITO_PESSOAL_SEM_CONSIGNACAO",
             "ipocCode": "00360305020312872886281303666985210587841"
-        } 
-        
+        }
     ],
     "links": {
         "self": "https://api.caixa.gov.br/open-banking/loans/v1/contracts"
@@ -16,7 +15,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-09-16T19:58:00Z"
+        "requestDateTime": "2022-09-09T09:56:00Z"
     }
 }
-

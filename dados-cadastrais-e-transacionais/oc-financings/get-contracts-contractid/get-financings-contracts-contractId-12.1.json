@@ -6,16 +6,13 @@
     "productType": "FINANCIAMENTOS",
     "productSubType": "MICROCREDITOS",
     "contractDate": "2021-08-01",
-    "settlementDate": "NA",
-    "contractAmount": 400000.0000,
+    "contractAmount": "400000.0000",
     "currency": "BRL",
     "dueDate": "2051-08-01",
     "instalmentPeriodicity": "SEMANAL",
-    "instalmentPeriodicityAdditionalInfo": "NA",
     "firstInstalmentDueDate": "2021-08-08",
-    "CET": 0.0400,
+    "CET": "0.0400",
     "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
-    "amortizationScheduledAdditionalInfo": "NA",
     "interestRates": [
       {
         "taxType": "EFETIVA",
@@ -24,9 +21,8 @@
         "calculation": "30/360",
         "referentialRateIndexerType": "FLUTUANTES",
         "referentialRateIndexerSubType": "CDI",
-        "preFixedRate": 0.0000,
-        "postFixedRate": 0.0400,
-        "additionalInfo": "NA"
+        "preFixedRate": "0.0000",
+        "postFixedRate": "0.0400"
       }
     ],
     "contractedFees": [
@@ -35,15 +31,14 @@
         "feeCode": "ADMINISTRACAO",
         "feeChargeType": "POR_PARCELA",
         "feeCharge": "MAXIMO",
-        "feeAmount": 110.9900,
-        "feeRate": 0.0000
+        "feeAmount": "110.9900",
+        "feeRate": "0.0000"
       }
     ],
     "contractedFinanceCharges": [
       {
         "chargeType": "MULTA_ATRASO_PAGAMENTO",
-        "chargeAdditionalInfo": "NA",
-        "chargeRate": 0.0250
+        "chargeRate": "0.0250"
       }
     ]
   },
@@ -53,6 +48,6 @@
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2021-09-03T10:17:00Z"
+    "requestDateTime": "2022-09-09T09:56:00Z"
   }
-} 
+}

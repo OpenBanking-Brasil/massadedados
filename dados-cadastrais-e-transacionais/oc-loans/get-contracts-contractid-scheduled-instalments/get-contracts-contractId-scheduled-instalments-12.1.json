@@ -10,43 +10,59 @@
         "balloonPayments": [
             {
                 "dueDate": "2010-06-04",
-                "currency": "BRL",
-                "amount": 500.0000
+                "amount": {
+                    "amount": "500.0000",
+                    "currency": "BRL"
+                }
             },
             {
                 "dueDate": "2010-05-04",
-                "currency": "BRL",
-                "amount": 500.0000
+                "amount": {
+                    "amount": "500.0000",
+                    "currency": "BRL"
+                }
             },
             {
                 "dueDate": "2010-03-04",
-                "currency": "BRL",
-                "amount": 500.0000
+                "amount": {
+                    "amount": "500.0000",
+                    "currency": "BRL"
+                }
             },
             {
                 "dueDate": "2010-02-04",
-                "currency": "BRL",
-                "amount": 500.0000
+                "amount": {
+                    "amount": "500.0000",
+                    "currency": "BRL"
+                }
             },
             {
                 "dueDate": "2009-12-04",
-                "currency": "BRL",
-                "amount": 500.0000
+                "amount": {
+                    "amount": "500.0000",
+                    "currency": "BRL"
+                }
             },
             {
                 "dueDate": "2009-11-04",
-                "currency": "BRL",
-                "amount": 500.0000
+                "amount": {
+                    "amount": "500.0000",
+                    "currency": "BRL"
+                }
             },
             {
                 "dueDate": "2009-09-04",
-                "currency": "BRL",
-                "amount": 500.0000
+                "amount": {
+                    "amount": "500.0000",
+                    "currency": "BRL"
+                }
             },
             {
                 "dueDate": "2009-08-04",
-                "currency": "BRL",
-                "amount": 500.0000
+                "amount": {
+                    "amount": "500.0000",
+                    "currency": "BRL"
+                }
             }
         ]
     },
@@ -56,6 +72,6 @@
     "meta": {
         "totalRecords": 8,
         "totalPages": 1,
-        "requestDateTime": "2021-09-16T20:04:10Z"
+        "requestDateTime": "2022-09-09T09:56:00Z"
     }
 }

@@ -2,36 +2,33 @@
     "data": [
         {
             "billId": "072e4e3a-d8ea-11eb-b8bc-0242ac130003",
-            "dueDate": "2021-02-05",
-            "billTotalAmount": 6098.0100,
-            "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 60.9801,
-            "billMinimumAmountCurrency": "BRL",
+            "dueDate": "2022-02-05",
+            "billTotalAmount": {
+                "amount": "6098.0100",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "60.9801",
+                "currency": "BRL"
+            },
             "isInstalment": true,
-            "financeCharges": [
-                {
-                    "type": "SEM_ENCARGO",
-                    "amount": 0.0000,
-                    "currency": "BRL"
-                }
-            ],
             "payments": [
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
-                    "paymentDate": "2021-02-04",
+                    "paymentDate": "2022-02-04",
                     "paymentMode": "PIX",
-                    "amount": 6098.0100,
+                    "amount": "6098.0100",
                     "currency": "BRL"
                 }
             ]
         }
     ],
     "links": {
-        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?fromDueDate=2021-02-04&toDueDate=2021-02-04"
+        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?fromDueDate=2022-02-05&toDueDate=2022-02-05"
     },
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-08-28T08:23:03Z"
+        "requestDateTime": "2022-09-09T09:56:00Z"
     }
-} 
+}
