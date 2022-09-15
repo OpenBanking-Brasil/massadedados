@@ -1,0 +1,24 @@
+{
+  "data": {
+    "loggedUser": {
+      "document": {
+        "identification": "15719158502",
+        "rel": "CPF"
+      }
+    },
+    "permissions": [
+      "ACCOUNTS_READ",
+      "ACCOUNTS_BALANCES_READ",
+      "ACCOUNTS_TRANSACTIONS_READ",
+      "ACCOUNTS_OVERDRAFT_LIMITS_READ",
+      "CUSTOMERS_PERSONAL_IDENTIFICATIONS_READ",
+      "CUSTOMERS_PERSONAL_ADITTIONALINFO_READ",
+      "LOANS_READ",
+      "LOANS_SCHEDULED_INSTALMENTS_READ",
+      "LOANS_PAYMENTS_READ",
+      "LOANS_WARRANTIES_READ",
+      "RESOURCES_READ"
+    ],
+    "expirationDateTime": "2023-08-24T09:35:00Z"
+  }
+}

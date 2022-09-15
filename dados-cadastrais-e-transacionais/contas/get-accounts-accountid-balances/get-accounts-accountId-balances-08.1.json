@@ -1,0 +1,24 @@
+{
+  "data": {
+    "availableAmount": {
+      "amount": "75.6300",
+      "currency": "BRL"
+    },
+    "blockedAmount": {
+      "amount": "0.0000",
+      "currency": "BRL"
+    },
+    "automaticallyInvestedAmount": {
+      "amount": "0.0000",
+      "currency": "BRL"
+    }
+  },
+  "links": {
+    "self": "https://api.caixa.gov.br/open-banking/accounts/v1/accounts/b569dcaf-aef4-44cc-bd84-b12ae26cb16b/balances"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-08-24T09:35:00Z"
+  }
+}

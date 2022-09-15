@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "transactionId": "4170c64d-18a0-4405-802f-34487c80980d",
+            "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
+            "creditDebitType": "DEBITO",
+            "transactionName": "TRANS4170c64d-18a0-4405-802f-34487c80980d",
+            "type": "PIX",
+            "transactionAmount": {
+                "amount": "89.1100",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-08-23",
+            "partieCnpjCpf": "29750879422",
+            "partiePersonType": "PESSOA_NATURAL",
+            "partieCompeCode": "104",
+            "partieBranchCode": "3272",
+            "partieNumber": "81290854360",
+            "partieCheckDigit": "7"
+        }
+    ],
+    "links": {
+        "self": "https://api.caixa.gov.br/open-banking/accounts/v1/accounts/b569dcaf-aef4-44cc-bd84-b12ae26cb16b/transactions-current"
+    },
+    "meta": {
+        "requestDateTime": "2022-08-24T09:35:00Z"
+    }
+}
