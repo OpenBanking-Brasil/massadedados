@@ -6,12 +6,18 @@
             "identificationNumber": "0126",
             "lineName": "CREDITO_PARCELADO",
             "isLimitFlexible": true,
-            "limitAmountCurrency": "BRL",
-            "limitAmount": 11000.0000,
-            "usedAmountCurrency": "BRL",
-            "usedAmount": 11000.0000,
-            "availableAmountCurrency": "BRL",
-            "availableAmount": 0.0000
+            "limitAmount": {
+                "amount": "11000.0000",
+                "currency": "BRL"
+            },
+            "usedAmount": {
+                "amount": "11000.0000",
+                "currency": "BRL"
+            },
+            "availableAmount": {
+                "amount": "0.0000",
+                "currency": "BRL"
+            }
         }
     ],
     "links": {
@@ -20,6 +26,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-09-10T16:32:59Z"
+        "requestDateTime": "2022-09-09T09:56:00Z"
     }
 }

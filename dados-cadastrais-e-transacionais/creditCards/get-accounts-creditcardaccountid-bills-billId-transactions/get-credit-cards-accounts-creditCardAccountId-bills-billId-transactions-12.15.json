@@ -1,131 +1,135 @@
 {
     "data": [
         {
-            "transactionId": "2008544e-d9b4-11eb-b8bc-0242ac130003",
+            "transactionId": "a7d01266-d9b6-11eb-b8bc-0242ac130003",
             "identificationNumber": "0126",
-            "lineName": "CREDITO_A_VISTA",
-            "transactionName": "CASHBACK",
+            "transactionName": "ESTORNO",
             "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
-            "creditDebitType": "DEBITO",
-            "transactionType": "CASHBACK",
-            "transactionalAdditionalInfo": "NA",
+            "creditDebitType": "CREDITO",
+            "transactionType": "ESTORNO",
             "paymentType": "A_VISTA",
             "feeType": "ANUIDADE",
-            "feeTypeAdditionalInfo": "NA",
             "otherCreditsType": "CREDITO_ROTATIVO",
-            "otherCreditsAdditionalInfo": "NA",
             "chargeIdentificator": "PARCELA_1",
             "chargeNumber": 1,
-            "brazilianAmount": 15.0000,
-            "amount": 0.0000,
-            "currency": "BRL",
-            "transactionDate": "2021-07-16",
-            "billPostDate": "2021-07-16",
-            "payeeMCC": 5815
+            "brazilianAmount": {
+                "amount": "699.9800",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "699.9800",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-07-09",
+            "billPostDate": "2022-07-09",
+            "payeeMCC": 5309
         },
         {
-            "transactionId": "666f7eaa-d9b2-11eb-b8bc-0242ac130003",
+            "transactionId": "ab571b14-d9b6-11eb-b8bc-0242ac130003",
             "identificationNumber": "0126",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PGTO",
             "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
             "creditDebitType": "CREDITO",
             "transactionType": "PAGAMENTO",
-            "transactionalAdditionalInfo": "NA",
             "paymentType": "A_VISTA",
             "feeType": "ANUIDADE",
-            "feeTypeAdditionalInfo": "NA",
             "otherCreditsType": "CREDITO_ROTATIVO",
-            "otherCreditsAdditionalInfo": "NA",
             "chargeIdentificator": "PARCELA_1",
             "chargeNumber": 1,
-            "brazilianAmount": 241.87000,
-            "amount": 0.0000,
-            "currency": "BRL",
-            "transactionDate": "2021-07-15",
-            "billPostDate": "2021-07-15",
-            "payeeMCC": 5815
+            "brazilianAmount": {
+                "amount": "699.9800",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "699.9800",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-07-09",
+            "billPostDate": "2022-07-09",
+            "payeeMCC": 5309
         },
         {
-            "transactionId": "bad30f64-d9b4-11eb-b8bc-0242ac130003",
+            "transactionId": "df3f55f4-d9b6-11eb-b8bc-0242ac130003",
             "identificationNumber": "0126",
-            "lineName": "CREDITO_A_VISTA",
-            "transactionName": "PGTO",
-            "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
-            "creditDebitType": "DEBITO",
-            "transactionType": "CASHBACK",
-            "transactionalAdditionalInfo": "NA",
-            "paymentType": "A_VISTA",
-            "feeType": "ANUIDADE",
-            "feeTypeAdditionalInfo": "NA",
-            "otherCreditsType": "CREDITO_ROTATIVO",
-            "otherCreditsAdditionalInfo": "NA",
-            "chargeIdentificator": "PARCELA_1",
-            "chargeNumber": 1,
-            "brazilianAmount": 27.2700,
-            "amount": 0.0000,
-            "currency": "BRL",
-            "transactionDate": "2021-07-10",
-            "billPostDate": "2021-07-10",
-            "payeeMCC": 5946
-        },
-        {
-            "transactionId": "be2ce00e-d9b2-11eb-b8bc-02424c130003",
-            "identificationNumber": "0126",
-            "lineName": "CREDITO_A_VISTA",
-            "transactionName": "PGTO",
+            "transactionName": "McDonald's ",
             "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
             "creditDebitType": "CREDITO",
             "transactionType": "PAGAMENTO",
-            "transactionalAdditionalInfo": "NA",
             "paymentType": "A_VISTA",
             "feeType": "ANUIDADE",
-            "feeTypeAdditionalInfo": "NA",
             "otherCreditsType": "CREDITO_ROTATIVO",
-            "otherCreditsAdditionalInfo": "NA",
             "chargeIdentificator": "PARCELA_1",
             "chargeNumber": 1,
-            "brazilianAmount": 911.2300,
-            "amount": 0.0000,
-            "currency": "BRL",
-            "transactionDate": "2021-07-10",
-            "billPostDate": "2021-07-10",
-            "payeeMCC": 5946
+            "brazilianAmount": {
+                "amount": "50.4300",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "50.4300",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-07-09",
+            "billPostDate": "2022-07-09",
+            "payeeMCC": 5814
         },
         {
-            "transactionId": "5d5f5bdb-6985-3dc5-84c7-afc3e47d6553",
+            "transactionId": "92e219a2-d9c1-11eb-b8bc-0242ac130003",
             "identificationNumber": "0126",
-            "lineName": "SAQUE_CREDITO_BRASIL",
-            "transactionName": "SAQUE",
+            "transactionName": "TARIFAS",
             "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
             "creditDebitType": "CREDITO",
-            "transactionType": "OUTROS",
-            "transactionalAdditionalInfo": "Saque sem tarifa",
+            "transactionType": "TARIFA",
             "paymentType": "A_VISTA",
             "feeType": "ANUIDADE",
-            "feeTypeAdditionalInfo": "NA",
             "otherCreditsType": "CREDITO_ROTATIVO",
-            "otherCreditsAdditionalInfo": "NA",
             "chargeIdentificator": "PARCELA_1",
             "chargeNumber": 1,
-            "brazilianAmount": 286.8500,
-            "amount": 0.0000,
-            "currency": "BRL",
-            "transactionDate": "2021-07-09",
-            "billPostDate": "2021-07-09",
-            "payeeMCC": 7280
+            "brazilianAmount": {
+                "amount": "43.0000",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "43.0000",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-07-08",
+            "billPostDate": "2022-07-08",
+            "payeeMCC": 4900
+        },
+        {
+            "transactionId": "6871659c-d9d5-11eb-b8bc-0242ac130003",
+            "identificationNumber": "0126",
+            "transactionName": "ANUIDADE",
+            "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
+            "creditDebitType": "CREDITO",
+            "transactionType": "OPERACOES_CREDITO_CONTRATADAS_CARTAO",
+            "paymentType": "A_VISTA",
+            "feeType": "ANUIDADE",
+            "otherCreditsType": "CREDITO_ROTATIVO",
+            "chargeIdentificator": "PARCELA_1",
+            "chargeNumber": 1,
+            "brazilianAmount": {
+                "amount": "50.0000",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "50.0000",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-07-08",
+            "billPostDate": "2022-07-08",
+            "payeeMCC": 4900
         }
     ],
     "links": {
-        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills/2c30bc0e-d8e5-11eb-b8bc-0242ac130003/transactions?page=2&page-size=5",
+        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills/2c30bc0e-d8e5-11eb-b8bc-0242ac130003/transactions?page=3&page-size=5",
         "first": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills/2c30bc0e-d8e5-11eb-b8bc-0242ac130003/transactions?page=1&page-size=5",
-        "prev": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills/2c30bc0e-d8e5-11eb-b8bc-0242ac130003/transactions?page=1&page-size=5",
-        "next": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills/2c30bc0e-d8e5-11eb-b8bc-0242ac130003/transactions?page=3&page-size=5",
+        "prev": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills/2c30bc0e-d8e5-11eb-b8bc-0242ac130003/transactions?page=2&page-size=5",
         "last": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills/2c30bc0e-d8e5-11eb-b8bc-0242ac130003/transactions?page=3&page-size=5"
     },
     "meta": {
         "totalRecords": 5,
         "totalPages": 3,
-        "requestDateTime": "2021-08-29T07:49:05Z"
+        "requestDateTime": "2022-09-09T09:56:00Z"
     }
-} 
+}

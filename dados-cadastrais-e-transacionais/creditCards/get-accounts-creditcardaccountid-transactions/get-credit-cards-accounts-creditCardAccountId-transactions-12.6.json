@@ -3,24 +3,25 @@
         {
             "transactionId": "622e7af4-d9b1-11eb-b8bc-0242ac130003",
             "identificationNumber": "0126",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "TARIFAS",
             "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
-            "creditDebitType": "DEBITO",
+            "creditDebitType": "CREDITO",
             "transactionType": "TARIFA",
-            "transactionalAdditionalInfo": "NA",
             "paymentType": "A_VISTA",
             "feeType": "ANUIDADE",
-            "feeTypeAdditionalInfo": "NA",
             "otherCreditsType": "CREDITO_ROTATIVO",
-            "otherCreditsAdditionalInfo": "NA",
             "chargeIdentificator": "PARCELA_1",
             "chargeNumber": 1,
-            "brazilianAmount": 489.9900,
-            "amount": 0.0000,
-            "currency": "BRL",
-            "transactionDate": "2021-07-20",
-            "billPostDate": "2021-07-20",
+            "brazilianAmount": {
+                "amount": "489.9900",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "489.9900",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-07-20",
+            "billPostDate": "2022-07-20",
             "payeeMCC": 4900
         }
     ],
@@ -33,6 +34,6 @@
     "meta": {
         "totalRecords": 2,
         "totalPages": 2,
-        "requestDateTime": "2021-08-30T06:10:15Z"
+        "requestDateTime": "2022-09-09T09:56:00Z"
     }
 } 
