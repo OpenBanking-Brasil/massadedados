@@ -1,11 +1,17 @@
 {
     "data": {
-        "overdraftContractedLimit": 4500.0000,
-        "overdraftContractedLimitCurrency": "BRL",
-        "overdraftUsedLimit": 4500.0000,
-        "overdraftUsedLimitCurrency": "BRL",
-        "unarrangedOverdraftAmount": 97000.0000,
-        "unarrangedOverdraftAmountCurrency": "BRL"
+        "overdraftContractedLimit": {
+            "amount": "4500.0000",
+            "currency": "BRL"
+        },
+        "overdraftUsedLimit": {
+            "amount": "4500.0000",
+            "currency": "BRL"
+        },
+        "unarrangedOverdraftAmount": {
+            "amount": "97000.0000",
+            "currency": "BRL"
+        }
     },
     "links": {
         "self": "https://opendata.api.bb.com.br/open-banking/accounts/v1/accounts/04eddd8a-da65-11eb-8d19-0242ac130003/overdraft-limits"
@@ -13,6 +19,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-10-26T00:00:00Z"
+        "requestDateTime": "2022-09-15T209:22:00Z"
     }
 }

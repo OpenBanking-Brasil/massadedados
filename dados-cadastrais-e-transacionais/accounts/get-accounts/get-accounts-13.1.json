@@ -9,8 +9,7 @@
             "number": "12578",
             "checkDigit": "2",
             "accountId": "04eddd8a-da65-11eb-8d19-0242ac130003"
-        }        
-
+        }
     ],
     "links": {
         "self": "https://opendata.api.bb.com.br/open-banking/accounts/v1/accounts"
@@ -18,6 +17,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-10-25T13:48:00Z"
+        "requestDateTime": "2022-09-15T209:22:00Z"
     }
 }

@@ -6,17 +6,13 @@
         "productType": "EMPRESTIMOS",
         "productSubType": "MICROCREDITO_PRODUTIVO_ORIENTADO",
         "contractDate": "2020-06-16",
-        "settlementDate": "NA",
-        "contractAmount": 300000.0000,
+        "contractAmount": "300000.0000",
         "currency": "BRL",
         "dueDate": "2022-07-16",
         "instalmentPeriodicity": "MENSAL",
-        "instalmentPeriodicityAdditionalInfo": "NA",
         "firstInstalmentDueDate": "2020-07-16",
-        "CET": 0.0510,
+        "CET": "0.0510",
         "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
-        "amortizationScheduledAdditionalInfo": "NA",
-        "cnpjConsignee": "NA",
         "interestRates": [
             {
                 "taxType": "EFETIVA",
@@ -25,9 +21,8 @@
                 "calculation": "30/365",
                 "referentialRateIndexerType": "PRE_FIXADO",
                 "referentialRateIndexerSubType": "PRE_FIXADO",
-                "preFixedRate": 0.0510,
-                "postFixedRate": 0.0000,
-                "additionalInfo": "NA"
+                "preFixedRate": "0.0510",
+                "postFixedRate": "0.0000"
             }
         ],
         "contractedFees": [
@@ -36,20 +31,18 @@
                 "feeCode": "CONTRATACAO",
                 "feeChargeType": "UNICA",
                 "feeCharge": "FIXO",
-                "feeAmount": 109.9000,
-                "feeRate": 0.0000
+                "feeAmount": "109.9000",
+                "feeRate": "0.0000"
             }
         ],
         "contractedFinanceCharges": [
             {
                 "chargeType": "MULTA_ATRASO_PAGAMENTO",
-                "chargeAdditionalInfo": "NA",
-                "chargeRate": 0.0100
+                "chargeRate": "0.0100"
             },
             {
                 "chargeType": "IOF_POR_ATRASO",
-                "chargeAdditionalInfo": "NA",
-                "chargeRate": 0.0250
+                "chargeRate": "0.0250"
             }
         ]
     },
@@ -59,6 +52,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-09-16T19:58:00Z"
+        "requestDateTime": "2022-09-15T209:22:00Z"
     }
 }

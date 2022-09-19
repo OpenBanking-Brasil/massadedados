@@ -6,16 +6,13 @@
     "productType": "FINANCIAMENTOS",
     "productSubType": "AQUISICAO_BENS_VEICULOS_AUTOMOTORES",
     "contractDate": "2021-10-01",
-    "settlementDate": "NA",
-    "contractAmount": 120000.0000,
+    "contractAmount": "120000.0000",
     "currency": "BRL",
     "dueDate": "2024-08-01",
     "instalmentPeriodicity": "MENSAL",
-    "instalmentPeriodicityAdditionalInfo": "NA",
     "firstInstalmentDueDate": "2021-11-01",
-    "CET": 0.0400,
+    "CET": "0.0400",
     "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
-    "amortizationScheduledAdditionalInfo": "NA",
     "interestRates": [
       {
         "taxType": "EFETIVA",
@@ -25,9 +22,8 @@
         "referentialRateIndexerType": "POS_FIXADO",
         "referentialRateIndexerSubType": "OUTRAS_TAXAS_POS_FIXADAS",
         "referentialRateIndexerAdditionalInfo": "BB POS TAX",
-        "preFixedRate": 0.0000,
-        "postFixedRate": 0.0400,
-        "additionalInfo": "NA"
+        "preFixedRate": "0.0000",
+        "postFixedRate": "0.0400"
       }
     ],
     "contractedFees": [
@@ -36,15 +32,14 @@
         "feeCode": "ADMINISTRACAO",
         "feeChargeType": "UNICA",
         "feeCharge": "MAXIMO",
-        "feeAmount": 110.9900,
-        "feeRate": 0.0000
+        "feeAmount":" 110.9900",
+        "feeRate": "0.0000"
       }
     ],
     "contractedFinanceCharges": [
       {
         "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
-        "chargeAdditionalInfo": "NA",
-        "chargeRate": 0.0250
+        "chargeRate": "0.0250"
       }
     ]
   },
@@ -54,6 +49,6 @@
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2021-12-03T10:17:00Z"
+    "requestDateTime": "2022-09-15T209:22:00Z"
   }
 } 
