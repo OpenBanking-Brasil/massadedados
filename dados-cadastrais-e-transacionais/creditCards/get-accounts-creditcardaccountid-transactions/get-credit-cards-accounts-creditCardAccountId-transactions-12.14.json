@@ -1,38 +1,39 @@
 {
     "data": [
         {
-            "transactionId": "a7d01266-d9b6-11eb-b8bc-0242ac130003",
+            "transactionId": "bad30f64-d9b4-11eb-b8bc-0242ac130003",
             "identificationNumber": "0126",
-            "lineName": "CREDITO_A_VISTA",
-            "transactionName": "ESTORNO",
+            "transactionName": "PGTO",
             "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
             "creditDebitType": "CREDITO",
-            "transactionType": "ESTORNO",
-            "transactionalAdditionalInfo": "NA",
+            "transactionType": "CASHBACK",
             "paymentType": "A_VISTA",
             "feeType": "ANUIDADE",
-            "feeTypeAdditionalInfo": "NA",
             "otherCreditsType": "CREDITO_ROTATIVO",
-            "otherCreditsAdditionalInfo": "NA",
             "chargeIdentificator": "PARCELA_1",
             "chargeNumber": 1,
-            "brazilianAmount": 699.9800,
-            "amount": 0.0000,
-            "currency": "BRL",
-            "transactionDate": "2021-07-09",
-            "billPostDate": "2021-07-09",
-            "payeeMCC": 5309
+            "brazilianAmount": {
+                "amount": "27.2700",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "27.2700",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-07-10",
+            "billPostDate": "2022-07-10",
+            "payeeMCC": 5946
         }
     ],
     "links": {
-        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=2&page-size=1&transactionType=ESTORNO",
-        "first": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=1&page-size=1&transactionType=ESTORNO",
-        "prev": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=1&page-size=1&transactionType=ESTORNO",
-        "last": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=2&page-size=1&transactionType=ESTORNO"
+        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=2&page-size=1&transactionType=CASHBACK",
+        "first": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=1&page-size=1&transactionType=CASHBACK",
+        "prev": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=1&page-size=1&transactionType=CASHBACK",
+        "last": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=2&page-size=1&transactionType=CASHBACK"
     },
     "meta": {
         "totalRecords": 2,
         "totalPages": 2,
-        "requestDateTime": "2021-08-30T11:32:00Z"
+        "requestDateTime": "2022-09-09T09:56:00Z"
     }
 } 
