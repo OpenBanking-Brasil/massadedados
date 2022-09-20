@@ -10,8 +10,10 @@
     "balloonPayments": [
       {
         "dueDate": "2021-11-28",
-        "currency": "BRL",
-        "amount": 15000.0000
+        "amount": {
+          "amount": "15000.0000",
+          "currency": "BRL"
+        }
       }
     ]
   },
@@ -21,6 +23,5 @@
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2021-12-24T10:01:00Z"
+    "requestDateTime": "2022-09-15T209:22:00Z"
   }
-}

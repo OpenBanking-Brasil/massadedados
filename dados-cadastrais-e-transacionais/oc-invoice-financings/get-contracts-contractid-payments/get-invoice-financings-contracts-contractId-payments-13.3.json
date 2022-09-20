@@ -1,7 +1,7 @@
 {
   "data": {
     "paidInstalments": 4,
-    "contractOutstandingBalance": 0.0000,
+    "contractOutstandingBalance": "0.0000",
     "releases": [
       {
         "paymentId": "4320957a-3597-3b38-bea9-08847407e0f5",
@@ -9,23 +9,7 @@
         "instalmentId": "4220957a-3597-3b38-bea9-08847407e0f5",
         "paidDate": "2020-08-28",
         "currency": "BRL",
-        "paidAmount": 15394.9000,
-        "overParcel": {
-          "fees": [
-            {
-              "feeName": "NA",
-              "feeCode": "NA",
-              "feeAmount": 0.0000
-            }
-          ],
-          "charges": [
-            {
-              "chargeType": "SEM_ENCARGOS",
-              "chargeAdditionalInfo": "NA",
-              "chargeAmount": 0.0000
-            }
-          ]
-        }
+        "paidAmount": "15394.9000"
       },
       {
         "paymentId": "5320957a-3597-3b38-bea9-08847407e0f4",
@@ -33,20 +17,19 @@
         "instalmentId": "5120957a-3597-3b38-bea9-08847407e0f4",
         "paidDate": "2020-05-28",
         "currency": "BRL",
-        "paidAmount": 15514.9000,
+        "paidAmount": "15514.9000",
         "overParcel": {
           "fees": [
             {
               "feeName": "Manutenção de Serviço",
               "feeCode": "MANUTENCAO",
-              "feeAmount": 120.0000
+              "feeAmount": "120.0000"
             }
           ],
           "charges": [
             {
               "chargeType": "SEM_ENCARGOS",
-              "chargeAdditionalInfo": "NA",
-              "chargeAmount": 0.0000
+              "chargeAmount": "0.0000"
             }
           ]
         }
@@ -57,23 +40,7 @@
         "instalmentId": "3320957a-3597-3b38-bea9-08847407e0f3",
         "paidDate": "2020-03-13",
         "currency": "BRL",
-        "paidAmount": 10000.0000,
-        "overParcel": {
-          "fees": [
-            {
-              "feeName": "NA",
-              "feeCode": "NA",
-              "feeAmount": 0.0000
-            }
-          ],
-          "charges": [
-            {
-              "chargeType": "SEM_ENCARGOS",
-              "chargeAdditionalInfo": "NA",
-              "chargeAmount": 0.0000
-            }
-          ]
-        }
+        "paidAmount": "10000.0000"
       },
       {
         "paymentId": "2120957a-3597-3b38-bea9-08847407e0f2",
@@ -81,23 +48,7 @@
         "instalmentId": "2220957a-3597-3b38-bea9-08847407e0f2",
         "paidDate": "2020-02-28",
         "currency": "BRL",
-        "paidAmount": 10000.0000,
-        "overParcel": {
-          "fees": [
-            {
-              "feeName": "NA",
-              "feeCode": "NA",
-              "feeAmount": 0.0000
-            }
-          ],
-          "charges": [
-            {
-              "chargeType": "SEM_ENCARGOS",
-              "chargeAdditionalInfo": "NA",
-              "chargeAmount": 0.0000
-            }
-          ]
-        }
+        "paidAmount": "10000.0000"
       }
     ]
   },
@@ -107,6 +58,6 @@
   "meta": {
     "totalRecords": 4,
     "totalPages": 1,
-    "requestDateTime": "2021-11-30T16:05:00Z"
+    "requestDateTime": "2022-09-15T209:22:00Z"
   }
 }

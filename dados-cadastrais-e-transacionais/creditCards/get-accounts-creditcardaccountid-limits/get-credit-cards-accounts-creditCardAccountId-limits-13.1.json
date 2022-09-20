@@ -5,14 +5,19 @@
             "consolidationType": "INDIVIDUAL",
             "identificationNumber": "0000",
             "lineName": "OUTROS",
-            "lineNameAdditionalInfo": "NA",
             "isLimitFlexible": true,
-            "limitAmountCurrency": "BRL",
-            "limitAmount": 3000.0000,
-            "usedAmountCurrency": "BRL",
-            "usedAmount": 2895.2043,
-            "availableAmountCurrency": "BRL",
-            "availableAmount": 104.7957
+            "limitAmount": {
+                "amount": "5000.0000",
+                "currency": "BRL"
+            },
+            "usedAmount": {
+                "amount": "2368.4870",
+                "currency": "BRL"
+            },
+            "availableAmount": {
+                "amount": "2631.5130",
+                "currency": "BRL"
+            }
         }
     ],
     "links": {
@@ -21,6 +26,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-10-01T00:00:00Z"
+        "requestDateTime": "2022-09-15T209:22:00Z"
     }
 }

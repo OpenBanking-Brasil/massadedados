@@ -3,45 +3,49 @@
         {
             "transactionId": "65f1s5e6-c4ec-3c2a-8897-aa685662900d",
             "identificationNumber": "1250",
-            "lineName": "CREDITO_A_VISTA",
-            "transactionName": "NA",
+            "transactionName": "Madeira Madeira Loja Online",
             "billId": "68e14se1-4ed0-30e7-8add-dbd32985c359",
-            "creditDebitType": "DEBITO",
+            "creditDebitType": "CREDITO",
             "transactionType": "PAGAMENTO",
-            "transactionalAdditionalInfo": "NA",
             "paymentType": "A_VISTA",
             "feeType": "SMS",
-            "feeTypeAdditionalInfo": "NA",
             "otherCreditsType": "CREDITO_ROTATIVO",
             "chargeIdentificator": "PARCELA_1",
             "chargeNumber": 1,
-            "brazilianAmount": 1574.5626,
-            "amount": 0.0000,
-            "currency": "BRL",
-            "transactionDate": "2020-12-01",
-            "billPostDate": "2020-12-01",
+            "brazilianAmount": {
+                "amount": "3943.0496",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "3943.0496",
+                "currency": "BRL"
+            },
+            "transactionDate": "2020-09-01",
+            "billPostDate": "2020-09-01",
             "payeeMCC": 5940
         },
         {
-            "transactionId": "fe1awefw-6c0f-319d-b513-5809fe31e7f9",
+            "transactionId": "a5f730d6-45f8-4f97-83ba-c3c747148f8a",
             "identificationNumber": "1250",
-            "lineName": "CREDITO_A_VISTA",
-            "transactionName": "NA",
+            "transactionName": "Amazon.com.br",
             "billId": "261es86x-1aae-3877-ae3d-f108f4fa7aec",
-            "creditDebitType": "DEBITO",
+            "creditDebitType": "CREDITO",
             "transactionType": "PAGAMENTO",
-            "transactionalAdditionalInfo": "NA",
             "paymentType": "A_VISTA",
             "feeType": "SMS",
-            "feeTypeAdditionalInfo": "NA",
             "otherCreditsType": "CREDITO_ROTATIVO",
             "chargeIdentificator": "PARCELA_1",
             "chargeNumber": 1,
-            "brazilianAmount": 1320.6417,
-            "amount": 0.0000,
-            "currency": "BRL",
-            "transactionDate": "2020-11-04",
-            "billPostDate": "2020-11-04",
+            "brazilianAmount": {
+                "amount": "1320.6417",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "1320.6417",
+                "currency": "BRL"
+            },
+            "transactionDate": "2020-07-20",
+            "billPostDate": "2020-07-20",
             "payeeMCC": 5940
         }
     ],
@@ -51,6 +55,6 @@
     "meta": {
         "totalRecords": 2,
         "totalPages": 1,
-        "requestDateTime": "2021-10-01T00:00:00Z"
+        "requestDateTime": "2022-09-15T209:22:00Z"
     }
 }

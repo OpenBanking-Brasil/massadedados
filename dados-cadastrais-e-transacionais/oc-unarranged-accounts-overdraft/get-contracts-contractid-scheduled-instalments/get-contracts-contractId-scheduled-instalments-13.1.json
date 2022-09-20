@@ -1,26 +1,19 @@
 {
-    "data": {
-      "typeNumberOfInstalments": "MES",
-      "totalNumberOfInstalments": 24,
-      "typeContractRemaining": "MES",
-      "contractRemainingNumber": 23,
-      "paidInstalments": 1,
-      "dueInstalments": 23,
-      "pastDueInstalments": 0,
-      "balloonPayments": [
-        {
-          "dueDate": "NA",
-          "currency": "BRL",
-          "amount": 0.0000
-        }
-      ]
-    },
-    "links": {
-      "self": "https://opendata.api.bb.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/50232104-cd22-36aa-9a6f-725afdd55288/scheduled-instalments"
-    },
-    "meta": {
-      "totalRecords": 1,
-      "totalPages": 1,
-      "requestDateTime": "2021-01-21T17:17:00Z"
-    }
+  "data": {
+    "typeNumberOfInstalments": "MES",
+    "totalNumberOfInstalments": 24,
+    "typeContractRemaining": "MES",
+    "contractRemainingNumber": 23,
+    "paidInstalments": 1,
+    "dueInstalments": 23,
+    "pastDueInstalments": 0
+  },
+  "links": {
+    "self": "https://opendata.api.bb.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/50232104-cd22-36aa-9a6f-725afdd55288/scheduled-instalments"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-09-15T209:22:00Z"
+  }
 }

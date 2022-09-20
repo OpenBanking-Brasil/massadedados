@@ -7,14 +7,13 @@
     "productSubType": "ANTECIPACAO_FATURA_CARTAO_CREDITO",
     "contractDate": "2020-02-28",
     "settlementDate": "2020-08-28",
-    "contractAmount": 50000.0000,
+    "contractAmount": "50000.0000",
     "currency": "BRL",
     "dueDate": "2020-08-28",
     "instalmentPeriodicity": "TRIMESTRAL",
     "firstInstalmentDueDate": "2020-05-28",
-    "CET": 0.0175,
+    "CET": "0.0175",
     "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
-    "amortizationScheduledAdditionalInfo": "NA",
     "interestRates": [
       {
         "taxType": "EFETIVA",
@@ -24,9 +23,8 @@
         "referentialRateIndexerType": "POS_FIXADO",
         "referentialRateIndexerSubType": "OUTRAS_TAXAS_POS_FIXADAS",
         "referentialRateIndexerAdditionalInfo": "CDB BB",
-        "preFixedRate": 0.0000,
-        "postFixedRate": 0.0175,
-        "additionalInfo": "NA"
+        "preFixedRate": "0.0000",
+        "postFixedRate": "0.0175"
       }
     ],
     "contractedFees": [
@@ -35,25 +33,22 @@
         "feeCode": "MANUTENCAO",
         "feeChargeType": "UNICA",
         "feeCharge": "FIXO",
-        "feeAmount": 120.0000,
-        "feeRate": 0.0000
+        "feeAmount": "120.0000",
+        "feeRate": "0.0000"
       }
     ],
     "contractedFinanceCharges": [
       {
         "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
-        "chargeAdditionalInfo": "NA",
-        "chargeRate": 0.0210
+        "chargeRate": "0.0210"
       },
       {
         "chargeType": "JUROS_MORA_ATRASO",
-        "chargeAdditionalInfo": "NA",
-        "chargeRate": 0.0710
+        "chargeRate": "0.0710"
       },
       {
         "chargeType": "IOF_POR_ATRASO",
-        "chargeAdditionalInfo": "NA",
-        "chargeRate": 0.0180
+        "chargeRate": "0.0180"
       }
     ]
   },
@@ -63,6 +58,6 @@
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2021-12-24T09:20:00Z"
+    "requestDateTime": "2022-09-15T209:22:00Z"
   }
 }

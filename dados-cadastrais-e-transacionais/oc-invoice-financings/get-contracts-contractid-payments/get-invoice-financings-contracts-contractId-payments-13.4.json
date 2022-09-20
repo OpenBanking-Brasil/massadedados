@@ -1,7 +1,7 @@
 {
   "data": {
     "paidInstalments": 4,
-    "contractOutstandingBalance": 0.0000,
+    "contractOutstandingBalance": "0.0000",
     "releases": [
       {
         "paymentId": "1320957a-3597-3b38-bea9-08847407e0f5",
@@ -9,20 +9,19 @@
         "instalmentId": "0320957a-3597-3b38-bea9-08847407e0f5",
         "paidDate": "2020-01-28",
         "currency": "BRL",
-        "paidAmount": 8778.9727,
+        "paidAmount": "8778.9727",
         "overParcel": {
           "fees": [
             {
               "feeName": "Manutenção de Serviço",
               "feeCode": "MANUTENCAO",
-              "feeAmount": 21.8927
+              "feeAmount": "21.8927"
             }
           ],
           "charges": [
             {
               "chargeType": "SEM_ENCARGOS",
-              "chargeAdditionalInfo": "NA",
-              "chargeAmount": 0.0000
+              "chargeAmount": "0.0000"
             }
           ]
         }
@@ -33,20 +32,19 @@
         "instalmentId": "0320957a-3597-3b38-bea9-08847407e0f4",
         "paidDate": "2019-11-28",
         "currency": "BRL",
-        "paidAmount": 8778.9727,
+        "paidAmount": "8778.9727",
         "overParcel": {
           "fees": [
             {
               "feeName": "Manutenção de Serviço",
               "feeCode": "MANUTENCAO",
-              "feeAmount": 21.8927
+              "feeAmount": "21.8927"
             }
           ],
           "charges": [
             {
               "chargeType": "SEM_ENCARGOS",
-              "chargeAdditionalInfo": "NA",
-              "chargeAmount": 0.0000
+              "chargeAmount": "0.0000"
             }
           ]
         }
@@ -57,30 +55,27 @@
         "instalmentId": "0320957a-3597-3b38-bea9-08847407e0f3",
         "paidDate": "2019-09-29",
         "currency": "BRL",
-        "paidAmount": 9745.3096,
+        "paidAmount": "9745.3096",
         "overParcel": {
           "fees": [
             {
               "feeName": "Manutenção de Serviço",
               "feeCode": "MANUTENCAO",
-              "feeAmount": 21.8927
+              "feeAmount": "21.8927"
             }
           ],
           "charges": [
             {
               "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
-              "chargeAdditionalInfo": "NA",
-              "chargeAmount": 184.4825
+              "chargeAmount": "184.4825"
             },
             {
               "chargeType": "JUROS_MORA_ATRASO",
-              "chargeAdditionalInfo": "NA",
-              "chargeAmount": 623.7266
+              "chargeAmount": "623.7266"
             },
             {
               "chargeType": "IOF_POR_ATRASO",
-              "chargeAdditionalInfo": "NA",
-              "chargeAmount": 158.1278
+              "chargeAmount": "158.1278"
             }
           ]
         }
@@ -91,20 +86,19 @@
         "instalmentId": "0320957a-3597-3b38-bea9-08847407e0f2",
         "paidDate": "2019-07-28",
         "currency": "BRL",
-        "paidAmount": 8778.9727,
+        "paidAmount": "8778.9727",
         "overParcel": {
           "fees": [
             {
               "feeName": "Manutenção de Serviço",
               "feeCode": "MANUTENCAO",
-              "feeAmount": 21.8927
+              "feeAmount": "21.8927"
             }
           ],
           "charges": [
             {
               "chargeType": "SEM_ENCARGOS",
-              "chargeAdditionalInfo": "NA",
-              "chargeAmount": 0.0000
+              "chargeAmount": "0.0000"
             }
           ]
         }
@@ -117,6 +111,6 @@
   "meta": {
     "totalRecords": 4,
     "totalPages": 1,
-    "requestDateTime": "2021-11-30T16:05:00Z"
+    "requestDateTime": "2022-09-15T209:22:00Z"
   }
 }

@@ -4,7 +4,7 @@
             "currency": "BRL",
             "warrantyType": "HIPOTECA",
             "warrantySubType": "IMOVEIS",
-            "warrantyAmount": 200000.0000
+            "warrantyAmount": "200000.0000"
         }
     ],
     "links": {
@@ -13,6 +13,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-12-21T17:12:00Z"
+        "requestDateTime": "2022-09-15T209:22:00Z"
     }
 }

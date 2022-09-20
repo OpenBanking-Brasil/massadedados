@@ -10,13 +10,17 @@
     "balloonPayments": [
       {
         "dueDate": "2020-03-13",
-        "currency": "BRL",
-        "amount": 10000.0000
+        "amount": {
+          "amount": "10000.0000",
+          "currency": "BRL"
+        }
       },
       {
         "dueDate": "2020-02-28",
-        "currency": "BRL",
-        "amount": 10000.0000
+        "amount": {
+          "amount": "10000.0000",
+          "currency": "BRL"
+        }
       }
     ]
   },
@@ -26,6 +30,6 @@
   "meta": {
     "totalRecords": 2,
     "totalPages": 1,
-    "requestDateTime": "2021-12-24T10:01:00Z"
+    "requestDateTime": "2022-09-15T209:22:00Z"
   }
 }

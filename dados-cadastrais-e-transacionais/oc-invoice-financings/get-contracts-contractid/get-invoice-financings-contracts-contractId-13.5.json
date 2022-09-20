@@ -7,14 +7,13 @@
     "productSubType": "DESCONTO_CHEQUES",
     "contractDate": "2018-11-28",
     "settlementDate": "2019-03-28",
-    "contractAmount": 20000.0000,
+    "contractAmount": "20000.0000",
     "currency": "BRL",
     "dueDate": "2019-03-28",
     "instalmentPeriodicity": "BIMESTRAL",
     "firstInstalmentDueDate": "2019-01-28",
-    "CET": 0.0125,
+    "CET": "0.0125",
     "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
-    "amortizationScheduledAdditionalInfo": "NA",
     "interestRates": [
       {
         "taxType": "EFETIVA",
@@ -23,9 +22,8 @@
         "calculation": "30/365",
         "referentialRateIndexerType": "FLUTUANTES",
         "referentialRateIndexerSubType": "CDI",
-        "preFixedRate": 0.0000,
-        "postFixedRate": 0.0100,
-        "additionalInfo": "NA"
+        "preFixedRate": "0.0000",
+        "postFixedRate": "0.0100"
       }
     ],
     "contractedFees": [
@@ -34,15 +32,14 @@
         "feeCode": "MANUTENCAO",
         "feeChargeType": "POR_PARCELA",
         "feeCharge": "PERCENTUAL",
-        "feeAmount": 0.0000,
-        "feeRate": 0.0025
+        "feeAmount": "0.0000",
+        "feeRate": "0.0025"
       }
     ],
     "contractedFinanceCharges": [
       {
         "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
-        "chargeAdditionalInfo": "NA",
-        "chargeRate": 0.0210
+        "chargeRate": "0.0210"
       }
     ]
   },
@@ -52,6 +49,6 @@
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2021-12-24T09:20:00Z"
+    "requestDateTime": "2022-09-15T209:22:00Z"
   }
 }

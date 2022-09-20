@@ -6,16 +6,13 @@
         "productType": "ADIANTAMENTO_A_DEPOSITANTES",
         "productSubType": "ADIANTAMENTO_A_DEPOSITANTES",
         "contractDate": "2021-12-03",
-        "settlementDate": "NA",
-        "contractAmount": 60000.0000,
+        "contractAmount": "60000.0000",
         "currency": "BRL",
         "dueDate": "2024-01-03",
         "instalmentPeriodicity": "MENSAL",
-        "instalmentPeriodicityAdditionalInfo": "NA",
         "firstInstalmentDueDate": "2022-01-03",
-        "CET": 0.0110,
+        "CET": "0.0110",
         "amortizationScheduled": "PRICE",
-        "amortizationScheduledAdditionalInfo": "NA",
         "interestRates": [
             {
                 "taxType": "EFETIVA",
@@ -24,9 +21,8 @@
                 "calculation": "21/252",
                 "referentialRateIndexerType": "PRE_FIXADO",
                 "referentialRateIndexerSubType": "PRE_FIXADO",
-                "preFixedRate": 0.0110,
-                "postFixedRate": 0.0000,
-                "additionalInfo": "NA"
+                "preFixedRate": "0.0110",
+                "postFixedRate": "0.0000"
             }
         ],
         "contractedFees": [
@@ -35,55 +31,54 @@
                 "feeCode": "MANUTENCAO_CONTRATO",
                 "feeChargeType": "UNICA",
                 "feeCharge": "FIXO",
-                "feeAmount": 130.7200,
-                "feeRate": 0.0000
+                "feeAmount": "130.7200",
+                "feeRate": "0.0000"
             },
             {
                 "feeName": "Conta de até 60 dias retro por inadimplencia ",
                 "feeCode": "INADIMPLENCIA_RECENTE",
                 "feeChargeType": "POR_PARCELA",
                 "feeCharge": "PERCENTUAL",
-                "feeAmount": 0.0000,
-                "feeRate": 0.0220
+                "feeAmount": "0.0000",
+                "feeRate": "0.0220"
             },
             {
                 "feeName": "Cadastro Sistema JOI",
                 "feeCode": "CADASTRO_JOI",
                 "feeChargeType": "UNICA",
                 "feeCharge": "FIXO",
-                "feeAmount": 190.9000,
-                "feeRate": 0.0000
+                "feeAmount": "190.9000",
+                "feeRate": "0.0000"
             },
             {
                 "feeName": "Manutenção de Conta",
                 "feeCode": "MANUTENCAO_CONTA",
                 "feeChargeType": "UNICA",
                 "feeCharge": "MAXIMO",
-                "feeAmount": 420.6000,
-                "feeRate": 0.0000
+                "feeAmount": "420.6000",
+                "feeRate": "0.0000"
             },
             {
                 "feeName": "Taxa IP RS 2021",
                 "feeCode": "TAXA_IPRS2021",
                 "feeChargeType": "POR_PARCELA",
                 "feeCharge": "MINIMO",
-                "feeAmount": 9.1000,
-                "feeRate": 0.0000
+                "feeAmount": "9.1000",
+                "feeRate": "0.0000"
             },
             {
                 "feeName": "Taxa de Adesão",
                 "feeCode": "ADESAO",
                 "feeChargeType": "UNICA",
                 "feeCharge": "FIXO",
-                "feeAmount": 230.0000,
-                "feeRate": 0.0000
+                "feeAmount": "230.0000",
+                "feeRate": "0.0000"
             }
         ],
         "contractedFinanceCharges": [
             {
                 "chargeType": "MULTA_ATRASO_PAGAMENTO",
-                "chargeAdditionalInfo": "NA",
-                "chargeRate": 0.0999
+                "chargeRate": "0.0999"
             }
         ]
     },
@@ -93,6 +88,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-12-15T13:40:00Z"
+        "requestDateTime": "2022-09-15T209:22:00Z"
     }
 }

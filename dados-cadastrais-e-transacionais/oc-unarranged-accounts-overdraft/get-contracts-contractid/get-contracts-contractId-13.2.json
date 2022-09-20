@@ -6,16 +6,13 @@
         "productType": "ADIANTAMENTO_A_DEPOSITANTES",
         "productSubType": "ADIANTAMENTO_A_DEPOSITANTES",
         "contractDate": "2017-02-01",
-        "settlementDate": "NA",
-        "contractAmount": 25000.0000,
+        "contractAmount": "25000.0000",
         "currency": "BRL",
         "dueDate": "2022-03-01",
         "instalmentPeriodicity": "TRIMESTRAL",
-        "instalmentPeriodicityAdditionalInfo": "NA",
         "firstInstalmentDueDate": "2017-05-01",
-        "CET": 0.0099,
+        "CET": "0.0099",
         "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
-        "amortizationScheduledAdditionalInfo": "NA",
         "interestRates": [
             {
                 "taxType": "EFETIVA",
@@ -24,9 +21,8 @@
                 "calculation": "21/252",
                 "referentialRateIndexerType": "PRE_FIXADO",
                 "referentialRateIndexerSubType": "PRE_FIXADO",
-                "preFixedRate": 0.0099,
-                "postFixedRate": 0.0000,
-                "additionalInfo": "NA"
+                "preFixedRate": "0.0099",
+                "postFixedRate": "0.0000"
             }
         ],
         "contractedFees": [
@@ -35,31 +31,30 @@
                 "feeCode": "MANUTENCAO_CONTRATO",
                 "feeChargeType": "UNICA",
                 "feeCharge": "FIXO",
-                "feeAmount": 300.0000,
-                "feeRate": 0.0000
+                "feeAmount": "300.0000",
+                "feeRate": "0.0000"
             },
             {
                 "feeName": "Manutenção de Conta",
                 "feeCode": "MANUTENCAO_CONTA",
                 "feeChargeType": "UNICA",
                 "feeCharge": "MAXIMO",
-                "feeAmount": 420.6000,
-                "feeRate": 0.0000
+                "feeAmount": "420.6000",
+                "feeRate": "0.0000"
             },
             {
                 "feeName": "Taxa de Adesão",
                 "feeCode": "ADESAO",
                 "feeChargeType": "UNICA",
                 "feeCharge": "FIXO",
-                "feeAmount": 500.0000,
-                "feeRate": 0.0000
+                "feeAmount": "500.0000",
+                "feeRate": "0.0000"
             }
         ],
         "contractedFinanceCharges": [
             {
                 "chargeType": "MULTA_ATRASO_PAGAMENTO",
-                "chargeAdditionalInfo": "NA",
-                "chargeRate": 0.0100
+                "chargeRate": "0.0100"
             }
         ]
     },
@@ -69,6 +64,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-12-15T13:45:00Z"
+        "requestDateTime": "2022-09-15T209:22:00Z"
     }
 }

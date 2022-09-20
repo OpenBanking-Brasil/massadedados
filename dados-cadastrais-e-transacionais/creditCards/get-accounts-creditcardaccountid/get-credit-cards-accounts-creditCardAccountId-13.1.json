@@ -2,9 +2,7 @@
   "data": {
     "name": "Diners Club Empresarial",
     "productType": "EMPRESARIAL",
-    "productAdditionalInfo": "NA",
     "creditCardNetwork": "DINERS_CLUB",
-    "networkAdditionalInfo": "NA",
     "paymentMethod": {
       "identificationNumber": "1250",
       "isMultipleCreditCard": true
@@ -16,6 +14,6 @@
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2021-10-01T00:00:00Z"
+    "requestDateTime": "2022-09-15T209:22:00Z"
   }
 }
