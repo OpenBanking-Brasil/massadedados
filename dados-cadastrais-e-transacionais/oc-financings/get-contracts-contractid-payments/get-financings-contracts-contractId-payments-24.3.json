@@ -1,7 +1,7 @@
 {
     "data": {
         "paidInstalments": 6,
-        "contractOutstandingBalance": 0.0000,
+        "contractOutstandingBalance": "0.0000",
         "releases": [
             {
                 "paymentId": "e8bfcaf6-5864-3698-8cc0-945eba44a2b0",
@@ -9,20 +9,19 @@
                 "instalmentId": "d8bfcaf6-5864-3698-8cc0-945eba44a2b0",
                 "paidDate": "2020-04-01",
                 "currency": "BRL",
-                "paidAmount": 6140.0600,
+                "paidAmount": "6140.0600",
                 "overParcel": {
                     "fees": [
                          {
                           "feeName": "Taxa de manutenção",
                           "feeCode": "MANUTENCAO",
-                          "feeAmount": 20.0000
+                          "feeAmount": "20.0000"
                         }
                     ],
                     "charges": [
                         {
                             "chargeType": "SEM_ENCARGO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
+                            "chargeAmount": "0.0000"
                         }
                     ]
                 }
@@ -33,20 +32,19 @@
                 "instalmentId": "c8bfcaf6-5864-3698-8cc0-945eba44a2b0",
                 "paidDate": "2020-02-01",
                 "currency": "BRL",
-                "paidAmount": 6140.0600,
+                "paidAmount": "6140.0600",
                 "overParcel": {
                     "fees": [
                          {
                           "feeName": "Taxa de manutenção",
                           "feeCode": "MANUTENCAO",
-                          "feeAmount": 20.0000
+                          "feeAmount": "20.0000"
                         }
                     ],
                     "charges": [
                         {
                             "chargeType": "SEM_ENCARGO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
+                            "chargeAmount": "0.0000"
                         }
                     ]
                 }
@@ -57,20 +55,19 @@
                 "instalmentId": "28bfcaf6-5864-3698-8cc0-945eba44a2b0",
                 "paidDate": "2019-12-01",
                 "currency": "BRL",
-                "paidAmount": 6140.0600,
+                "paidAmount": "6140.0600",
                 "overParcel": {
                     "fees": [
                          {
                           "feeName": "Taxa de manutenção",
                           "feeCode": "MANUTENCAO",
-                          "feeAmount": 20.0000
+                          "feeAmount": "20.0000"
                         }
                     ],
                     "charges": [
                         {
                             "chargeType": "SEM_ENCARGO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
+                            "chargeAmount": "0.0000"
                         }
                     ]
                 }
@@ -81,20 +78,19 @@
                 "instalmentId": "08bfcaf6-5864-3698-8cc0-945eba44a2b0",
                 "paidDate": "2019-10-01",
                 "currency": "BRL",
-                "paidAmount": 6140.0600,
+                "paidAmount": "6140.0600",
                 "overParcel": {
                     "fees": [
                          {
                           "feeName": "Taxa de manutenção",
                           "feeCode": "MANUTENCAO",
-                          "feeAmount": 20.0000
+                          "feeAmount": "20.0000"
                         }
                     ],
                     "charges": [
                         {
                             "chargeType": "SEM_ENCARGO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
+                            "chargeAmount": "0.0000"
                         }
                     ]
                 }
@@ -105,20 +101,19 @@
                 "instalmentId": "88bfcaf6-5864-3698-8cc0-945eba44a2b0",
                 "paidDate": "2019-08-01",
                 "currency": "BRL",
-                "paidAmount": 6140.0600,
+                "paidAmount": "6140.0600",
                 "overParcel": {
                     "fees": [
                          {
                           "feeName": "Taxa de manutenção",
                           "feeCode": "MANUTENCAO",
-                          "feeAmount": 20.0000
+                          "feeAmount": "20.0000"
                         }
                     ],
                     "charges": [
                         {
                             "chargeType": "SEM_ENCARGO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
+                            "chargeAmount": "0.0000"
                         }
                     ]
                 }
@@ -129,20 +124,19 @@
                 "instalmentId": "68bfcaf6-5864-3698-8cc0-945eba44a2b0",
                 "paidDate": "2019-06-01",
                 "currency": "BRL",
-                "paidAmount": 6140.0600,
+                "paidAmount": "6140.0600",
                 "overParcel": {
                     "fees": [
                          {
                           "feeName": "Taxa de manutenção",
                           "feeCode": "MANUTENCAO",
-                          "feeAmount": 20.0000
+                          "feeAmount": "20.0000"
                         }
                     ],
                     "charges": [
                         {
                             "chargeType": "SEM_ENCARGO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
+                            "chargeAmount": "0.0000"
                         }
                     ]
                 }
@@ -155,6 +149,6 @@
     "meta": {
         "totalRecords": 6,
         "totalPages": 1,
-        "requestDateTime": "2021-08-26T13:15:00Z"
+        "requestDateTime": "2022-09-16T11:04:00Z"
     }
 }

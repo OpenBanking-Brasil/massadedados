@@ -6,16 +6,13 @@
     "productType": "FINANCIAMENTOS_IMOBILIARIOS",
     "productSubType": "FINANCIAMENTO_HABITACIONAL_EXCETO_SFH",
     "contractDate": "2021-08-01",
-    "settlementDate": "NA",
-    "contractAmount": 300000.0000,
+    "contractAmount": "300000.0000",
     "currency": "BRL",
     "dueDate": "2031-09-01",
     "instalmentPeriodicity": "MENSAL",
-    "instalmentPeriodicityAdditionalInfo": "NA",
     "firstInstalmentDueDate": "2021-09-01",
-    "CET": 0.0150,
+    "CET": "0.0150",
     "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
-    "amortizationScheduledAdditionalInfo": "NA",
     "interestRates": [
       {
         "taxType": "EFETIVA",
@@ -24,9 +21,8 @@
         "calculation": "30/360",
         "referentialRateIndexerType": "PRE_FIXADO",
         "referentialRateIndexerSubType": "PRE_FIXADO",
-        "preFixedRate": 0.0150,
-        "postFixedRate": 0.0000,
-        "additionalInfo": "NA"
+        "preFixedRate": "0.0150",
+        "postFixedRate": "0.0000"
       }
     ],
     "contractedFees": [
@@ -35,15 +31,14 @@
         "feeCode": "ADMINISTRACAO",
         "feeChargeType": "UNICA",
         "feeCharge": "MINIMO",
-        "feeAmount": 91.9900,
-        "feeRate": 0.0000
+        "feeAmount": "91.9900",
+        "feeRate": "0.0000"
       }
     ],
     "contractedFinanceCharges": [
       {
         "chargeType": "MULTA_ATRASO_PAGAMENTO",
-        "chargeAdditionalInfo": "NA",
-        "chargeRate": 0.0250
+        "chargeRate": "0.0250"
       }
     ]
   },
@@ -53,6 +48,6 @@
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2021-09-03T10:17:00Z"
+    "requestDateTime": "2022-09-16T11:04:00Z"
   }
-} 
+}

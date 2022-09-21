@@ -4,7 +4,7 @@
       "currency": "BRL",
       "warrantyType": "PENHOR",
       "warrantySubType": "VEICULO",
-      "warrantyAmount": 70000.0000
+      "warrantyAmount": "70000.0000"
     }
   ],
   "links": {
@@ -16,6 +16,6 @@
   "meta": {
     "totalRecords": 3,
     "totalPages": 1,
-    "requestDateTime": "2021-09-04T08:19:32Z"
+    "requestDateTime": "2022-09-16T11:04:00Z"
   }
 }

@@ -1,7 +1,7 @@
 {
     "data": {
         "paidInstalments": 3,
-        "contractOutstandingBalance": 0.0000,
+        "contractOutstandingBalance": "0.0000",
         "releases": [
             {
                 "paymentId": "5727c918-f598-3e6d-afe3-54109b346493",
@@ -9,31 +9,28 @@
                 "instalmentId": "5727c918-f598-3e6d-afe3-54109b346492",
                 "paidDate": "2018-12-02",
                 "currency": "BRL",
-                "paidAmount": 90220.0435,
+                "paidAmount": "90220.0435",
                 "overParcel": {
                     "fees": [
-                         {
-                          "feeName": "NA",
-                          "feeCode": "NA",
-                          "feeAmount": 0.0000
+                        {
+                            "feeName": "Taxa de manutenção",
+                            "feeCode": "MANUTENCAO",
+                            "feeAmount": "110.9900"
                         }
                     ],
                     "charges": [
                         {
                             "chargeType": "MULTA_ATRASO_PAGAMENTO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 3058.3065
+                            "chargeAmount": "3058.3065"
                         },
                         {
                             "chargeType": "JUROS_MORA_ATRASO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 2208.7770
+                            "chargeAmount": "2208.7770"
                         },
                         {
                             "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 2123.8240
-                        }                        
+                            "chargeAmount": "2123.8240"
+                        }
                     ]
                 }
             },
@@ -43,20 +40,19 @@
                 "instalmentId": "5727c918-f598-3e6d-afe3-54109b346498",
                 "paidDate": "2017-12-01",
                 "currency": "BRL",
-                "paidAmount": 85063.9500,
+                "paidAmount": "85063.9500",
                 "overParcel": {
                     "fees": [
-                         {
-                          "feeName": "Taxa de manutenção",
-                          "feeCode": "MANUTENCAO",
-                          "feeAmount": 110.9900
+                        {
+                            "feeName": "Taxa de manutenção",
+                            "feeCode": "MANUTENCAO",
+                            "feeAmount": "110.9900"
                         }
                     ],
                     "charges": [
                         {
                             "chargeType": "SEM_ENCARGO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
+                            "chargeAmount":"0.0000"
                         }
                     ]
                 }
@@ -67,20 +63,19 @@
                 "instalmentId": "5727c918-f598-3e6d-afe3-54109b346497",
                 "paidDate": "2016-12-01",
                 "currency": "BRL",
-                "paidAmount": 20000.0000,
+                "paidAmount": "20000.0000",
                 "overParcel": {
                     "fees": [
-                         {
-                          "feeName": "NA",
-                          "feeCode": "NA",
-                          "feeAmount": 0.0000
+                        {
+                            "feeName": "Taxa de manutenção",
+                            "feeCode": "MANUTENCAO",
+                            "feeAmount": "110.9900"
                         }
                     ],
                     "charges": [
                         {
                             "chargeType": "SEM_ENCARGO",
-                            "chargeAdditionalInfo": "NA",
-                            "chargeAmount": 0.0000
+                            "chargeAmount": "0.0000"
                         }
                     ]
                 }
@@ -93,6 +88,6 @@
     "meta": {
         "totalRecords": 3,
         "totalPages": 1,
-        "requestDateTime": "2021-08-26T13:15:00Z"
+        "requestDateTime": "2022-09-16T11:04:00Z"
     }
 }

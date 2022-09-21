@@ -2,55 +2,63 @@
     "data": [
         {
             "billId": "b5c4e68a-db5a-11eb-8d19-0242ac130003",
-            "dueDate": "2021-09-10",
-            "billTotalAmount": 26512.0000,
-            "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 350.0000,
-            "billMinimumAmountCurrency": "BRL",
+            "dueDate": "2022-09-10",
+            "billTotalAmount": {
+                "amount": "26512.0000",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "350.0000",
+                "currency": "BRL"
+            },
             "isInstalment": true,
             "financeCharges": [
                 {
                     "type": "JUROS_MORA_ATRASO_PAGAMENTO_FATURA",
-                    "amount": 12.0000,
+                    "amount": "12.0000",
                     "currency": "BRL"
                 }
             ],
             "payments": [
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_PARCELADO",
-                    "paymentDate": "2021-09-21",
+                    "paymentDate": "2022-09-15",
                     "paymentMode": "BOLETO_BANCARIO",
-                    "amount": 13256.0000,
+                    "amount": "13256.0000",
                     "currency": "BRL"
                 }
             ]
         },
         {
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
-            "dueDate": "2021-08-10",
-            "billTotalAmount": 4010.1700,
-            "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 400.7200,
-            "billMinimumAmountCurrency": "BRL",
+            "dueDate": "2022-08-10",
+            "billTotalAmount": {
+                "amount": "4010.1700",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "400.7200",
+                "currency": "BRL"
+            },
             "isInstalment": true,
             "financeCharges": [
                 {
                     "type": "IOF",
-                    "amount": 56.9800,
+                    "amount": "56.9800",
                     "currency": "BRL"
                 },
                 {
                     "type": "JUROS_MORA_ATRASO_PAGAMENTO_FATURA",
-                    "amount": 92.3000,
+                    "amount": "92.3000",
                     "currency": "BRL"
                 }
             ],
             "payments": [
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
-                    "paymentDate": "2021-08-10",
+                    "paymentDate": "2022-08-10",
                     "paymentMode": "AVERBACAO_FOLHA",
-                    "amount": 4010.1700,
+                    "amount": "4010.1700",
                     "currency": "BRL"
                 }
             ]
@@ -65,6 +73,6 @@
     "meta": {
         "totalRecords": 5,
         "totalPages": 3,
-        "requestDateTime": "2021-09-10T14:28:47Z"
+        "requestDateTime": "2022-09-16T11:04:00Z"
     }
 }

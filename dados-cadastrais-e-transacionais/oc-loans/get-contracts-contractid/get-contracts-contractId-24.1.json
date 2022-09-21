@@ -6,16 +6,13 @@
         "productType": "EMPRESTIMOS",
         "productSubType": "CAPITAL_GIRO_TETO_ROTATIVO",
         "contractDate": "2021-09-01",
-        "settlementDate": "NA",
-        "contractAmount": 100000.0000,
+        "contractAmount": "100000.0000",
         "currency": "BRL",
         "dueDate": "2023-03-01",
         "instalmentPeriodicity": "SEMANAL",
-        "instalmentPeriodicityAdditionalInfo": "NA",
         "firstInstalmentDueDate": "2021-09-08",
-        "CET": 0.0600,
+        "CET": "0.0600",
         "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
-        "amortizationScheduledAdditionalInfo": "NA",
         "cnpjConsignee": "00360305000104",
         "interestRates": [
             {
@@ -25,10 +22,8 @@
                 "calculation": "30/365",
                 "referentialRateIndexerType": "FLUTUANTES",
                 "referentialRateIndexerSubType": "CDI",
-                "referentialRateIndexerAdditionalInfo": "NA",
-                "preFixedRate": 0.0000,
-                "postFixedRate": 0.0580,
-                "additionalInfo": "NA"
+                "preFixedRate": "0.0000",
+                "postFixedRate": "0.0580"
             }
         ],
         "contractedFees": [
@@ -37,15 +32,15 @@
                 "feeCode": "ADESAO",
                 "feeChargeType": "UNICA",
                 "feeCharge": "FIXO",
-                "feeAmount": 1500.0000,
-                "feeRate": 0.0000
+                "feeAmount": "1500.0000",
+                "feeRate": "0.0000"
             }
         ],
         "contractedFinanceCharges": [
             {
                 "chargeType": "MULTA_ATRASO_PAGAMENTO",
                 "chargeAdditionalInfo": "Multa para casos de atraso de pagamento.",
-                "chargeRate": 0.0300
+                "chargeRate": "0.0300"
             }
         ]
     },
@@ -55,6 +50,6 @@
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2021-10-02T16:17:00Z"
+        "requestDateTime": "2022-09-16T11:04:00Z"
     }
 }

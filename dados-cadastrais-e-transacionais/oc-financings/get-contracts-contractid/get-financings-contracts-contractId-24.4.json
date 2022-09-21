@@ -7,15 +7,13 @@
     "productSubType": "MICROCREDITO",
     "contractDate": "2016-12-01",
     "settlementDate": "2018-12-02",
-    "contractAmount": 180000.0000,
+    "contractAmount": "180000.0000",
     "currency": "BRL",
     "dueDate": "2018-12-01",
     "instalmentPeriodicity": "ANUAL",
-    "instalmentPeriodicityAdditionalInfo": "NA",
     "firstInstalmentDueDate": "2017-12-01",
-    "CET": 0.0410,
+    "CET": "0.0410",
     "amortizationScheduled": "SAM",
-    "amortizationScheduledAdditionalInfo": "NA",
     "interestRates": [
       {
         "taxType": "EFETIVA",
@@ -24,9 +22,8 @@
         "calculation": "30/360",
         "referentialRateIndexerType": "POS_FIXADO",
         "referentialRateIndexerSubType": "TJLP",
-        "preFixedRate": 0.0000,
-        "postFixedRate": 0.0410,
-        "additionalInfo": "NA"
+        "preFixedRate": "0.0000",
+        "postFixedRate": "0.0410"
       }
     ],
     "contractedFees": [
@@ -35,25 +32,22 @@
         "feeCode": "MANUTENCAO",
         "feeChargeType": "UNICA",
         "feeCharge": "FIXO",
-        "feeAmount": 110.9900,
-        "feeRate": 0.0000
+        "feeAmount": "110.9900",
+        "feeRate": "0.0000"
       }
     ],
     "contractedFinanceCharges": [
       {
         "chargeType": "MULTA_ATRASO_PAGAMENTO",
-        "chargeAdditionalInfo": "NA",
-        "chargeRate": 0.0360
+        "chargeRate": "0.0360"
       },
       {
         "chargeType": "JUROS_MORA_ATRASO",
-        "chargeAdditionalInfo": "NA",
-        "chargeRate": 0.0260
+        "chargeRate": "0.0260"
       },
       {
         "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
-        "chargeAdditionalInfo": "NA",
-        "chargeRate": 0.0250
+        "chargeRate": "0.0250"
       }
     ]
   },
@@ -63,6 +57,6 @@
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2021-09-03T10:17:00Z"
+    "requestDateTime": "2022-09-16T11:04:00Z"
   }
 } 

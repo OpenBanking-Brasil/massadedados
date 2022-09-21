@@ -2,25 +2,22 @@
     "data": [
         {
             "billId": "fb3bdb08-db62-11eb-8d19-0242ac130003",
-            "dueDate": "2021-06-10",
-            "billTotalAmount": 4099.1200,
-            "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 497.1600,
-            "billMinimumAmountCurrency": "BRL",
+            "dueDate": "2022-05-10",
+            "billTotalAmount": {
+                "amount": "4099.1200",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "497.1600",
+                "currency": "BRL"
+            },
             "isInstalment": true,
-            "financeCharges": [
-                {
-                    "type": "SEM_ENCARGO",
-                    "amount": 0.0000,
-                    "currency": "BRL"
-                }
-            ],
             "payments": [
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
-                    "paymentDate": "2021-06-10",
+                    "paymentDate": "2022-05-10",
                     "paymentMode": "PIX",
-                    "amount": 4099.1200,
+                    "amount": "4099.1200",
                     "currency": "BRL"
                 }
             ]
@@ -34,6 +31,6 @@
     "meta": {
         "totalRecords": 5,
         "totalPages": 3,
-        "requestDateTime": "2021-09-11T14:28:47Z"
+        "requestDateTime": "2022-09-16T11:04:00Z"
     }
 }

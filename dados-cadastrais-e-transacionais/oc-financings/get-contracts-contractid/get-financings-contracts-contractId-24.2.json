@@ -7,15 +7,13 @@
     "productSubType": "AQUISICAO_BENS_OUTROS_BENS",
     "contractDate": "2020-06-01",
     "settlementDate": "2021-06-01",
-    "contractAmount": 50000.0000,
+    "contractAmount": "50000.0000",
     "currency": "BRL",
     "dueDate": "2021-06-01",
     "instalmentPeriodicity": "TRIMESTRAL",
-    "instalmentPeriodicityAdditionalInfo": "NA",
     "firstInstalmentDueDate": "2020-09-01",
-    "CET": 0.0510,
+    "CET": "0.0510",
     "amortizationScheduled": "SAC",
-    "amortizationScheduledAdditionalInfo": "NA",
     "interestRates": [
       {
         "taxType": "EFETIVA",
@@ -24,9 +22,8 @@
         "calculation": "30/360",
         "referentialRateIndexerType": "PRE_FIXADO",
         "referentialRateIndexerSubType": "PRE_FIXADO",
-        "preFixedRate": 0.0510,
-        "postFixedRate": 0.0000,
-        "additionalInfo": "NA"
+        "preFixedRate": "0.0510",
+        "postFixedRate": "0.0000"
       }
     ],
     "contractedFees": [
@@ -35,15 +32,14 @@
         "feeCode": "MANUTENCAO",
         "feeChargeType": "UNICA",
         "feeCharge": "FIXO",
-        "feeAmount": 11.9900,
-        "feeRate": 0.0000
+        "feeAmount": "11.9900",
+        "feeRate": "0.0000"
       }
     ],
     "contractedFinanceCharges": [
       {
         "chargeType": "MULTA_ATRASO_PAGAMENTO",
-        "chargeAdditionalInfo": "NA",
-        "chargeRate": 0.0650
+        "chargeRate": "0.0650"
       }
     ]
   },
@@ -53,6 +49,6 @@
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2021-09-03T10:17:00Z"
+    "requestDateTime": "2022-09-16T11:04:00Z"
   }
 } 

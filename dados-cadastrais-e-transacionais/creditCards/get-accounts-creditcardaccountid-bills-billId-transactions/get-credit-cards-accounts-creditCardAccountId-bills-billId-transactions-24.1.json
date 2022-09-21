@@ -3,19 +3,23 @@
         {
             "transactionId": "ebee11f0-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
-            "creditDebitType": "DEBITO",
+            "creditDebitType": "CREDITO",
             "transactionType": "PAGAMENTO",
-            "otherCreditsType": "CREDITO_ROTATIVO",
             "paymentType": "A_VISTA",
             "feeType": "ANUIDADE",
+            "otherCreditsType": "CREDITO_ROTATIVO",
             "chargeIdentificator": "PARCELA_1",
             "chargeNumber": 1,
-            "brazilianAmount": 2073.2008,
-            "amount": 0.0000,
-            "currency": "BRL",
+            "brazilianAmount": {
+                "amount": "2073.2008",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "2073.2008",
+                "currency": "BRL"
+            },
             "transactionDate": "2021-06-22",
             "billPostDate": "2021-05-21",
             "payeeMCC": 5311
@@ -23,20 +27,23 @@
         {
             "transactionId": "ebee1664-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
             "transactionType": "OUTROS",
-            "transactionalAdditionalInfo": "Saque sem tarifa",
-            "otherCreditsType": "CREDITO_ROTATIVO",
             "paymentType": "A_VISTA",
             "feeType": "ANUIDADE",
+            "otherCreditsType": "CREDITO_ROTATIVO",
             "chargeIdentificator": "PARCELA_1",
             "chargeNumber": 1,
-            "brazilianAmount": 10.0000,
-            "amount": 0.0000,
-            "currency": "BRL",
+            "brazilianAmount": {
+                "amount": "10.0000",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "10.0000",
+                "currency": "BRL"
+            },
             "transactionDate": "2021-06-20",
             "billPostDate": "2021-05-21",
             "payeeMCC": 5311
@@ -44,7 +51,6 @@
         {
             "transactionId": "ebee1740-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -64,7 +70,6 @@
         {
             "transactionId": "ebedcbf0-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "OUTROS",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -83,7 +88,6 @@
         {
             "transactionId": "ebedcce0-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "TARIFA",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -102,7 +106,6 @@
         {
             "transactionId": "ebedcda8-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -121,7 +124,6 @@
         {
             "transactionId": "ebedd12c-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "CANCELAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "CREDITO",
@@ -140,7 +142,6 @@
         {
             "transactionId": "ebedd1f4-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO COM CARTÃO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "CREDITO",
@@ -159,7 +160,6 @@
         {
             "transactionId": "ebedd2b2-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -179,7 +179,6 @@
         {
             "transactionId": "ebedd366-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -199,7 +198,6 @@
         {
             "transactionId": "ebedd42e-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -219,7 +217,6 @@
         {
             "transactionId": "ebedd4ec-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -239,7 +236,6 @@
         {
             "transactionId": "ebedd758-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -259,7 +255,6 @@
         {
             "transactionId": "ebedd83e-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -279,7 +274,6 @@
         {
             "transactionId": "ebedd8fc-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -299,7 +293,6 @@
         {
             "transactionId": "ebedd9ba-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -319,7 +312,6 @@
         {
             "transactionId": "ebedd2b2-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -339,7 +331,6 @@
         {
             "transactionId": "ebedda6e-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -359,7 +350,6 @@
         {
             "transactionId": "ebeddb22-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -379,7 +369,6 @@
         {
             "transactionId": "ebeddb22-dd8f-11eb-ba80-0242ac13000",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -399,7 +388,6 @@
         {
             "transactionId": "ebeddd8e-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -419,7 +407,6 @@
         {
             "transactionId": "ebedde4c-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -439,7 +426,6 @@
         {
             "transactionId": "ebeddf00-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -459,7 +445,6 @@
         {
             "transactionId": "ebeddff0-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -479,7 +464,6 @@
         {
             "transactionId": "ebede130-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -499,7 +483,6 @@
         {
             "transactionId": "ebede28e-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -519,7 +502,6 @@
         {
             "transactionId": "ebede28e-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -539,7 +521,6 @@
         {
             "transactionId": "ebede95a-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -559,7 +540,6 @@
         {
             "transactionId": "ebedea86-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -579,7 +559,6 @@
         {
             "transactionId": "ebedecf2-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -599,7 +578,6 @@
         {
             "transactionId": "ebededba-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -619,7 +597,6 @@
         {
             "transactionId": "ebedee78-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -639,7 +616,6 @@
         {
             "transactionId": "ebedf0da-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -659,7 +635,6 @@
         {
             "transactionId": "ebedf198-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -679,7 +654,6 @@
         {
             "transactionId": "ebedf24c-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -699,7 +673,6 @@
         {
             "transactionId": "ebedf300-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -719,7 +692,6 @@
         {
             "transactionId": "ebedf3b4-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -739,7 +711,6 @@
         {
             "transactionId": "ebedf472-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -759,7 +730,6 @@
         {
             "transactionId": "ebedf6ac-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -779,7 +749,6 @@
         {
             "transactionId": "ebedf76a-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -799,7 +768,6 @@
         {
             "transactionId": "ebedf828-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -819,7 +787,6 @@
         {
             "transactionId": "ebedf8e6-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -839,7 +806,6 @@
         {
             "transactionId": "ebedf9a4-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -859,7 +825,6 @@
         {
             "transactionId": "ebedfda0-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -879,7 +844,6 @@
         {
             "transactionId": "ebedfe86-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -899,7 +863,6 @@
         {
             "transactionId": "ebedff30-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -919,7 +882,6 @@
         {
             "transactionId": "ebedffee-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -939,7 +901,6 @@
         {
             "transactionId": "ebee00a2-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -959,7 +920,6 @@
         {
             "transactionId": "ebee0156-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -979,7 +939,6 @@
         {
             "transactionId": "ebee0214-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -999,7 +958,6 @@
         {
             "transactionId": "ebee0552-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -1019,7 +977,6 @@
         {
             "transactionId": "ebee061a-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -1039,7 +996,6 @@
         {
             "transactionId": "ebee06d8-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -1059,7 +1015,6 @@
         {
             "transactionId": "ebee0796-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -1079,7 +1034,6 @@
         {
             "transactionId": "ebee084a-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -1099,7 +1053,6 @@
         {
             "transactionId": "ebee08fe-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -1119,7 +1072,6 @@
         {
             "transactionId": "ebee0a16-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -1139,7 +1091,6 @@
         {
             "transactionId": "ebee0d90-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -1159,7 +1110,6 @@
         {
             "transactionId": "ebee0e6c-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -1179,7 +1129,6 @@
         {
             "transactionId": "ebee0f2a-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -1199,7 +1148,6 @@
         {
             "transactionId": "ebee0fde-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -1219,7 +1167,6 @@
         {
             "transactionId": "ebee1092-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -1239,7 +1186,6 @@
         {
             "transactionId": "ebee1146-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",
@@ -1259,7 +1205,6 @@
         {
             "transactionId": "ebee12a4-dd8f-11eb-ba80-0242ac130004",
             "identificationNumber": "5500",
-            "lineName": "CREDITO_A_VISTA",
             "transactionName": "PAGAMENTO",
             "billId": "8bce4fc8-db5b-11eb-8d19-0242ac130003",
             "creditDebitType": "DEBITO",

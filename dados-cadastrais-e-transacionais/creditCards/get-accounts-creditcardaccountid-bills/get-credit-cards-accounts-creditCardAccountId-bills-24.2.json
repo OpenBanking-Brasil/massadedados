@@ -2,51 +2,52 @@
     "data": [
         {
             "billId": "c070742c-db5b-11eb-8d19-0242ac130003",
-            "dueDate": "2021-07-10",
-            "billTotalAmount": 4313.5200,
-            "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 600.1700,
-            "billMinimumAmountCurrency": "BRL",
+            "dueDate": "2022-07-10",
+            "billTotalAmount": {
+                "amount": "4313.5200",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "600.1700",
+                "currency": "BRL"
+            },
             "isInstalment": true,
-            "financeCharges": [
-                {
-                    "type": "SEM_ENCARGO",
-                    "amount": 0.0000,
-                    "currency": "BRL"
-                }
-            ],
             "payments": [
                 {
                     "valueType": "OUTRO_VALOR_PAGO_FATURA",
-                    "paymentDate": "2021-07-10",
+                    "paymentDate": "2022-07-10",
                     "paymentMode": "BOLETO_BANCARIO",
-                    "amount": 3500.0000,
+                    "amount": "3500.0000",
                     "currency": "BRL"
                 }
             ]
         },
         {
             "billId": "3b490578-8b21-3466-a3c0-f66b9c6b3f4b",
-            "dueDate": "2021-07-10",
-            "billTotalAmount": 5893.1900,
-            "billTotalAmountCurrency": "BRL",
-            "billMinimumAmount": 670.1900,
-            "billMinimumAmountCurrency": "BRL",
+            "dueDate": "2022-06-10",
+            "billTotalAmount": {
+                "amount": "5893.1900",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "670.1900",
+                "currency": "BRL"
+            },
             "isInstalment": true,
             "financeCharges": [
                 {
                     "type": "OUTROS",
                     "additionalInfo": "Reenvio da fatura fisica",
-                    "amount": 9.4500,
+                    "amount": "9.4500",
                     "currency": "BRL"
                 }
             ],
             "payments": [
                 {
                     "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
-                    "paymentDate": "2021-07-10",
+                    "paymentDate": "2022-05-10",
                     "paymentMode": "PIX",
-                    "amount": 5893.1900,
+                    "amount": "5893.1900",
                     "currency": "BRL"
                 }
             ]
@@ -62,6 +63,6 @@
     "meta": {
         "totalRecords": 5,
         "totalPages": 3,
-        "requestDateTime": "2021-09-10T14:28:47Z"
+        "requestDateTime": "2022-09-16T11:04:00Z"
     }
 }
