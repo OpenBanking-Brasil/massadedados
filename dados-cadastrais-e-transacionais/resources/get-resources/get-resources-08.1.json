@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "resourceId": "b569dcaf-aef4-44cc-bd84-b12ae26cb16b",
+            "type": "ACCOUNT",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "377aa88d-8905-3847-ad8f-c80d9e47f907",
+            "type": "LOAN",
+            "status": "AVAILABLE"
+        }
+    ],
+    "links": {
+        "self": "https://api.caixa.gov.br/open-banking/resources/v1/resources"
+    },
+    "meta": {
+        "totalRecords": 2,
+        "totalPages": 1,
+        "requestDateTime": "2022-08-24T09:35:00Z"
+    }
+}

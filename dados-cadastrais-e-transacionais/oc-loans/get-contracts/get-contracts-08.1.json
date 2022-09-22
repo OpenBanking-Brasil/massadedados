@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "contractId": "377aa88d-8905-3847-ad8f-c80d9e47f907",
+            "brandName": "Caixa Econômica Federal",
+            "companyCnpj": "00360305000104",
+            "productType": "EMPRESTIMOS",
+            "productSubType": "CAPITAL_GIRO_PRAZO_VENCIMENTO_ATE_365_DIAS",
+            "ipocCode": "0036030500010402151157191585021"
+        }
+    ],
+    "links": {
+        "self": "https://api.caixa.gov.br/open-banking/loans/v1/contracts"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-08-24T09:35:00Z"
+    }
+}
