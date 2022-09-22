@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "billId": "06267c94-d8f7-11eb-b8bc-0242ac130003",
+            "billId": "c0fa0c4b-afce-465f-8468-470452087167",
             "dueDate": "2020-07-05",
             "billTotalAmount": {
                 "amount": "4222.0000",
@@ -23,7 +23,7 @@
             ]
         },
         {
-            "billId": "21d466ea-d8f7-11eb-b8bc-0242ac130003",
+            "billId": "970e496f-a5f2-4243-824b-130a06f7395f",
             "dueDate": "2020-06-05",
             "billTotalAmount": {
                 "amount": "4693.1500",
@@ -45,7 +45,7 @@
             ]
         },
         {
-            "billId": "45b320f6-d8f7-11eb-b8bc-0242ac130003",
+            "billId": "c56e28cf-fe19-40b4-9443-c2e39c420145",
             "dueDate": "2020-05-05",
             "billTotalAmount": {
                 "amount": "4701.3600",
@@ -67,7 +67,7 @@
             ]
         },
         {
-            "billId": "688c28ac-d8f7-11eb-b8bc-0242ac130003",
+            "billId": "970db4a6-ec99-4c68-81aa-79c92578b776",
             "dueDate": "2020-04-05",
             "billTotalAmount": {
                 "amount": "5320.6100",
@@ -89,7 +89,7 @@
             ]
         },
         {
-            "billId": "8593de4a-d8f7-11eb-b8bc-0242ac130003",
+            "billId": "b6fbab35-a9a7-4d6c-8f63-4da6d9b2fd3f",
             "dueDate": "2020-03-05",
             "billTotalAmount": {
                 "amount": "4917.8400",
@@ -111,7 +111,7 @@
             ]
         },
         {
-            "billId": "a5763410-d8f7-11eb-b8bc-0242ac130003",
+            "billId": "701d6702-d3d8-47d1-b034-7f6ef0de9259",
             "dueDate": "2020-02-05",
             "billTotalAmount": {
                 "amount": "6438.4700",
@@ -133,7 +133,7 @@
             ]
         },
         {
-            "billId": "bf6b314a-d8f7-11eb-b8bc-0242ac130003",
+            "billId": "dac67fd8-5ba7-42eb-a998-3ed2aedf0410",
             "dueDate": "2020-01-05",
             "billTotalAmount": {
                 "amount": "6952.7400",
@@ -155,7 +155,7 @@
             ]
         },
         {
-            "billId": "c588b034-d8f7-11eb-b8bc-0242ac130003",
+            "billId": "49ff8937-cbc2-47e2-8999-928e3caeb212",
             "dueDate": "2019-12-05",
             "billTotalAmount": {
                 "amount": "7001.6900",
@@ -177,7 +177,7 @@
             ]
         },
         {
-            "billId": "0346e594-d8f8-11eb-b8bc-0242ac130003",
+            "billId": "1e75ee50-1a60-4ba5-9cb3-e87475bb9bfc",
             "dueDate": "2019-11-05",
             "billTotalAmount": {
                 "amount": "6102.8800",
@@ -199,7 +199,7 @@
             ]
         },
         {
-            "billId": "1b067fbe-d8ec-11eb-b8bc-0242ac130003",
+            "billId": "b9e2af80-dd0b-4b07-bc34-bb6ca0705775",
             "dueDate": "2019-10-05",
             "billTotalAmount": {
                 "amount": "7998.1300",
@@ -221,7 +221,7 @@
             ]
         },
         {
-            "billId": "2ffa275e-d8ec-11eb-b8bc-0242ac130003",
+            "billId": "6274949e-6e0b-4153-8682-9a6307a9efe6",
             "dueDate": "2019-09-05",
             "billTotalAmount": {
                 "amount": "3298.7600",
@@ -243,7 +243,7 @@
             ]
         },
         {
-            "billId": "5940a372-d8ec-11eb-b8bc-0242ac130003",
+            "billId": "40ed092b-6714-4412-b055-937f7f169991",
             "dueDate": "2019-08-05",
             "billTotalAmount": {
                 "amount": "5788.0500",
@@ -265,7 +265,7 @@
             ]
         },
         {
-            "billId": "5940a4d0-d8ed-11eb-b8bc-0242ac130003",
+            "billId": "a859c8ca-c8f6-42ba-8b06-a7e07853b38e",
             "dueDate": "2019-07-05",
             "billTotalAmount": {
                 "amount": "4923.1700",
@@ -287,7 +287,7 @@
             ]
         },
         {
-            "billId": "8e3b4d0c-d8ed-11eb-b8bc-0242ac130003",
+            "billId": "c2209cd0-306b-4187-96e6-231d8ed461a0",
             "dueDate": "2019-06-05",
             "billTotalAmount": {
                 "amount": "4622.8500",
@@ -309,7 +309,7 @@
             ]
         },
         {
-            "billId": "b70685da-d8ed-11eb-b8bc-0242ac130003",
+            "billId": "8f97974f-9e3b-46a1-a24d-3f83fa8418e4",
             "dueDate": "2019-05-05",
             "billTotalAmount": {
                 "amount": "5106.3000",
@@ -331,7 +331,7 @@
             ]
         },
         {
-            "billId": "cd03ff3e-d8ed-11eb-b8bc-0242ac130003",
+            "billId": "313394aa-b26f-4e43-8568-487f7852ce1e",
             "dueDate": "2019-04-05",
             "billTotalAmount": {
                 "amount": "3831.9600",
@@ -353,7 +353,7 @@
             ]
         },
         {
-            "billId": "f8cc75b0-d8ed-11eb-b8bc-0242ac130003",
+            "billId": "d2c3c097-dd0f-4fca-abc2-692b5aeb4a13",
             "dueDate": "2019-03-05",
             "billTotalAmount": {
                 "amount": "5272.1800",
@@ -375,7 +375,7 @@
             ]
         },
         {
-            "billId": "0f0f253e-d8ed-11eb-b8bc-0242ac130003",
+            "billId": "ad8f71cf-e2d7-400c-a618-c248e12fe27e",
             "dueDate": "2019-02-05",
             "billTotalAmount": {
                 "amount": "4022.2200",
@@ -397,7 +397,7 @@
             ]
         },
         {
-            "billId": "0f0f479e-d8ee-11eb-b8bc-0242ac130003",
+            "billId": "2564fe0c-193e-400d-a120-737871e1fb70",
             "dueDate": "2019-01-05",
             "billTotalAmount": {
                 "amount": "4163.8500",
@@ -419,7 +419,7 @@
             ]
         },
         {
-            "billId": "0f0f4ffa-d8ee-11eb-b8bc-0242ac130003",
+            "billId": "6c1d3fa1-a2f5-49cb-b807-87b4bf75f787",
             "dueDate": "2018-12-05",
             "billTotalAmount": {
                 "amount": "6189.3600",
@@ -441,7 +441,7 @@
             ]
         },
         {
-            "billId": "612eb41a-d8ee-11eb-b8bc-0242ac130003",
+            "billId": "d2ff3bdf-b752-4db4-a16e-2d1307fc8563",
             "dueDate": "2018-11-05",
             "billTotalAmount": {
                 "amount": "8721.4900",
@@ -463,7 +463,7 @@
             ]
         },
         {
-            "billId": "612eb80c-d8ee-11eb-b8bc-0242ac130003",
+            "billId": "8dd30f9d-748f-4613-a670-6862d5dd45ad",
             "dueDate": "2018-10-05",
             "billTotalAmount": {
                 "amount": "5352.8400",
@@ -485,7 +485,7 @@
             ]
         },
         {
-            "billId": "612ec3d8-d8ee-11eb-b8bc-0242ac130003",
+            "billId": "364a47ec-f6ee-4aeb-9b82-c4212ee3b44c",
             "dueDate": "2018-09-05",
             "billTotalAmount": {
                 "amount": "5964.0600",
@@ -507,7 +507,7 @@
             ]
         },
         {
-            "billId": "612ed17a-d8ee-11eb-b8bc-0242ac130003",
+            "billId": "8192d0a9-5950-4948-b3a7-dfa0d5a8a086",
             "dueDate": "2018-08-05",
             "billTotalAmount": {
                 "amount": "4872.7000",
@@ -529,7 +529,7 @@
             ]
         },
         {
-            "billId": "612ed648-d8ef-11eb-b8bc-0242ac130003",
+            "billId": "0ca08f7e-e140-49e3-920a-f8693def4963",
             "dueDate": "2018-07-05",
             "billTotalAmount": {
                 "amount": "3687.6900",
@@ -552,15 +552,15 @@
         }
     ],
     "links": {
-        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?page=2&page-size=25&fromDueDate=2018-05-01?toDueDate=2022-08-31",
-        "first": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?page=1&page-size=25&fromDueDate=2018-05-01?toDueDate=2022-08-31",
-        "prev": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?page=1&page-size=25&fromDueDate=2018-05-01?toDueDate=2022-08-31",
-        "next": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?page=3&page-size=25&fromDueDate=2018-05-01?toDueDate=2022-08-31",
-        "last": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?page=3&page-size=25&fromDueDate=2018-05-01?toDueDate=2022-08-31"
+        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/bills?page=2&page-size=25&fromDueDate=2018-05-01?toDueDate=2022-08-31",
+        "first": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/bills?page=1&page-size=25&fromDueDate=2018-05-01?toDueDate=2022-08-31",
+        "prev": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/bills?page=1&page-size=25&fromDueDate=2018-05-01?toDueDate=2022-08-31",
+        "next": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/bills?page=3&page-size=25&fromDueDate=2018-05-01?toDueDate=2022-08-31",
+        "last": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/bills?page=3&page-size=25&fromDueDate=2018-05-01?toDueDate=2022-08-31"
     },
     "meta": {
         "totalRecords": 52,
         "totalPages": 3,
-        "requestDateTime": "2022-09-09T09:56:00Z"
+        "requestDateTime": "2022-09-16T11:04:00Z"
     }
 }

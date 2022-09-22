@@ -1,10 +1,10 @@
 {
     "data": [
         {
-            "transactionId": "6c30bc0e-d8e5-11eb-b8bc-0242ac130003",
-            "identificationNumber": "0126",
+            "transactionId": "016c3366-c80f-471c-ae46-b9848b77df56",
+            "identificationNumber": "3697",
             "transactionName": "PGTO",
-            "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
+            "billId": "01d135a2-c54a-489d-ab25-377763b929c1",
             "creditDebitType": "CREDITO",
             "transactionType": "PAGAMENTO",
             "paymentType": "A_VISTA",
@@ -25,10 +25,10 @@
             "payeeMCC": 5621
         },
         {
-            "transactionId": "622e7af4-d9b1-11eb-b8bc-0242ac130003",
-            "identificationNumber": "0126",
+            "transactionId": "176146c8-3d1c-49df-a325-0d3b3cea86ae",
+            "identificationNumber": "3697",
             "transactionName": "TARIFAS",
-            "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
+            "billId": "01d135a2-c54a-489d-ab25-377763b929c1",
             "creditDebitType": "CREDITO",
             "transactionType": "TARIFA",
             "paymentType": "A_VISTA",
@@ -49,10 +49,10 @@
             "payeeMCC": 4900
         },
         {
-            "transactionId": "14d26260-d9b2-11eb-b8bc-0242ac130003",
-            "identificationNumber": "0126",
+            "transactionId": "e90612ae-2d9e-4e9c-8062-e39f8b618305",
+            "identificationNumber": "3697",
             "transactionName": "ANUIDADE",
-            "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
+            "billId": "01d135a2-c54a-489d-ab25-377763b929c1",
             "creditDebitType": "CREDITO",
             "transactionType": "OPERACOES_CREDITO_CONTRATADAS_CARTAO",
             "paymentType": "A_VISTA",
@@ -73,10 +73,10 @@
             "payeeMCC": 4900
         },
         {
-            "transactionId": "444b2530-d9b3-11eb-b8bc-0242ac130003",
-            "identificationNumber": "0126",
+            "transactionId": "e1eaf51e-6ec1-4c60-9247-f4e56aef0b8e",
+            "identificationNumber": "3697",
             "transactionName": "ESTORNO",
-            "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
+            "billId": "01d135a2-c54a-489d-ab25-377763b929c1",
             "creditDebitType": "CREDITO",
             "transactionType": "ESTORNO",
             "paymentType": "A_VISTA",
@@ -97,10 +97,10 @@
             "payeeMCC": 5661
         },
         {
-            "transactionId": "cb9e21d6-d9b3-11eb-b8bc-0242ac130003",
-            "identificationNumber": "0126",
+            "transactionId": "76d3bf4c-cee3-4765-92da-8bfec21ae323",
+            "identificationNumber": "3697",
             "transactionName": "PGTO",
-            "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
+            "billId": "01d135a2-c54a-489d-ab25-377763b929c1",
             "creditDebitType": "CREDITO",
             "transactionType": "PAGAMENTO",
             "paymentType": "A_VISTA",
@@ -121,10 +121,10 @@
             "payeeMCC": 5661
         },
         {
-            "transactionId": "2008544e-d9b4-11eb-b8bc-0242ac130003",
-            "identificationNumber": "0126",
+            "transactionId": "3e3d073d-900c-4b5a-b01a-3fa6a0bd032d",
+            "identificationNumber": "3697",
             "transactionName": "CASHBACK",
-            "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
+            "billId": "01d135a2-c54a-489d-ab25-377763b929c1",
             "creditDebitType": "CREDITO",
             "transactionType": "CASHBACK",
             "paymentType": "A_VISTA",
@@ -145,10 +145,10 @@
             "payeeMCC": 5815
         },
         {
-            "transactionId": "666f7eaa-d9b2-11eb-b8bc-0242ac130003",
-            "identificationNumber": "0126",
+            "transactionId": "7300b102-3bcc-40af-b8c6-d0a1de5655e2",
+            "identificationNumber": "3697",
             "transactionName": "PGTO",
-            "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
+            "billId": "01d135a2-c54a-489d-ab25-377763b929c1",
             "creditDebitType": "CREDITO",
             "transactionType": "PAGAMENTO",
             "paymentType": "A_VISTA",
@@ -169,10 +169,10 @@
             "payeeMCC": 5815
         },
         {
-            "transactionId": "bad30f64-d9b4-11eb-b8bc-0242ac130003",
-            "identificationNumber": "0126",
+            "transactionId": "120b2fa8-9b32-4f05-9c4b-eec3bc13c1b7",
+            "identificationNumber": "3697",
             "transactionName": "PGTO",
-            "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
+            "billId": "01d135a2-c54a-489d-ab25-377763b929c1",
             "creditDebitType": "CREDITO",
             "transactionType": "CASHBACK",
             "paymentType": "A_VISTA",
@@ -193,10 +193,10 @@
             "payeeMCC": 5946
         },
         {
-            "transactionId": "be2ce00e-d9b2-11eb-b8bc-02424c130003",
-            "identificationNumber": "0126",
+            "transactionId": "e0bccf84-71ea-4026-ba00-0c0de591c085",
+            "identificationNumber": "3697",
             "transactionName": "PGTO",
-            "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
+            "billId": "01d135a2-c54a-489d-ab25-377763b929c1",
             "creditDebitType": "CREDITO",
             "transactionType": "PAGAMENTO",
             "paymentType": "A_VISTA",
@@ -217,10 +217,10 @@
             "payeeMCC": 5946
         },
         {
-            "transactionId": "5d5f5bdb-6985-3dc5-84c7-afc3e47d6553",
-            "identificationNumber": "0126",
+            "transactionId": "bfdf9685-5c3b-4dfc-bcfe-d51ad40f9991",
+            "identificationNumber": "3697",
             "transactionName": "Renner Online - Lojas Renner",
-            "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
+            "billId": "01d135a2-c54a-489d-ab25-377763b929c1",
             "creditDebitType": "CREDITO",
             "transactionType": "PAGAMENTO",
             "paymentType": "A_VISTA",
@@ -241,10 +241,10 @@
             "payeeMCC": 5137
         },
         {
-            "transactionId": "a7d01266-d9b6-11eb-b8bc-0242ac130003",
-            "identificationNumber": "0126",
+            "transactionId": "483e9214-dfa7-437e-a7a5-f7d36e55a843",
+            "identificationNumber": "3697",
             "transactionName": "ESTORNO",
-            "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
+            "billId": "01d135a2-c54a-489d-ab25-377763b929c1",
             "creditDebitType": "CREDITO",
             "transactionType": "ESTORNO",
             "paymentType": "A_VISTA",
@@ -265,10 +265,10 @@
             "payeeMCC": 5309
         },
         {
-            "transactionId": "ab571b14-d9b6-11eb-b8bc-0242ac130003",
-            "identificationNumber": "0126",
+            "transactionId": "299d7126-03bb-4fb6-ae9a-569ecb91c8b8",
+            "identificationNumber": "3697",
             "transactionName": "PGTO",
-            "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
+            "billId": "01d135a2-c54a-489d-ab25-377763b929c1",
             "creditDebitType": "CREDITO",
             "transactionType": "PAGAMENTO",
             "paymentType": "A_VISTA",
@@ -289,10 +289,10 @@
             "payeeMCC": 5309
         },
         {
-            "transactionId": "df3f55f4-d9b6-11eb-b8bc-0242ac130003",
-            "identificationNumber": "0126",
+            "transactionId": "ce9663df-3522-4362-8084-928cf9a69f08",
+            "identificationNumber": "3697",
             "transactionName": "McDonald's ",
-            "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
+            "billId": "01d135a2-c54a-489d-ab25-377763b929c1",
             "creditDebitType": "CREDITO",
             "transactionType": "PAGAMENTO",
             "paymentType": "A_VISTA",
@@ -313,10 +313,10 @@
             "payeeMCC": 5814
         },
         {
-            "transactionId": "92e219a2-d9c1-11eb-b8bc-0242ac130003",
-            "identificationNumber": "0126",
+            "transactionId": "0d46924c-c8b4-4051-9353-214e33486604",
+            "identificationNumber": "3697",
             "transactionName": "TARIFAS",
-            "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
+            "billId": "01d135a2-c54a-489d-ab25-377763b929c1",
             "creditDebitType": "CREDITO",
             "transactionType": "TARIFA",
             "paymentType": "A_VISTA",
@@ -337,10 +337,10 @@
             "payeeMCC": 4900
         },
         {
-            "transactionId": "6871659c-d9d5-11eb-b8bc-0242ac130003",
-            "identificationNumber": "0126",
+            "transactionId": "31edf158-56a6-498f-a61b-242389f13a86",
+            "identificationNumber": "3697",
             "transactionName": "ANUIDADE",
-            "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
+            "billId": "01d135a2-c54a-489d-ab25-377763b929c1",
             "creditDebitType": "CREDITO",
             "transactionType": "OPERACOES_CREDITO_CONTRATADAS_CARTAO",
             "paymentType": "A_VISTA",
@@ -362,11 +362,11 @@
         }
     ],
     "links": {
-        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?fromTransactionDate=2022-07-08&toTransactionDate=2022-07-21"
+        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/transactions?fromTransactionDate=2022-07-08&toTransactionDate=2022-07-21"
     },
     "meta": {
         "totalRecords": 15,
         "totalPages": 1,
-        "requestDateTime": "2022-09-09T09:56:00Z"
+        "requestDateTime": "2022-09-16T11:04:00Z"
     }
 } 

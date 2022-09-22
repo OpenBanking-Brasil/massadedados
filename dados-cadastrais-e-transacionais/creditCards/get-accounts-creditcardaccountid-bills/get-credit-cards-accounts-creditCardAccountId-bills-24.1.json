@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
+            "billId": "01d135a2-c54a-489d-ab25-377763b929c1",
             "dueDate": "2022-08-05",
             "billTotalAmount": {
                 "amount": "5816.8900",
@@ -30,7 +30,7 @@
             ]
         },
         {
-            "billId": "7348da20-d8e7-11eb-b8bc-0242ac130003",
+            "billId": "c61346db-84bd-4fb7-b281-c721c5aaaef5",
             "dueDate": "2022-07-05",
             "billTotalAmount": {
                 "amount": "7428.1200",
@@ -52,7 +52,7 @@
             ]
         },
         {
-            "billId": "7963f0b6-d8e7-11eb-b8bc-0242ac130003",
+            "billId": "5446343d-5925-4bb2-b8a3-0c615b6ce5e8",
             "dueDate": "2022-06-05",
             "billTotalAmount": {
                 "amount": "6210.4800",
@@ -81,7 +81,7 @@
             ]
         },
         {
-            "billId": "f84888ec-d8e7-11eb-b8bc-0242ac130003",
+            "billId": "6e2495df-d848-49da-8ffb-1d2c448c1b89",
             "dueDate": "2022-05-05",
             "billTotalAmount": {
                 "amount": "5076.3200",
@@ -103,7 +103,7 @@
             ]
         },
         {
-            "billId": "36c2698a-d8e8-11eb-b8bc-0242ac130003",
+            "billId": "85a6d39f-565a-43ef-b58f-b47898eedc3c",
             "dueDate": "2022-04-05",
             "billTotalAmount": {
                 "amount": "7840.9800",
@@ -125,7 +125,7 @@
             ]
         },
         {
-            "billId": "99691c68-d8e9-11eb-b8bc-0242ac130003",
+            "billId": "3610249f-c996-4ed2-86ea-15026b56c3f9",
             "dueDate": "2022-03-05",
             "billTotalAmount": {
                 "amount": "6428.4800",
@@ -147,7 +147,7 @@
             ]
         },
         {
-            "billId": "072e4e3a-d8ea-11eb-b8bc-0242ac130003",
+            "billId": "975c41a7-ac75-4fdc-8abd-a2ebcd3f6967",
             "dueDate": "2022-02-05",
             "billTotalAmount": {
                 "amount": "6098.0100",
@@ -170,11 +170,11 @@
         }
     ],
     "links": {
-        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?fromDueDate=2022-08-04&toDueDate=2022-02-04"
+        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/bills?fromDueDate=2022-08-04&toDueDate=2022-02-04"
     },
     "meta": {
         "totalRecords": 7,
         "totalPages": 1,
-        "requestDateTime": "2022-09-09T09:56:00Z"
+        "requestDateTime": "2022-09-16T11:04:00Z"
     }
 }

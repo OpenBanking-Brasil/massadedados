@@ -1,10 +1,10 @@
 {
     "data": [
         {
-            "transactionId": "6c30bc0e-d8e5-11eb-b8bc-0242ac130003",
-            "identificationNumber": "0126",
+            "transactionId": "016c3366-c80f-471c-ae46-b9848b77df56",
+            "identificationNumber": "3697",
             "transactionName": "PGTO",
-            "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
+            "billId": "01d135a2-c54a-489d-ab25-377763b929c1",
             "creditDebitType": "CREDITO",
             "transactionType": "PAGAMENTO",
             "paymentType": "A_VISTA",
@@ -25,10 +25,10 @@
             "payeeMCC": 5621
         },
         {
-            "transactionId": "cb9e21d6-d9b3-11eb-b8bc-0242ac130003",
-            "identificationNumber": "0126",
+            "transactionId": "76d3bf4c-cee3-4765-92da-8bfec21ae323",
+            "identificationNumber": "3697",
             "transactionName": "PGTO",
-            "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
+            "billId": "01d135a2-c54a-489d-ab25-377763b929c1",
             "creditDebitType": "CREDITO",
             "transactionType": "PAGAMENTO",
             "paymentType": "A_VISTA",
@@ -50,14 +50,14 @@
         }
     ],
     "links": {
-        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=1&page-size=2&transactionType=PAGAMENTO",
-        "first": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=1&page-size=2&transactionType=PAGAMENTO",
-        "next": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=2&page-size=2&transactionType=PAGAMENTO",
-        "last": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=2&page-size=2&transactionType=PAGAMENTO"
+        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/transactions?page=1&page-size=2&transactionType=PAGAMENTO",
+        "first": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/transactions?page=1&page-size=2&transactionType=PAGAMENTO",
+        "next": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/transactions?page=2&page-size=2&transactionType=PAGAMENTO",
+        "last": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/transactions?page=2&page-size=2&transactionType=PAGAMENTO"
     },
     "meta": {
         "totalRecords": 3,
         "totalPages": 2,
-        "requestDateTime": "2022-09-09T09:56:00Z"
+        "requestDateTime": "2022-09-16T11:04:00Z"
     }
 } 

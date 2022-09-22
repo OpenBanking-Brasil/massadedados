@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "billId": "b65c778c-d8f7-11eb-b8bc-0242ac130003",
+            "billId": "a12aee04-cc07-40f0-af5b-a5bc1e8abab5",
             "dueDate": "2018-06-05",
             "billTotalAmount": {
                 "amount": "2871.6600",
@@ -23,7 +23,7 @@
             ]
         },
         {
-            "billId": "b65c8092-d8f7-11eb-b8bc-0242ac130003",
+            "billId": "a7b10dac-8583-4928-a14a-5ce5a276d539",
             "dueDate": "2018-05-05",
             "billTotalAmount": {
                 "amount": "2330.8800",
@@ -46,15 +46,15 @@
         }
     ],
     "links": {
-        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?page=2&page-size=25&fromDueDate=2018-05-01?toDueDate=2022-08-31",
-        "first": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?page=1&page-size=25&fromDueDate=2018-05-01?toDueDate=2022-08-31",
-        "prev": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?page=1&page-size=25&fromDueDate=2018-05-01?toDueDate=2022-08-31",
-        "next": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?page=3&page-size=25&fromDueDate=2018-05-01?toDueDate=2022-08-31",
-        "last": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?page=3&page-size=52&fromDueDate=2018-05-01?toDueDate=2022-08-31"
+        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/bills?page=2&page-size=25&fromDueDate=2018-05-01?toDueDate=2022-08-31",
+        "first": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/bills?page=1&page-size=25&fromDueDate=2018-05-01?toDueDate=2022-08-31",
+        "prev": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/bills?page=1&page-size=25&fromDueDate=2018-05-01?toDueDate=2022-08-31",
+        "next": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/bills?page=3&page-size=25&fromDueDate=2018-05-01?toDueDate=2022-08-31",
+        "last": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/bills?page=3&page-size=52&fromDueDate=2018-05-01?toDueDate=2022-08-31"
     },
     "meta": {
         "totalRecords": 52,
         "totalPages": 3,
-        "requestDateTime": "2022-09-09T09:56:00Z"
+        "requestDateTime": "2022-09-16T11:04:00Z"
     }
 }

@@ -1,10 +1,10 @@
 {
     "data": [
         {
-            "transactionId": "92e219a2-d9c1-11eb-b8bc-0242ac130003",
-            "identificationNumber": "0126",
+            "transactionId": "0d46924c-c8b4-4051-9353-214e33486604",
+            "identificationNumber": "3697",
             "transactionName": "TARIFAS",
-            "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
+            "billId": "01d135a2-c54a-489d-ab25-377763b929c1",
             "creditDebitType": "CREDITO",
             "transactionType": "TARIFA",
             "paymentType": "A_VISTA",
@@ -26,14 +26,14 @@
         }
     ],
     "links": {
-        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills/2c30bc0e-d8e5-11eb-b8bc-0242ac130003/transactions?page=2&page-size=1&transactionType=TARIFA",
-        "first": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills/2c30bc0e-d8e5-11eb-b8bc-0242ac130003/transactions?page=1&page-size=1&transactionType=TARIFA",
-        "prev": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills/2c30bc0e-d8e5-11eb-b8bc-0242ac130003/transactions?page=1&page-size=1&transactionType=TARIFA",
-        "last": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills/2c30bc0e-d8e5-11eb-b8bc-0242ac130003/transactions?page=2&page-size=1&transactionType=TARIFA"
+        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/bills/01d135a2-c54a-489d-ab25-377763b929c1/transactions?page=2&page-size=1&transactionType=TARIFA",
+        "first": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/bills/01d135a2-c54a-489d-ab25-377763b929c1/transactions?page=1&page-size=1&transactionType=TARIFA",
+        "prev": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/bills/01d135a2-c54a-489d-ab25-377763b929c1/transactions?page=1&page-size=1&transactionType=TARIFA",
+        "last": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/bills/01d135a2-c54a-489d-ab25-377763b929c1/transactions?page=2&page-size=1&transactionType=TARIFA"
     },
     "meta": {
         "totalRecords": 2,
         "totalPages": 2,
-        "requestDateTime": "2022-09-09T09:56:00Z"
+        "requestDateTime": "2022-09-16T11:04:00Z"
     }
 }

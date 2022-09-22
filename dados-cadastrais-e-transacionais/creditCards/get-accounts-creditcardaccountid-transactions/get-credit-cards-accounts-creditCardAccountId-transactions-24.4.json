@@ -1,10 +1,10 @@
 {
     "data": [
         {
-            "transactionId": "444b2530-d9b3-11eb-b8bc-0242ac130003",
-            "identificationNumber": "0126",
+            "transactionId": "e1eaf51e-6ec1-4c60-9247-f4e56aef0b8e",
+            "identificationNumber": "3697",
             "transactionName": "ESTORNO",
-            "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
+            "billId": "01d135a2-c54a-489d-ab25-377763b929c1",
             "creditDebitType": "CREDITO",
             "transactionType": "ESTORNO",
             "paymentType": "A_VISTA",
@@ -25,10 +25,10 @@
             "payeeMCC": 5661
         },
         {
-            "transactionId": "cb9e21d6-d9b3-11eb-b8bc-0242ac130003",
-            "identificationNumber": "0126",
+            "transactionId": "76d3bf4c-cee3-4765-92da-8bfec21ae323",
+            "identificationNumber": "3697",
             "transactionName": "PGTO",
-            "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
+            "billId": "01d135a2-c54a-489d-ab25-377763b929c1",
             "creditDebitType": "CREDITO",
             "transactionType": "PAGAMENTO",
             "paymentType": "A_VISTA",
@@ -49,10 +49,10 @@
             "payeeMCC": 5661
         },
         {
-            "transactionId": "2008544e-d9b4-11eb-b8bc-0242ac130003",
-            "identificationNumber": "0126",
+            "transactionId": "3e3d073d-900c-4b5a-b01a-3fa6a0bd032d",
+            "identificationNumber": "3697",
             "transactionName": "CASHBACK",
-            "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
+            "billId": "01d135a2-c54a-489d-ab25-377763b929c1",
             "creditDebitType": "CREDITO",
             "transactionType": "CASHBACK",
             "paymentType": "A_VISTA",
@@ -74,14 +74,14 @@
         }
     ],
     "links": {
-        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=3&page-size=3&fromTransactionDate=2022-07-16&toTransactionDate=2022-07-21",
-        "first": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=1&page-size=3&fromTransactionDate=2022-07-16&toTransactionDate=2022-07-21",
-        "prev": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=2&page-size=3&fromTransactionDate=2022-07-16&toTransactionDate=2022-07-21",
-        "last": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=3&page-size=3&fromTransactionDate=2022-07-16&toTransactionDate=2022-07-21"
+        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/transactions?page=3&page-size=3&fromTransactionDate=2022-07-16&toTransactionDate=2022-07-21",
+        "first": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/transactions?page=1&page-size=3&fromTransactionDate=2022-07-16&toTransactionDate=2022-07-21",
+        "prev": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/transactions?page=2&page-size=3&fromTransactionDate=2022-07-16&toTransactionDate=2022-07-21",
+        "last": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/transactions?page=3&page-size=3&fromTransactionDate=2022-07-16&toTransactionDate=2022-07-21"
     },
     "meta": {
         "totalRecords": 9,
         "totalPages": 3,
-        "requestDateTime": "2022-09-09T09:56:00Z"
+        "requestDateTime": "2022-09-16T11:04:00Z"
     }
 } 

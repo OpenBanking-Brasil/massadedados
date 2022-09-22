@@ -1,10 +1,10 @@
 {
     "data": [
         {
-            "transactionId": "2008544e-d9b4-11eb-b8bc-0242ac130003",
-            "identificationNumber": "0126",
+            "transactionId": "3e3d073d-900c-4b5a-b01a-3fa6a0bd032d",
+            "identificationNumber": "3697",
             "transactionName": "CASHBACK",
-            "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
+            "billId": "01d135a2-c54a-489d-ab25-377763b929c1",
             "creditDebitType": "CREDITO",
             "transactionType": "CASHBACK",
             "paymentType": "A_VISTA",
@@ -25,10 +25,10 @@
             "payeeMCC": 5815
         },
         {
-            "transactionId": "666f7eaa-d9b2-11eb-b8bc-0242ac130003",
-            "identificationNumber": "0126",
+            "transactionId": "7300b102-3bcc-40af-b8c6-d0a1de5655e2",
+            "identificationNumber": "3697",
             "transactionName": "PGTO",
-            "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
+            "billId": "01d135a2-c54a-489d-ab25-377763b929c1",
             "creditDebitType": "CREDITO",
             "transactionType": "PAGAMENTO",
             "paymentType": "A_VISTA",
@@ -49,10 +49,10 @@
             "payeeMCC": 5815
         },
         {
-            "transactionId": "bad30f64-d9b4-11eb-b8bc-0242ac130003",
-            "identificationNumber": "0126",
+            "transactionId": "120b2fa8-9b32-4f05-9c4b-eec3bc13c1b7",
+            "identificationNumber": "3697",
             "transactionName": "PGTO",
-            "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
+            "billId": "01d135a2-c54a-489d-ab25-377763b929c1",
             "creditDebitType": "CREDITO",
             "transactionType": "CASHBACK",
             "paymentType": "A_VISTA",
@@ -73,10 +73,10 @@
             "payeeMCC": 5946
         },
         {
-            "transactionId": "be2ce00e-d9b2-11eb-b8bc-02424c130003",
-            "identificationNumber": "0126",
+            "transactionId": "e0bccf84-71ea-4026-ba00-0c0de591c085",
+            "identificationNumber": "3697",
             "transactionName": "PGTO",
-            "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
+            "billId": "01d135a2-c54a-489d-ab25-377763b929c1",
             "creditDebitType": "CREDITO",
             "transactionType": "PAGAMENTO",
             "paymentType": "A_VISTA",
@@ -97,10 +97,10 @@
             "payeeMCC": 5946
         },
         {
-            "transactionId": "5d5f5bdb-6985-3dc5-84c7-afc3e47d6553",
-            "identificationNumber": "0126",
+            "transactionId": "bfdf9685-5c3b-4dfc-bcfe-d51ad40f9991",
+            "identificationNumber": "3697",
             "transactionName": "Renner Online - Lojas Renner",
-            "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
+            "billId": "01d135a2-c54a-489d-ab25-377763b929c1",
             "creditDebitType": "CREDITO",
             "transactionType": "PAGAMENTO",
             "paymentType": "A_VISTA",
@@ -122,15 +122,15 @@
         }
     ],
     "links": {
-        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills/2c30bc0e-d8e5-11eb-b8bc-0242ac130003/transactions?page=2&page-size=5",
-        "first": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills/2c30bc0e-d8e5-11eb-b8bc-0242ac130003/transactions?page=1&page-size=5",
-        "prev": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills/2c30bc0e-d8e5-11eb-b8bc-0242ac130003/transactions?page=1&page-size=5",
-        "next": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills/2c30bc0e-d8e5-11eb-b8bc-0242ac130003/transactions?page=3&page-size=5",
-        "last": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills/2c30bc0e-d8e5-11eb-b8bc-0242ac130003/transactions?page=3&page-size=5"
+        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/bills/01d135a2-c54a-489d-ab25-377763b929c1/transactions?page=2&page-size=5",
+        "first": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/bills/01d135a2-c54a-489d-ab25-377763b929c1/transactions?page=1&page-size=5",
+        "prev": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/bills/01d135a2-c54a-489d-ab25-377763b929c1/transactions?page=1&page-size=5",
+        "next": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/bills/01d135a2-c54a-489d-ab25-377763b929c1/transactions?page=3&page-size=5",
+        "last": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/bills/01d135a2-c54a-489d-ab25-377763b929c1/transactions?page=3&page-size=5"
     },
     "meta": {
         "totalRecords": 5,
         "totalPages": 3,
-        "requestDateTime": "2022-09-09T09:56:00Z"
+        "requestDateTime": "2022-09-16T11:04:00Z"
     }
 } 

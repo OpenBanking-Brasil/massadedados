@@ -1,10 +1,10 @@
 {
     "data": [
         {
-            "transactionId": "a7d01266-d9b6-11eb-b8bc-0242ac130003",
-            "identificationNumber": "0126",
+            "transactionId": "483e9214-dfa7-437e-a7a5-f7d36e55a843",
+            "identificationNumber": "3697",
             "transactionName": "ESTORNO",
-            "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
+            "billId": "01d135a2-c54a-489d-ab25-377763b929c1",
             "creditDebitType": "CREDITO",
             "transactionType": "ESTORNO",
             "paymentType": "A_VISTA",
@@ -26,14 +26,14 @@
         }
     ],
     "links": {
-        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills/2c30bc0e-d8e5-11eb-b8bc-0242ac130003/transactions?page=2&page-size=1&transactionType=ESTORNO",
-        "first": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills/2c30bc0e-d8e5-11eb-b8bc-0242ac130003/transactions?page=1&page-size=1&transactionType=ESTORNO",
-        "prev": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills/2c30bc0e-d8e5-11eb-b8bc-0242ac130003/transactions?page=1&page-size=1&transactionType=ESTORNO",
-        "last": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills/2c30bc0e-d8e5-11eb-b8bc-0242ac130003/transactions?page=2&page-size=1&transactionType=ESTORNO"
+        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/bills/01d135a2-c54a-489d-ab25-377763b929c1/transactions?page=2&page-size=1&transactionType=ESTORNO",
+        "first": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/bills/01d135a2-c54a-489d-ab25-377763b929c1/transactions?page=1&page-size=1&transactionType=ESTORNO",
+        "prev": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/bills/01d135a2-c54a-489d-ab25-377763b929c1/transactions?page=1&page-size=1&transactionType=ESTORNO",
+        "last": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/bills/01d135a2-c54a-489d-ab25-377763b929c1/transactions?page=2&page-size=1&transactionType=ESTORNO"
     },
     "meta": {
         "totalRecords": 2,
         "totalPages": 2,
-        "requestDateTime": "2022-09-09T09:56:00Z"
+        "requestDateTime": "2022-09-16T11:04:00Z"
     }
 }

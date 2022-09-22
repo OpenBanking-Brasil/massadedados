@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "billId": "072e4e3a-d8ea-11eb-b8bc-0242ac130003",
+            "billId": "975c41a7-ac75-4fdc-8abd-a2ebcd3f6967",
             "dueDate": "2022-02-05",
             "billTotalAmount": {
                 "amount": "6098.0100",
@@ -24,11 +24,11 @@
         }
     ],
     "links": {
-        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?fromDueDate=2022-02-05&toDueDate=2022-02-05"
+        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/bills?fromDueDate=2022-02-05&toDueDate=2022-02-05"
     },
     "meta": {
         "totalRecords": 1,
         "totalPages": 1,
-        "requestDateTime": "2022-09-09T09:56:00Z"
+        "requestDateTime": "2022-09-16T11:04:00Z"
     }
 }
