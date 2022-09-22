@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "billId": "f84888ec-d8e7-11eb-b8bc-0242ac130003",
+            "dueDate": "2021-05-05",
+            "billTotalAmount": 5076.3200,
+            "billTotalAmountCurrency": "BRL",
+            "billMinimumAmount": 50.7632,
+            "billMinimumAmountCurrency": "BRL",
+            "isInstalment": true,
+            "financeCharges": [
+                {
+                    "type": "SEM_ENCARGO",
+                    "amount": 0.0000,
+                    "currency": "BRL"
+                }
+            ],
+            "payments": [
+                {
+                    "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
+                    "paymentDate": "2021-05-04",
+                    "paymentMode": "DEBITO_CONTA_CORRENTE",
+                    "amount": 5076.3200,
+                    "currency": "BRL"
+                }
+            ]
+        }
+    ],
+    "links": {
+        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/bills?fromDueDate=2021-05-04&toDueDate=2021-05-04"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-08-28T08:20:34Z"
+    }
+} 

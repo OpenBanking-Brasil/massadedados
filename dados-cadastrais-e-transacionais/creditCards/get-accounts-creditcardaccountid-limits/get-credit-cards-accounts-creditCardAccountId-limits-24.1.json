@@ -1,0 +1,79 @@
+{
+    "data": [
+        {
+            "creditLineLimitType": "LIMITE_CREDITO_TOTAL",
+            "consolidationType": "CONSOLIDADO",
+            "identificationNumber": "5500",
+            "lineName": "CREDITO_A_VISTA",
+            "isLimitFlexible": true,
+            "limitAmountCurrency": "BRL",
+            "limitAmount": 23000.9761,
+            "usedAmountCurrency": "BRL",
+            "usedAmount": 1887.9692,
+            "availableAmountCurrency": "BRL",
+            "availableAmount": 21113.0069
+        },
+        {
+            "creditLineLimitType": "CREDITO_PARCELADO",
+            "consolidationType": "CONSOLIDADO",
+            "identificationNumber": "5500",
+            "lineName": "CREDITO_A_VISTA",
+            "isLimitFlexible": true,
+            "limitAmountCurrency": "BRL",
+            "limitAmount": 1200000.0000,
+            "usedAmountCurrency": "BRL",
+            "usedAmount": 0.0000,
+            "availableAmountCurrency": "BRL",
+            "availableAmount": 1200000.0000
+        },
+        {
+            "creditLineLimitType": "SAQUE_CREDITO_BRASIL",
+            "consolidationType": "CONSOLIDADO",
+            "identificationNumber": "5500",
+            "lineName": "CREDITO_A_VISTA",
+            "isLimitFlexible": true,
+            "limitAmountCurrency": "BRL",
+            "limitAmount": 3000.0000,
+            "usedAmountCurrency": "BRL",
+            "usedAmount": 0.0000,
+            "availableAmountCurrency": "BRL",
+            "availableAmount": 3000.0000
+        },
+        {
+            "creditLineLimitType": "EMPRESTIMO_CARTAO_CONSIGNADO",
+            "consolidationType": "CONSOLIDADO",
+            "identificationNumber": "5500",
+            "lineName": "CREDITO_A_VISTA",
+            "isLimitFlexible": true,
+            "limitAmountCurrency": "BRL",
+            "limitAmount": 23000.0000,
+            "usedAmountCurrency": "BRL",
+            "usedAmount": 30.0000,
+            "availableAmountCurrency": "BRL",
+            "availableAmount": 22970.0000
+        },
+        {
+            "creditLineLimitType": "OUTROS",
+            "consolidationType": "CONSOLIDADO",
+            "identificationNumber": "5500",
+            "lineName": "CREDITO_A_VISTA",
+            "lineNameAdditionalInfo": "SAQUE BANCOS 24 HORAS",
+            "isLimitFlexible": true,
+            "limitAmountCurrency": "BRL",
+            "limitAmount": 1000.0000,
+            "usedAmountCurrency": "BRL",
+            "usedAmount": 30.0000,
+            "availableAmountCurrency": "BRL",
+            "availableAmount": 970.0000
+        }
+        
+    ],
+    "links": {
+        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/5cd65564-db2c-11eb-8d19-0242ac130003/limits"
+    },
+    "meta": {
+        "totalRecords": 5,
+        "totalPages": 1,
+        "requestDateTime": "2021-09-21T15:11:21Z"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "transactionId": "5405901c-da9b-11eb-8d19-0242ac130003",
+            "identificationNumber": "7890",
+            "lineName": "CREDITO_PARCELADO",
+            "transactionName": "PAGAMENTO",
+            "billId": "1e1f17da-da9a-11eb-8d19-0242ac130003",
+            "creditDebitType": "DEBITO",
+            "transactionType": "PAGAMENTO",
+            "transactionalAdditionalInfo": "NA",
+            "paymentType": "A_PRAZO",
+            "feeType": "ANUIDADE",
+            "otherCreditsType": "OUTROS",
+            "chargeIdentificator": "PARCELA 1",
+            "chargeNumber": 2,
+            "brazilianAmount": 1000.0400,
+            "amount": 0.0000,
+            "currency": "BRL",
+            "transactionDate": "2021-05-20",
+            "billPostDate": "2021-05-21",
+            "payeeMCC": 5912
+        }
+    ],
+    "links": {
+        "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/15c7e4c4-da93-11eb-8d19-0242ac130003/transactions"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2021-06-11T08:50:00Z"
+    }
+}
