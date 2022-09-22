@@ -1,0 +1,35 @@
+{
+    "data": {
+        "typeNumberOfInstalments": "DIA",
+        "totalNumberOfInstalments": 365,
+        "typeContractRemaining": "DIA",
+        "contractRemainingNumber": 0,
+        "paidInstalments": 4,
+        "dueInstalments": 0,
+        "pastDueInstalments": 0,
+        "balloonPayments": [
+            {
+                "dueDate": "2022-07-19",
+                "amount": {
+                    "amount": 7500.0000,
+                    "currency": "BRL"
+                }
+            },
+            {
+                "dueDate": "2021-12-30",
+                "amount": {
+                    "amount": 17500.0000,
+                    "currency": "BRL"
+                }
+            }
+        ]
+    },
+    "links": {
+        "self": "https://api.caixa.gov.br/open-banking/loans/v1/contracts/377aa88d-8905-3847-ad8f-c80d9e47f907/scheduled-instalments"
+    },
+    "meta": {
+        "totalRecords": 2,
+        "totalPages": 1,
+        "requestDateTime": "2022-08-24T09:35:00Z"
+    }
+}
