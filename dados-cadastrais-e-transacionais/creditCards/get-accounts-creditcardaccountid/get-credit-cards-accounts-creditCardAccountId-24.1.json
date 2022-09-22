@@ -1,17 +1,15 @@
 {
   "data": {
-    "name": "Construcard",
-    "productType": "OUTROS",
-    "productAdditionalInfo": "CONSTRUCARD",
-    "creditCardNetwork": "OUTRAS",
-    "networkAdditionalInfo": "CARTAO CAIXA EMPRESARIAL",
+    "name": "Infinite Visa Empresarial",
+    "productType": "EMPRESARIAL",
+    "creditCardNetwork": "VISA",
     "paymentMethod": {
-      "identificationNumber": "5500",
-      "isMultipleCreditCard": false
+      "identificationNumber": "3697",
+      "isMultipleCreditCard": true
     }
   },
   "links": {
-    "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/5cd65564-db2c-11eb-8d19-0242ac130003"
+    "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003"
   },
   "meta": {
     "totalRecords": 1,

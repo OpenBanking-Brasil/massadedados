@@ -1,36 +1,41 @@
 {
     "data": [
         {
-            "billId": "fb3bdb08-db62-11eb-8d19-0242ac130003",
-            "dueDate": "2022-05-10",
+            "billId": "7963f0b6-d8e7-11eb-b8bc-0242ac130003",
+            "dueDate": "2022-06-05",
             "billTotalAmount": {
-                "amount": "4099.1200",
+                "amount": "6210.4800",
                 "currency": "BRL"
             },
             "billMinimumAmount": {
-                "amount": "497.1600",
+                "amount": "62.1048",
                 "currency": "BRL"
             },
             "isInstalment": true,
             "payments": [
                 {
-                    "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
-                    "paymentDate": "2022-05-10",
-                    "paymentMode": "PIX",
-                    "amount": "4099.1200",
+                    "valueType": "OUTRO_VALOR_PAGO_FATURA",
+                    "paymentDate": "2022-06-04",
+                    "paymentMode": "DEBITO_CONTA_CORRENTE",
+                    "amount": "4600.0000",
+                    "currency": "BRL"
+                },
+                {
+                    "valueType": "OUTRO_VALOR_PAGO_FATURA",
+                    "paymentDate": "2022-07-04",
+                    "paymentMode": "DEBITO_CONTA_CORRENTE",
+                    "amount": "1610.4800",
                     "currency": "BRL"
                 }
             ]
         }
     ],
     "links": {
-        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/5cd65564-db2c-11eb-8d19-0242ac130003/bills?page=3&page-size=3",
-        "prev": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/5cd65564-db2c-11eb-8d19-0242ac130003/bills?page=2&page-size=3",
-        "first": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/5cd65564-db2c-11eb-8d19-0242ac130003/bills?page=1&page-size=3"
+        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/bills?fromDueDate=2022-06-05&toDueDate=2022-06-05"
     },
     "meta": {
-        "totalRecords": 5,
-        "totalPages": 3,
+        "totalRecords": 1,
+        "totalPages": 1,
         "requestDateTime": "2022-09-16T11:04:00Z"
     }
 }
