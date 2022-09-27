@@ -1,0 +1,80 @@
+{
+    "data": [
+        {
+            "billId": "43a15d0f-b61e-36ea-9dc7-9b2377db9dd5",
+            "dueDate": "2022-09-10",
+            "billTotalAmount": {
+                "amount": "750.0400",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "305.9683",
+                "currency": "BRL"
+            },
+            "isInstalment": false,
+            "financeCharges": [
+                {
+                    "type": "MULTA_ATRASO_PAGAMENTO_FATURA",
+                    "amount": "15.9600",
+                    "currency": "BRL"
+                },
+                {
+                    "type": "IOF",
+                    "amount": "15.5400",
+                    "currency": "BRL"
+                },
+                {
+                    "type": "JUROS_MORA_ATRASO_PAGAMENTO_FATURA",
+                    "amount": "15.5982",
+                    "currency": "BRL"
+                }
+            ],
+            "payments": [
+                {
+                    "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
+                    "paymentDate": "2022-09-10",
+                    "paymentMode": "DEBITO_CONTA_CORRENTE",
+                    "amount": "750.0400",
+                    "currency": "BRL"
+                }
+            ]
+        },
+        {
+            "billId": "f9672f09-3b9d-3d8b-9487-7df5626cdf00",
+            "dueDate": "2022-08-10",
+            "billTotalAmount": {
+                "amount": "838.4517",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "59.9821",
+                "currency": "BRL"
+            },
+            "isInstalment": false,
+            "financeCharges": [
+                {
+                    "type": "SEM_ENCARGO",
+                    "amount": "0.0000",
+                    "currency": "BRL"
+                }
+            ],
+            "payments": [
+                {
+                    "valueType": "OUTRO_VALOR_PAGO_FATURA",
+                    "paymentDate": "2022-08-10",
+                    "paymentMode": "PIX",
+                    "amount": "577.8017",
+                    "currency": "BRL"
+                }
+            ]
+        }
+    ],
+    "links": {
+        "self": "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts/471856b2-cae3-31a6-b4f7-b3d13fe625ee/bills"
+    },
+    "meta": {
+        "totalRecords": 2,
+        "totalPages": 1,
+        "requestDateTime": "2022-09-12T09:37:00Z"
+    }
+}

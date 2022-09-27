@@ -1,0 +1,50 @@
+{
+    "data": [
+        {
+            "creditLineLimitType": "LIMITE_CREDITO_TOTAL",
+            "consolidationType": "INDIVIDUAL",
+            "identificationNumber": "0896",
+            "lineName": "CREDITO_A_VISTA",
+            "isLimitFlexible": false,
+            "limitAmount": {
+                "amount": "2000.0000",
+                "currency": "BRL"
+            },
+            "usedAmount": {
+                "amount": "0.0000",
+                "currency": "BRL"
+            },
+            "availableAmount": {
+                "amount": "2000.0000",
+                "currency": "BRL"
+            }
+        },
+        {
+            "creditLineLimitType": "LIMITE_CREDITO_MODALIDADE_OPERACAO",
+            "consolidationType": "INDIVIDUAL",
+            "identificationNumber": "0896",
+            "lineName": "SAQUE_CREDITO_BRASIL",
+            "isLimitFlexible": false,
+            "limitAmount": {
+                "amount": "500.0000",
+                "currency": "BRL"
+            },
+            "usedAmount": {
+                "cmount": "0.0000",
+                "currency": "BRL"
+            },
+            "availableAmount": {
+                "cmount": "500.0000",
+                "currency": "BRL"
+            }
+        }
+    ],
+    "links": {
+        "self": "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts/471856b2-cae3-31a6-b4f7-b3d13fe625ee/limits"
+    },
+    "meta": {
+        "totalRecords": 2,
+        "totalPages": 1,
+        "requestDateTime": "2022-09-12T09:37:00Z"
+    }
+}

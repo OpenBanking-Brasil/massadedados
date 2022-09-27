@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "transactionId": "fac51fa6-8260-4f9d-8e34-c6cd0533123e",
+            "identificationNumber": "1250",
+            "transactionName": "RIACHUELO",
+            "billId": "afb47682-1aae-3877-ae3d-f108f4fa7aec",
+            "creditDebitType": "CREDITO",
+            "transactionType": "PAGAMENTO",
+            "paymentType": "A_VISTA",
+            "feeType": "SMS",
+            "otherCreditsType": "CREDITO_ROTATIVO",
+            "chargeIdentificator": "PARCELA_1",
+            "chargeNumber": 1,
+            "brazilianAmount": {
+                "amount": "1320.6417",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "1320.6417",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-05-25",
+            "billPostDate": "2022-05-26",
+            "payeeMCC": 5940
+        }
+    ],
+    "links": {
+        "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/87684e13-3f03-3c4e-b00a-2b9f2f8215c0/bills/afb47682-1aae-3877-ae3d-f108f4fa7aec/transactions"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-08-31T09:37:00Z"
+    }
+}

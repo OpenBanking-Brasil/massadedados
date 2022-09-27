@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "transactionId": "6795be12-c2ee-3dc8-8fa3-7606f5d1019b",
+            "completedAuthorisedPaymentType": "LANCAMENTO_FUTURO",
+            "creditDebitType": "CREDITO",
+            "transactionName": "DEP6795be12-c2ee-3dc8-8fa3-7606f5d1019b",
+            "type": "DEPOSITO",
+            "transactionAmount": {
+                "amount": "150.0000",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-09-12",
+            "partieCnpjCpf": "64258217018",
+            "partiePersonType": "PESSOA_NATURAL",
+            "partieCompeCode": "041",
+            "partieBranchCode": "5986",
+            "partieNumber": "598615",
+            "partieCheckDigit": "2"
+        },
+        {
+            "transactionId": "ca44a01d-5c02-3b63-b0f2-15346c039462",
+            "completedAuthorisedPaymentType": "LANCAMENTO_FUTURO",
+            "creditDebitType": "CREDITO",
+            "transactionName": "TEDca44a01d-5c02-3b63-b0f2-15346c039462",
+            "type": "TED",
+            "transactionAmount": {
+                "amount": "461.9490",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-09-12",
+            "partieCnpjCpf": "29750879422",
+            "partiePersonType": "PESSOA_NATURAL",
+            "partieCompeCode": "341",
+            "partieBranchCode": "5658",
+            "partieNumber": "456812",
+            "partieCheckDigit": "7"
+        }
+    ],
+    "links": {
+        "self": "https://openbanking.banrisul.com.br/open-banking/accounts/v1/accounts/5575b3ad-b534-3901-8be4-bac02436f02d/transactions-current"
+    },
+    "meta": {
+        "totalRecords": 2,
+        "totalPages": 1,
+        "requestDateTime": "2022-09-12T09:37:00Z"
+    }
+}
