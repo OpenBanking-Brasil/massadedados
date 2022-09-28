@@ -1,0 +1,55 @@
+{
+    "data": {
+        "contractNumber": "842914380442",
+        "ipocCode": "0041696802111841548177280002",
+        "productName": "Crédito Pessoal",
+        "productType": "EMPRESTIMOS",
+        "productSubType": "HOME_EQUITY",
+        "contractDate": "2005-01-01",
+        "settlementDate": "2006-01-01",
+        "contractAmount": "120000.0000",
+        "currency": "BRL",
+        "dueDate": "2006-01-01",
+        "instalmentPeriodicity": "ANUAL",
+        "firstInstalmentDueDate": "2006-01-01",
+        "CET": "0.0300",
+        "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
+        "cnpjConsignee": "00416968000101",
+        "interestRates": [
+            {
+                "taxType": "EFETIVA",
+                "interestRateType": "COMPOSTO",
+                "taxPeriodicity": "AA",
+                "calculation": "30/360",
+                "referentialRateIndexerType": "PRE_FIXADO",
+                "referentialRateIndexerSubType": "PRE_FIXADO",
+                "preFixedRate": "0.0300",
+                "postFixedRate": "0.0000"
+            }
+        ],
+        "contractedFees": [
+            {
+                "feeName": "Taxa de Cadastro",
+                "feeCode": "CADASTRO",
+                "feeChargeType": "UNICA",
+                "feeCharge": "FIXO",
+                "feeAmount": "500.0000",
+                "feeRate": "0.0000"
+            }
+        ],
+        "contractedFinanceCharges": [
+            {
+                "chargeType": "JUROS_MORA_ATRASO",
+                "chargeRate": "0.0100"
+            }
+        ]
+    },
+    "links": {
+        "self": "https://api.baninter.com/open-banking/loans/v1/contracts/rurjqnkh-6pub-x5qc-3dtr-2qad4n74i3cu"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-08-15T06:00:00Z"
+    }
+}

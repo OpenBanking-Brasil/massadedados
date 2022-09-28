@@ -1,0 +1,39 @@
+{
+    "data": {
+        "paidInstalments": 1,
+        "contractOutstandingBalance": "0.0000",
+        "releases": [
+            {
+                "paymentId": "amie6cpf-b7cd-4729-89c1-h2jdfk6qjzs5",
+                "isOverParcelPayment": false,
+                "instalmentId": "dj5etki3-b064-4f60-9f27-qooznd1yojfi",
+                "paidDate": "2006-01-01",
+                "currency": "BRL",
+                "paidAmount": "12555.4600",
+                "overParcel": {
+                    "fees": [
+                        {
+                            "feeName": "Taxa de Cadastro",
+                            "feeCode": "CADASTRO",
+                            "feeAmount": "500.0000"
+                        }
+                    ],
+                    "charges": [
+                        {
+                            "chargeType": "SEM_ENCARGO",
+                            "chargeAmount": "0.0000"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "links": {
+        "self": "https://api.baninter.com/open-banking/loans/v1/contracts/rurjqnkh-6pub-x5qc-3dtr-2qad4n74i3cu/payments"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-08-15T06:00:00Z"
+    }
+}
