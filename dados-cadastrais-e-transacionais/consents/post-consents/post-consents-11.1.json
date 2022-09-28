@@ -1,0 +1,20 @@
+{
+    "data": {
+        "loggedUser": {
+            "document": {
+                "identification": "84154817728",
+                "rel": "CPF"
+            }
+        },
+        "permissions": [
+            "CUSTOMERS_PERSONAL_IDENTIFICATIONS_READ",
+            "CUSTOMERS_PERSONAL_ADITTIONALINFO_READ",
+            "LOANS_READ",
+            "LOANS_SCHEDULED_INSTALMENTS_READ",
+            "LOANS_PAYMENTS_READ",
+            "LOANS_WARRANTIES_READ",
+            "RESOURCES_READ"
+        ],
+        "expirationDateTime": "2023-08-15T06:00:00Z"
+    }
+}
