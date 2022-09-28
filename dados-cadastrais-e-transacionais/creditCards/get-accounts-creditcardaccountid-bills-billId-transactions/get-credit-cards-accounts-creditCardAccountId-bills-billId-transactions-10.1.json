@@ -1,0 +1,60 @@
+{
+    "data": [
+        {
+            "transactionId": "53fd534d-6c0f-319d-b513-5809fe31e7f9",
+            "identificationNumber": "1250",
+            "transactionName": "Havan Palhoça",
+            "billId": "bda46855-4ed0-30e7-8add-dbd32985c359",
+            "creditDebitType": "CREDITO",
+            "transactionType": "PAGAMENTO",
+            "paymentType": "A_VISTA",
+            "feeType": "SMS",
+            "otherCreditsType": "CREDITO_ROTATIVO",
+            "chargeIdentificator": "PARCELA_1",
+            "chargeNumber": 1,
+            "brazilianAmount": {
+                "amount": "2498.5600",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "2498.5600",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-06-25",
+            "billPostDate": "2022-06-26",
+            "payeeMCC": 5311
+        },
+        {
+            "transactionId": "f7652ff4-b997-36ad-9afb-94d9c400f2a2",
+            "identificationNumber": "1250",
+            "transactionName": "Supermercado Hiperbom Palhoça",
+            "billId": "bda46855-4ed0-30e7-8add-dbd32985c359",
+            "creditDebitType": "CREDITO",
+            "transactionType": "PAGAMENTO",
+            "paymentType": "A_VISTA",
+            "feeType": "SMS",
+            "otherCreditsType": "CREDITO_ROTATIVO",
+            "chargeIdentificator": "PARCELA_1",
+            "chargeNumber": 1,
+            "brazilianAmount": {
+                "amount": "1444.4896",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "1444.4896",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-06-28",
+            "billPostDate": "2022-06-29",
+            "payeeMCC": 5411
+        }
+    ],
+    "links": {
+        "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/87684e13-3f03-3c4e-b00a-2b9f2f8215c0/bills/bda46855-4ed0-30e7-8add-dbd32985c359/transactions"
+    },
+    "meta": {
+        "totalRecords": 2,
+        "totalPages": 1,
+        "requestDateTime": "2022-08-31T09:37:00Z"
+    }
+}

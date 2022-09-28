@@ -4,9 +4,9 @@
       "creditCardAccountId": "659effc1-4526-4248-b6af-e3b4130e3089",
       "brandName": "Banco do Estado do Rio Grande do Sul S.A",
       "companyCnpj": "92702067000196",
-      "name": "Banrisul Visa Platinum",
-      "productType": "PLATINUM",
-      "creditCardNetwork": "VISA"
+      "name": "Gold Mastercard",
+      "productType": "GOLD",
+      "creditCardNetwork": "MASTERCARD"
     }
   ],
   "links": {
@@ -15,6 +15,6 @@
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2022-08-29T11:45:00Z"
+    "requestDateTime": "2022-09-12T09:37:00Z"
   }
 }

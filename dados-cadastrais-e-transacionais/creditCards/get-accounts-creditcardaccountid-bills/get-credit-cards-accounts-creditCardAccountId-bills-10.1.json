@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "billId": "bda46855-4ed0-30e7-8add-dbd32985c359",
+            "dueDate": "2022-07-10",
+            "billTotalAmount": {
+                "amount": "3943.0496",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "349.0496",
+                "currency": "BRL"
+            },
+            "isInstalment": false,
+            "financeCharges": [
+                {
+                    "type": "MULTA_ATRASO_PAGAMENTO_FATURA",
+                    "additionalInfo": "Atraso no pagamento da dívida.",
+                    "amount": "165.5400",
+                    "currency": "BRL"
+                },
+                {
+                    "type": "IOF",
+                    "additionalInfo": "IOF",
+                    "amount": "45.5400",
+                    "currency": "BRL"
+                }
+            ],
+            "payments": [
+                {
+                    "valueType": "OUTRO_VALOR_PAGO_FATURA",
+                    "paymentDate": "2022-08-01",
+                    "paymentMode": "DEBITO_CONTA_CORRENTE",
+                    "amount": "1574.5626",
+                    "currency": "BRL"
+                }
+            ]
+        },
+        {
+            "billId": "afb47682-1aae-3877-ae3d-f108f4fa7aec",
+            "dueDate": "2022-06-10",
+            "billTotalAmount": {
+                "amount": "1320.6417",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "259.9821",
+                "currency": "BRL"
+            },
+            "isInstalment": false,
+            "payments": [
+                {
+                    "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
+                    "paymentDate": "2022-06-10",
+                    "paymentMode": "BOLETO_BANCARIO",
+                    "amount": "1320.6417",
+                    "currency": "BRL"
+                }
+            ]
+        }
+    ],
+    "links": {
+        "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/87684e13-3f03-3c4e-b00a-2b9f2f8215c0/bills"
+    },
+    "meta": {
+        "totalRecords": 2,
+        "totalPages": 1,
+        "requestDateTime": "2022-08-31T09:37:00Z"
+    }
+}
