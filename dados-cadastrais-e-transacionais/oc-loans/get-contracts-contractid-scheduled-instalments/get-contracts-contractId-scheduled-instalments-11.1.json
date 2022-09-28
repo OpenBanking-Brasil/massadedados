@@ -1,0 +1,19 @@
+{
+    "data": {
+        "typeNumberOfInstalments": "MES",
+        "totalNumberOfInstalments": 12,
+        "typeContractRemaining": "MES",
+        "contractRemainingNumber": 12,
+        "paidInstalments": 0,
+        "dueInstalments": 12,
+        "pastDueInstalments": 0
+    },
+    "links": {
+        "self": "https://api.baninter.com/open-banking/loans/v1/contracts/jte9ogns-swxg-365m-cndh-us42iko0r7ni/scheduled-instalments"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-08-15T06:00:00Z"
+    }
+}

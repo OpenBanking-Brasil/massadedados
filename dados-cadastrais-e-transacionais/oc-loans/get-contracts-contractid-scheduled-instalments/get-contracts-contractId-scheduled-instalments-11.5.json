@@ -1,0 +1,19 @@
+{
+    "data": {
+        "typeNumberOfInstalments": "MES",
+        "totalNumberOfInstalments": 2,
+        "typeContractRemaining": "MES",
+        "contractRemainingNumber": 0,
+        "paidInstalments": 2,
+        "dueInstalments": 0,
+        "pastDueInstalments": 0
+    },
+    "links": {
+        "self": "https://api.baninter.com/open-banking/loans/v1/contracts/fcpuj4d1-3ape-oka6-ubxw-y5d6yfr2s446/scheduled-instalments"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-08-15T06:00:00Z"
+    }
+}

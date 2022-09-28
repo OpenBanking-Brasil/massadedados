@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "currency": "BRL",
+            "warrantyType": "GARANTIA_FIDEJUSSORIA",
+            "warrantySubType": "PESSOA_FISICA",
+            "warrantyAmount": "20000.0000"
+        }
+    ],
+    "links": {
+        "self": "https://api.baninter.com/open-banking/loans/v1/contracts/fcpuj4d1-3ape-oka6-ubxw-y5d6yfr2s446/warranties"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-08-15T06:00:00Z"
+    }
+}

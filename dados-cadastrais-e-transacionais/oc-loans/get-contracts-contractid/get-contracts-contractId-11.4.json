@@ -1,0 +1,63 @@
+{
+    "data": {
+        "contractNumber": "903748933124",
+        "ipocCode": "0041696802111841548177280004",
+        "productName": "Crédito Pessoal",
+        "productType": "EMPRESTIMOS",
+        "productSubType": "HOME_EQUITY",
+        "contractDate": "2007-01-01",
+        "settlementDate": "2008-01-01",
+        "contractAmount": "140000.0000",
+        "currency": "BRL",
+        "dueDate": "2008-01-01",
+        "instalmentPeriodicity": "MENSAL",
+        "firstInstalmentDueDate": "2007-02-01",
+        "CET": "0.0300",
+        "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
+        "cnpjConsignee": "00416968000101",
+        "interestRates": [
+            {
+                "taxType": "NOMINAL",
+                "interestRateType": "SIMPLES",
+                "taxPeriodicity": "AM",
+                "calculation": "30/365",
+                "referentialRateIndexerType": "FLUTUANTES",
+                "referentialRateIndexerSubType": "SELIC",
+                "preFixedRate": "0.0000",
+                "postFixedRate": "0.0300"
+            }
+        ],
+        "contractedFees": [
+            {
+                "feeName": "Taxa de Cadastro",
+                "feeCode": "CADASTRO",
+                "feeChargeType": "UNICA",
+                "feeCharge": "FIXO",
+                "feeAmount": "500.0000",
+                "feeRate": "0.0000"
+            },
+            {
+                "feeName": "Manutenção de Contrato",
+                "feeCode": "MANUTENCAO",
+                "feeChargeType": "UNICA",
+                "feeCharge": "MINIMO",
+                "feeAmount": "15.0000",
+                "feeRate": "0.0000"
+            }
+        ],
+        "contractedFinanceCharges": [
+            {
+                "chargeType": "MULTA_ATRASO_PAGAMENTO",
+                "chargeRate": "0.0100"
+            }
+        ]
+    },
+    "links": {
+        "self": "https://api.baninter.com/open-banking/loans/v1/contracts/okangw8q-m4ma-tb08-rcem-tftbc8j4pk8j"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-08-15T06:00:00Z"
+    }
+}
