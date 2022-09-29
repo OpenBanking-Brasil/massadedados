@@ -1,0 +1,22 @@
+{
+    "data": {
+        "loggedUser": {
+            "document": {
+                "identification": "80908253036",
+                "rel": "CPF"
+            }
+        },
+        "businessEntity": {
+            "document": {
+                "identification": "74899188000198",
+                "rel": "CNPJ"
+            }
+        },
+        "permissions": [
+            "CUSTOMERS_BUSINESS_IDENTIFICATIONS_READ",
+            "CUSTOMERS_BUSINESS_ADITTIONALINFO_READ",
+            "RESOURCES_READ"
+        ],
+        "expirationDateTime": "2023-08-30T09:00:00Z"
+    }
+}
