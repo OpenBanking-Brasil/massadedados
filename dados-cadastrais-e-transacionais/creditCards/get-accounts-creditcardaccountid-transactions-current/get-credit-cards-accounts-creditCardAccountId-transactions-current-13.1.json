@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "transactionId": "b6b7fbb0-19af-47ca-9125-40e0109a0660",
+            "identificationNumber": "1250",
+            "transactionName": "RESTANTE DA FATURA ANTERIOR",
+            "billId": "f0daad72-2061-45de-a38c-46b9d4f57abf",
+            "creditDebitType": "CREDITO",
+            "transactionType": "PAGAMENTO",
+            "paymentType": "A_VISTA",
+            "feeType": "SMS",
+            "otherCreditsType": "CREDITO_ROTATIVO",
+            "chargeIdentificator": "PARCELA_1",
+            "chargeNumber": 1,
+            "brazilianAmount": {
+                "amount": "2368.4870",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "2368.4870",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-09-10",
+            "billPostDate": "2022-09-10",
+            "payeeMCC": 5940
+        }
+    ],
+    "links": {
+        "self": "https://opendata.api.bb.com.br/open-banking/credit-cards-accounts/v1/accounts/5hrt1685-3f03-3c4e-b00a-6r8e14r8e6z0/transactions-current"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-09-15T209:22:00Z"
+    }
+}

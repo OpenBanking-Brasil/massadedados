@@ -1,0 +1,19 @@
+{
+  "data": {
+    "typeNumberOfInstalments": "SEM_PRAZO_TOTAL",
+    "totalNumberOfInstalments": 2,
+    "typeContractRemaining": "SEM_PRAZO_REMANESCENTE",
+    "contractRemainingNumber": 0,
+    "paidInstalments": 2,
+    "dueInstalments": 0,
+    "pastDueInstalments": 0
+  },
+  "links": {
+    "self": "https://opendata.api.bb.com.br/open-banking/invoice-financings/v1/contracts/9ec8fbe4-09e4-305d-bf8c-cdae1c298183/scheduled-instalments"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-09-15T209:22:00Z"
+  }
+}

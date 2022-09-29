@@ -1,0 +1,54 @@
+{
+  "data": {
+    "contractNumber": "165151",
+    "ipocCode": "000000000401205830916165151",
+    "productName": "Abrir um negócio",
+    "productType": "FINANCIAMENTOS",
+    "productSubType": "AQUISICAO_BENS_VEICULOS_AUTOMOTORES",
+    "contractDate": "2021-10-01",
+    "contractAmount": "120000.0000",
+    "currency": "BRL",
+    "dueDate": "2024-08-01",
+    "instalmentPeriodicity": "MENSAL",
+    "firstInstalmentDueDate": "2021-11-01",
+    "CET": "0.0400",
+    "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
+    "interestRates": [
+      {
+        "taxType": "EFETIVA",
+        "interestRateType": "SIMPLES",
+        "taxPeriodicity": "AM",
+        "calculation": "30/360",
+        "referentialRateIndexerType": "POS_FIXADO",
+        "referentialRateIndexerSubType": "OUTRAS_TAXAS_POS_FIXADAS",
+        "referentialRateIndexerAdditionalInfo": "BB POS TAX",
+        "preFixedRate": "0.0000",
+        "postFixedRate": "0.0400"
+      }
+    ],
+    "contractedFees": [
+      {
+        "feeName": "Taxa de administração",
+        "feeCode": "ADMINISTRACAO",
+        "feeChargeType": "UNICA",
+        "feeCharge": "MAXIMO",
+        "feeAmount":" 110.9900",
+        "feeRate": "0.0000"
+      }
+    ],
+    "contractedFinanceCharges": [
+      {
+        "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
+        "chargeRate": "0.0250"
+      }
+    ]
+  },
+  "links": {
+    "self": "https://opendata.api.bb.com.br/open-banking/financings/v1/contracts/94c393aa-82e8-367a-bb3d-3c23c3ccea9c"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-09-15T209:22:00Z"
+  }
+} 

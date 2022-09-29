@@ -1,0 +1,62 @@
+{
+  "data": [
+    {
+      "updateDateTime": "2022-09-15T209:22:00Z",
+      "personalId": "a6441a8e-d8d3-11eb-b8bc-0242ac130003",
+      "brandName": "Banco do Brasil S.A",
+      "civilName": "Tânia Maitê Dias",
+      "birthDate": "1976-10-09",
+      "maritalStatusCode": "VIUVO",
+      "sex": "FEMININO",
+      "companiesCnpj": [
+        "00000000000191"
+      ],
+      "documents": {
+        "cpfNumber": "84054560075"
+      },
+      "hasBrazilianNationality": true,
+      "contacts": {
+        "postalAddresses": [
+          {
+            "isMain": true,
+            "address": "Rua São Luís, 496",
+            "districtName": "Parque das Mansões",
+            "townName": "Imperatriz",
+            "ibgeTownCode": "2105302",
+            "countrySubDivision": "MA",
+            "postCode": "65917714",
+            "country": "Brasil",
+            "countryCode": "BRA",
+            "geographicCoordinates": {
+              "latitude": "-5.5206",
+              "longitude": "-47.4718"
+            }
+          }
+        ],
+        "phones": [
+          {
+            "isMain": true,
+            "type": "MOVEL",
+            "countryCallingCode": "55",
+            "areaCode": "44",
+            "number": "39884102"
+          }
+        ],
+        "emails": [
+          {
+            "isMain": true,
+            "email": "tania.dias@email.com"
+          }
+        ]
+      }
+    }
+  ],
+  "links": {
+    "self": "https://opendata.api.bb.com.br/open-banking/customers/v1/personal/identifications"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-09-15T209:22:00Z"
+  }
+}

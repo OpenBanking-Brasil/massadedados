@@ -1,0 +1,53 @@
+{
+    "data": {
+        "contractNumber": "648900003",
+        "ipocCode": "00000000010120583091600043095834511113",
+        "productName": "AD",
+        "productType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "productSubType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "contractDate": "2015-02-01",
+        "contractAmount": "25000.0000",
+        "currency": "BRL",
+        "dueDate": "2015-12-01",
+        "instalmentPeriodicity": "MENSAL",
+        "firstInstalmentDueDate": "2015-03-01",
+        "CET": "0.0097",
+        "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
+        "interestRates": [
+            {
+                "taxType": "EFETIVA",
+                "interestRateType": "SIMPLES",
+                "taxPeriodicity": "AA",
+                "calculation": "30/365",
+                "referentialRateIndexerType": "PRE_FIXADO",
+                "referentialRateIndexerSubType": "PRE_FIXADO",
+                "preFixedRate": "0.0097",
+                "postFixedRate": "0.0000"
+            }
+        ],
+        "contractedFees": [
+            {
+                "feeName": "Taxa de Adesão",
+                "feeCode": "ADESAO",
+                "feeChargeType": "UNICA",
+                "feeCharge": "FIXO",
+                "feeAmount": "780.0000",
+                "feeRate": "0.0000"
+            }
+        ],
+        "contractedFinanceCharges": [
+            {
+                "chargeType": "MULTA_ATRASO_PAGAMENTO",
+                "chargeRate": "0.0700"
+            }
+        ]
+    },
+    "links": {
+        "self": "https://opendata.api.bb.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/375c0320-e155-355b-882f-3f82d6c11291"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-09-15T209:22:00Z"
+    }
+}
