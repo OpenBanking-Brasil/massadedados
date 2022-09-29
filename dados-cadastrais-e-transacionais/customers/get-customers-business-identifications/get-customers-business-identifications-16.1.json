@@ -1,0 +1,99 @@
+{
+  "data": [
+    {
+      "updateDateTime": "2022-09-02T09:00:00Z",
+      "businessId": "10a4bc66-5742-4b11-8129-e51f229f8926",
+      "brandName": "Banco Bradesco S.A",
+      "companyName": "Natali Joalheria Ltda",
+      "tradeName": "Natali Joalheria",
+      "incorporationDate": "2005-02-01T00:00:00Z",
+      "cnpjNumber": "37091138000153",
+      "companiesCnpj": [
+        37091138000153
+      ],
+      "parties": [
+        {
+          "personType": "PESSOA_NATURAL",
+          "type": "ADMINISTRADOR",
+          "civilName": "Natali Gael Campos",
+          "companyName": "Natali Joalheria Ltda",
+          "tradeName": "Natali Joalheria",
+          "startDate": "2021-05-10T08:30:00Z",
+          "shareholding": "0.80",
+          "documentType": "CPF",
+          "documentNumber": "37799610166",
+          "documentCountry": "BRA",
+          "documentIssueDate": "2015-04-01"
+        },
+        {
+          "personType": "PESSOA_NATURAL",
+          "type": "SOCIO",
+          "civilName": "Ricardo Otávio Leonardo Souza",
+          "companyName": "Ricardo Otávio Ltda",
+          "tradeName": "Ricardo Otávio",
+          "startDate": "2021-05-09T08:30:00Z",
+          "shareholding": "0.10",
+          "documentType": "CPF",
+          "documentNumber": "17349285060",
+          "documentCountry": "BRA",
+          "documentIssueDate": "2015-04-01"
+        },
+        {
+          "personType": "PESSOA_NATURAL",
+          "type": "SOCIO",
+          "civilName": "Cecília Sara Larissa Lopes",
+          "companyName": "Cecília Sara Ltda",
+          "tradeName": "Cecília Sara",
+          "startDate": "2021-05-08T08:30:00Z",
+          "shareholding": "0.10",
+          "documentType": "CPF",
+          "documentNumber": "50498732746",
+          "documentCountry": "BRA",
+          "documentIssueDate": "2015-04-01"
+        }
+      ],
+      "contacts": {
+        "postalAddresses": [
+          {
+            "isMain": true,
+            "address": "Rua Francisco Rodrigues de Castro, 612",
+            "districtName": "Doutor Sílvio Botelho",
+            "townName": "Boa Vista",
+            "ibgeTownCode": "1400100",
+            "countrySubDivision": "RR",
+            "postCode": "69314540",
+            "country": "Brasil",
+            "countryCode": "BRA",
+            "geographicCoordinates": {
+              "latitude": "-2.8212314",
+              "longitude": "-60.6882633"
+            }
+          }
+        ],
+        "phones": [
+          {
+            "isMain": true,
+            "type": "FIXO",
+            "countryCallingCode": "55",
+            "areaCode": "95",
+            "number": "34888919"
+          }
+        ],
+        "emails": [
+          {
+            "isMain": true,
+            "email": "natali-joalheiria@email.com"
+          }
+        ]
+      }
+    }
+  ],
+  "links": {
+    "self": "https://api.bradesco.com/bradesco/open-banking/customers/v1/business/identifications"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-09-02T09:00:00Z"
+  }
+}

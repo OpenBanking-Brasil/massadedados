@@ -1,0 +1,56 @@
+{
+  "data": {
+    "contractNumber": "989898456",
+    "ipocCode": "6074694823709113854816418",
+    "productName": "Direitos Creditórios Descontados",
+    "productType": "DIREITOS_CREDITORIOS_DESCONTADOS",
+    "productSubType": "OUTROS_DIREITOS_CREDITORIOS_DESCONTADOS",
+    "contractDate": "2021-06-01",
+    "disbursementDate": [
+      "2021-06-01"
+    ],
+    "contractAmount": "320000.0000",
+    "currency": "BRL",
+    "dueDate": "2023-06-01",
+    "instalmentPeriodicity": "SEMESTRAL",
+    "firstInstalmentDueDate": "2021-12-01",
+    "CET": "0.0900",
+    "amortizationScheduled": "SAM",
+    "interestRates": [
+      {
+        "taxType": "EFETIVA",
+        "interestRateType": "COMPOSTO",
+        "taxPeriodicity": "AA",
+        "calculation": "30/365",
+        "referentialRateIndexerType": "INDICES_PRECOS",
+        "referentialRateIndexerSubType": "IGPM",
+        "preFixedRate": "0.0000",
+        "postFixedRate": "0.0690"
+      }
+    ],
+    "contractedFees": [
+      {
+        "feeName": "Taxa de cadastro",
+        "feeCode": "CADASTRO",
+        "feeChargeType": "UNICA",
+        "feeCharge": "FIXO",
+        "feeAmount": "150.0000",
+        "feeRate": "0.0000"
+      }
+    ],
+    "contractedFinanceCharges": [
+      {
+        "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
+        "chargeRate": "0.0210"
+      }
+    ]
+  },
+  "links": {
+    "self": "https://api.bradesco.com/bradesco/open-banking/invoice-financings/v1/contracts/2ec8fbe4-09e4-305d-bf8c-cdae1c298183"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-09-02T09:00:00Z"
+  }
+}
