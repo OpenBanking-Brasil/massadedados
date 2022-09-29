@@ -1,0 +1,23 @@
+{
+  "data": {
+    "paidInstalments": 0,
+    "contractOutstandingBalance": "342230.0000",
+    "releases": [
+      {
+        "isOverParcelPayment": false,
+        "instalmentId": "bdb90d7c-10a4-351e-b62e-8435d531492c",
+        "paidDate": "2021-06-01",
+        "currency": "BRL",
+        "paidAmount": "0.0000"
+      }
+    ]
+  },
+  "links": {
+    "self": "https://api.bradesco.com/bradesco/open-banking/invoice-financings/v1/contracts/2ec8fbe4-09e4-305d-bf8c-cdae1c298183/payments"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-09-02T09:00:00Z"
+  }
+}

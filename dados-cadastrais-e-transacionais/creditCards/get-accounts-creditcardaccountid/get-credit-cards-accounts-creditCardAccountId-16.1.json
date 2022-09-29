@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "Mastercard Platinum",
+    "productType": "PLATINUM",
+    "creditCardNetwork": "MASTERCARD",
+    "paymentMethod": [
+      {
+        "identificationNumber": "5620",
+        "isMultipleCreditCard": false
+      }
+    ]
+  },
+  "links": {
+    "self": "https://api.bradesco.com/bradesco/open-banking/credit-cards-accounts/v1/accounts/n7i2bry1-b3nu-lm8o-m4rr-7g6i88n0aodx"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-09-02T09:00:00Z"
+  }
+}
