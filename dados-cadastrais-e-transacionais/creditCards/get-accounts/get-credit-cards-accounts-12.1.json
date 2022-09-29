@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "creditCardAccountId": "b22632a4-d8e4-11eb-b8bc-0242ac130003",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "name": "Platinum Mastercard",
+      "productType": "PLATINUM",
+      "creditCardNetwork": "MASTERCARD"
+    }
+  ],
+  "links": {
+    "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-09-09T09:56:00Z"
+  }
+}

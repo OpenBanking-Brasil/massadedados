@@ -1,0 +1,77 @@
+{
+    "data": {
+        "typeNumberOfInstalments": "MES",
+        "totalNumberOfInstalments": 4,
+        "typeContractRemaining": "MES",
+        "contractRemainingNumber": 0,
+        "paidInstalments": 4,
+        "dueInstalments": 0,
+        "pastDueInstalments": 0,
+        "balloonPayments": [
+            {
+                "dueDate": "2010-06-04",
+                "amount": {
+                    "amount": "500.0000",
+                    "currency": "BRL"
+                }
+            },
+            {
+                "dueDate": "2010-05-04",
+                "amount": {
+                    "amount": "500.0000",
+                    "currency": "BRL"
+                }
+            },
+            {
+                "dueDate": "2010-03-04",
+                "amount": {
+                    "amount": "500.0000",
+                    "currency": "BRL"
+                }
+            },
+            {
+                "dueDate": "2010-02-04",
+                "amount": {
+                    "amount": "500.0000",
+                    "currency": "BRL"
+                }
+            },
+            {
+                "dueDate": "2009-12-04",
+                "amount": {
+                    "amount": "500.0000",
+                    "currency": "BRL"
+                }
+            },
+            {
+                "dueDate": "2009-11-04",
+                "amount": {
+                    "amount": "500.0000",
+                    "currency": "BRL"
+                }
+            },
+            {
+                "dueDate": "2009-09-04",
+                "amount": {
+                    "amount": "500.0000",
+                    "currency": "BRL"
+                }
+            },
+            {
+                "dueDate": "2009-08-04",
+                "amount": {
+                    "amount": "500.0000",
+                    "currency": "BRL"
+                }
+            }
+        ]
+    },
+    "links": {
+        "self": "https://api.caixa.gov.br/open-banking/loans/v1/contracts/64efa400-db34-11eb-8d19-0242ac130003/scheduled-instalments"
+    },
+    "meta": {
+        "totalRecords": 8,
+        "totalPages": 1,
+        "requestDateTime": "2022-09-09T09:56:00Z"
+    }
+}

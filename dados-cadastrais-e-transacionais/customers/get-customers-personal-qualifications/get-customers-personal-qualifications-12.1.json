@@ -1,0 +1,31 @@
+{
+    "data": {
+        "updateDateTime": "2022-09-09T09:56:00Z",
+        "companyCnpj": "00360305000104",
+        "occupationCode": "CBO",
+        "occupationDescription": "Game designer",
+        "informedIncome": {
+            "frequency": "MENSAL",
+            "amount": {
+                "amount": "16752.64",
+                "currency": "BRL"
+            },
+            "date": "2021-12-20"
+        },
+        "informedPatrimony": {
+            "amount": {
+                "amount": "256200.26",
+                "currency": "BRL"
+            },
+            "year": 2021
+        }
+    },
+    "links": {
+        "self": "https://api.caixa.gov.br/open-banking/customers/v1/personal/qualifications"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-09-09T09:56:00Z"
+    }
+}
