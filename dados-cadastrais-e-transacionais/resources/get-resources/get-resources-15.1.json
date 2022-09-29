@@ -1,0 +1,17 @@
+{
+    "data": [
+        {
+            "resourceId": "1237ec58-41b9-4e78-b912-3d2e4cd8fdee",
+            "type": "FINANCING",
+            "status": "AVAILABLE"
+        }
+    ],
+    "links": {
+        "self": "https://api.sicredi.com.br/open-banking/resources/v1/resources"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-09-01T11:04:00Z"
+    }
+}
