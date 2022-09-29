@@ -20,8 +20,8 @@
                 "amount": "3943.0496",
                 "currency": "BRL"
             },
-            "transactionDate": "2020-09-01",
-            "billPostDate": "2020-09-01",
+            "transactionDate": "2022-09-01",
+            "billPostDate": "2022-09-01",
             "payeeMCC": 5940
         },
         {
@@ -44,8 +44,8 @@
                 "amount": "1320.6417",
                 "currency": "BRL"
             },
-            "transactionDate": "2020-07-20",
-            "billPostDate": "2020-07-20",
+            "transactionDate": "2022-07-20",
+            "billPostDate": "2022-07-20",
             "payeeMCC": 5940
         }
     ],
