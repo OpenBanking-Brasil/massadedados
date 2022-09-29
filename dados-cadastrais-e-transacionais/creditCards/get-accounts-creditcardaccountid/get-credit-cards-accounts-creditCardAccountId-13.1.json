@@ -1,0 +1,19 @@
+{
+  "data": {
+    "name": "Diners Club Empresarial",
+    "productType": "EMPRESARIAL",
+    "creditCardNetwork": "DINERS_CLUB",
+    "paymentMethod": {
+      "identificationNumber": "1250",
+      "isMultipleCreditCard": true
+    }
+  },
+  "links": {
+    "self": "https://opendata.api.bb.com.br/open-banking/credit-cards-accounts/v1/accounts/5hrt1685-3f03-3c4e-b00a-6r8e14r8e6z0"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-09-15T209:22:00Z"
+  }
+}

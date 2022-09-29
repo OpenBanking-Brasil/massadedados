@@ -1,0 +1,53 @@
+{
+    "data": [
+        {
+            "contractId": "c13daaa1-a83a-36f1-9f50-0e546eb3dc49",
+            "brandName": "Banco do Brasil S.A",
+            "companyCnpj": "00000000000191",
+            "productType": "EMPRESTIMOS",
+            "productSubType": "MICROCREDITO_PRODUTIVO_ORIENTADO",
+            "ipocCode": "0000000002122058309163215012"
+        },
+        {
+            "contractId": "d13daaa1-a83a-36f1-9f50-0e546eb3dc49",
+            "brandName": "Banco do Brasil S.A",
+            "companyCnpj": "00000000000191",
+            "productType": "EMPRESTIMOS",
+            "productSubType": "MICROCREDITO_PRODUTIVO_ORIENTADO",
+            "ipocCode": "0000000002122058309163215011"
+        },
+        {
+            "contractId": "e13daaa1-a83a-36f1-9f50-0e546eb3dc49",
+            "brandName": "Banco do Brasil S.A",
+            "companyCnpj": "00000000000191",
+            "productType": "EMPRESTIMOS",
+            "productSubType": "MICROCREDITO_PRODUTIVO_ORIENTADO",
+            "ipocCode": "0000000002122058309163215010"
+        },
+        {
+            "contractId": "f13daaa1-a83a-36f1-9f50-0e546eb3dc49",
+            "brandName": "Banco do Brasil S.A",
+            "companyCnpj": "00000000000191",
+            "productType": "EMPRESTIMOS",
+            "productSubType": "CAPITAL_GIRO_PRAZO_VENCIMENTO_SUPERIOR_365_DIAS",
+            "ipocCode": "0000000002162058309163215009"
+        },
+        {
+            "contractId": "g13daaa1-a83a-36f1-9f50-0e546eb3dc49",
+            "brandName": "Banco do Brasil S.A",
+            "companyCnpj": "00000000000191",
+            "productType": "EMPRESTIMOS",
+            "productSubType": "CAPITAL_GIRO_PRAZO_VENCIMENTO_SUPERIOR_365_DIAS",
+            "ipocCode": "0000000002162058309163215008"
+        }     
+    ],
+    "links": {
+        "self": "https://opendata.api.bb.com.br/open-banking/loans/v1/contracts"
+    },
+    "meta": {
+        "totalRecords": 5,
+        "totalPages": 1,
+        "requestDateTime": "2022-09-15T209:22:00Z"
+    }
+}
+
