@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "currency": "BRL",
+      "warrantyType": "PENHOR",
+      "warrantySubType": "OUTROS_BENS",
+      "warrantyAmount": "35000.0000"
+    }
+  ],
+  "links": {
+    "first": "https://opendata.api.bb.com.br/open-banking/invoice-financings/v1/contracts/3ec8fbe4-09e4-305d-bf8c-cdae1c298183/warranties?page=1&page-size=1",
+    "next": "https://opendata.api.bb.com.br/open-banking/invoice-financings/v1/contracts/3ec8fbe4-09e4-305d-bf8c-cdae1c298183/warranties?page=3&page-size=1",
+    "self": "https://opendata.api.bb.com.br/open-banking/invoice-financings/v1/contracts/3ec8fbe4-09e4-305d-bf8c-cdae1c298183/warranties?page=2&page-size=1",
+    "prev": "https://opendata.api.bb.com.br/open-banking/invoice-financings/v1/contracts/3ec8fbe4-09e4-305d-bf8c-cdae1c298183/warranties?page=1&page-size=1",
+    "last": "https://opendata.api.bb.com.br/open-banking/invoice-financings/v1/contracts/3ec8fbe4-09e4-305d-bf8c-cdae1c298183/warranties?page=3&page-size=1"
+  },
+  "meta": {
+    "totalRecords": 3,
+    "totalPages": 3,
+    "requestDateTime": "2022-09-15T209:22:00Z"
+  }
+}

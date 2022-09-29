@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "currency": "BRL",
+      "warrantyType": "SEM_TIPO_GARANTIA",
+      "warrantySubType": "OUTROS",
+      "warrantyAmount": "0.0000"
+    }
+  ],
+  "links": {
+    "self": "https://opendata.api.bb.com.br/open-banking/invoice-financings/v1/contracts/9ec8fbe4-09e4-305d-bf8c-cdae1c298183/warranties"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-09-15T209:22:00Z"
+  }
+}

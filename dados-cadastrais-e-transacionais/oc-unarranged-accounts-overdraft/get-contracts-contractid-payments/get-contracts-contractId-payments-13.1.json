@@ -1,0 +1,59 @@
+{
+  "data": {
+    "paidInstalments": 1,
+    "contractOutstandingBalance": "65946.7500",
+    "releases": [
+      {
+        "paymentId": "c675b4b6-9af6-3f62-97a7-18649e98bff9",
+        "isOverParcelPayment": false,
+        "instalmentId": "46935efb-db72-3428-ac4a-f9c9b3a4284a",
+        "paidDate": "2022-01-03",
+        "currency": "BRL",
+        "paidAmount": "3839.4700",
+        "overParcel": {
+          "fees": [
+            {
+              "feeName": "Manutenção de Contrato",
+              "feeCode": "MANUTENCAO_CONTRATO",
+              "feeAmount": "130.7200"
+            },
+            {
+              "feeName": "Cadastro Sistema JOI",
+              "feeCode": "CADASTRO_JOI",
+              "feeAmount": "190.9000"
+            },
+            {
+              "feeName": "Manutenção de Conta",
+              "feeCode": "MANUTENCAO_CONTA",
+              "feeAmount": "420.6000"
+            },
+            {
+              "feeName": "Taxa IP RS 2021",
+              "feeCode": "TAXA_IPRS2021",
+              "feeAmount": "9.1000"
+            },
+            {
+              "feeName": "Taxa de Adesão",
+              "feeCode": "ADESAO",
+              "feeAmount": "230.0000"
+            }
+          ],
+          "charges": [
+            {
+              "chargeType": "MULTA_ATRASO_PAGAMENTO",
+              "chargeAmount": "100000.0474"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "links": {
+    "self": "https://opendata.api.bb.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/50232104-cd22-36aa-9a6f-725afdd55288/payments"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-09-15T209:22:00Z"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "typeNumberOfInstalments": "MES",
+    "totalNumberOfInstalments": 10,
+    "typeContractRemaining": "MES",
+    "contractRemainingNumber": 10,
+    "paidInstalments": 10,
+    "dueInstalments": 0,
+    "pastDueInstalments": 0
+  },
+  "links": {
+    "self": "https://opendata.api.bb.com.br/open-banking/unarranged-accounts-overdraft/v1/contracts/375c0320-e155-355b-882f-3f82d6c11291/scheduled-instalments"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-09-15T209:22:00Z"
+  }
+}

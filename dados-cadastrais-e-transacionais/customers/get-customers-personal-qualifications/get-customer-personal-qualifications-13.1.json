@@ -1,0 +1,31 @@
+{
+    "data": {
+        "updateDateTime": "2022-09-15T209:22:00Z",
+        "companyCnpj": "00000000000191",
+        "occupationCode": "CBO",
+        "occupationDescription": "Sócio proprietário de restaurante - conta própria",
+        "informedIncome": {
+            "frequency": "MENSAL",
+            "amount": {
+                "amount": "14570.9700",
+                "currency": "BRL"
+            },
+            "date": "2021-12-20"
+        },
+        "informedPatrimony": {
+            "amount": {
+                "amount": "407885.1400",
+                "currency": "BRL"
+            },
+            "year": 2021
+        }
+    },
+    "links": {
+        "self": "https://opendata.api.bb.com.br/open-banking/customers/v1/personal/qualifications"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-09-15T209:22:00Z"
+    }
+}

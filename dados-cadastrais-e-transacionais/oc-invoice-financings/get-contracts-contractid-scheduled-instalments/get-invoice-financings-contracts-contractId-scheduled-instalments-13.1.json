@@ -1,0 +1,27 @@
+{
+  "data": {
+    "typeNumberOfInstalments": "ANO",
+    "totalNumberOfInstalments": 1,
+    "typeContractRemaining": "ANO",
+    "contractRemainingNumber": 1,
+    "paidInstalments": 0,
+    "dueInstalments": 1,
+    "pastDueInstalments": 0,
+    "balloonPayments": [
+      {
+        "dueDate": "2021-11-28",
+        "amount": {
+          "amount": "15000.0000",
+          "currency": "BRL"
+        }
+      }
+    ]
+  },
+  "links": {
+    "self": "https://opendata.api.bb.com.br/open-banking/invoice-financings/v1/contracts/3ec8fbe4-09e4-305d-bf8c-cdae1c298183/scheduled-instalments"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-09-15T209:22:00Z"
+  }

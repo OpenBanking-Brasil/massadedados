@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "contractId": "3ec8fbe4-09e4-305d-bf8c-cdae1c298183",
+      "brandName": "Banco do Brasil S.A",
+      "companyCnpj": "00000000000191",
+      "productType": "DIREITOS_CREDITORIOS_DESCONTADOS",
+      "productSubType": "DESCONTO_CHEQUES",
+      "ipocCode": "00000000030220583091626161616164"
+    },
+    {
+      "contractId": "1ec8fbe4-09e4-305d-bf8c-cdae1c298183",
+      "brandName": "Banco do Brasil S.A",
+      "companyCnpj": "00000000000191",
+      "productType": "DIREITOS_CREDITORIOS_DESCONTADOS",
+      "productSubType": "OUTROS_TITULOS_DESCONTADOS",
+      "ipocCode": "00000000039920583091626161616163"
+    },
+    {
+      "contractId": "eec8fbe4-09e4-305d-bf8c-cdae1c298183",
+      "brandName": "Banco do Brasil S.A",
+      "companyCnpj": "00000000000191",
+      "productType": "DIREITOS_CREDITORIOS_DESCONTADOS",
+      "productSubType": "ANTECIPACAO_FATURA_CARTAO_CREDITO",
+      "ipocCode": "00000000030320583091626161616162"
+    },
+    {
+      "contractId": "4ec8fbe4-09e4-305d-bf8c-cdae1c298183",
+      "brandName": "Banco do Brasil S.A",
+      "companyCnpj": "00000000000191",
+      "productType": "DIREITOS_CREDITORIOS_DESCONTADOS",
+      "productSubType": "ANTECIPACAO_FATURA_CARTAO_CREDITO",
+      "ipocCode": "00000000030320583091626161616161"
+    },
+    {
+      "contractId": "9ec8fbe4-09e4-305d-bf8c-cdae1c298183",
+      "brandName": "Banco do Brasil S.A",
+      "companyCnpj": "00000000000191",
+      "productType": "DIREITOS_CREDITORIOS_DESCONTADOS",
+      "productSubType": "DESCONTO_CHEQUES",
+      "ipocCode": "00000000030220583091626161616160"
+    }
+  ],
+  "links": {
+    "self": "https://opendata.api.bb.com.br/open-banking/invoice-financings/v1/contracts"
+  },
+  "meta": {
+    "totalRecords": 5,
+    "totalPages": 1,
+    "requestDateTime": "2022-09-15T209:22:00Z"
+  }
+}
