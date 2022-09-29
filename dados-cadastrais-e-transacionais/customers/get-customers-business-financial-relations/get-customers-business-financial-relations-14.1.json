@@ -1,0 +1,37 @@
+{
+  "data": {
+    "updateDateTime": "2022-08-30T09:00:00Z",
+    "startDate": "1990-11-04T09:10:43Z",
+    "productsServicesType": [
+      "CONTA_DEPOSITO_A_VISTA",
+      "CARTAO_CREDITO",
+      "OPERACAO_CREDITO",
+      "SEGURO",
+      "CONTA_SALARIO"
+    ],
+    "procurators": [
+      {
+        "type": "REPRESENTANTE_LEGAL",
+        "cnpjCpfNumber": "80908253036",
+        "civilName": "Lais Nascimento"
+      }
+    ],
+    "accounts": [
+      {
+        "compeCode": "001",
+        "branchCode": "6501",
+        "number": "30025474",
+        "checkDigit": "9",
+        "type": "CONTA_DEPOSITO_A_VISTA"
+      }
+    ]
+  },
+  "links": {
+    "self": "https://openbanking.banrisul.com.br/open-banking/customers/v1/business/financial-relations"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-08-30T09:00:00Z"
+  }
+}

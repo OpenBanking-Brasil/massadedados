@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "creditLineLimitType": "LIMITE_CREDITO_TOTAL",
+            "consolidationType": "INDIVIDUAL",
+            "identificationNumber": "0126",
+            "lineName": "CREDITO_PARCELADO",
+            "isLimitFlexible": true,
+            "limitAmount": {
+                "amount": "11000.0000",
+                "currency": "BRL"
+            },
+            "usedAmount": {
+                "amount": "11000.0000",
+                "currency": "BRL"
+            },
+            "availableAmount": {
+                "amount": "0.0000",
+                "currency": "BRL"
+            }
+        }
+    ],
+    "links": {
+        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/limits"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-09-09T09:56:00Z"
+    }
+}

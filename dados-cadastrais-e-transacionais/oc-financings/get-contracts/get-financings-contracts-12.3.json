@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "contractId": "f675a994-7baf-3a5c-bdc5-8d556c36d02f",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "productType": "FINANCIAMENTOS",
+      "productSubType": "MICROCREDITOS",
+      "ipocCode": "00360305021212872886281368902687459801254" 
+    },
+    {
+      "contractId": "eefef475-c438-3cdf-aaef-1f210a5742bf",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "productType": "FINANCIAMENTOS",
+      "productSubType": "AQUISICAO_BENS_VEICULOS_AUTOMOTORES",
+      "ipocCode": "00360305040112872886281368902687450008741" 
+    }
+  ],
+  "links": {
+    "self": "https://api.caixa.gov.br/open-banking/financings/v1/contracts?page=1&page-size=2",
+    "first": "https://api.caixa.gov.br/open-banking/financings/v1/contracts?page=1&page-size=2",
+    "next": "https://api.caixa.gov.br/open-banking/financings/v1/contracts?page=2&page-size=2",
+    "last": "https://api.caixa.gov.br/open-banking/financings/v1/contracts?page=3&page-size=2"
+  },
+  "meta": {
+    "totalRecords": 5,
+    "totalPages": 3,
+    "requestDateTime": "2022-09-09T09:56:00Z"
+  }
+} 

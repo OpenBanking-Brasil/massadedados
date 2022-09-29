@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "updateDateTime": "2022-09-09T09:56:00Z",
+      "personalId": "fe4-101e-g58f11eg88-125755",
+      "brandName": "Caixa Econômica Federal",
+      "civilName": "Carla Maria Rios",
+      "birthDate": "1985-08-25",
+      "maritalStatusCode": "CASADO",
+      "sex": "OUTRO",
+      "companiesCnpj": [
+        "00360305000104"
+      ],
+      "documents": {
+        "cpfNumber": "28728862813",
+        "passport": {
+          "number": "35853965262471421343",
+          "country": "BRA",
+          "expirationDate": "2024-10-25",
+          "issueDate": "2014-10-25"
+        }
+      },
+      "otherDocuments": [
+        {
+          "type": "CNH",
+          "number": "92091345146",
+          "additionalInfo": "SSP/MA",
+          "expirationDate": "2027-10-06"
+        }
+      ],
+      "hasBrazilianNationality": true,
+      "filiation": [
+        {
+          "type": "MAE",
+          "civilName": "Maria Amélia Rios"
+        }
+      ],
+      "contacts": {
+        "postalAddresses": [
+          {
+            "isMain": true,
+            "address": "Rua São Luís, 496",
+            "districtName": "Parque das Mansões",
+            "townName": "Imperatriz",
+            "ibgeTownCode": "2105302",
+            "countrySubDivision": "MA",
+            "postCode": "65917714",
+            "country": "Brasil",
+            "countryCode": "BRA",
+            "geographicCoordinates": {
+              "latitude": "-5.5206",
+              "longitude": "-47.4718"
+            }
+          }
+        ],
+        "phones": [
+          {
+            "isMain": true,
+            "type": "MOVEL",
+            "countryCallingCode": "55",
+            "areaCode": "98",
+            "number": "985353341"
+          }
+        ],
+        "emails": [
+          {
+            "isMain": true,
+            "email": "carla_rios_2000@email.com"
+          }
+        ]
+      }
+    }
+  ],
+  "links": {
+    "self": "https://api.caixa.gov.br/open-banking/customers/v1/personal/identifications"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-09-09T09:56:00Z"
+  }
+}
