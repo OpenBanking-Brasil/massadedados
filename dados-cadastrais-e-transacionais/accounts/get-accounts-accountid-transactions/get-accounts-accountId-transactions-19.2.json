@@ -1,0 +1,66 @@
+{
+    "data": [
+        {
+            "transactionId": "99d50ede-d9b4-11eb-b8bc-0242ac130003",
+            "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
+            "creditDebitType": "DEBITO",
+            "transactionName": "PAGAMENTO",
+            "type": "OPERACAO_CREDITO",
+            "transactionAmount": {
+                "amount": "100000.0000",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-05-22",
+            "partieCnpjCpf": "72288270071",
+            "partiePersonType": "PESSOA_NATURAL",
+            "partieCompeCode": "104",
+            "partieBranchCode": "4104",
+            "partieNumber": "00027022",
+            "partieCheckDigit": "5"
+        },
+        {
+            "transactionId": "a0e1fa66-d9b4-11eb-b8bc-0242ac130003",
+            "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
+            "creditDebitType": "CREDITO",
+            "transactionName": "TRANSFERENCIA",
+            "type": "OPERACAO_CREDITO",
+            "transactionAmount": {
+                "amount": "750235.4216",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-05-24",
+            "partieCnpjCpf": "78570962000173",
+            "partiePersonType": "PESSOA_JURIDICA",
+            "partieCompeCode": "001",
+            "partieBranchCode": "1898",
+            "partieNumber": "30104",
+            "partieCheckDigit": "1"
+        },
+        {
+            "transactionId": "a5251928-d9b4-11eb-b8bc-0242ac130003",
+            "completedAuthorisedPaymentType": "LANCAMENTO_FUTURO",
+            "creditDebitType": "CREDITO",
+            "transactionName": "PIX",
+            "type": "PIX",
+            "transactionAmount": {
+                "amount": "200.5000",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-08-06",
+            "partieCnpjCpf": "70354576000132",
+            "partiePersonType": "PESSOA_JURIDICA",
+            "partieCompeCode": "001",
+            "partieBranchCode": "2066",
+            "partieNumber": "30105",
+            "partieCheckDigit": "2"
+        }
+    ],
+    "links": {
+        "self": "https://api.itau.com.br/open-banking/accounts/v1/accounts/c0075f16-d910-11eb-b8bc-0242ac130003/transactions"
+    },
+    "meta": {
+        "totalRecords": 3,
+        "totalPages": 1,
+        "requestDateTime": "2022-08-29T11:04:00Z"
+    }
+}

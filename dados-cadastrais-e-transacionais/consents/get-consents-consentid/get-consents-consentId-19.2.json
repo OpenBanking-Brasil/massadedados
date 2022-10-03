@@ -1,0 +1,28 @@
+{
+    "data": {
+        "consentId": "urn:santander:BSB0266587124",
+        "creationDateTime": "2022-09-01T11:04:00Z",
+        "status": "AUTHORISED",
+        "statusUpdateDateTime": "2022-09-01T11:04:00Z",
+        "permissions": [
+            "ACCOUNTS_READ",
+            "ACCOUNTS_TRANSACTIONS_READ",
+            "ACCOUNTS_BALANCES_READ",
+            "ACCOUNTS_OVERDRAFT_LIMITS_READ",
+            "UNARRANGED_ACCOUNTS_OVERDRAFT_READ",
+            "UNARRANGED_ACCOUNTS_OVERDRAFT_SCHEDULED_INSTALMENTS_READ",
+            "UNARRANGED_ACCOUNTS_OVERDRAFT_PAYMENTS_READ",
+            "UNARRANGED_ACCOUNTS_OVERDRAFT_WARRANTIES_READ",
+            "RESOURCES_READ"
+        ],
+        "expirationDateTime": "2023-09-01T11:04:00Z"
+    },
+    "links": {
+        "self": "https://super.api.santander.com.br/open-banking/consents/v1/consents/urn:santander:BSB0266587124"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-09-01T11:04:00Z"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "data": {
+        "consentId": "urn:bradesco:BDC3698863254",
+        "creationDateTime": "2022-09-02T10:04:00Z",
+        "status": "AUTHORISED",
+        "statusUpdateDateTime": "2022-09-02T10:04:00Z",
+        "permissions": [
+            "ACCOUNTS_READ",
+            "ACCOUNTS_TRANSACTIONS_READ",
+            "ACCOUNTS_BALANCES_READ",
+            "ACCOUNTS_OVERDRAFT_LIMITS_READ",
+            "RESOURCES_READ"
+        ],
+        "expirationDateTime": "2023-09-02T10:04:00Z"
+    },
+    "links": {
+        "self": "https://api.bradesco.com/bradesco/open-banking/consents/v1/consents/urn:bradesco:BDC3698863254"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-09-02T10:04:00Z"
+    }
+}
