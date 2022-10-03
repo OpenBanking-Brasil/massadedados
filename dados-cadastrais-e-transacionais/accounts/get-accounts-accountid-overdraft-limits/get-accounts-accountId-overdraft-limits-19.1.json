@@ -1,0 +1,24 @@
+{
+    "data": {
+        "overdraftContractedLimit": {
+            "amount": "0.0000",
+            "currency": "BRL"
+        },
+        "overdraftUsedLimit": {
+            "amount": "0.0000",
+            "currency": "BRL"
+        },
+        "unarrangedOverdraftAmount": {
+            "amount": "0.0000",
+            "currency": "BRL"
+        }
+    },
+    "links": {
+        "self": "https://api.itau/open-banking/accounts/v1/accounts/c0075f16-d910-11eb-b8bc-0242ac130003/overdraft-limits"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-08-29T11:04:00Z"
+    }
+}

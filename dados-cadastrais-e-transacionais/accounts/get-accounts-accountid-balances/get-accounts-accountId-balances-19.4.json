@@ -1,0 +1,24 @@
+{
+  "data": {
+    "availableAmount": {
+      "amount": "1.0000",
+      "currency": "BRL"
+    },
+    "blockedAmount": {
+      "amount": "0.0000",
+      "currency": "BRL"
+    },
+    "automaticallyInvestedAmount": {
+      "amount": "220000.9571",
+      "currency": "BRL"
+    }
+  },
+  "links": {
+    "self": "https://api.bradesco.com/bradesco/open-banking/accounts/v1/accounts/142fb6cc-d995-11eb-b8bc-0242ac130003/balances"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-09-02T10:04:00Z"
+  }
+}
