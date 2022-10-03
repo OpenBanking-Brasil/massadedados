@@ -1,0 +1,63 @@
+{
+    "data": [
+        {
+            "billId": "40ec23a0-b78f-46de-82cd-3535b46c55e1",
+            "dueDate": "2022-08-12",
+            "billTotalAmount": {
+                "amount": "6850.5643",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "1141.0172",
+                "currency": "BRL"
+            },
+            "isInstalment": false,
+            "payments": [
+                {
+                    "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
+                    "paymentDate": "2022-08-01",
+                    "paymentMode": "PIX",
+                    "amount": "6850.5643",
+                    "currency": "BRL"
+                }
+            ]
+        },
+        {
+            "billId": "359a9b72-201e-4966-a4c4-5cd77654614f",
+            "dueDate": "2022-07-12",
+            "billTotalAmount": {
+                "amount": "9393.0721",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "1408.9608",
+                "currency": "BRL"
+            },
+            "isInstalment": false,
+            "financeCharges": [
+                {
+                    "type": "JUROS_REMUNERATORIOS_ATRASO_PAGAMENTO_FATURA",
+                    "amount": "375.7228",
+                    "currency": "BRL"
+                }
+            ],
+            "payments": [
+                {
+                    "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
+                    "paymentDate": "2022-07-05",
+                    "paymentMode": "PIX",
+                    "amount": "9393.0721",
+                    "currency": "BRL"
+                }
+            ]
+        }
+    ],
+    "links": {
+        "self": "https://opendata.api.bb.com.br/open-banking/credit-cards-accounts/v1/accounts/1198c730-9941-4215-8925-95ea536214c3/bills"
+    },
+    "meta": {
+        "totalRecords": 2,
+        "totalPages": 1,
+        "requestDateTime": "2022-09-01T10:45:00Z"
+    }
+}
