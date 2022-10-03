@@ -20,8 +20,6 @@
             "checkDigit": "1",
             "accountId": "c0075f16-d910-11eb-b8bc-0242ac130003"
         }
-        
-
     ],
     "links": {
         "self": "https://api.itau/open-banking/accounts/v1/accounts"
@@ -29,6 +27,6 @@
     "meta": {
         "totalRecords": 2,
         "totalPages": 1,
-        "requestDateTime": "2022-08-29T11:04:00Z"
+        "requestDateTime": "2022-08-29T11:04:10Z"
     }
 }
