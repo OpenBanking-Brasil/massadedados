@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "transactionId": "46cb48e9-4e37-43e6-ac9e-ef4c53a8f4ac",
+            "identificationNumber": "7890",
+            "transactionName": "RESTANTE DO VALOR DA FATURA DE AGOSTO",
+            "billId": "4575c79e-8493-4d02-933b-26720a5229ee",
+            "creditDebitType": "CREDITO",
+            "transactionType": "PAGAMENTO",
+            "paymentType": "A_PRAZO",
+            "feeType": "ANUIDADE",
+            "otherCreditsType": "OUTROS",
+            "chargeIdentificator": "RESTANTE DO VALOR DA FATURA DE AGOSTO",
+            "chargeNumber": 1,
+            "brazilianAmount": {
+                "amount": "580.5600",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "580.5600",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-08-27",
+            "billPostDate": "2022-08-27",
+            "payeeMCC": 5912
+        }
+    ],
+    "links": {
+        "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/15c7e4c4-da93-11eb-8d19-0242ac130003/transactions-current"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-08-30T11:04:00Z"
+    }
+}
