@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "transactionId": "9e532fb7-c6c3-4b59-8ba7-6339d25db885",
+            "identificationNumber": "3783",
+            "transactionName": "Mercado Livre Brasil",
+            "billId": "359a9b72-201e-4966-a4c4-5cd77654614f",
+            "creditDebitType": "CREDITO",
+            "transactionType": "PAGAMENTO",
+            "paymentType": "A_VISTA",
+            "feeType": "ANUIDADE",
+            "otherCreditsType": "CREDITO_ROTATIVO",
+            "chargeIdentificator": "Mercado Livre Brasil",
+            "chargeNumber": 1,
+            "brazilianAmount": {
+                "amount": "9393.0721",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "9393.0721",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-06-22",
+            "billPostDate": "2022-06-23",
+            "payeeMCC": 7379
+        }
+    ],
+    "links": {
+        "self": "https://opendata.api.bb.com.br/open-banking/credit-cards-accounts/v1/accounts/1198c730-9941-4215-8925-95ea536214c3/bills/359a9b72-201e-4966-a4c4-5cd77654614f/transactions"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-09-01T10:45:00Z"
+    }
+}

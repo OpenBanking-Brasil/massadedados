@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "transactionId": "959bc3a2-15e7-49e4-ba44-663048cbb8ef",
+            "identificationNumber": "3783",
+            "transactionName": "Leroy Merlin",
+            "billId": "40ec23a0-b78f-46de-82cd-3535b46c55e1",
+            "creditDebitType": "CREDITO",
+            "transactionType": "PAGAMENTO",
+            "paymentType": "A_VISTA",
+            "feeType": "ANUIDADE",
+            "otherCreditsType": "CREDITO_ROTATIVO",
+            "chargeIdentificator": "Leroy Merlin",
+            "chargeNumber": 1,
+            "brazilianAmount": {
+                "amount": "6850.5643",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "6850.5643",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-07-16",
+            "billPostDate": "2022-07-17",
+            "payeeMCC": 7379
+        }
+    ],
+    "links": {
+        "self": "https://opendata.api.bb.com.br/open-banking/credit-cards-accounts/v1/accounts/1198c730-9941-4215-8925-95ea536214c3/bills/40ec23a0-b78f-46de-82cd-3535b46c55e1/transactions"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-09-01T10:45:00Z"
+    }
+}
