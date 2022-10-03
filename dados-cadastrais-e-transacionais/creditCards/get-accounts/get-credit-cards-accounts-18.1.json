@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "creditCardAccountId": "1198c730-9941-4215-8925-95ea536214c3",
+      "brandName": "Banco do Brasil S.A",
+      "companyCnpj": "00000000000191",
+      "name": "Ourocard Elo Grafite",
+      "productType": "GRAFITE",
+      "creditCardNetwork": "ELO"
+    }
+  ],
+  "links": {
+    "self": "https://opendata.api.bb.com.br/open-banking/credit-cards-accounts/v1/accounts"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-09-01T10:45:00Z"
+  }
+}

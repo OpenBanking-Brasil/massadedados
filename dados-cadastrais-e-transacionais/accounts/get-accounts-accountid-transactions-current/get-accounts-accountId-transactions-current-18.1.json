@@ -1,0 +1,30 @@
+{
+    "data": [
+        {
+            "transactionId": "6ba4751c-8276-4430-b738-c00779bab01f",
+            "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
+            "creditDebitType": "CREDITO",
+            "transactionName": "TRANSFSES676230105",
+            "type": "PIX",
+            "transactionAmount": {
+                "amount": "1000.0000",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-08-29",
+            "partieCnpjCpf": "79317559000108",
+            "partiePersonType": "PESSOA_JURIDICA",
+            "partieCompeCode": "001",
+            "partieBranchCode": "5429",
+            "partieNumber": "12583783",
+            "partieCheckDigit": "7"
+        }
+    ],
+    "links": {
+        "self": "https://opendata.api.bb.com.bropen-banking/accounts/v1/accounts/0e49a20b-33c3-42ac-876c-567c78673abd/transactions-current"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-09-01T10:45:00Z"
+    }
+}

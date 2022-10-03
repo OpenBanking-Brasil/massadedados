@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "brandName": "Banco do Brasil S.A",
+            "companyCnpj": "00000000000191",
+            "type": "CONTA_DEPOSITO_A_VISTA",
+            "compeCode": "001",
+            "branchCode": "5429",
+            "number": "12583783",
+            "checkDigit": "7",
+            "accountId": "0e49a20b-33c3-42ac-876c-567c78673abd"
+        }
+    ],
+    "links": {
+        "self": "https://opendata.api.bb.com.br/open-banking/accounts/v1/accounts"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-09-01T10:45:00Z"
+    }
+}
