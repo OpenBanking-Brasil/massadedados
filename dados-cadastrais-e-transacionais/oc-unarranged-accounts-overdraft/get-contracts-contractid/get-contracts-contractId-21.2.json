@@ -1,0 +1,69 @@
+{
+    "data": {
+        "contractNumber": "165485123000054644",
+        "ipocCode": "6070119001012430535100420707207523070000737",
+        "productName": "AD",
+        "productType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "productSubType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "contractDate": "2022-07-01",
+        "contractAmount": "18000.0000",
+        "currency": "BRL",
+        "dueDate": "2022-09-09",
+        "instalmentPeriodicity": "SEMANAL",
+        "firstInstalmentDueDate": "2022-07-08",
+        "CET": "0.0351",
+        "amortizationScheduled": "PRICE",
+        "interestRates": [
+            {
+                "taxType": "NOMINAL",
+                "interestRateType": "SIMPLES",
+                "taxPeriodicity": "AM",
+                "calculation": "30/365",
+                "referentialRateIndexerType": "PRE_FIXADO",
+                "referentialRateIndexerSubType": "PRE_FIXADO",
+                "preFixedRate": "0.0351",
+                "postFixedRate": "0.0000"
+            }
+        ],
+        "contractedFees": [
+            {
+                "feeName": "Manutenção de Contrato",
+                "feeCode": "MANUTENCAO_CONTRATO",
+                "feeChargeType": "POR_PARCELA",
+                "feeCharge": "MAXIMO",
+                "feeAmount": "158.0000",
+                "feeRate": "0.0000"
+            },
+            {
+                "feeName": "Taxa de Adesao",
+                "feeCode": "ADESAO",
+                "feeChargeType": "UNICA",
+                "feeCharge": "PERCENTUAL",
+                "feeAmount": "0.0000",
+                "feeRate": "0.3200"
+            },
+            {
+                "feeName": "Taxa de administração",
+                "feeCode": "ADMINISTRACAO",
+                "feeChargeType": "POR_PARCELA",
+                "feeCharge": "MAXIMO",
+                "feeAmount": "109.0000",
+                "feeRate": "0.0000"
+            }
+        ],
+        "contractedFinanceCharges": [
+            {
+                "chargeType": "MULTA_ATRASO_PAGAMENTO",
+                "chargeRate": "0.0810"
+            }
+        ]
+    },
+    "links": {
+        "self": "https://api.itau/open-banking/unarranged-accounts-overdraft/v1/contracts/33e70dfb-68a8-3ef1-9553-8481ae8c1bca"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-09-05T09:45:50Z"
+    }
+}

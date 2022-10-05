@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "resourceId": "f96b10e8-5aa7-32fe-b029-3ad7873fdef4",
+            "type": "FINANCING",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "09111ff2-b903-3552-bdba-44b48d626b78",
+            "type": "UNARRANGED_ACCOUNT_OVERDRAFT",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "33e70dfb-68a8-3ef1-9553-8481ae8c1bca",
+            "type": "UNARRANGED_ACCOUNT_OVERDRAFT",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "a41a1fdf-18f0-35ac-98ac-8a6b592b980a",
+            "type": "UNARRANGED_ACCOUNT_OVERDRAFT",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "27d1e77d-0284-36b6-8ace-2c597305dfb7",
+            "type": "UNARRANGED_ACCOUNT_OVERDRAFT",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "b57dff62-92aa-3fdc-9e2f-0cfb8db1ce41",
+            "type": "UNARRANGED_ACCOUNT_OVERDRAFT",
+            "status": "AVAILABLE"
+        }
+    ],
+    "links": {
+        "self": "https://api.itau/open-banking/resources/v1/resources"
+    },
+    "meta": {
+        "totalRecords": 6,
+        "totalPages": 1,
+        "requestDateTime": "2022-09-05T09:45:50Z"
+    }
+}
