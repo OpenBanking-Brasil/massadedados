@@ -1,0 +1,34 @@
+{
+    "data": {
+        "updateDateTime": "2022-09-06T15:24:00Z",
+        "economicActivities": [
+            {
+                "code": 7319004,
+                "isMain": true
+            }
+        ],
+        "informedRevenue": {
+            "frequency": "MENSAL",
+            "amount": {
+                "amount": "51700.5400",
+                "currency": "BRL"
+            },
+            "year": 2021
+        },
+        "informedPatrimony": {
+            "amount": {
+                "amount": "1756124.7500",
+                "currency": "BRL"
+            },
+            "date": "2021-12-31"
+        }
+    },
+    "links": {
+        "self": "https://openbanking.api.santander.com.br/open-banking/customers/v1/business/qualifications"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-09-06T15:24:00Z"
+    }
+}
