@@ -1,0 +1,30 @@
+{
+    "data": {
+        "consentId": "urn:itau:ITU48572287",
+        "creationDateTime": "2022-09-05T09:45:50Z",
+        "status": "AUTHORISED",
+        "statusUpdateDateTime": "2022-09-05T09:45:50Z",
+        "permissions": [
+            "CUSTOMERS_BUSINESS_IDENTIFICATIONS_READ",
+            "CUSTOMERS_BUSINESS_ADITTIONALINFO_READ",
+            "FINANCINGS_READ",
+            "FINANCINGS_SCHEDULED_INSTALMENTS_READ",
+            "FINANCINGS_PAYMENTS_READ",
+            "FINANCINGS_WARRANTIES_READ",
+            "UNARRANGED_ACCOUNTS_OVERDRAFT_READ",
+            "UNARRANGED_ACCOUNTS_OVERDRAFT_SCHEDULED_INSTALMENTS_READ",
+            "UNARRANGED_ACCOUNTS_OVERDRAFT_PAYMENTS_READ",
+            "UNARRANGED_ACCOUNTS_OVERDRAFT_WARRANTIES_READ",
+            "RESOURCES_READ"
+        ],
+        "expirationDateTime": "2023-09-05T09:45:50Z"
+    },
+    "links": {
+        "self": "https://api.itau/open-banking/consents/v1/consents/urn:itau:ITU48572287"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-09-05T09:45:50Z"
+    }
+}
