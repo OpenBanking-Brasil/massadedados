@@ -1,0 +1,52 @@
+{
+    "data": [
+      {
+        "contractId": "09111ff2-b903-3552-bdba-44b48d626b78",
+        "brandName": "Banco Itaú Unibanco S.A.",
+        "companyCnpj": "60701190000104",
+        "productType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "productSubType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "ipocCode": "607011900101243053510073250370278278352173"
+      },
+      {
+        "contractId": "33e70dfb-68a8-3ef1-9553-8481ae8c1bca",
+        "brandName": "Banco Itaú Unibanco S.A.",
+        "companyCnpj": "60701190000104",
+        "productType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "productSubType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "ipocCode": "6070119001012430535100420707207523070000737"
+      },
+      {
+        "contractId": "a41a1fdf-18f0-35ac-98ac-8a6b592b980a",
+        "brandName": "Banco Itaú Unibanco S.A.",
+        "companyCnpj": "60701190000104",
+        "productType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "productSubType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "ipocCode": "60701190010124305351051785711712185770820200"
+      },
+      {
+        "contractId": "27d1e77d-0284-36b6-8ace-2c597305dfb7",
+        "brandName": "Banco Itaú Unibanco S.A.",
+        "companyCnpj": "60701190000104",
+        "productType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "productSubType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "ipocCode": "607011900101243053510369723098239325347856484"
+      },
+      {
+        "contractId": "b57dff62-92aa-3fdc-9e2f-0cfb8db1ce41",
+        "brandName": "Banco Itaú Unibanco S.A.",
+        "companyCnpj": "60701190000104",
+        "productType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "productSubType": "ADIANTAMENTO_A_DEPOSITANTES",
+        "ipocCode": "6070119001012430535109439000001031321330000222"
+      }
+    ],
+    "links": {
+      "self": "https://api.itau/open-banking/unarranged-accounts-overdraft/v1/contracts"
+    },
+    "meta": {
+      "totalRecords": 5,
+      "totalPages": 1,
+      "requestDateTime": "2022-09-05T09:45:50Z"
+    }
+}
