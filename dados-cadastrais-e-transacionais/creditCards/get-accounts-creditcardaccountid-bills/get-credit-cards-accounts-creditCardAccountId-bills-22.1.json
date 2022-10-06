@@ -1,0 +1,41 @@
+{
+    "data": [
+        {
+            "billId": "63627e5f-4376-4fce-a094-458ed002c820",
+            "dueDate": "2022-08-05",
+            "billTotalAmount": {
+                "amount": "17075.4500",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "3622.0500",
+                "currency": "BRL"
+            },
+            "isInstalment": true,
+            "financeCharges": [
+                {
+                    "type": "SEM_ENCARGO",
+                    "amount": "0.0000",
+                    "currency": "BRL"
+                }
+            ],
+            "payments": [
+                {
+                    "valueType": "VALOR_PAGAMENTO_FATURA_REALIZADO",
+                    "paymentDate": "2022-08-05",
+                    "paymentMode": "BOLETO_BANCARIO",
+                    "amount": "17075.4500",
+                    "currency": "BRL"
+                }
+            ]
+        }
+    ],
+    "links": {
+        "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/27daf004-7a54-43e6-acef-3180d26c025d/bills"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-08-30T11:04:00Z"
+    }
+}
