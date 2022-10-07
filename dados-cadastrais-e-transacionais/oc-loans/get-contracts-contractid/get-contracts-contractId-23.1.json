@@ -1,0 +1,72 @@
+{
+    "data": {
+        "contractNumber": "2365110",
+        "ipocCode": "0041696802142606671292365110",
+        "productName": "Empréstimo com Conta Garantida",
+        "productType": "EMPRESTIMOS",
+        "productSubType": "CONTA_GARANTIDA",
+        "contractDate": "2021-08-27",
+        "disbursementDate": [
+            "2021-08-30"
+        ],
+        "contractAmount": "600000.0000",
+        "currency": "BRL",
+        "dueDate": "2023-09-27",
+        "instalmentPeriodicity": "MENSAL",
+        "firstInstalmentDueDate": "2021-09-27",
+        "CET": "0.0615",
+        "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
+        "interestRates": [
+            {
+                "taxType": "EFETIVA",
+                "interestRateType": "SIMPLES",
+                "taxPeriodicity": "AA",
+                "calculation": "30/360",
+                "referentialRateIndexerType": "PRE_FIXADO",
+                "referentialRateIndexerSubType": "PRE_FIXADO",
+                "preFixedRate": "0.0615",
+                "postFixedRate": "0.0000"
+            }
+        ],
+        "contractedFees": [
+            {
+                "feeName": "Taxa de cadastro",
+                "feeCode": "CADASTRO",
+                "feeChargeType": "UNICA",
+                "feeCharge": "FIXO",
+                "feeAmount": "150.0000",
+                "feeRate": "0.0000"
+            }
+        ],
+        "contractedFinanceCharges": [
+            {
+                "chargeType": "MULTA_ATRASO_PAGAMENTO",
+                "chargeAdditionalInfo": "Multa para casos de atraso de pagamento.",
+                "chargeRate": "0.0200"
+            },
+            {
+                "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
+                "chargeAdditionalInfo": "Juros remuneratórios por atraso.",
+                "chargeRate": "0.0310"
+            },
+            {
+                "chargeType": "JUROS_MORA_ATRASO",
+                "chargeAdditionalInfo": "Juros mora atraso.",
+                "chargeRate": "0.0150"
+            },
+            {
+                "chargeType": "IOF_POR_ATRASO",
+                "chargeAdditionalInfo": "IOF atraso.",
+                "chargeRate": "0.0256"
+            }
+        ]
+    },
+    "links": {
+        "self": "https://api.baninter.com/open-banking/loans/v1/contracts/84053fac-9c2c-3888-ac79-ff8bfc6f816b"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-09-06T10:00:00Z"
+    }
+}
