@@ -1,0 +1,28 @@
+{
+  "data": {
+    "typeNumberOfInstalments": "SEM_PRAZO_TOTAL",
+    "totalNumberOfInstalments": 4,
+    "typeContractRemaining": "SEM_PRAZO_REMANESCENTE",
+    "contractRemainingNumber": 0,
+    "paidInstalments": 4,
+    "dueInstalments": 0,
+    "pastDueInstalments": 0,
+    "balloonPayments": [
+      {
+        "dueDate": "2020-06-01",
+        "amount": {
+          "amount": "2000.0000",
+          "currency": "BRL"
+        }
+      }
+    ]
+  },
+  "links": {
+    "self": "https://api.caixa.gov.br/open-banking/financings/v1/contracts/cf7555e6-d629-33ce-8cf9-ee95e92241a0/scheduled-instalments"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-09-16T11:04:00Z"
+  }
+}
