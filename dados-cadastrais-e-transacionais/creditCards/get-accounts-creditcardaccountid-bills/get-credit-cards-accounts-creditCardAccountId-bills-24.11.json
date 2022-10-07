@@ -1,0 +1,11 @@
+{
+    "data": [],
+    "links": {
+        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/bills?page=1&page-size=25&fromDueDate=2016-10-01?toDueDate=2016-10-31"
+    },
+    "meta": {
+        "totalRecords": 0,
+        "totalPages": 1,
+        "requestDateTime": "2022-09-16T11:04:00Z"
+    }
+} 

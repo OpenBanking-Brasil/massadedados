@@ -1,0 +1,63 @@
+{
+  "data": {
+    "contractNumber": "15165163",
+    "ipocCode": "00360305040223086749715165163",
+    "productName": "Aquisição de Outros Bens",
+    "productType": "FINANCIAMENTOS",
+    "productSubType": "AQUISICAO_BENS_OUTROS_BENS",
+    "contractDate": "2019-04-01",
+    "settlementDate": "2020-04-01",
+    "contractAmount": "30000.0000",
+    "currency": "BRL",
+    "dueDate": "2020-04-01",
+    "instalmentPeriodicity": "BIMESTRAL",
+    "firstInstalmentDueDate": "2019-06-01",
+    "CET": "0.0610",
+    "amortizationScheduled": "SAM",
+    "interestRates": [
+      {
+        "taxType": "EFETIVA",
+        "interestRateType": "SIMPLES",
+        "taxPeriodicity": "AM",
+        "calculation": "30/360",
+        "referentialRateIndexerType": "POS_FIXADO",
+        "referentialRateIndexerSubType": "OUTRAS_TAXAS_POS_FIXADAS",
+        "referentialRateIndexerAdditionalInfo": "CAIXA INS",
+        "preFixedRate": "0.0000",
+        "postFixedRate": "0.0610"
+      }
+    ],
+    "contractedFees": [
+      {
+        "feeName": "Taxa de manutenção",
+        "feeCode": "MANUTENCAO",
+        "feeChargeType": "POR_PARCELA",
+        "feeCharge": "FIXO",
+        "feeAmount": "20.0000",
+        "feeRate": "0.0000"
+      }
+    ],
+    "contractedFinanceCharges": [
+      {
+        "chargeType": "MULTA_ATRASO_PAGAMENTO",
+        "chargeRate": "0.0360"
+      },
+      {
+        "chargeType": "JUROS_MORA_ATRASO",
+        "chargeRate": "0.0260"
+      },
+      {
+        "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
+        "chargeRate": "0.0250"
+      }
+    ]
+  },
+  "links": {
+    "self": "https://api.caixa.gov.br/open-banking/financings/v1/contracts/df7555e6-d629-33ce-8cf9-ee95e92241a0"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-09-16T11:04:00Z"
+  }
+}
