@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "transactionId": "299d7126-03bb-4fb6-ae9a-569ecb91c8b8",
+            "identificationNumber": "3697",
+            "transactionName": "PGTO",
+            "billId": "01d135a2-c54a-489d-ab25-377763b929c1",
+            "creditDebitType": "CREDITO",
+            "transactionType": "PAGAMENTO",
+            "paymentType": "A_VISTA",
+            "feeType": "ANUIDADE",
+            "otherCreditsType": "CREDITO_ROTATIVO",
+            "chargeIdentificator": "PARCELA_1",
+            "chargeNumber": 1,
+            "brazilianAmount": {
+                "amount": "699.9800",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "699.9800",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-07-09",
+            "billPostDate": "2022-07-09",
+            "payeeMCC": 5309
+        }
+    ],
+    "links": {
+        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/bills/01d135a2-c54a-489d-ab25-377763b929c1/transactions?page=1&page-size=2&transactionType=PAGAMENTO",
+        "first": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/bills/01d135a2-c54a-489d-ab25-377763b929c1/transactions?page=1&page-size=2&transactionType=PAGAMENTO",
+        "prev": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/bills/01d135a2-c54a-489d-ab25-377763b929c1/transactions?page=2&page-size=2&transactionType=PAGAMENTO",
+        "last": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/bills/01d135a2-c54a-489d-ab25-377763b929c1/transactions?page=3&page-size=2&transactionType=PAGAMENTO"
+    },
+    "meta": {
+        "totalRecords": 5,
+        "totalPages": 3,
+        "requestDateTime": "2022-09-16T11:04:00Z"
+    }
+}

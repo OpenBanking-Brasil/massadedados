@@ -1,0 +1,53 @@
+{
+  "data": {
+    "contractNumber": "15165165",
+    "ipocCode": "00360305090223086749715165165",
+    "productName": "Financiamento Imobiliario",
+    "productType": "FINANCIAMENTOS_IMOBILIARIOS",
+    "productSubType": "FINANCIAMENTO_HABITACIONAL_EXCETO_SFH",
+    "contractDate": "2021-08-01",
+    "contractAmount": "300000.0000",
+    "currency": "BRL",
+    "dueDate": "2031-09-01",
+    "instalmentPeriodicity": "MENSAL",
+    "firstInstalmentDueDate": "2021-09-01",
+    "CET": "0.0150",
+    "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
+    "interestRates": [
+      {
+        "taxType": "EFETIVA",
+        "interestRateType": "SIMPLES",
+        "taxPeriodicity": "AM",
+        "calculation": "30/360",
+        "referentialRateIndexerType": "PRE_FIXADO",
+        "referentialRateIndexerSubType": "PRE_FIXADO",
+        "preFixedRate": "0.0150",
+        "postFixedRate": "0.0000"
+      }
+    ],
+    "contractedFees": [
+      {
+        "feeName": "Taxa de administração",
+        "feeCode": "ADMINISTRACAO",
+        "feeChargeType": "UNICA",
+        "feeCharge": "MINIMO",
+        "feeAmount": "91.9900",
+        "feeRate": "0.0000"
+      }
+    ],
+    "contractedFinanceCharges": [
+      {
+        "chargeType": "MULTA_ATRASO_PAGAMENTO",
+        "chargeRate": "0.0250"
+      }
+    ]
+  },
+  "links": {
+    "self": "https://api.caixa.gov.br/open-banking/financings/v1/contracts/bf7555e6-d629-33ce-8cf9-ee95e92241a0"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-09-16T11:04:00Z"
+  }
+}

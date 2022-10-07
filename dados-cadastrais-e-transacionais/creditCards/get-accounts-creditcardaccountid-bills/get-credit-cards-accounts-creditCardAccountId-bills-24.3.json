@@ -1,0 +1,41 @@
+{
+    "data": [
+        {
+            "billId": "5446343d-5925-4bb2-b8a3-0c615b6ce5e8",
+            "dueDate": "2022-06-05",
+            "billTotalAmount": {
+                "amount": "6210.4800",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "62.1048",
+                "currency": "BRL"
+            },
+            "isInstalment": true,
+            "payments": [
+                {
+                    "valueType": "OUTRO_VALOR_PAGO_FATURA",
+                    "paymentDate": "2022-06-04",
+                    "paymentMode": "DEBITO_CONTA_CORRENTE",
+                    "amount": "4600.0000",
+                    "currency": "BRL"
+                },
+                {
+                    "valueType": "OUTRO_VALOR_PAGO_FATURA",
+                    "paymentDate": "2022-07-04",
+                    "paymentMode": "DEBITO_CONTA_CORRENTE",
+                    "amount": "1610.4800",
+                    "currency": "BRL"
+                }
+            ]
+        }
+    ],
+    "links": {
+        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/0cd8e31e-db2d-11eb-8d19-0242ac130003/bills?fromDueDate=2022-06-05&toDueDate=2022-06-05"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-09-16T11:04:00Z"
+    }
+}
