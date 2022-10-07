@@ -1,0 +1,26 @@
+{
+    "data": {
+        "loggedUser": {
+            "document": {
+                "identification": "24974145053",
+                "rel": "CPF"
+            }
+        },
+        "businessEntity": {
+            "document": {
+                "identification": "60667129000180",
+                "rel": "CNPJ"
+            }
+        },
+        "permissions": [
+            "CUSTOMERS_BUSINESS_IDENTIFICATIONS_READ",
+            "CUSTOMERS_BUSINESS_ADITTIONALINFO_READ",
+            "LOANS_READ",
+            "LOANS_SCHEDULED_INSTALMENTS_READ",
+            "LOANS_PAYMENTS_READ",
+            "LOANS_WARRANTIES_READ",
+            "RESOURCES_READ"
+        ],
+        "expirationDateTime": "2023-09-06T10:00:00Z"
+    }
+}
