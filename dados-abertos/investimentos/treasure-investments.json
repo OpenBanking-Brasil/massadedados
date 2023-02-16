@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "participant": {
+        "brand": "Investimento para Todos Banco do Brasil S.A",
+        "name": "Banco do Brasil S.A",
+        "cnpjNumber": "00000000000191",
+        "urlComplementaryList": "https://www.bb.com.br/companies"
+      },
+      "investmentType": "TESOURO_DIRETO",
+      "custodyFee": {
+        "prices": [
+          {
+            "interval": "1_FAIXA",
+            "value": "3.020300",
+            "operationRate": "2.500010"
+          },
+          {
+            "interval": "2_FAIXA",
+            "value": "0.000005",
+            "operationRate": "9.108000"
+          },
+          {
+            "interval": "3_FAIXA",
+            "value": "0.034300",
+            "operationRate": "0.000059"
+          },
+          {
+            "interval": "4_FAIXA",
+            "value": "1.246800",
+            "operationRate": "0.000000"
+          }
+        ],
+        "minimum": "0.000001",
+        "maximum": "9.989898"
+      },
+      "loadingRate": {
+        "prices": [
+          {
+            "interval": "1_FAIXA",
+            "value": "7.020300",
+            "operationRate": "0.700007"
+          },
+          {
+            "interval": "2_FAIXA",
+            "value": "0.030901",
+            "operationRate": "0.000000"
+          },
+          {
+            "interval": "3_FAIXA",
+            "value": "3.034300",
+            "operationRate": "0.300001"
+          },
+          {
+            "interval": "4_FAIXA",
+            "value": "0.246802",
+            "operationRate": "2.100113"
+          }
+        ],
+        "minimum": "2.0198010",
+        "maximum": "5.019800"
+      }
+    }
+  ],
+  "links": {
+    "self": "https://opendata.api.bb.com.br/open-banking/api/v1/resource",
+    "first": "https://opendata.api.bb.com.br/open-banking/api/v1/resource",
+    "prev": "https://opendata.api.bb.com.br/open-banking/api/v1/resource",
+    "next": "https://opendata.api.bb.com.br/open-banking/api/v1/resource",
+    "last": "https://opendata.api.bb.com.br/open-banking/api/v1/resource"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1
+  }
+}
