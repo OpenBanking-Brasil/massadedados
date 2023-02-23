@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "participant": {
+        "brand": "BANCO COOPERATIVO SICREDI S.A.",
+        "name": "BANCO COOPERATIVO SICREDI S.A.",
+        "cnpjNumber": "01181521000155",
+        "urlComplementaryList": "https://www.sicredi.com.br/companies"
+      },
+      "transactionType": "COMPRA",
+      "foreignCurrency": "BRL",
+      "deliveryForeignCurrency": "ESPECIE",
+      "rangeTransactionCategory": "3.000,01_10.000",
+      "targetAudience": "PESSOA_NATURAL",
+      "vetAmount": {
+        "prices": [
+          {
+            "interval": "1_FAIXA",
+            "value": "2.020308",
+            "operationRate": "3.500010"
+          },
+          {
+            "interval": "2_FAIXA",
+            "value": "0.000001",
+            "operationRate": "1.100001"
+          },
+          {
+            "interval": "3_FAIXA",
+            "value": "0.034399",
+            "operationRate": "0.300000"
+          },
+          {
+            "interval": "4_FAIXA",
+            "value": "2.246815",
+            "operationRate": "9.100001"
+          }
+        ],
+        "minimum": "3.010000",
+        "maximum": "8.300027"
+      }
+    }
+  ],
+  "links": {
+    "self": "https://api.sicredi.com.br/open-banking/api/v1/resource",
+    "first": "https://api.sicredi.com.br/open-banking/api/v1/resource",
+    "prev": "https://api.sicredi.com.br/open-banking/api/v1/resource",
+    "next": "https://api.sicredi.com.br/open-banking/api/v1/resource",
+    "last": "https://api.sicredi.com.br/open-banking/api/v1/resource"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1
+  }
+}
