@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "participant": {
+        "brand": "BANCO COOPERATIVO SICREDI S.A.",
+        "name": "BANCO COOPERATIVO SICREDI S.A.",
+        "cnpjNumber": "01181521000155",
+        "urlComplementaryList": "https://www.sicredi.com.br/companies"
+      },
+      "society": {
+        "name": "Previdencia Sicredi",
+        "cnpjNumber": "01181521000155"
+      },
+      "name": "Previdencia Sicredi 1",
+      "code": "0521",
+      "modality": "PENSAO_CONJUGE_VITALICIA",
+      "coverages": [
+        {
+          "type": "MORTE",
+          "attributes": {
+            "minValue": {
+              "amount": "3689.56",
+              "currency": "BRL"
+            },
+            "maxValue": {
+              "amount": "11008.05",
+              "currency": "BRL"
+            },
+            "indemnifiablePeriod": "FIM_CICLO_DETERMINADO",
+            "indemnifiableDeadline": 0,
+            "indemnityPaymentMethod": "SOB_FORMA_RENDA",
+            "gracePeriod": {
+              "amount": 6,
+              "unit": "MESES"
+            },
+            "excludedRisks": [
+              "OUTROS"
+            ],
+            "excludedRisksURL": "https://openinsurance.com.br/sicredi",
+            "profitModality": "FORMA_RENDA"
+          }
+        }
+      ],
+      "assistanceTypes": [
+        "ORIENTACAO_PSICOSSOCIAL_FAMILIAR",
+        "RESIDENCIAL"
+      ],
+      "additional": "SERVICOS_ASSISTENCIA_COMPLEMENTARES_GRATUITO",
+      "termsAndConditions": [
+        {
+          "susepProcessNumber": "21106.160394/0034-09",
+          "detail": "https://openinsurance.com.br/sicredi"
+        }
+      ],
+      "pmbacRemuneration": {
+        "interestRate": "5.017601",
+        "updateIndexes": [
+          "IGP_M"
+        ]
+      },
+      "premiumUpdateIndex": "IGPM",
+      "ageAdjustment": {
+        "criterias": [
+          "NAO_APLICAVEL"
+        ],
+        "frequency": 0
+      },
+      "financialRegimeContractType": "REPARTICAO_SIMPLES",
+      "reclaim": {
+        "table": [
+          {
+            "initialMonthRange": 1,
+            "finalMonthRange": 12,
+            "percentage": "1.000006"
+          }
+        ],
+        "gracePeriod": {
+          "amount": 6,
+          "unit": "MESES"
+        },
+        "differenciatedPercentage": "https://openinsurance.com.br/sicredi"
+      },
+      "otherGuaranteedValues": "BENEFICIO_PROLONGADO",
+      "contributionPayment": {
+        "contributionPaymentMethod": "DEBITO_CONTA",
+        "contributionPeriodicity": "MENSAL"
+      },
+      "minimumRequirement": {
+        "contractType": "INDIVIDUAL",
+        "contractingMinRequirement": "https://openinsurance.com.br/sicredi"
+      },
+      "targetAudience": "PESSOA_NATURAL"
+    }
+  ],
+  "links": {
+    "self": "https://api.sicredi.com.br/open-banking/api/v1/resource",
+    "first": "https://api.sicredi.com.br/open-banking/api/v1/resource",
+    "prev": "https://api.sicredi.com.br/open-banking/api/v1/resource",
+    "next": "https://api.sicredi.com.br/open-banking/api/v1/resource",
+    "last": "https://api.sicredi.com.br/open-banking/api/v1/resource"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1
+  }
+}

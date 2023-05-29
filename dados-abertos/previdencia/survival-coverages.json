@@ -1,0 +1,117 @@
+{
+  "data": [
+      {
+          "participant": {
+              "brand": "BANCO COOPERATIVO SICREDI S.A.",
+              "name": "BANCO COOPERATIVO SICREDI S.A.",
+              "cnpjNumber": "01181521000155",
+              "urlComplementaryList": "https://www.sicredi.com.br/companies"
+          },
+          "society": {
+              "name": "Previdencia Sicredi",
+              "cnpjNumber": "01181521000155"
+          },
+          "name": "Previdencia Sicredi 2",
+          "code": "2116",
+          "segment": "SEGURO_PESSOAS",
+          "modality": "CONTRIBUICAO_VARIAVEL",
+          "termsAndConditions": [
+              {
+                  "susepProcessNumber": "23567.211016/2023-29",
+                  "detail": "https://openinsurance.com.br/sicredi"
+              }
+          ],
+          "type": "PRSA",
+          "defferalPeriod": {
+              "interestRate": "3.190001",
+              "updateIndex": "INPC",
+              "otherMinimumPerformanceGarantees": "SELIC",
+              "reversalFinancialResults": "1.098505",
+              "minimumPremiums": [
+                  {
+                      "currency": "BRL",
+                      "periodicity": "UNICO",
+                      "amount": "19904.0049"
+                  }
+              ],
+              "premiumPaymentMethods": [
+                  "PIX"
+              ],
+              "permissionExtraordinaryContributions": false,
+              "permissionScheduledFinancialPayments": true,
+              "gracePeriod": {
+                  "redemption": 180,
+                  "betweenRedemptionRequests": 90,
+                  "portability": 60,
+                  "betweenPortabilityRequests": 80
+              },
+              "redemptionPaymentTerm": 15,
+              "portabilityPaymentTerm": 30,
+              "investmentFunds": [
+                  {
+                      "cnpjNumber": "01181521000155",
+                      "name": "Previdencia Sicredi",
+                      "maximumAdministrationFee": "0.110088",
+                      "typePerformanceFee": "DIRETAMENTE",
+                      "maximumPerformanceFee": "4.145670",
+                      "eligibilityRule": false,
+                      "minimumContributionAmount": "12.8964",
+                      "minimumMathematicalProvisionAmount": "12986.9432",
+                      "currency": "BRL"
+                  }
+              ]
+          },
+          "grantPeriodBenefit": {
+              "incomeModalities": [
+                  "PAGAMENTO_UNICO"
+              ],
+              "biometricTable": [
+                  "BR_EMSSB_MALE_FEMALE"
+              ],
+              "interestRate": "2.119806",
+              "updateIndex": "INPC",
+              "reversalFinancialResults": "8.345610",
+              "investmentFunds": [
+                  {
+                      "cnpjNumber": "01181521000155",
+                      "name": "Previdencia Sicredi",
+                      "maximumAdministrationFee": "2.315801",
+                      "typePerformanceFee": "INDIRETAMENTE",
+                      "maximumPerformanceFee": "9.000005",
+                      "eligibilityRule": true,
+                      "minimumContributionAmount": "9045.27",
+                      "minimumMathematicalProvisionAmount": "12789.1267",
+                      "currency": "BRL"
+                  }
+              ]
+          },
+          "costs": {
+              "loadingAntecipated": {
+                  "minValue": "0.456783",
+                  "maxValue": "0.000643"
+              },
+              "loadingLate": {
+                  "minValue": "1.990223",
+                  "maxValue": "7.108200"
+              }
+          },
+          "minimumRequirement": {
+              "contractType": "INDIVIDUAL",
+              "participantQualified": true,
+              "contractingMinRequirement": "https://openinsurance.com.br/sicredi"
+          },
+          "targetAudience": "PESSOA_NATURAL"
+      }
+  ],
+  "links": {
+      "self": "https://api.sicredi.com.br/open-banking/api/v1/resource",
+      "first": "https://api.sicredi.com.br/open-banking/api/v1/resource",
+      "prev": "https://api.sicredi.com.br/open-banking/api/v1/resource",
+      "next": "https://api.sicredi.com.br/open-banking/api/v1/resource",
+      "last": "https://api.sicredi.com.br/open-banking/api/v1/resource"
+  },
+  "meta": {
+      "totalRecords": 1,
+      "totalPages": 1
+  }
+}
