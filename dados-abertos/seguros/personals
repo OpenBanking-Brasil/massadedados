@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "participant": {
+        "brand": "Banco Bradesco S.A.",
+        "name": "Banco Bradesco S.A.",
+        "cnpjNumber": "60746948000112",
+        "urlComplementaryList": "https://bradesco.com.br/companies"
+      },
+      "society": {
+        "name": "Seguros Bradesco",
+        "cnpjNumber": "60746948000112",
+        "brand": "Bradesco Seguros Pessoal"
+      },
+      "name": "Seguros para todos Bradesco",
+      "code": "1603",
+      "category": "TRADICIONAL",
+      "modality": "VIDA",
+      "coverages": [
+        {
+          "type": "MORTE",
+          "attributes": {
+            "indemnityPaymentMethods": [
+              "PAGAMENTO_CAPITAL_SEGURADO_VALOR_MONETARIO"
+            ],
+            "indemnityPaymentFrequencies": [
+              "DIARIA_OU_PARCELA"
+            ],
+            "minValue": {
+              "amount": "2359.67",
+              "currency": "BRL"
+            },
+            "maxValue": {
+              "amount": "23789.1245",
+              "currency": "BRL"
+            },
+            "indemnifiablePeriods": [
+              "PAGAMENTO_TOTAL_SEGURO"
+            ],
+            "maximumQtyIndemnifiableInstallments": 99,
+            "gracePeriod": {
+              "amount": 30,
+              "unit": "DIAS",
+              "details": "Levar todas as documentações que forem solicitada."
+            },
+            "differentiatedGracePeriod": "3 MESES",
+            "deductibleDays": 30,
+            "differentiatedDeductibleDays": 18,
+            "deductible": {
+              "amount": "2394.0945",
+              "currency": "BRL"
+            },
+            "differentiatedDeductible": {
+              "amount": "79420.01",
+              "currency": "BRL"
+            },
+            "excludedRisks": [
+              "ATO_ILICITO_DOLOSO_PRATICADO_SEGURADO"
+            ],
+            "excludedRisksURL": "https://openinsurance.com.br/bradescoseguros",
+            "allowApartPurchase": false
+          }
+        }
+      ],
+      "assistanceTypes": [
+        "FUNERAL"
+      ],
+      "additionals": [
+        "SERVICOS_ASSISTENCIA_COMPLEMENTARES_GRATUITO"
+      ],
+      "termsAndConditions": [
+        {
+          "susepProcessNumber": "05039.131021/2023-30",
+          "detail": "https://openinsurance.com.br/bradescoseguros"
+        }
+      ],
+      "globalCapital": true,
+      "terms": [
+        "TEMPORARIA_PRAZO_FIXO"
+      ],
+      "pmbacRemuneration": {
+        "interestRate": "2.021000",
+        "updateIndexes": [
+          "INPC"
+        ]
+      },
+      "benefitRecalculation": {
+        "criterias": [
+          "VARIAVEL_ACORDO_CRITERIO_ESPECIFICO"
+        ],
+        "updateIndexes": [
+          "IPCA"
+        ]
+      },
+      "ageAdjustment": {
+        "criterias": [
+          "CADA_PERIODO_ANOS"
+        ],
+        "frequency": 5
+      },
+      "financialRegimes": [
+        "CAPITALIZACAO"
+      ],
+      "reclaim": {
+        "table": [
+          {
+            "initialMonthRange": 1,
+            "finalMonthRange": 12,
+            "percentage": "9.855945"
+          }
+        ],
+        "gracePeriod": {
+          "amount": 15,
+          "unit": "DIAS"
+        }
+      },
+      "otherGuaranteedValues": [
+        "BENEFICIO_PROLONGADO"
+      ],
+      "allowPortability": true,
+      "portabilityGraceTime": {
+        "amount": 30,
+        "unit": "DIAS"
+      },
+      "indemnityPaymentMethods": [
+        "UNICO"
+      ],
+      "indemnityPaymentIncomes": [
+        "VITALICIA_REVERSIVEL"
+      ],
+      "premiumPayment": {
+        "paymentMethods": [
+          "DEBITO_CONTA_CORRENTE"
+        ],
+        "frequencies": [
+          "MENSAL"
+        ]
+      },
+      "minimumRequirement": {
+        "contractType": "INDIVIDUAL",
+        "contractingMinRequirement": "https://openinsurance.com.br/bradescoseguros"
+      },
+      "targetAudience": "PESSOA_NATURAL_JURIDICA"
+    }
+  ],
+  "links": {
+    "self": "https://api.bradesco.com/open-banking/api/v1/resource",
+    "first": "https://api.bradesco.com/open-banking/api/v1/resource",
+    "prev": "https://api.bradesco.com/open-banking/api/v1/resource",
+    "next": "https://api.bradesco.com/open-banking/api/v1/resource",
+    "last": "https://api.bradesco.com/open-banking/api/v1/resource"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1
+  }
+}
