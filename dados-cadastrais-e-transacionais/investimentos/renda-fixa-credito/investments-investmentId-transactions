@@ -32,10 +32,7 @@
     }
   ],
   "links": {
-    "self": "https://api.sicredi.com.br/open-banking/api/v1/resource",
-    "first":"https://api.sicredi.com.br/open-banking/api/v1/resource",
-    "prev": "https://api.sicredi.com.br/open-banking/api/v1/resource",
-    "next": "https://api.sicredi.com.br/open-banking/api/v1/resource"
+    "self": "https://api.sicredi.com.br/open-banking/api/v1/resource"
   },
   "meta": {
     "requestDateTime": "2023-05-15T08:30:00Z"

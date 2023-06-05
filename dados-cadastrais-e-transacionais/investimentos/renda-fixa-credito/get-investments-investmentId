@@ -29,10 +29,7 @@
     "gracePeriodDate": "2023-02-16"
   },
   "links": {
-    "self": "https://api.sicredi.com.br/open-banking/api/v1/resource",
-    "first":"https://api.sicredi.com.br/open-banking/api/v1/resource",
-    "prev": "https://api.sicredi.com.br/open-banking/api/v1/resource",
-    "next": "https://api.sicredi.com.br/open-banking/api/v1/resource"
+    "self": "https://api.sicredi.com.br/open-banking/api/v1/resource"
   },
   "meta": {
     "totalRecords": 1,
