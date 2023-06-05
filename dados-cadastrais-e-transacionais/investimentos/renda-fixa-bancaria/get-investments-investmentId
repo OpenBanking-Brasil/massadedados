@@ -1,0 +1,33 @@
+{
+  "data": {
+    "issuerInstitutionCnpjNumber": "00000000000191",
+    "isinCode": "BBBRT4CTF001",
+    "investmentType": "CDB",
+    "remuneration": {
+      "preFixedRate": "0.300000",
+      "postFixedIndexerPercentage": "1.100000",
+      "rateType": "LINEAR",
+      "ratePeriodicity": "MENSAL",
+      "calculation": "DIAS_CORRIDOS",
+      "indexer": "CDI",
+      "indexerAdditionalInfo": "Dólar"
+    },
+    "issueUnitPrice": {
+      "amount": "1000.000004",
+      "currency": "BRL"
+    },
+    "dueDate": "2023-02-15",
+    "issueDate": "2023-02-16",
+    "clearingCode": "CDB421GPXXX",
+    "purchaseDate": "2023-02-15",
+    "gracePeriodDate": "2023-02-16"
+  },
+  "links": {
+    "self": "https://opendata.api.bb.com.br/open-banking/api/v1/resource"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2023-05-21T08:30:00Z"
+  }
+}
