@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "brandName": "Sicredi",
+      "companyCnpj": "26294016000148",
+      "investmentType": "CRI",
+      "investmentId": "22276676-8264-452c-bf4d-cd3bf17b057f"
+    }
+  ],
+  "links": {
+    "self": "https://api.sicredi.com.br/open-banking/api/v1/resource"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2023-05-21T08:30:00Z"
+  }
+}

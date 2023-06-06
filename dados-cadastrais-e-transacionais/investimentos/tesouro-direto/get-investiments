@@ -1,0 +1,17 @@
+{
+  "data": [
+    {
+      "brandName": "Banco do Brasil S.A",
+      "companyCnpj": "00000000000191",
+      "investmentId": "a5ae963d-1156-4911-ad66-59cd079afaab"
+    }
+  ],
+  "links": {
+    "self": "https://opendata.api.bb.com.br/open-banking/api/v1/resource"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2023-06-02T10:30:00Z"
+  }
+}

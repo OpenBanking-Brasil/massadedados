@@ -1,0 +1,39 @@
+{
+  "data": {
+    "issuerInstitutionCnpjNumber": "26294016000148",
+    "isinCode": "SCRST4CTF001",
+    "investmentType": "CRI",
+    "debtorCnpjNumber": "23721692000162",
+    "debtorName": "Lucas Silva",
+    "taxExemptProduct": "SIM",
+    "remuneration": {
+      "preFixedRate": "0.350000",
+      "postFixedIndexerPercentage": "1.160000",
+      "rateType": "LINEAR",
+      "ratePeriodicity": "MENSAL",
+      "calculation": "DIAS_CORRIDOS",
+      "indexer": "CDI",
+      "indexerAdditionalInfo": "Dólar"
+    },
+    "issueUnitPrice": {
+      "amount": "1000.000004",
+      "currency": "BRL"
+    },
+    "issueDate": "2023-02-16",
+    "dueDate": "2023-02-15",
+    "voucherPaymentIndicator": "SIM",
+    "voucherPaymentPeriodicity": "MENSAL",
+    "voucherPaymentPeriodicityAdditionalInfo": "Diária",
+    "clearingCode": "CDB421GPXXX",
+    "purchaseDate": "2023-02-15",
+    "gracePeriodDate": "2023-02-16"
+  },
+  "links": {
+    "self": "https://api.sicredi.com.br/open-banking/api/v1/resource"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2023-05-21T08:30:00Z"
+  }
+}

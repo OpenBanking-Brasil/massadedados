@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "transactionId": "91eb8ad6-20df-4b26-9625-b6b40d9cd5aa",
+      "type": "ENTRADA",
+      "transactionType": "AMORTIZACAO",
+      "transactionTypeAdditionalInfo": "NA",
+      "transactionConversionDate": "2023-01-07",
+      "transactionQuotaPrice": {
+        "amount": "1000.04",
+        "currency": "BRL"
+      },
+      "transactionQuotaQuantity": "42.25",
+      "transactionValue": {
+        "amount": "1000.04",
+        "currency": "BRL"
+      },
+      "transactionGrossValue": {
+        "amount": "1000.04",
+        "currency": "BRL"
+      },
+      "incomeTax": {
+        "amount": "1000.04",
+        "currency": "BRL"
+      },
+      "financialTransactionTax": {
+        "amount": "1000.04",
+        "currency": "BRL"
+      },
+      "transactionExitFee": {
+        "amount": "1000.04",
+        "currency": "BRL"
+      },
+      "transactionNetValue": {
+        "amount": "1000.04",
+        "currency": "BRL"
+      }
+    }
+  ],
+  "links": {
+    "self": "https://api.caixa.gov.br/open-banking/api/v1/resource"
+  },
+  "meta": {
+    "requestDateTime": "2023-05-15T08:48:00Z"
+  }
+}

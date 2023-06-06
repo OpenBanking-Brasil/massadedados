@@ -1,0 +1,52 @@
+{
+  "data": {
+    "referenceDateTime": "2023-05-21T17:32:00Z",
+    "updatedUnitPrice": {
+      "amount": "1000.0400",
+      "currency": "BRL"
+    },
+    "quantity": "15.00",
+    "grossAmount": {
+      "amount": "1000.04",
+      "currency": "BRL"
+    },
+    "netAmount": {
+      "amount": "1000.04",
+      "currency": "BRL"
+    },
+    "incomeTax": {
+      "amount": "1000.04",
+      "currency": "BRL"
+    },
+    "financialTransactionTax": {
+      "amount": "1000.04",
+      "currency": "BRL"
+    },
+    "blockedBalance": {
+      "amount": "1000.04",
+      "currency": "BRL"
+    },
+    "purchaseUnitPrice": {
+      "amount": "1000.000004",
+      "currency": "BRL"
+    },
+    "preFixedRate": "0.300000",
+    "postFixedIndexerPercentage": "1.100000",
+    "fine": {
+      "amount": "1000.04",
+      "currency": "BRL"
+    },
+    "latePayment": {
+      "amount": "1000.04",
+      "currency": "BRL"
+    }
+  },
+  "links": {
+    "self": "https://api.sicredi.com.br/open-banking/api/v1/resource"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2023-06-01T09:45:00Z"
+  }
+}
