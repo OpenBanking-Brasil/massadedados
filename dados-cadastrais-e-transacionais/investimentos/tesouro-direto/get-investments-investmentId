@@ -1,0 +1,27 @@
+{
+  "data": {
+    "isinCode": "BRBB54CYF002",
+    "productName": "TESOURODIRETO",
+    "remuneration": {
+      "indexer": "CDI",
+      "indexerAdditionalInfo": "Dólar",
+      "preFixedRate": "0.300000",
+      "postFixedIndexerPercentage": "1.100000",
+      "ratePeriodicity": "DIARIO",
+      "calculation": "DIAS_CORRIDOS"
+    },
+    "dueDate": "2018-02-15",
+    "purchaseDate": "2018-02-15",
+    "voucherPaymentIndicator": "SIM",
+    "voucherPaymentPeriodicity": "MENSAL",
+    "voucherPaymentPeriodicityAdditionalInfo": "Diária"
+  },
+  "links": {
+    "self": "https://opendata.api.bb.com.br/open-banking/api/v1/resource"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2023-05-21T08:30:00Z"
+  }
+}
