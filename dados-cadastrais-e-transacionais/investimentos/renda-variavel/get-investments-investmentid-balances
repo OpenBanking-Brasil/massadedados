@@ -1,8 +1,8 @@
 {
   "data": [
     {
-      "referenceDate": "2023-01-07",
-      "priceFactor": "125.0105",
+      "referenceDate": "2023-06-01",
+      "priceFactor": "137.0105",
       "grossAmount": {
         "amount": "1000.00",
         "currency": "BRL"
@@ -24,6 +24,6 @@
   "meta": {
     "totalRecords": 1,
     "totalPages": 1,
-    "requestDateTime": "2023-05-21T08:30:00Z"
+    "requestDateTime": "2023-06-05T08:50:00Z"
   }
 }
