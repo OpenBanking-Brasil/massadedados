@@ -1,0 +1,38 @@
+{
+  "data": {
+    "referenceDate": "2023-01-07",
+    "grossAmount": {
+      "amount": "2500.54",
+      "currency": "BRL"
+    },
+    "netAmount": {
+      "amount": "1050.66",
+      "currency": "BRL"
+    },
+    "incomeTaxProvision": {
+      "amount": "45.02",
+      "currency": "BRL"
+    },
+    "financialTransactionTaxProvision": {
+      "amount": "40.02",
+      "currency": "BRL"
+    },
+    "blockedAmount": {
+      "amount": "1000.04",
+      "currency": "BRL"
+    },
+    "quotaQuantity": "42.25",
+    "quotaGrossPriceValue": {
+      "amount": "1000.04",
+      "currency": "BRL"
+    }
+  },
+  "links": {
+    "self": "https://api.caixa.gov.br/open-banking/api/v1/resource"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2023-05-15T08:48:00Z"
+  }
+}

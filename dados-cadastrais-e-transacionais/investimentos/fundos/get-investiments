@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "anbimaCategory": "RENDA_FIXA",
+      "anbimaClass": "Renda Fixa",
+      "anbimaSubclass": "Longo Prazo",
+      "investmentId": "c0826748-22b6-432d-9b3f-a7e5a876e0bf"
+    }
+  ],
+  "links": {
+    "self": "https://api.caixa.gov.br/open-banking/api/v1/resource"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2023-05-15T08:48:00Z"
+  }
+}
