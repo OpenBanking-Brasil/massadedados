@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "eventSequenceNumber": "540965445930",
+      "eventType": "1",
+      "eventDate": "2023-05-29T011:35:00Z",
+      "dueDate": "2025-05-30",
+      "localCurrencyOperationTax": {
+        "amount": "9.1",
+        "currency": "BRL"
+      },
+      "localCurrencyOperationValue": {
+        "amount": "28420.04",
+        "currency": "BRL"
+      },
+      "foreignOperationValue": {
+        "amount": "203944.03",
+        "currency": "EUR"
+      },
+      "operationOutstandingBalance": {
+        "amount": "17003.38",
+        "currency": "EUR"
+      },
+      "vetAmount": {
+        "amount": "403744.97",
+        "currency": "BRL"
+      },
+      "localCurrencyAdvancePercentage": "7.98876",
+      "deliveryForeignCurrency": "CONTA_DEPOSITO",
+      "operationCategoryCode": "10786",
+      "relationshipCode": "90",
+      "foreignPartieName": "Marlene Menezes",
+      "foreignPartieCountryCode": "RO"
+    }
+  ],
+  "links": {
+    "self": "https://openbanking.api.santander.com.br/open-banking/resource/v1/resource",
+    "first": "https://openbanking.api.santander.com.br/open-banking/resource/v1/resource",
+    "prev": "https://openbanking.api.santander.com.br/open-banking/resource/v1/resource",
+    "next": "https://openbanking.api.santander.com.br/open-banking/resource/v1/resource",
+    "last": "https://openbanking.api.santander.com.br/open-banking/resource/v1/resource"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1
+  }
+}
