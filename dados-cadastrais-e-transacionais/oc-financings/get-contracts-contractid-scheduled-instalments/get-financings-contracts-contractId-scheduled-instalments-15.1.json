@@ -1,0 +1,19 @@
+{
+  "data": {
+    "typeNumberOfInstalments": "DIA",
+    "totalNumberOfInstalments": 730,
+    "typeContractRemaining": "DIA ",
+    "contractRemainingNumber": 726,
+    "paidInstalments": 3,
+    "dueInstalments": 726,
+    "pastDueInstalments": 1
+  },
+  "links": {
+    "self": "https://api.sicredi.com.br/open-banking/financings/v1/contracts/014f9a93-26a3-3899-b483-31370f7f394c/scheduled-instalments"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-09-01T11:04:00Z"
+  }
+}

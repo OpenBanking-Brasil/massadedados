@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "brandName": "Banco Cooperativo Sicredi S.A. – Bansicredi",
+            "companyCnpj": "01181521000155",
+            "type": "CONTA_DEPOSITO_A_VISTA",
+            "compeCode": "748",
+            "branchCode": "0718",
+            "number": "58795644",
+            "checkDigit": "2",
+            "accountId": "5859f81e-d461-11eb-b8bc-0242ac130003"
+        },
+        {
+            "brandName": "Banco Cooperativo Sicredi S.A. – Bansicredi",
+            "companyCnpj": "01181521000155",
+            "type": "CONTA_POUPANCA",
+            "compeCode": "748",
+            "branchCode": "0718",
+            "number": "54888745",
+            "checkDigit": "3",
+            "accountId": "6ffc471a-d461-11eb-b8bc-0242ac130003"
+        }
+    ],
+    "links": {
+        "self": "https://api.sicredi.com.br/open-banking/accounts/v1/accounts"
+    },
+    "meta": {
+        "totalRecords": 2,
+        "totalPages": 1,
+        "requestDateTime": "2022-08-22T14:40:00Z"
+    }
+}

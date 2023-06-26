@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "participant": {
+        "brand": "Capitalização para Todos Banco do Brasil S.A",
+        "name": "Banco do Brasil S.A",
+        "cnpjNumber": "00000000000191",
+        "urlComplementaryList": "https://www.bb.com.br/companies"
+      },
+      "society": {
+        "name": "Banco do Brasil S.A",
+        "cnpjNumber": "00000000000191"
+      },
+      "name": "Ourocap Pagamento Mensal 48",
+      "code": "05234589_cap",
+      "modality": "TRADICIONAL",
+      "costType": "PAGAMENTO_MENSAL",
+      "termsAndConditions": {
+        "susepProcessNumber": "43578.367327/2451-00",
+        "detail": "http://www.susep.gov.br/textos/circ321.pdf"
+      },
+      "quotas": [
+        {
+          "quota": 48,
+          "capitalizationQuota": "0.000075",
+          "raffleQuota": "0.000050",
+          "chargingQuota": "0.000100"
+        }
+      ],
+      "validity": 48,
+      "serieSize": 189996,
+      "capitalizationPeriod": {
+        "interestRate": "2.811140",
+        "updateIndex": "TR",
+        "contributionAmount": [
+          {
+            "periodicity": "MENSAL",
+            "minimum": "1.0000",
+            "maximum": "9.2300",
+            "allowedValue": 5099
+          }
+        ],
+        "earlyRedemptions": [
+          {
+            "quota": 3,
+            "rate": "0.000050"
+          }
+        ],
+        "redemptionPercentageEndTerm": "0.100000",
+        "gracePeriodRedemption": 48
+      },
+      "latePayment": {
+        "suspensionMonths": 2,
+        "periodExtensionOption": false
+      },
+      "contributionPayment": {
+        "paymentMethod": "DEBITO_CONTA_CORRENTE",
+        "updateIndex": "TR"
+      },
+      "redemptionPercentageEndTerm": "2.019800",
+      "finalRedemptionRate": "5.000001",
+      "draws": [
+        {
+          "timeInterval": "MENSAL",
+          "quantity": 50,
+          "prizeMultiplier": 5,
+          "earlySettlementRaffle": false,
+          "mandatoryContemplation": false,
+          "ruleDescription": "Sorteio realizado na primeira quarta-feira de cada mês e a 1 prêmio anual de 10.000 vezes o valor da última contribuição mensal em sorteio realizado na primeira quarta-feira de dezembro.",
+          "minimumContemplationProbability": "3.014540"
+        }
+      ],
+      "additionalInfo": "https://www.bb.com.br/capitalizacao/pdf/condicoes_gerais",
+      "targetAudience": "PESSOA_NATURAL"
+    }
+  ],
+  "links": {
+    "self": "https://opendata.api.bb.com.br/open-banking/api/v1/resource",
+    "first": "https://opendata.api.bb.com.br/open-banking/api/v1/resource",
+    "prev": "https://opendata.api.bb.com.br/open-banking/api/v1/resource",
+    "next": "https://opendata.api.bb.com.br/open-banking/api/v1/resource",
+    "last": "https://opendata.api.bb.com.br/open-banking/api/v1/resource"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1
+  }
+}

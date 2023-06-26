@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "contractId": "83d4007e-7125-36a3-95da-30f1956caecc",
+      "brandName": "Caixa Econômica Federal",
+      "companyCnpj": "00360305000104",
+      "productType": "FINANCIAMENTOS_IMOBILIARIOS",
+      "productSubType": "FINANCIAMENTO_HABITACIONAL_SFH",
+      "ipocCode": "00360305090112872886281368996510210008745" 
+    }
+  ],
+  "links": {
+    "self": "https://api.caixa.gov.br/open-banking/financings/v1/contracts?page=3&page-size=1",
+    "first": "https://api.caixa.gov.br/open-banking/financings/v1/contracts?page=1&page-size=1",
+    "prev": "https://api.caixa.gov.br/open-banking/financings/v1/contracts?page=2&page-size=1",
+    "next": "https://api.caixa.gov.br/open-banking/financings/v1/contracts?page=4&page-size=1",
+    "last": "https://api.caixa.gov.br/open-banking/financings/v1/contracts?page=5&page-size=1"
+  },
+  "meta": {
+    "totalRecords": 5,
+    "totalPages": 5,
+    "requestDateTime": "2022-09-09T09:56:00Z"
+  }
+} 

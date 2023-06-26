@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "currency": "BRL",
+            "warrantyType": "GARANTIA_FIDEJUSSORIA",
+            "warrantySubType": "PESSOA_JURIDICA",
+            "warrantyAmount": "120000.0000"
+        }
+    ],
+    "links": {
+        "self": "https://api.baninter.com/open-banking/loans/v1/contracts/aa82d663-09a8-3e8e-869f-b172505d4bfd/warranties"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-09-06T10:00:00Z"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "transactionId": "c3763b88-d4ea-11eb-b8bc-0242ac130003",
+            "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
+            "creditDebitType": "DEBITO",
+            "transactionName": "BOLETS77228524",
+            "type": "BOLETO",
+            "transactionAmount": {
+                "amount": 400.0000,
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-01-18",
+            "partieCnpjCpf": "75057221000103",
+            "partiePersonType": "PESSOA_JURIDICA"
+        },
+        {
+            "transactionId": "c77565ce-d4ea-11eb-b8bc-0242ac130003",
+            "completedAuthorisedPaymentType": "LANCAMENTO_FUTURO",
+            "creditDebitType": "DEBITO",
+            "transactionName": "BOLETS13222138",
+            "type": "BOLETO",
+            "amount": 658.6500,
+            "transactionCurrency": "BRL",
+            "transactionDate": "2022-01-18",
+            "partieCnpjCpf": "64828145000168",
+            "partiePersonType": "PESSOA_JURIDICA"
+        }
+    ],
+    "links": {
+        "self": "https://api.sicredi.com.br/open-banking/accounts/v1/accounts/5859f81e-d461-11eb-b8bc-0242ac130003/transactions"
+    },
+    "meta": {
+        "totalRecords": 2,
+        "totalPages": 1,
+        "requestDateTime": "2022-08-15T09:40:00Z"
+    }
+}

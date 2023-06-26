@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "referenceDate": "2023-06-01",
+      "priceFactor": "137.0105",
+      "grossAmount": {
+        "amount": "1000.00",
+        "currency": "BRL"
+      },
+      "blockedBalance": {
+        "amount": "1000.00",
+        "currency": "BRL"
+      },
+      "quantity": "1000.00000004",
+      "closingPrice": {
+        "amount": "1000.0004",
+        "currency": "BRL"
+      }
+    }
+  ],
+  "links": {
+    "self": "https://api.itau.com.br/open-banking/api/v1/resource"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2023-06-05T08:50:00Z"
+  }
+}

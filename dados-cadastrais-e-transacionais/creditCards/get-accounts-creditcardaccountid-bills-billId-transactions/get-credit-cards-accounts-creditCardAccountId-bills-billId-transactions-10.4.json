@@ -1,0 +1,223 @@
+{
+    "data": [
+        {
+            "transactionId": "41fe8812-8c2b-3937-93a1-1f3966aea777",
+            "identificationNumber": "0896",
+            "transactionName": "Supermercado Bom Retiro",
+            "billId": "43a15d0f-b61e-36ea-9dc7-9b2377db9dd5",
+            "creditDebitType": "CREDITO",
+            "transactionType": "PAGAMENTO",
+            "paymentType": "A_VISTA",
+            "feeType": "SMS",
+            "chargeIdentificator": "PARCELA_1",
+            "chargeNumber": 1,
+            "brazilianAmount": {
+                "amount": "62.6289",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "62.6289",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-08-24",
+            "billPostDate": "2022-08-24",
+            "payeeMCC": 5411
+        },
+        {
+            "transactionId": "f23b168e-3403-30f9-ad1e-1dd24e16122c",
+            "identificationNumber": "0896",
+            "transactionName": "Supermercado Bom Retiro",
+            "billId": "43a15d0f-b61e-36ea-9dc7-9b2377db9dd5",
+            "creditDebitType": "CREDITO",
+            "transactionType": "OPERACOES_CREDITO_CONTRATADAS_CARTAO",
+            "paymentType": "A_PRAZO",
+            "feeType": "SMS",
+            "otherCreditsType": "CREDITO_ROTATIVO",
+            "chargeIdentificator": "PARCELA_2",
+            "chargeNumber": 2,
+            "brazilianAmount": {
+                "amount": "156.9812",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "156.9812",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-08-24",
+            "billPostDate": "2022-08-24",
+            "payeeMCC": 5411
+        },
+        {
+            "transactionId": "8312e42f-9bde-347f-bfd0-f0665e3d5c1b",
+            "identificationNumber": "0896",
+            "transactionName": "Tarifa para manutenção de crédito",
+            "billId": "43a15d0f-b61e-36ea-9dc7-9b2377db9dd5",
+            "creditDebitType": "CREDITO",
+            "transactionType": "TARIFA",
+            "paymentType": "A_VISTA",
+            "feeType": "OUTRA",
+            "feeTypeAdditionalInfo": "Taxa de manutenção para faturas inadimplentes",
+            "chargeIdentificator": "PARCELA_UNICA",
+            "chargeNumber": 1,
+            "brazilianAmount": {
+                "amount": "11.4000",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "11.4000",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-08-12",
+            "billPostDate": "2022-08-12",
+            "payeeMCC": 6012
+        },
+        {
+            "transactionId": "cf6ef1ce-be75-3f67-b455-28242daf108b",
+            "identificationNumber": "0896",
+            "transactionName": "Tarifa para Emissão de segunda via",
+            "billId": "43a15d0f-b61e-36ea-9dc7-9b2377db9dd5",
+            "creditDebitType": "CREDITO",
+            "transactionType": "TARIFA",
+            "paymentType": "A_VISTA",
+            "feeType": "EMISSAO_SEGUNDA_VIA",
+            "chargeIdentificator": "PARCELA_UNICA",
+            "chargeNumber": 1,
+            "brazilianAmount": {
+                "amount": "1.4000",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "1.4000",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-08-12",
+            "billPostDate": "2022-08-12",
+            "payeeMCC": 6012
+        },
+        {
+            "transactionId": "2ab7b628-c224-3a4b-9caf-1eecf0b61505",
+            "identificationNumber": "0896",
+            "transactionName": "Tarifa para Pagamento de contas",
+            "billId": "43a15d0f-b61e-36ea-9dc7-9b2377db9dd5",
+            "creditDebitType": "CREDITO",
+            "transactionType": "TARIFA",
+            "paymentType": "A_VISTA",
+            "feeType": "TARIFA_PAGAMENTO_CONTAS",
+            "chargeIdentificator": "PARCELA_UNICA",
+            "chargeNumber": 1,
+            "brazilianAmount": {
+                "amount": "14.9900",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "14.9900",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-08-12",
+            "billPostDate": "2022-08-12",
+            "payeeMCC": 6012
+        },
+        {
+            "transactionId": "2ab7b628-c224-3a4b-9caf-1eecf0b61505",
+            "identificationNumber": "0896",
+            "transactionName": "Tarifa para Avaliação emergencial de crédito",
+            "billId": "43a15d0f-b61e-36ea-9dc7-9b2377db9dd5",
+            "creditDebitType": "CREDITO",
+            "transactionType": "TARIFA",
+            "paymentType": "A_VISTA",
+            "feeType": "AVALIACAO_EMERGENCIAL_CREDITO",
+            "otherCreditsType": "NA",
+            "chargeIdentificator": "PARCELA_UNICA",
+            "chargeNumber": 1,
+            "brazilianAmount": {
+                "amount": "24.9900",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "24.9900",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-08-12",
+            "billPostDate": "2022-08-12",
+            "payeeMCC": 6012
+        },
+        {
+            "transactionId": "dde923fa-f8ee-3c2b-acdc-9aaede420beb",
+            "identificationNumber": "0896",
+            "transactionName": "Tarifa para Saque com cartão",
+            "billId": "43a15d0f-b61e-36ea-9dc7-9b2377db9dd5",
+            "creditDebitType": "CREDITO",
+            "transactionType": "TARIFA",
+            "paymentType": "A_VISTA",
+            "feeType": "SAQUE_CARTAO_BRASIL",
+            "chargeIdentificator": "PARCELA_UNICA",
+            "chargeNumber": 1,
+            "brazilianAmount": {
+                "amount": "100.0000",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "100.0000",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-08-12",
+            "billPostDate": "2022-08-12",
+            "payeeMCC": 6010
+        },
+        {
+            "transactionId": "5129eb28-e4c9-33d3-9049-332d1bd2427f",
+            "identificationNumber": "0896",
+            "transactionName": "Anuidade do Cartão",
+            "billId": "43a15d0f-b61e-36ea-9dc7-9b2377db9dd5",
+            "creditDebitType": "CREDITO",
+            "transactionType": "TARIFA",
+            "paymentType": "A_VISTA",
+            "feeType": "ANUIDADE",
+            "chargeIdentificator": "PARCELA_UNICA",
+            "chargeNumber": 1,
+            "brazilianAmount": {
+                "amount": "116.9999",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "116.9999",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-08-11",
+            "billPostDate": "2022-08-11",
+            "payeeMCC": 6012
+        },
+        {
+            "transactionId": "4ddaf067-a400-3e59-a8ff-10835cc85144",
+            "identificationNumber": "0896",
+            "transactionName": "Restante não pago da fatura anterior",
+            "billId": "43a15d0f-b61e-36ea-9dc7-9b2377db9dd5",
+            "creditDebitType": "CREDITO",
+            "transactionType": "OPERACOES_CREDITO_CONTRATADAS_CARTAO",
+            "paymentType": "A_PRAZO",
+            "feeType": "SMS",
+            "otherCreditsType": "OUTROS",
+            "chargeIdentificator": "PARCELA_UNICA",
+            "chargeNumber": 1,
+            "brazilianAmount": {
+                "amount": "260.6500",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "260.6500",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-08-11",
+            "billPostDate": "2022-08-11",
+            "payeeMCC": 6012
+        }
+    ],
+    "links": {
+        "self": "https://openbanking.banrisul.com.br/open-banking/credit-cards-accounts/v1/accounts/471856b2-cae3-31a6-b4f7-b3d13fe625ee/bills/43a15d0f-b61e-36ea-9dc7-9b2377db9dd5/transactions"
+    },
+    "meta": {
+        "totalRecords": 9,
+        "totalPages": 1,
+        "requestDateTime": "2022-09-12T09:37:00Z"
+    }
+}

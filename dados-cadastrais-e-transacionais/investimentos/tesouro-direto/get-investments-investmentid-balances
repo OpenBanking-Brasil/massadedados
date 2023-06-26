@@ -1,0 +1,43 @@
+{
+  "data": {
+    "referenceDateTime": "2023-04-21T17:32:00Z",
+    "updatedUnitPrice": {
+      "amount": "1000.000004",
+      "currency": "BRL"
+    },
+    "grossAmount": {
+      "amount": "1000.04",
+      "currency": "BRL"
+    },
+    "netAmount": {
+      "amount": "1000.04",
+      "currency": "BRL"
+    },
+    "incomeTax": {
+      "amount": "1000.04",
+      "currency": "BRL"
+    },
+    "financialTransactionTax": {
+      "amount": "1000.04",
+      "currency": "BRL"
+    },
+    "blockedBalance": {
+      "amount": "1000.04",
+      "currency": "BRL"
+    },
+    "purchaseUnitPrice": {
+      "amount": "1000.000004",
+      "currency": "BRL"
+    },
+    "quantity": "1000.015"
+  },
+  "links": {
+    "self": "https://opendata.api.bb.com.br/open-banking/api/v1/resource"
+
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2023-06-02T11:30:00Z"
+  }
+}

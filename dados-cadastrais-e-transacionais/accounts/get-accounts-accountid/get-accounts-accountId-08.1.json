@@ -1,0 +1,19 @@
+{
+    "data": {
+        "compeCode": "104",
+        "branchCode": "2231",
+        "number": "33256455",
+        "checkDigit": "3",
+        "type": "CONTA_POUPANCA",
+        "subtype": "INDIVIDUAL",
+        "currency": "BRL"
+    },
+    "links": {
+        "self": "https://api.caixa.gov.br/open-banking/accounts/v1/accounts/b569dcaf-aef4-44cc-bd84-b12ae26cb16b"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-08-24T09:35:00Z"
+    }
+}

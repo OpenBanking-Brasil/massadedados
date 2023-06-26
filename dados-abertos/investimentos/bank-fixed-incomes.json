@@ -1,0 +1,62 @@
+{
+  "data": [
+    {
+      "participant": {
+        "brand": "Investimento para Todos Banco do Brasil S.A",
+        "name": "Banco do Brasil S.A",
+        "cnpjNumber": "00000000000191",
+        "urlComplementaryList": "https://www.bb.com.br/companies"
+      },
+      "issuerInstitutionCnpjNumber": "00000000000191",
+      "issuerInstitutionName": "Banco do Brasil S.A",
+      "investmentType": "LCI",
+      "index": {
+        "indexer": "SELIC",
+        "issueRemunerationRate": {
+          "prices": [
+            {
+              "interval": "1_FAIXA",
+              "value": "4.020300",
+              "operationRate": "0.500000"
+            },
+            {
+              "interval": "2_FAIXA",
+              "value": "0.030600",
+              "operationRate": "0.300000"
+            },
+            {
+              "interval": "3_FAIXA",
+              "value": "0.034300",
+              "operationRate": "0.000010"
+            },
+            {
+              "interval": "4_FAIXA",
+              "value": "0.261800",
+              "operationRate": "0.972000"
+            }
+          ],
+          "minimum": "0.272000",
+          "maximum": "4.064200"
+        }
+      },
+      "investmentConditions": {
+        "minimumAmount": "500.00",
+        "redemptionTerm": "DIARIA",
+        "expirationPeriod": "1_360",
+        "gracePeriod": "1_360"
+      },
+      "targetAudience": "PESSOA_NATURAL"
+    }
+  ],
+  "links": {
+    "self": "https://opendata.api.bb.com.br/open-banking/api/v1/resource",
+    "first": "https://opendata.api.bb.com.br/open-banking/api/v1/resource",
+    "prev": "https://opendata.api.bb.com.br/open-banking/api/v1/resource",
+    "next": "https://opendata.api.bb.com.br/open-banking/api/v1/resource",
+    "last": "https://opendata.api.bb.com.br/open-banking/api/v1/resource"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1
+  }
+}

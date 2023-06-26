@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "brandName": "Caixa Econômica Federal",
+            "companyCnpj": "00360305000104",
+            "type": "CONTA_POUPANCA",
+            "compeCode": "104",
+            "branchCode": "2231",
+            "number": "33256455",
+            "checkDigit": "3",
+            "accountId": "b569dcaf-aef4-44cc-bd84-b12ae26cb16b"
+        }
+    ],
+    "links": {
+        "self": "https://api.caixa.gov.br/open-banking/accounts/v1/accounts"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-08-24T09:35:00Z"
+    }
+}

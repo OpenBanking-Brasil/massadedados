@@ -1,0 +1,58 @@
+{
+  "data": {
+    "contractNumber": "23985235926",
+    "ipocCode": "607011900901243053510948573460141141",
+    "productName": "Financiando clinica",
+    "productType": "FINANCIAMENTOS_IMOBILIARIOS",
+    "productSubType": "FINANCIAMENTO_HABITACIONAL_SFH",
+    "contractDate": "2002-03-01",
+    "settlementDate": "2018-03-01",
+    "contractAmount": "250000.6000",
+    "currency": "BRL",
+    "dueDate": "2018-03-01",
+    "instalmentPeriodicity": "ANUAL",
+    "firstInstalmentDueDate": "2003-03-01",
+    "CET": "0.0130",
+    "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
+    "interestRates": [
+      {
+        "taxType": "NOMINAL",
+        "interestRateType": "COMPOSTO",
+        "taxPeriodicity": "AA",
+        "calculation": "30/365",
+        "referentialRateIndexerType": "PRE_FIXADO",
+        "referentialRateIndexerSubType": "PRE_FIXADO",
+        "preFixedRate": "0.0130",
+        "postFixedRate": "0.0054"
+      }
+    ],
+    "contractedFees": [
+      {
+        "feeName": "Taxa de administração",
+        "feeCode": "ADMINISTRACAO",
+        "feeChargeType": "UNICA",
+        "feeCharge": "FIXO",
+        "feeAmount": "5080.0000",
+        "feeRate": "0.0000"
+      }
+    ],
+    "contractedFinanceCharges": [
+      {
+        "chargeType": "MULTA_ATRASO_PAGAMENTO",
+        "chargeRate": "0.0730"
+      },
+      {
+        "chargeType": "IOF_CONTRATACAO",
+        "chargeRate": "0.0500"
+      }
+    ]
+  },
+  "links": {
+    "self": "https://api.itau/open-banking/financings/v1/contracts/f96b10e8-5aa7-32fe-b029-3ad7873fdef4"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-09-05T09:45:50Z"
+  }
+}

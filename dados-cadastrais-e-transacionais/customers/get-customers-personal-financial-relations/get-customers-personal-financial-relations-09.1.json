@@ -1,0 +1,30 @@
+{
+  "data": {
+    "updateDateTime": "2022-08-22T11:59:59Z",
+    "startDate": "2018-08-15T08:30:00Z",
+    "productsServicesType": [
+      "CONTA_DEPOSITO_A_VISTA",
+      "CARTAO_CREDITO",
+      "OUTROS"
+    ],
+    "productsServicesTypeAdditionalInfo": "FINANCIAMENTO",
+    "accounts": [
+      {
+        "compeCode": "341",
+        "branchCode": "2258",
+        "number": "21156894",
+        "checkDigit": "7",
+        "type": "CONTA_DEPOSITO_A_VISTA",
+        "subtype": "INDIVIDUAL"
+      }
+    ]
+  },
+  "links": {
+    "self": "https://api.itau/open-banking/customers/v1/personal/financial-relations"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-08-22T11:59:59Z"
+  }
+}

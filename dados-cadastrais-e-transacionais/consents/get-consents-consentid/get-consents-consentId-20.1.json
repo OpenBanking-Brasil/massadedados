@@ -1,0 +1,29 @@
+{
+    "data": {
+        "consentId": "urn:santander:BSB91020866",
+        "creationDateTime": "2022-09-06T15:24:00Z",
+        "status": "AUTHORISED",
+        "statusUpdateDateTime": "2022-09-06T15:24:00Z",
+        "permissions": [
+            "ACCOUNTS_READ",
+            "ACCOUNTS_BALANCES_READ",
+            "ACCOUNTS_TRANSACTIONS_READ",
+            "ACCOUNTS_OVERDRAFT_LIMITS_READ",
+            "CUSTOMERS_BUSINESS_ADITTIONALINFO_READ",
+            "LOANS_READ",
+            "LOANS_SCHEDULED_INSTALMENTS_READ",
+            "LOANS_PAYMENTS_READ",
+            "LOANS_WARRANTIES_READ",
+            "RESOURCES_READ"
+        ],
+        "expirationDateTime": "2023-09-06T15:24:00Z"
+    },
+    "links": {
+        "self": "https://openbanking.api.santander.com.br/open-banking/consents/v1/consents/urn:santander:BSB91020866"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-09-06T15:24:00Z"
+    }
+}

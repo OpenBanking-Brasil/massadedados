@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "contractId": "94c393aa-82e8-367a-bb3d-3c23c3ccea9c",
+      "brandName": "Banco do Brasil S.A",
+      "companyCnpj": "00000000000191",
+      "productType": "FINANCIAMENTOS",
+      "productSubType": "AQUISICAO_BENS_VEICULOS_AUTOMOTORES",
+      "ipocCode": "000000000401205830916165151"
+    }
+  ],
+  "links": {
+    "self": "https://opendata.api.bb.com.br/open-banking/financings/v1/contracts"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-09-15T209:22:00Z"
+  }
+}

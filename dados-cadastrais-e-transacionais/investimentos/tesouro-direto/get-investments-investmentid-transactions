@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "type": "ENTRADA",
+      "transactionType": "AMORTIZACAO",
+      "transactionTypeAdditionalInfo": "",
+      "transactionDate": "2023-06-01",
+      "transactionUnitPrice": {
+        "amount": "1000.04",
+        "currency": "BRL"
+      },
+      "transactionQuantity": "42.25",
+      "transactionGrossValue": {
+        "amount": "1000.04",
+        "currency": "BRL"
+      },
+      "incomeTax": {
+        "amount": "1000.04",
+        "currency": "BRL"
+      },
+      "financialTransactionTax": {
+        "amount": "1000.04",
+        "currency": "BRL"
+      },
+      "transactionNetValue": {
+        "amount": "1000.04",
+        "currency": "BRL"
+      },
+      "remunerationTransactionRate": "0.300000",
+      "transactionId": "a5ae963d-1156-4911-ad66-59cd079afaab"
+    }
+  ],
+  "links": {
+    "self": "https://opendata.api.bb.com.br/open-banking/api/v1/resource"
+  },
+  "meta": {
+    "requestDateTime": "2023-06-02T10:42:00Z"
+  }
+}

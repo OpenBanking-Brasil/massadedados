@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "transactionId": "92e219a2-d9c1-11eb-b8bc-0242ac130003",
+            "identificationNumber": "0126",
+            "transactionName": "TARIFAS",
+            "billId": "2c30bc0e-d8e5-11eb-b8bc-0242ac130003",
+            "creditDebitType": "CREDITO",
+            "transactionType": "TARIFA",
+            "paymentType": "A_VISTA",
+            "feeType": "ANUIDADE",
+            "otherCreditsType": "CREDITO_ROTATIVO",
+            "chargeIdentificator": "PARCELA_1",
+            "chargeNumber": 1,
+            "brazilianAmount": {
+                "amount": "43.0000",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "43.0000",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-07-08",
+            "billPostDate": "2022-07-08",
+            "payeeMCC": 4900
+        }
+    ],
+    "links": {
+        "self": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=2&page-size=1&transactionType=TARIFA",
+        "first": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=1&page-size=1&transactionType=TARIFA",
+        "prev": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=1&page-size=1&transactionType=TARIFA",
+        "last": "https://api.caixa.gov.br/open-banking/credit-cards-accounts/v1/accounts/b22632a4-d8e4-11eb-b8bc-0242ac130003/transactions?page=2&page-size=1&transactionType=TARIFA"
+    },
+    "meta": {
+        "totalRecords": 2,
+        "totalPages": 2,
+        "requestDateTime": "2022-09-09T09:56:00Z"
+    }
+} 

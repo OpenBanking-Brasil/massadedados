@@ -1,0 +1,128 @@
+{
+    "data": {
+        "status": [
+            {
+                "code": "OK",
+                "explanaton": "Retorno com Sucesso",
+                "updateTime": "2021-05-16T08:00:00Z"
+            },
+            {
+                "code": "UNAVAILABLE",
+                "explanation": "Erro na atualização",
+                "detectionTime": "2021-05-16T03:10:42Z",
+                "expectedResolutionTime": "2021-05-16T06:15:00Z",
+                "updateTime": "2021-05-16T03:00:42Z",
+                "unavailableEndpoints": [
+                    "https://opendata.api.bb.com.br/open-banking/channels/v1/banking-agents",
+                    "https://opendata.api.bb.com.br/open-banking/channels/v1/branches",
+                    "https://opendata.api.bb.com.br/open-banking/channels/v1/electronic-channels",
+                    "https://opendata.api.bb.com.br/open-banking/channels/v1/phone-channels",
+                    "https://opendata.api.bb.com.br/open-banking/channels/v1/shared-automated-teller-channels",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-accounts",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-credit-cards",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-financings",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-invoice-financings",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-loans",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-unarranged-account-overdraft",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-accounts",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-credit-cards",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-loans",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-financings",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-invoice-financings",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-loans",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-unarranged-account-overdraft"
+                ]
+            },
+            {
+                "code": "SCHEDULED_OUTAGE",
+                "explanation": "Atualização em produção",
+                "expectedResolutionTime": "2021-05-16T03:10:00Z",
+                "updateTime": "2021-05-16T03:00:00Z",
+                "unavailableEndpoints": [
+                    "https://opendata.api.bb.com.br/open-banking/channels/v1/banking-agents",
+                    "https://opendata.api.bb.com.br/open-banking/channels/v1/branches",
+                    "https://opendata.api.bb.com.br/open-banking/channels/v1/electronic-channels",
+                    "https://opendata.api.bb.com.br/open-banking/channels/v1/phone-channels",
+                    "https://opendata.api.bb.com.br/open-banking/channels/v1/shared-automated-teller-channels",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-accounts",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-credit-cards",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-financings",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-invoice-financings",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-loans",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-unarranged-account-overdraft",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-accounts",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-credit-cards",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-loans",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-financings",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-invoice-financings",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-loans",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-unarranged-account-overdraft"
+                ]
+            },
+            {
+                "code": "OK",
+                "explanaton": "Retorno com Sucesso",
+                "updateTime": "2021-05-10T08:00:00Z"
+            },
+            {
+                "code": "PARTIAL_FAILURE",
+                "explanation": "Erro na atualização",
+                "detectionTime": "2021-05-10T03:10:00Z",
+                "expectedResolutionTime": "2021-05-10T03:45:00Z",
+                "updateTime": "2021-05-10T03:10:00Z",
+                "unavailableEndpoints": [
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-accounts",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-credit-cards",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-financings",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-invoice-financings",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-loans",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-unarranged-account-overdraft"
+                ]
+            },
+            {
+                "code": "UNAVAILABLE",
+                "explanation": "Erro na atualização",
+                "detectionTime": "2021-05-10T03:08:16Z",
+                "expectedResolutionTime": "2021-05-10T03:18:00Z",
+                "updateTime": "2021-05-10T03:08:16Z",
+                "unavailableEndpoints": [
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-accounts",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-credit-cards",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-financings",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-invoice-financings",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-loans",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-unarranged-account-overdraft"
+                ]
+            },
+            {
+                "code": "SCHEDULED_OUTAGE",
+                "explanation": "Atualização do API products-services",
+                "expectedResolutionTime": "2021-05-10T03:14:00Z",
+                "updateTime": "2021-05-10T03:00:00Z",
+                "unavailableEndpoints": [
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-accounts",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-credit-cards",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-financings",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-invoice-financings",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-loans",
+                    "https://opendata.api.bb.com.br/open-banking/products-services/v1/business-unarranged-account-overdraft"
+                ]
+            },
+            {
+                "code": "OK",
+                "explanaton": "Retorno com Sucesso",
+                "updateTime": "2021-05-01T08:00:00Z"
+            }
+        ]
+    },
+    "links": {
+        "self": "https://opendata.api.bb.com.br/open-banking/discovery/v1/status?page=1&page-size=8",
+        "first": "https://opendata.api.bb.com.br/open-banking/discovery/v1/status?page=1&page-size=8",
+        "next": "https://opendata.api.bb.com.br/open-banking/discovery/v1/status?page=2&page-size=8",
+        "last": "https://opendata.api.bb.com.br/open-banking/discovery/v1/status?page=10&page-size=8"
+    },
+    "meta": {
+        "totalRecords": 8,
+        "totalPages": 1
+    }
+}

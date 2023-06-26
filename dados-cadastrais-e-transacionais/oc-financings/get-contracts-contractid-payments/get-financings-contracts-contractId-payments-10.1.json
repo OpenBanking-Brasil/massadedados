@@ -1,0 +1,39 @@
+{
+  "data": {
+    "paidInstalments": 1,
+    "contractOutstandingBalance": "110000.0000",
+    "releases": [
+      {
+        "paymentId": "8af14d7d-f244-3064-a5f0-eabbc2d4b9af",
+        "isOverParcelPayment": true,
+        "instalmentId": "5fe7928e-4c00-36e4-b3d2-f80314f74e77",
+        "paidDate": "2021-06-25",
+        "currency": "BRL",
+        "paidAmount": "10000.0000",
+        "overParcel": {
+          "fees": [
+            {
+              "feeName": "Taxa de administração",
+              "feeCode": "ADMINISTRACAO",
+              "feeAmount": "200.0000"
+            }
+          ],
+          "charges": [
+            {
+              "chargeType": "IOF_CONTRATACAO",
+              "chargeAmount": "0.0000"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "links": {
+    "self": "https://api.itau/open-banking/financings/v1/contracts/94351e88-203b-323f-9edc-6051b64826e3/payments"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-08-31T09:37:00Z"
+  }
+}

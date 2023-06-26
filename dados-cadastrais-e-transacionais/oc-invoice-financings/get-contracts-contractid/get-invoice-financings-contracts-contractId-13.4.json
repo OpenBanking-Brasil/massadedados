@@ -1,0 +1,62 @@
+{
+  "data": {
+    "contractNumber": "26161616161",
+    "ipocCode": "00000000030320583091626161616161",
+    "productName": "Direitos Creditórios Descontados",
+    "productType": "DIREITOS_CREDITORIOS_DESCONTADOS",
+    "productSubType": "ANTECIPACAO_FATURA_CARTAO_CREDITO",
+    "contractDate": "2019-05-28",
+    "settlementDate": "2020-01-28",
+    "contractAmount": "30000.0000",
+    "currency": "BRL",
+    "dueDate": "2020-01-28",
+    "instalmentPeriodicity": "BIMESTRAL",
+    "firstInstalmentDueDate": "2019-07-28",
+    "CET": "0.0675",
+    "amortizationScheduled": "SEM_SISTEMA_AMORTIZACAO",
+    "interestRates": [
+      {
+        "taxType": "EFETIVA",
+        "interestRateType": "SIMPLES",
+        "taxPeriodicity": "AM",
+        "calculation": "30/365",
+        "referentialRateIndexerType": "FLUTUANTES",
+        "referentialRateIndexerSubType": "SELIC",
+        "preFixedRate": "0.0000",
+        "postFixedRate": "0.0650"
+      }
+    ],
+    "contractedFees": [
+      {
+        "feeName": "Manutenção de Serviço",
+        "feeCode": "MANUTENCAO",
+        "feeChargeType": "POR_PARCELA",
+        "feeCharge": "PERCENTUAL",
+        "feeAmount": "0.0000",
+        "feeRate": "0.0025"
+      }
+    ],
+    "contractedFinanceCharges": [
+      {
+        "chargeType": "JUROS_REMUNERATORIOS_POR_ATRASO",
+        "chargeRate": "0.0210"
+      },
+      {
+        "chargeType": "JUROS_MORA_ATRASO",
+        "chargeRate": "0.0710"
+      },
+      {
+        "chargeType": "IOF_POR_ATRASO",
+        "chargeRate": "0.0180"
+      }
+    ]
+  },
+  "links": {
+    "self": "https://opendata.api.bb.com.br/open-banking/invoice-financings/v1/contracts/4ec8fbe4-09e4-305d-bf8c-cdae1c298183"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-09-15T209:22:00Z"
+  }
+}

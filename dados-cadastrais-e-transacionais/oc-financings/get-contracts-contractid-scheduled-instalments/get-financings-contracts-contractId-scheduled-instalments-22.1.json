@@ -1,0 +1,19 @@
+{
+  "data": {
+    "typeNumberOfInstalments": "MES",
+    "totalNumberOfInstalments": 84,
+    "typeContractRemaining": "MES",
+    "contractRemainingNumber": 80,
+    "paidInstalments": 4,
+    "dueInstalments": 80,
+    "pastDueInstalments": 0
+  },
+  "links": {
+    "self": "https://api.itau/open-banking/financings/v1/contracts/8a90b69e-327a-467e-95f2-970b68e40f34/scheduled-instalments"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-08-30T11:04:00Z"
+  }
+}

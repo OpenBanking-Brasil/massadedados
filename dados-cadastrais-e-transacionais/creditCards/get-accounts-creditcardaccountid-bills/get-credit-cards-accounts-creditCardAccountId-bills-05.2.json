@@ -1,0 +1,62 @@
+{
+    "data": [
+        {
+            "billId": "fba2cc95-e6de-4cb5-99e6-24c403d79eb5",
+            "dueDate": "2022-04-10",
+            "billTotalAmount": {
+                "amount": "800.0000",
+                "currency": "BRL"
+            },
+            "billMinimumAmount": {
+                "amount": "120.0000",
+                "currency": "BRL"
+            },
+            "isInstalment": true,
+            "financeCharges": [
+                {
+                    "type": "SEM_ENCARGO",
+                    "amount": "0.0000",
+                    "currency": "BRL"
+                }
+            ],
+            "payments": [
+                {
+                    "valueType": "VALOR_PAGAMENTO_FATURA_PARCELADO",
+                    "paymentDate": "2022-07-10",
+                    "paymentMode": "BOLETO_BANCARIO",
+                    "amount": "200.0000",
+                    "currency": "BRL"
+                },
+                {
+                    "valueType": "VALOR_PAGAMENTO_FATURA_PARCELADO",
+                    "paymentDate": "2022-06-10",
+                    "paymentMode": "BOLETO_BANCARIO",
+                    "amount": "200.0000",
+                    "currency": "BRL"
+                },
+                {
+                    "valueType": "VALOR_PAGAMENTO_FATURA_PARCELADO",
+                    "paymentDate": "2022-05-10",
+                    "paymentMode": "BOLETO_BANCARIO",
+                    "amount": "200.0000",
+                    "currency": "BRL"
+                },
+                {
+                    "valueType": "VALOR_PAGAMENTO_FATURA_PARCELADO",
+                    "paymentDate": "2022-04-10",
+                    "paymentMode": "BOLETO_BANCARIO",
+                    "amount": "200.0000",
+                    "currency": "BRL"
+                }
+            ]
+        }
+    ],
+    "links": {
+        "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/afe4fb0b-4479-4f52-9399-6a038ee62f02/bills"
+    },
+    "meta": {
+        "totalRecords": 4,
+        "totalPages": 1,
+        "requestDateTime": "2022-08-30T14:48:00Z"
+    }
+}

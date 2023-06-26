@@ -1,0 +1,90 @@
+{
+  "data": [
+    {
+      "currency": "BRL",
+      "warrantyType": "CESSAO_DIREITOS_CREDITORIOS",
+      "warrantySubType": "CHEQUES",
+      "warrantyAmount": "20000.0000"
+    },
+    {
+      "currency": "BRL",
+      "warrantyType": "CESSAO_DIREITOS_CREDITORIOS",
+      "warrantySubType": "CHEQUES",
+      "warrantyAmount": "10000.0000"
+    },
+    {
+      "currency": "BRL",
+      "warrantyType": "CESSAO_DIREITOS_CREDITORIOS",
+      "warrantySubType": "CHEQUES",
+      "warrantyAmount": "15000.0000"
+    },
+    {
+      "currency": "BRL",
+      "warrantyType": "CESSAO_DIREITOS_CREDITORIOS",
+      "warrantySubType": "CHEQUES",
+      "warrantyAmount": "5000.0000"
+    },
+    {
+      "currency": "BRL",
+      "warrantyType": "CESSAO_DIREITOS_CREDITORIOS",
+      "warrantySubType": "CHEQUES",
+      "warrantyAmount": "17000.0000"
+    },
+    {
+      "currency": "BRL",
+      "warrantyType": "CESSAO_DIREITOS_CREDITORIOS",
+      "warrantySubType": "CHEQUES",
+      "warrantyAmount": "3000.0000"
+    },
+    {
+      "currency": "BRL",
+      "warrantyType": "CESSAO_DIREITOS_CREDITORIOS",
+      "warrantySubType": "CHEQUES",
+      "warrantyAmount": "10000.0000"
+    },
+    {
+      "currency": "BRL",
+      "warrantyType": "CESSAO_DIREITOS_CREDITORIOS",
+      "warrantySubType": "CHEQUES",
+      "warrantyAmount": "7000.0000"
+    },
+    {
+      "currency": "BRL",
+      "warrantyType": "CESSAO_DIREITOS_CREDITORIOS",
+      "warrantySubType": "CHEQUES",
+      "warrantyAmount": "4000.0000"
+    },
+    {
+      "currency": "BRL",
+      "warrantyType": "CESSAO_DIREITOS_CREDITORIOS",
+      "warrantySubType": "CHEQUES",
+      "warrantyAmount": "1000.0000"
+    },
+    {
+      "currency": "BRL",
+      "warrantyType": "CESSAO_DIREITOS_CREDITORIOS",
+      "warrantySubType": "CHEQUES",
+      "warrantyAmount": "8000.0000"
+    },
+    {
+      "currency": "BRL",
+      "warrantyType": "CESSAO_DIREITOS_CREDITORIOS",
+      "warrantySubType": "CHEQUES",
+      "warrantyAmount": "6000.0000"
+    },
+    {
+      "currency": "BRL",
+      "warrantyType": "CESSAO_DIREITOS_CREDITORIOS",
+      "warrantySubType": "CHEQUES",
+      "warrantyAmount": "14000.0000"
+    }
+  ],
+  "links": {
+    "self": "https://api.itau/open-banking/financings/v1/contracts/94351e88-203b-323f-9edc-6051b64826e3/warranties"
+  },
+  "meta": {
+    "totalRecords": 13,
+    "totalPages": 1,
+    "requestDateTime": "2022-08-31T09:37:00Z"
+  }
+}

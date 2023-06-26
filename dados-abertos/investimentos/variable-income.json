@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "participant": {
+        "brand": "Investimento para Todos Banco do Brasil S.A",
+        "name": "Banco do Brasil S.A",
+        "cnpjNumber": "00000000000191",
+        "urlComplementaryList": "https://www.bb.com.br/companies"
+      },
+      "investmentType": "ACOES",
+      "custodyFee": {
+        "prices": [
+          {
+            "interval": "1_FAIXA",
+            "value": "0.420300",
+            "operationRate": "6.500000"
+          },
+          {
+            "interval": "2_FAIXA",
+            "value": "0.000601",
+            "operationRate": "0.100000"
+          },
+          {
+            "interval": "3_FAIXA",
+            "value": "0.034309",
+            "operationRate": "0.000001"
+          },
+          {
+            "interval": "4_FAIXA",
+            "value": "0.246800",
+            "operationRate": "6.800000"
+          }
+        ],
+        "minimum": "0.010000",
+        "maximum": "6.000087"
+      },
+      "loadingRate": {
+        "prices": [
+          {
+            "interval": "1_FAIXA",
+            "value": "4.020300",
+            "operationRate": "0.520000"
+          },
+          {
+            "interval": "2_FAIXA",
+            "value": "0.030600",
+            "operationRate": "1.100000"
+          },
+          {
+            "interval": "3_FAIXA",
+            "value": "0.234300",
+            "operationRate": "0.000044"
+          },
+          {
+            "interval": "4_FAIXA",
+            "value": "2.246823",
+            "operationRate": "0.100010"
+          }
+        ],
+        "minimum": "1.010011",
+        "maximum": "2.300087"
+      },
+      "targetAudience": "PESSOA_NATURAL"
+    },
+    {
+      "participant": {
+        "brand": "Investimento para Todos Banco do Brasil S.A",
+        "name": "Banco do Brasil S.A",
+        "cnpjNumber": "00000000000191",
+        "urlComplementaryList": "https://www.bb.com.br/companies"
+      },
+      "investmentType": "FUNDO_INDICES",
+      "custodyFee": {
+        "prices": [
+          {
+            "interval": "1_FAIXA",
+            "value": "0.000001",
+            "operationRate": "0.100001"
+          },
+          {
+            "interval": "2_FAIXA",
+            "value": "0.030680",
+            "operationRate": "1.100009"
+          },
+          {
+            "interval": "3_FAIXA",
+            "value": "5.034300",
+            "operationRate": "0.770000"
+          },
+          {
+            "interval": "4_FAIXA",
+            "value": "0.246801",
+            "operationRate": "9.100001"
+          }
+        ],
+        "minimum": "1.010009",
+        "maximum": "9.480000"
+      },
+      "loadingRate": {
+        "prices": [
+          {
+            "interval": "1_FAIXA",
+            "value": "0.480000",
+            "operationRate": "0.000018"
+          },
+          {
+            "interval": "2_FAIXA",
+            "value": "2.030800",
+            "operationRate": "0.000008"
+          },
+          {
+            "interval": "3_FAIXA",
+            "value": "5.026700",
+            "operationRate": "0.800000"
+          },
+          {
+            "interval": "4_FAIXA",
+            "value": "0.246854",
+            "operationRate": "0.100000"
+          }
+        ],
+        "minimum": "0.010005",
+        "maximum": "1.300009"
+      },
+      "targetAudience": "PESSOA_JURIDICA"
+    }
+  ],
+  "links": {
+    "self": "https://opendata.api.bb.com.br/open-banking/api/v1/resource",
+    "first": "https://opendata.api.bb.com.br/open-banking/api/v1/resource",
+    "prev": "https://opendata.api.bb.com.br/open-banking/api/v1/resource",
+    "next": "https://opendata.api.bb.com.br/open-banking/api/v1/resource",
+    "last": "https://opendata.api.bb.com.br/open-banking/api/v1/resource"
+  },
+  "meta": {
+    "totalRecords": 2,
+    "totalPages": 1
+  }
+}

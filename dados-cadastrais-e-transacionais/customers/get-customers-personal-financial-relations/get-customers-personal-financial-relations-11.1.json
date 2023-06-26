@@ -1,0 +1,33 @@
+{
+  "data": {
+    "updateDateTime": "2022-08-15T06:00:00Z",
+    "startDate": "2019-02-16T08:30:00Z",
+    "productsServicesType": [
+      "CONTA_DEPOSITO_A_VISTA",
+      "CARTAO_CREDITO",
+      "OPERACAO_CREDITO",
+      "SEGURO",
+      "PREVIDENCIA",
+      "INVESTIMENTO",
+      "OPERACOES_CAMBIO"
+    ],
+    "accounts": [
+      {
+        "compeCode": "77",
+        "branchCode": "0001",
+        "number": "58745896",
+        "checkDigit": "9",
+        "type": "CONTA_DEPOSITO_A_VISTA",
+        "subtype": "INDIVIDUAL"
+      }
+    ]
+  },
+  "links": {
+    "self": "https://api.baninter.com.br/open-banking/customers/v1/personal/financial-relations"
+  },
+  "meta": {
+    "totalRecords": 7,
+    "totalPages": 1,
+    "requestDateTime": "2022-08-15T06:00:00Z"
+  }
+}

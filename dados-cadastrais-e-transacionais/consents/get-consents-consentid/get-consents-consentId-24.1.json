@@ -1,0 +1,33 @@
+{
+    "data": {
+        "consentId": "urn:caixa:CEF84595719",
+        "creationDateTime": "2022-09-16T11:04:00Z",
+        "status": "AUTHORISED",
+        "statusUpdateDateTime": "2022-09-16T11:04:00Z",
+        "permissions": [
+            "CREDIT_CARDS_ACCOUNTS_READ",
+            "CREDIT_CARDS_ACCOUNTS_BILLS_READ",
+            "CREDIT_CARDS_ACCOUNTS_BILLS_TRANSACTIONS_READ",
+            "CREDIT_CARDS_ACCOUNTS_LIMITS_READ",
+            "CREDIT_CARDS_ACCOUNTS_TRANSACTIONS_READ",
+            "FINANCINGS_READ",
+            "FINANCINGS_SCHEDULED_INSTALMENTS_READ",
+            "FINANCINGS_PAYMENTS_READ",
+            "FINANCINGS_WARRANTIES_READ",
+            "LOANS_READ",
+            "LOANS_SCHEDULED_INSTALMENTS_READ",
+            "LOANS_PAYMENTS_READ",
+            "LOANS_WARRANTIES_READ",
+            "RESOURCES_READ"
+        ],
+        "expirationDateTime": "2023-09-16T11:04:00Z"
+    },
+    "links": {
+        "self": "https://api.caixa.gov.br/open-banking/consents/v1/consents/urn:caixa:CEF84595719"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-09-16T11:04:00Z"
+    }
+}

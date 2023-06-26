@@ -1,0 +1,24 @@
+            {
+                "data": {
+                    "loggedUser": {
+                        "document": {
+                            "identification": "34083740078",
+                            "rel": "CPF"
+                        }
+                    },
+                    "businessEntity": {
+                        "document": {
+                            "identification": "07123288000130",
+                            "rel": "CNPJ"
+                        }
+                    },
+                    "permissions": [
+                        "ACCOUNTS_READ",
+                        "ACCOUNTS_TRANSACTIONS_READ",
+                        "ACCOUNTS_BALANCES_READ",
+                        "ACCOUNTS_OVERDRAFT_LIMITS_READ",
+                        "RESOURCES_READ"
+                    ],
+                    "expirationDateTime": "2023-08-29T11:04:00Z"
+                }
+            }

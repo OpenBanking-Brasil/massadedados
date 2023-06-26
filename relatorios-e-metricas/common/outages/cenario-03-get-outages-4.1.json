@@ -1,0 +1,43 @@
+{
+    "data": {
+        "outages": [
+            {
+                "outageTime": "2021-10-03T00:00:00Z",
+                "duration": "PT2H20M",
+                "isPartial": false,
+                "explanation": "Atualização versionamento",
+                "unavailableEndpoints": [
+                    "https://api.bradesco.com/bradesco/open-banking/personal/identifications",
+                    "https://api.bradesco.com/bradesco/open-banking/personal/qualifications",
+                    "https://api.bradesco.com/bradesco/open-banking/personal/financial-relations",
+                    "https://api.bradesco.com/bradesco/open-banking/business/identifications",
+                    "https://api.bradesco.com/bradesco/open-banking/business/qualifications",
+                    "https://api.bradesco.com/bradesco/open-banking/business/financial-relations"
+                ]
+            },
+            {
+                
+                "outageTime": "2021-10-01T00:00:00Z",
+                "duration": "PT1H47M",
+                "isPartial": true,
+                "explanation": "Atualização de segurança",
+                "unavailableEndpoints": [
+                    "https://api.bradesco.com/bradesco/open-banking/accounts",
+                    "https://api.bradesco.com/bradesco/open-banking/accounts/{creditCardAccountId}",
+                    "https://api.bradesco.com/bradesco/open-banking/accounts/{creditCardAccountId}/transactions"
+                ]
+            }
+        ]
+    },
+    "links": {
+        "self": "https://api.bradesco.com/bradesco/open-banking/discovery/v1/outages?page=7&page-size=2",
+        "prev": "https://api.bradesco.com/bradesco/open-banking/discovery/v1/outages?page=6&page-size=2",
+        "first": "https://api.bradesco.com/bradesco/open-banking/discovery/v1/outages?page=1&page-size=2",
+        "next": "https://api.bradesco.com/bradesco/open-banking/discovery/v1/outages?page=8&page-size=2",
+        "last": "https://api.bradesco.com/bradesco/open-banking/discovery/v1/outages?page=12&page-size=2"
+    },
+    "meta": {
+        "totalRecords": 2,
+        "totalPages": 1
+    }
+}

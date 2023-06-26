@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "currency": "BRL",
+      "warrantyType": "SEGUROS_ASSEMELHADOS",
+      "warrantySubType": "FGTS_FUNDO_GARANTIA_TEMPO_SERVICO",
+      "warrantyAmount": "25000.0000"
+    },
+    {
+      "currency": "BRL",
+      "warrantyType": "CAUCAO",
+      "warrantySubType": "CHEQUES",
+      "warrantyAmount": "15000.0000"
+    }
+  ],
+  "links": {
+    "self": "https://api.caixa.gov.br/open-banking/financings/v1/contracts/83d4007e-7125-36a3-95da-30f1956caecc/warranties"
+  },
+  "meta": {
+    "totalRecords": 2,
+    "totalPages": 1,
+    "requestDateTime": "2022-09-09T09:56:00Z"
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "currency": "BRL",
+            "warrantyType": "SEM_TIPO_GARANTIA",
+            "warrantySubType": "PESSOA_FISICA",
+            "warrantyAmount": 0.0000
+        }
+    ],
+    "links": {
+        "self": "https://api.caixa.gov.br/open-banking/loans/v1/contracts/377aa88d-8905-3847-ad8f-c80d9e47f907/warranties"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-08-24T09:35:00Z"
+    }
+}

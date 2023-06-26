@@ -1,0 +1,41 @@
+{
+  "data": {
+    "updateDateTime": "2022-09-06T15:24:00Z",
+    "startDate": "1999-12-03T16:35:12Z",
+    "productsServicesType": [
+      "CONTA_DEPOSITO_A_VISTA", 
+	    "CARTAO_CREDITO", 
+      "OPERACOES_CAMBIO",
+	    "CONTA_SALARIO"
+    ],
+    "procurators": [
+      {
+        "type": "REPRESENTANTE_LEGAL",
+        "cnpjCpfNumber": "15694123000147",
+        "civilName": "Ian e Nathan Marketing Ltda"
+      },
+      {
+        "type": "REPRESENTANTE_LEGAL",
+        "cnpjCpfNumber": "74889937000104",
+        "civilName": "Summit Fotografias Ltda"
+      }
+    ],
+    "accounts": [
+      {
+        "compeCode": "033",
+        "branchCode": "2136",
+        "number": "69880123",
+        "checkDigit": "7",
+        "type": "CONTA_DEPOSITO_A_VISTA"
+      }
+    ]
+  },
+  "links": {
+    "self": "https://openbanking.api.santander.com.br/open-banking/customers/v1/business/financial-relations"
+  },
+  "meta": {
+    "totalRecords": 4,
+    "totalPages": 1,
+    "requestDateTime": "2022-09-06T15:24:00Z"
+  }
+} 

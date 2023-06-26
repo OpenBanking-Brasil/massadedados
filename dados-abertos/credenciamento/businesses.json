@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "participant": {
+        "brand": "Banco Bradesco S.A.",
+        "name": "Banco Bradesco S.A.",
+        "cnpjNumber": "60746948000112",
+        "urlComplementaryList": "https://bradesco.com.br/companies"
+      },
+      "feeName": "TAXA_DESCONTO_MODALIDADE_CREDITO",
+      "code": "MDR_CREDITO",
+      "prices": [
+        {
+          "interval": "1_FAIXA",
+          "value": "0.020700",
+          "customerRate": "0.160000"
+        },
+        {
+          "interval": "2_FAIXA",
+          "value": "0.030600",
+          "customerRate": "0.000122"
+        },
+        {
+          "interval": "3_FAIXA",
+          "value": "9.034700",
+          "customerRate": "0.600000"
+        },
+        {
+          "interval": "4_FAIXA",
+          "value": "5.246805",
+          "customerRate": "0.100000"
+        }
+      ],
+      "chargingTriggerInfo": "Recebimento através de transação de cartão de crédito.",
+      "minimum": "3.000000",
+      "maximum": "0.000010"
+    }
+  ],
+  "links": {
+    "self": "https://api.bradesco.com/open-banking/api/v1/resource",
+    "first": "https://api.bradesco.com/open-banking/api/v1/resource",
+    "prev": "https://api.bradesco.com/open-banking/api/v1/resource",
+    "next": "https://api.bradesco.com/open-banking/api/v1/resource",
+    "last": "https://api.bradesco.com/open-banking/api/v1/resource"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1
+  }
+}

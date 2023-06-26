@@ -1,0 +1,47 @@
+{
+    "data": [
+        {
+            "resourceId": "5cd65564-db2c-11eb-8d19-0242ac130003",
+            "type": "CREDIT_CARD_ACCOUNT",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "befb174b-b96f-381e-9150-effa8dc43c7e",
+            "type": "LOAN",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "bf7555e6-d629-33ce-8cf9-ee95e92241a0",
+            "type": "FINANCING",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "cf7555e6-d629-33ce-8cf9-ee95e92241a0",
+            "type": "FINANCING",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "df7555e6-d629-33ce-8cf9-ee95e92241a0",
+            "type": "FINANCING",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "ef7555e6-d629-33ce-8cf9-ee95e92241a0",
+            "type": "FINANCING",
+            "status": "AVAILABLE"
+        },
+        {
+            "resourceId": "ff7555e6-d629-33ce-8cf9-ee95e92241a0",
+            "type": "FINANCING",
+            "status": "AVAILABLE"
+        }
+    ],
+    "links": {
+        "self": "https://api.caixa.gov.br/open-banking/resources/v1/resources"
+    },
+    "meta": {
+        "totalRecords": 7,
+        "totalPages": 1,
+        "requestDateTime": "2022-09-16T11:04:00Z"
+    }
+}

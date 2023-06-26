@@ -1,0 +1,44 @@
+{
+  "data": {
+    "updateDateTime": "2022-09-12T09:37:00Z",
+    "startDate": "2019-03-05T10:30:00Z",
+    "productsServicesType": [
+      "CONTA_DEPOSITO_A_VISTA",
+      "CARTAO_CREDITO"
+    ],
+    "accounts": [
+      {
+        "compeCode": "041",
+        "branchCode": "8956",
+        "number": "598651",
+        "checkDigit": "1",
+        "type": "CONTA_DEPOSITO_A_VISTA",
+        "subtype": "INDIVIDUAL"
+      },
+      {
+        "compeCode": "041",
+        "branchCode": "5986",
+        "number": "598615",
+        "checkDigit": "2",
+        "type": "CONTA_POUPANCA",
+        "subtype": "INDIVIDUAL"
+      },
+      {
+        "compeCode": "041",
+        "branchCode": "8956",
+        "number": "2561",
+        "checkDigit": "1",
+        "type": "CONTA_POUPANCA",
+        "subtype": "INDIVIDUAL"
+      }
+    ]
+  },
+  "links": {
+    "self": "https://openbanking.banrisul.com.br/open-banking/customers/v1/personal/financial-relations"
+  },
+  "meta": {
+    "totalRecords": 3,
+    "totalPages": 1,
+    "requestDateTime": "2022-09-12T09:37:00Z"
+  }
+}

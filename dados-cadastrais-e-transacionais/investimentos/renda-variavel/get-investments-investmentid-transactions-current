@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "type": "ENTRADA",
+      "transactionType": "DIVIDENDOS",
+      "transactionTypeAdditionalInfo": "string",
+      "transactionDate": "2018-02-15",
+      "priceFactor": "100.0005",
+      "transactionUnitPrice": {
+        "amount": "1000.0004",
+        "currency": "BRL"
+      },
+      "transactionQuantity": "42.00000025",
+      "transactionValue": {
+        "amount": "1000.04",
+        "currency": "BRL"
+      },
+      "transactionId": "ed077660-41d5-4c4a-89b1-e4342df9f26b",
+      "brokerNoteId": "50fa1645-d45b-4c06-a8c2-1f402aeda850"
+    }
+  ],
+  "links": {
+    "self": "https://api.itau.com.br/open-banking/api/v1/resource"
+  },
+  "meta": {
+    "requestDateTime": "2023-06-02T08:30:00Z"
+  }
+}

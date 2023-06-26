@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "transactionId": "5de9d045-bb19-345f-872d-5d8c5eb91cbb",
+            "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
+            "creditDebitType": "CREDITO",
+            "transactionName": "TED5de9d045-bb19-345f-872d-5d8c5eb91cbb",
+            "type": "TED",
+            "transactionAmount": {
+                "amount": "1500.0000",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-06-29",
+            "partieCnpjCpf": "29750879422",
+            "partiePersonType": "PESSOA_NATURAL",
+            "partieCompeCode": "341",
+            "partieBranchCode": "5658",
+            "partieNumber": "456812",
+            "partieCheckDigit": "7"
+        },
+        {
+            "transactionId": "65a6adbb-c8df-3cd0-9a65-e86884ba1e13",
+            "completedAuthorisedPaymentType": "TRANSACAO_EFETIVADA",
+            "creditDebitType": "DEBITO",
+            "transactionName": "SAQ65a6adbb-c8df-3cd0-9a65-e86884ba1e13",
+            "type": "SAQUE",
+            "transactionAmount": {
+                "amount": "500.0000",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-06-15",
+            "partieCnpjCpf": "29750879422",
+            "partiePersonType": "PESSOA_NATURAL",
+            "partieCompeCode": "001",
+            "partieBranchCode": "1235",
+            "partieNumber": "2512",
+            "partieCheckDigit": "0"
+        }
+    ],
+    "links": {
+        "self": "https://openbanking.banrisul.com.br/open-banking/accounts/v1/accounts/be3d308b-d113-3b73-9a95-2b3c87688878/transactions?fromBookingDate=2021-06-15&toBookingDate=2021-06-29"
+    },
+    "meta": {
+        "totalRecords": 2,
+        "totalPages": 1,
+        "requestDateTime": "2022-09-12T09:37:00Z"
+    }
+}

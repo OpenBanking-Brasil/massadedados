@@ -1,0 +1,65 @@
+{
+  "data": [
+    {
+      "participant": {
+        "brand": "Investimento para Todos Banco do Brasil S.A",
+        "name": "Banco do Brasil S.A",
+        "cnpjNumber": "00000000000191",
+        "urlComplementaryList": "https://www.bb.com.br/companies"
+      },
+      "name": "BB Multimercado Criptoativos Full IE",
+      "cnpjNumber": "83412460000154",
+      "isinCode": "BB0040430000",
+      "admin": {
+        "name": "Banco do Brasil S.A",
+        "cnpjNumber": "00000000000191"
+      },
+      "fundManager": {
+        "name": "Jerusa Gestão LTDA",
+        "cnpjNumber": "71714946000168"
+      },
+      "anbimaCategory": "MULTIMERCADO",
+      "fees": {
+        "maxAdminFee": "0.026700",
+        "entryFee": "0.019000",
+        "performanceFee": {
+          "method": "AJUSTE",
+          "benchmark": "OUTROS",
+          "benchmarkAdditionalInfo": "Criptoativos",
+          "amount": "6.059000"
+        },
+        "exitFee": "4.760000"
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "1000.00",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 15,
+          "quotationTerm": "DIAS_UTEIS",
+          "paymentDays": 10,
+          "paymentTerm": "DIAS_UTEIS",
+          "graceDays": 365
+        },
+        "application": {
+          "quotationDays": 1,
+          "quotationTerm": "DIAS_UTEIS"
+        },
+        "fundQuotaType": "COTA_ABERTURA"
+      },
+      "taxation": "LONGO_PRAZO"
+    }
+  ],
+  "links": {
+    "self": "https://opendata.api.bb.com.br/open-banking/api/v1/resource",
+    "first": "https://opendata.api.bb.com.br/open-banking/api/v1/resource",
+    "prev": "https://opendata.api.bb.com.br/open-banking/api/v1/resource",
+    "next": "https://opendata.api.bb.com.br/open-banking/api/v1/resource",
+    "last": "https://opendata.api.bb.com.br/open-banking/api/v1/resource"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1
+  }
+}

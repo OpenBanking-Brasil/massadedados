@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "transactionId": "e62eb677-27c3-408b-bb56-19cc7028a7ff",
+            "identificationNumber": "1250",
+            "transactionName": "ZARA",
+            "billId": "7bebde60-0d23-46cf-93f8-d6c41f21d7ea",
+            "creditDebitType": "CREDITO",
+            "transactionType": "PAGAMENTO",
+            "paymentType": "A_VISTA",
+            "feeType": "SMS",
+            "otherCreditsType": "CREDITO_ROTATIVO",
+            "chargeIdentificator": "PARCELA_1",
+            "chargeNumber": 1,
+            "brazilianAmount": {
+                "amount": "845.3400",
+                "currency": "BRL"
+            },
+            "amount": {
+                "amount": "845.3400",
+                "currency": "BRL"
+            },
+            "transactionDate": "2022-08-25",
+            "billPostDate": "2022-08-26",
+            "payeeMCC": 5940
+        }
+    ],
+    "links": {
+        "self": "https://api.itau/open-banking/credit-cards-accounts/v1/accounts/87684e13-3f03-3c4e-b00a-2b9f2f8215c0/transactions-current"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1,
+        "requestDateTime": "2022-08-31T09:37:00Z"
+    }
+}

@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "updateDateTime": "2021-05-21T08:00:00Z",
+      "personalId": "d59-99a6-e78f18eb87-ac130",
+      "brandName": "Banco Inter S.A.",
+      "civilName": "Sarah Miranda Rosman",
+      "birthDate": "1994-04-08",
+      "maritalStatusCode": "SOLTEIRO",
+      "sex": "OUTRO",
+      "companiesCnpj": [
+        "00416968000101"
+      ],
+      "documents": {
+        "cpfNumber": "84154817728",
+        "passport": {
+          "number": "36637678823849498278",
+          "country": "BRA",
+          "expirationDate": "2025-07-18",
+          "issueDate": "2015-07-18"
+        }
+      },
+      "otherDocuments": [
+        {
+          "type": "CNH",
+          "number": "17238865003",
+          "checkDigit": "8",
+          "additionalInfo": "SSP/BA",
+          "expirationDate": "2027-03-28"
+        }
+      ],
+      "hasBrazilianNationality": true,
+      "filiation": [
+        {
+          "type": "MAE",
+          "civilName": "Rosane Rosman"
+        }
+      ],
+      "contacts": {
+        "postalAddresses": [
+          {
+            "isMain": true,
+            "address": "Caminho C-5, 650",
+            "districtName": "Piaçaveira",
+            "townName": "Camaçari",
+            "ibgeTownCode": "2905701",
+            "countrySubDivision": "BA",
+            "postCode": "42802270",
+            "country": "Brasil",
+            "countryCode": "BRA",
+            "geographicCoordinates": {
+              "latitude": "-12.6972",
+              "longitude": "-38.3332"
+            }
+          }
+        ],
+        "phones": [
+          {
+            "isMain": true,
+            "type": "MOVEL",
+            "countryCallingCode": "55",
+            "areaCode": "71",
+            "number": "994287711"
+          }
+        ],
+        "emails": [
+          {
+            "isMain": true,
+            "email": "sarah.rosman@email.com"
+          }
+        ]
+      }
+    }
+  ],
+  "links": {
+    "self": "https://api.baninter.com.br/open-banking/customers/v1/personal/identifications"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-08-15T06:00:00Z"
+  }
+}

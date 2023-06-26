@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "participant": {
+        "brand": "BANCO COOPERATIVO SICREDI S.A.",
+        "name": "BANCO COOPERATIVO SICREDI S.A.",
+        "cnpjNumber": "01181521000155",
+        "urlComplementaryList": "https://www.sicredi.com.br/companies"
+      },
+      "foreignCurrency": "BRL",
+      "deliveryForeignCurrency": "TELETRANSMISSAO_SWIFT",
+      "transactionType": "VENDA",
+      "transactionCategory": "RENDAS_CAPITAIS",
+      "targetAudience": "PESSOA_NATURAL_JURIDICAL",
+      "value": "2.019800",
+      "valueUpdateDateTime": "2023-02-22T15:3352:28Z",
+      "disclaimer": "Para obter a taxa para fechamento do câmbio, pedimos consultar os canais disponíveis para contratação."
+    }
+  ],
+  "links": {
+    "self": "https://api.sicredi.com.br/open-banking/api/v1/resource",
+    "first": "https://api.sicredi.com.br/open-banking/api/v1/resource",
+    "prev": "https://api.sicredi.com.br/open-banking/api/v1/resource",
+    "next": "https://api.sicredi.com.br/open-banking/api/v1/resource",
+    "last": "https://api.sicredi.com.br/open-banking/api/v1/resource"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "typeNumberOfInstalments": "SEM_PRAZO_TOTAL",
+    "typeContractRemaining": "SEM_PRAZO_REMANESCENTE",
+    "paidInstalments": 0,
+    "dueInstalments": 0,
+    "pastDueInstalments": 0,
+    "balloonPayments": [
+      {
+        "dueDate": "2022-08-05",
+        "amount": {
+          "amount": "8600.4000",
+          "currency": "BRL"
+        }
+      }
+    ]
+  },
+  "links": {
+    "self": "https://api.bradesco.com/bradesco/open-banking/invoice-financings/v1/contracts/2ec8fbe4-09e4-305d-bf8c-cdae1c298183/scheduled-instalments"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1,
+    "requestDateTime": "2022-08-29T10:47:20Z"
+  }
+}
