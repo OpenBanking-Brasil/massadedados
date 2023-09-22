@@ -1,0 +1,194 @@
+{
+    "data": [
+        {
+            "participant": {
+                "brand": "Banco Inter S.A.",
+                "name": "Empresa A1",
+                "cnpjNumber": "00416968000101",
+                "urlComplementaryList": "https://empresadaorganizacaoa.com/complementarylist"
+            },
+            "name": "Cartão Universitário",
+            "identification": {
+                "product": {
+                    "type": "PLATINUM",
+                    "typeAdditionalInfo": "Informações adicionais"
+                },
+                "creditCard": {
+                    "network": "MASTERCARD",
+                    "networkAdditionalInfo": "Informações adicionais"
+                }
+            },
+            "rewardsProgram": {
+                "hasRewardProgram": false,
+                "rewardProgramInfo": "https://empresaa1.com/credit_cards_rewards"
+            },
+            "fees": {
+                "services": [
+                    {
+                        "name": "ANUIDADE_CARTAO_BASICO_NACIONAL",
+                        "code": "ANUIDADE_NACIONAL",
+                        "chargingTriggerInfo": "Disponibilização de rede de estabelecimentos afiliados, instalada no País, para pagamentos de bens e serviços, cobrada no máximo uma vez a cada doze meses, admitido o parcelamento da cobrança",
+                        "prices": [
+                            {
+                                "interval": "1_FAIXA",
+                                "value": "2000.00",
+                                "currency": "BRL",
+                                "customers": {
+                                    "rate": "0.150000"
+                                }
+                            },
+                            {
+                                "interval": "1_FAIXA",
+                                "value": "2000.00",
+                                "currency": "BRL",
+                                "customers": {
+                                    "rate": "0.150000"
+                                }
+                            },
+                            {
+                                "interval": "1_FAIXA",
+                                "value": "2000.00",
+                                "currency": "BRL",
+                                "customers": {
+                                    "rate": "0.150000"
+                                }
+                            },
+                            {
+                                "interval": "1_FAIXA",
+                                "value": "2000.00",
+                                "currency": "BRL",
+                                "customers": {
+                                    "rate": "0.150000"
+                                }
+                            }
+                        ],
+                        "minimum": {
+                            "value": "1350.00",
+                            "currency": "BRL"
+                        },
+                        "maximum": {
+                            "value": "8800.00",
+                            "currency": "BRL"
+                        }
+                    }
+                ]
+            },
+            "interest": {
+                "rates": [
+                    {
+                        "referentialRateIndexer": "SEM_INDEXADOR_TAXA",
+                        "rate": "0.150000",
+                        "applications": [
+                            {
+                                "interval": "1_FAIXA",
+                                "indexer": {
+                                    "rate": "0.870000"
+                                },
+                                "customers": {
+                                    "rate": "0.150000"
+                                }
+                            },
+                            {
+                                "interval": "1_FAIXA",
+                                "indexer": {
+                                    "rate": "0.870000"
+                                },
+                                "customers": {
+                                    "rate": "0.150000"
+                                }
+                            },
+                            {
+                                "interval": "1_FAIXA",
+                                "indexer": {
+                                    "rate": "0.870000"
+                                },
+                                "customers": {
+                                    "rate": "0.150000"
+                                }
+                            },
+                            {
+                                "interval": "1_FAIXA",
+                                "indexer": {
+                                    "rate": "0.870000"
+                                },
+                                "customers": {
+                                    "rate": "0.150000"
+                                }
+                            }
+                        ],
+                        "minimumRate": "0.045600",
+                        "maximumRate": "0.686500"
+                    }
+                ],
+                "instalmentRates": [
+                    {
+                        "referentialRateIndexer": "SEM_INDEXADOR_TAXA",
+                        "rate": "0.150000",
+                        "applications": [
+                            {
+                                "interval": "1_FAIXA",
+                                "indexer": {
+                                    "rate": "0.870000"
+                                },
+                                "customers": {
+                                    "rate": "0.150000"
+                                }
+                            },
+                            {
+                                "interval": "1_FAIXA",
+                                "indexer": {
+                                    "rate": "0.870000"
+                                },
+                                "customers": {
+                                    "rate": "0.150000"
+                                }
+                            },
+                            {
+                                "interval": "1_FAIXA",
+                                "indexer": {
+                                    "rate": "0.870000"
+                                },
+                                "customers": {
+                                    "rate": "0.150000"
+                                }
+                            },
+                            {
+                                "interval": "1_FAIXA",
+                                "indexer": {
+                                    "rate": "0.870000"
+                                },
+                                "customers": {
+                                    "rate": "0.150000"
+                                }
+                            }
+                        ],
+                        "minimumRate": "0.045600",
+                        "maximumRate": "0.686500"
+                    }
+                ],
+                "otherCredits": [
+                    {
+                        "code": "SAQUE_A_CREDITO",
+                        "codeAdditionalInfo": "Informações adicionais"
+                    }
+                ]
+            },
+            "termsConditions": {
+                "minimumFeeRate": "0.250000",
+                "additionalInfo": "NA",
+                "elegibilityCriteriaInfo": "https://empresaa1.com/creditcards_elegibility_criteria",
+                "closingProcessInfo": "https://empresaa1.com/creditcards_closing_process"
+            }
+        }
+    ],
+    "links": {
+        "self": "https:///api.baninter.com/open-banking/opendata-creditcards/v1/personal-credit-cards?page=1&page-size=10",
+        "first": "https://api.baninter.com/open-banking/opendata-creditcards/v1/personal-credit-cards?page=1&page-size=10",
+        "next": "https://api.baninter.com/open-banking/opendata-creditcards/v1/personal-credit-cards?page=2&page-size=10",
+        "last": "https://api.baninter.com/open-banking/opendata-creditcards/v1/personal-credit-cards?page=10&page-size=10"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1
+    }
+}
