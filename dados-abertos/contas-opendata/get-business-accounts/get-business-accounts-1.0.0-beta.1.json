@@ -1,0 +1,148 @@
+{
+    "data": [
+        {
+            "participant": {
+                "brand": "Banco Inter S.A.",
+                "name": "Empresa A1",
+                "cnpjNumber": "00416968000101",
+                "urlComplementaryList": "https://empresadaorganizacaoa.com/complementarylist"
+            },
+            "type": "CONTA_DEPOSITO_A_VISTA",
+            "fees": {
+                "services": [
+                    {
+                        "name": "Evento personalizado",
+                        "code": "EVENTO_PERSONALIZADO",
+                        "chargingTriggerInfo": "Cobrança devido a evento personalizado",
+                        "prices": [
+                            {
+                                "interval": "1_FAIXA",
+                                "value": "2000.00",
+                                "currency": "BRL",
+                                "customers": {
+                                    "rate": "0.150000"
+                                }
+                            },
+                            {
+                                "interval": "1_FAIXA",
+                                "value": "2000.00",
+                                "currency": "BRL",
+                                "customers": {
+                                    "rate": "0.150000"
+                                }
+                            },
+                            {
+                                "interval": "1_FAIXA",
+                                "value": "2000.00",
+                                "currency": "BRL",
+                                "customers": {
+                                    "rate": "0.150000"
+                                }
+                            },
+                            {
+                                "interval": "1_FAIXA",
+                                "value": "2000.00",
+                                "currency": "BRL",
+                                "customers": {
+                                    "rate": "0.150000"
+                                }
+                            }
+                        ],
+                        "minimum": {
+                            "value": "1350.00",
+                            "currency": "BRL"
+                        },
+                        "maximum": {
+                            "value": "8800.00",
+                            "currency": "BRL"
+                        }
+                    }
+                ]
+            },
+            "serviceBundles": [
+                {
+                    "name": "Conta de depósitos à vista Movimentação com cartão (sem cheque)",
+                    "services": [
+                        {
+                            "code": "SAQUE_TERMINAL",
+                            "chargingTriggerInfo": "Realização de pesquisa em serviços de proteção ao crédito, base de dados e informações cadastrais, e tratamento de dados e informações necessários ao início relacionamento decorrente da abertura de conta de depósitos à vista ou de poupança ou contratação de operação de crédito ou de arrendamento mercantil, não podendo ser cobrada cumulativamente\n",
+                            "eventLimitQuantity": "2",
+                            "freeEventQuantity": "1"
+                        }
+                    ],
+                    "prices": [
+                        {
+                            "interval": "1_FAIXA",
+                            "monthlyFee": "2000.00",
+                            "currency": "BRL",
+                            "customers": {
+                                "rate": "0.150000"
+                            }
+                        },
+                        {
+                            "interval": "1_FAIXA",
+                            "monthlyFee": "2000.00",
+                            "currency": "BRL",
+                            "customers": {
+                                "rate": "0.150000"
+                            }
+                        },
+                        {
+                            "interval": "1_FAIXA",
+                            "monthlyFee": "2000.00",
+                            "currency": "BRL",
+                            "customers": {
+                                "rate": "0.150000"
+                            }
+                        },
+                        {
+                            "interval": "1_FAIXA",
+                            "monthlyFee": "2000.00",
+                            "currency": "BRL",
+                            "customers": {
+                                "rate": "0.150000"
+                            }
+                        }
+                    ],
+                    "minimum": {
+                        "value": "1350.00",
+                        "currency": "BRL"
+                    },
+                    "maximum": {
+                        "value": "8800.00",
+                        "currency": "BRL"
+                    }
+                }
+            ],
+            "openingClosingChannels": [
+                "DEPENDENCIAS_PROPRIAS"
+            ],
+            "openingClosingChannelsAdditionalInfo": "Informações adicionais",
+            "transactionMethods": [
+                "MOVIMENTACAO_CARTAO"
+            ],
+            "termsConditions": {
+                "minimumBalance": {
+                    "value": "200.00",
+                    "currency": "BRL"
+                },
+                "elegibilityCriteriaInfo": "https://example.com/mobile-banking",
+                "closingProcessInfo": "https://example.com/mobile-banking"
+            },
+            "incomeRate": {
+                "savingAccount": "string",
+                "prepaidPaymentAccount": "40% Rendimento a.m."
+            }
+        }
+    ],
+    "links": {
+        "self": "https:///api.baninter.com/open-banking/opendata-accounts/v1/business-accounts?page=1&page-size=10",
+        "first": "https://api.baninter.com/open-banking/opendata-accounts/v1/business-accounts?page=1&page-size=10",
+        "next": "https://api.baninter.com/open-banking/opendata-accounts/v1/business-accounts?page=2&page-size=10",
+        "last": "https://api.baninter.com/open-banking/opendata-accounts/v1/business-accounts?page=10&page-size=10"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1
+    }
+}
