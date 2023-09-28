@@ -1,0 +1,125 @@
+{
+    "data": [
+        {
+            "participant": {
+                "brand": "Organização A",
+                "name": "Empresa A1",
+                "cnpjNumber": "50685362000135",
+                "urlComplementaryList": "https://empresadaorganizacaoa.com/complementarylist"
+            },
+            "type": "FINANCIAMENTO_AQUISICAO_BENS_VEICULOS_AUTOMOTORES",
+            "fees": {
+                "services": [
+                    {
+                        "name": "Avaliação, Reavaliação e Substituição de Bens Recebidos em Garantia",
+                        "code": "AQBAM009",
+                        "chargingTriggerInfo": "R$ 570.00 Por solicitação",
+                        "prices": [
+                            {
+                                "interval": "1_FAIXA",
+                                "value": "2000.00",
+                                "currency": "BRL",
+                                "customers": {
+                                    "rate": "0.150000"
+                                }
+                            },
+                            {
+                                "interval": "1_FAIXA",
+                                "value": "2000.00",
+                                "currency": "BRL",
+                                "customers": {
+                                    "rate": "0.150000"
+                                }
+                            },
+                            {
+                                "interval": "1_FAIXA",
+                                "value": "2000.00",
+                                "currency": "BRL",
+                                "customers": {
+                                    "rate": "0.150000"
+                                }
+                            },
+                            {
+                                "interval": "1_FAIXA",
+                                "value": "2000.00",
+                                "currency": "BRL",
+                                "customers": {
+                                    "rate": "0.150000"
+                                }
+                            }
+                        ],
+                        "minimum": {
+                            "value": "1350.00",
+                            "currency": "BRL"
+                        },
+                        "maximum": {
+                            "value": "8800.00",
+                            "currency": "BRL"
+                        }
+                    }
+                ]
+            },
+            "interestRates": [
+                {
+                    "referentialRateIndexer": "PRE_FIXADO",
+                    "rate": "0.150000",
+                    "applications": [
+                        {
+                            "interval": "1_FAIXA",
+                            "indexer": {
+                                "rate": "0.098700"
+                            },
+                            "customers": {
+                                "rate": "0.150000"
+                            }
+                        },
+                        {
+                            "interval": "2_FAIXA",
+                            "indexer": {
+                                "rate": "0.160000"
+                            },
+                            "customers": {
+                                "rate": "0.350000"
+                            }
+                        },
+                        {
+                            "interval": "3_FAIXA",
+                            "indexer": {
+                                "rate": "0.360000"
+                            },
+                            "customers": {
+                                "rate": "0.200000"
+                            }
+                        },
+                        {
+                            "interval": "4_FAIXA",
+                            "indexer": {
+                                "rate": "0.589000"
+                            },
+                            "customers": {
+                                "rate": "0.300000"
+                            }
+                        }
+                    ],
+                    "minimumRate": "0.045600",
+                    "maximumRate": "0.686500"
+                }
+            ],
+            "requiredWarranties": [
+                "CESSAO_DIREITOS_CREDITORIOS"
+            ],
+            "termsConditions": "https://empresaa1.com/personal_financing"
+        }
+    ],
+    "links": {
+        "self": "https://api.banco.com.br/open-banking/opendata-financings/v1/resource",
+        "first": "https://api.banco.com.br/open-banking/opendata-financings/v1/resource",
+        "prev": "https://api.banco.com.br/open-banking/opendata-financings/v1/resource",
+        "next": "https://api.banco.com.br/open-banking/opendata-financings/v1/resource",
+        "last": "https://api.banco.com.br/open-banking/opendata-financings/v1/resource"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1
+    }
+}
