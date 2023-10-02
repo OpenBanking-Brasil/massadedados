@@ -1,0 +1,50 @@
+{
+    "data": [
+        {
+            "endpoint": "https://opendata.api.bb.com.br/open-banking/channels/v1/banking-agents",
+            "requestTime": "2021-12-10T00:00:00Z",
+            "availability": {
+                "uptime": {
+                    "generalUptimeRate": "1.0000",
+                    "uptimeRate": "0.9700"
+                },
+                "downtime": {
+                    "generalDowntime": 0,
+                    "scheduledOutage": 0,
+                    "partialDowntime": 0
+                }
+            },
+            "invocations": {
+                "currentDay": 0,
+                "previousDays": []
+            },
+            "averageResponse": {
+                "currentDay": 1,
+                "previousDays": []
+            },
+            "averageTps": {
+                "currentDay": 1,
+                "previousDays": []
+            },
+            "peakTps": {
+                "currentDay": 1,
+                "previousDays": []
+            },
+            "errors": {
+                "currentDay": 100,
+                "previousDays": []
+            },
+            "rejections": {
+                "currentDay": 150,
+                "previousDays": []
+            }
+        }
+    ],
+    "links": {
+        "self": "https://api.baninter.com/open-banking/admin/v1/metrics?page=1&page-size=1&period=CURRENT"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1
+    }
+}
