@@ -1,0 +1,98 @@
+{
+    "data": [
+        {
+            "endpoint": "https://opendata.api.bb.com.br/open-banking/channels/v1/banking-agents",
+            "requestTime": "2021-05-16T10:05:00Z",
+            "availability": {
+                "uptime": {
+                    "generalUptimeRate": "0.9997",
+                    "uptimeRate": "0.9997"
+                },
+                "downtime": {
+                    "generalDowntime": 8956,
+                    "scheduledOutage": 493182,
+                    "partialDowntime": 8510
+                }
+            },
+            "invocations": {
+                "currentDay": 102,
+                "previousDays": [
+                    32,
+                    34,
+                    110,
+                    63,
+                    85,
+                    96,
+                    9
+                ]
+            },
+            "averageResponse": {
+                "currentDay": 1,
+                "previousDays": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    2
+                ]
+            },
+            "averageTps": {
+                "currentDay": 1,
+                "previousDays": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    2
+                ]
+            },
+            "peakTps": {
+                "currentDay": 1,
+                "previousDays": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    2
+                ]
+            },
+            "errors": {
+                "currentDay": 72,
+                "previousDays": [
+                    72,
+                    74,
+                    86,
+                    86,
+                    71,
+                    71,
+                    72
+                ]
+            },
+            "rejections": {
+                "currentDay": 8,
+                "previousDays": [
+                    9,
+                    10,
+                    8,
+                    7,
+                    7,
+                    8,
+                    8
+                ]
+            }
+        }
+    ],
+    "links": {
+        "self": "https://opendata.api.bb.com.br/open-banking/admin/v1/metrics?page=1period=ALL"
+    },
+    "meta": {
+        "totalRecords": 1,
+        "totalPages": 1
+    }
+}
